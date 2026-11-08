@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>Kosmogram</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside id="side">
+    <div class="brand" data-help="side-brand">
+      <h1 id="brand">Kosmogram</h1>
+      <div class="brand-tools">
+        <button id="open-help" data-help="help" aria-label="Nápověda" title="Nápověda (F1)"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.3a2.5 2.5 0 0 1 4.8.9c0 1.7-2.4 2.2-2.4 3.6"/><path d="M12 17h.01"/></svg></button>
+        <button id="theme" role="switch" aria-checked="false" aria-label="Noční režim" title="Přepnout denní a noční režim">
+          <span class="sun">&#x2600;&#xFE0E;</span><span class="moon">&#x263E;&#xFE0E;</span>
+        </button>
+      </div>
+    </div>
+    <div id="update-bar" class="update-bar" role="status" hidden>
+      <p id="update-text"></p>
+      <div class="update-actions">
+        <button type="button" id="update-now" class="primary">Aktualizovat</button>
+        <button type="button" id="update-later" class="link">Později</button>
+      </div>
+    </div>
+    <button id="open-sky" class="sky-button on" data-help="sky">Obloha</button>
+    <button id="new-person" class="primary" data-help="new-person">+ Nový člověk</button>
+    <input id="filter" data-help="filter" type="search" placeholder="Jméno, místo, poznámka" aria-label="Hledat ve jménech, místech a poznámkách">
+    <ul id="people" data-help="people"></ul>
+    <button id="open-settings" class="link" data-help="settings">Nastavení</button>
+  </aside>
+
+  <main id="main">
+    <div id="workspace">
+      <header id="head">
+        <div>
+          <h2 id="p-name"></h2>
+          <p id="p-info"></p>
+          <p id="p-note" hidden></p>
+        </div>
+        <div class="actions">
+          <button id="save-temp" class="primary" hidden>Uložit člověka</button>
+          <button id="edit-person" hidden>Upravit údaje</button>
+          <button id="print" data-help="print">Vytisknout nebo uložit PDF</button>
+        </div>
+      </header>
+      <div id="sky-bar">
+        <label class="place" data-help="sky-place">Místo
+          <input id="sky-place" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="sky-suggest" autocomplete="off">
+          <ul id="sky-suggest" class="suggest" role="listbox" hidden></ul>
+        </label>
+        <div class="stepper" data-help="sky-steps">
+          <button id="sky-prev" title="O den zpět (šipka vlevo)">◀ Den zpět</button>
+          <input type="date" id="sky-date" aria-label="Den">
+          <input type="time" id="sky-time" aria-label="Čas">
+          <button id="sky-next" title="O den dopředu (šipka vpravo)">Den dopředu ▶</button>
+          <button id="sky-now">Teď</button>
+        </div>
+      </div>
+      <nav id="tabs" role="tablist" data-help="tabs" hidden>
+        <button data-tab="radix" class="on">Horoskop</button>
+        <button data-tab="transit">Tranzity</button>
+        <button data-tab="prog">Progrese</button>
+        <button data-tab="solar">Solární návrat</button>
+        <button data-tab="calendar">Kalendář</button>
+        <button data-tab="rel">Vztah s…</button>
+      </nav>
+      <div id="solar-bar" data-help="solar-bar" hidden>
+        <label>Rok <input type="number" id="solar-year" min="1800" max="2399"></label>
+        <label class="place">Místo v den návratu
+          <input id="solar-place" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="solar-suggest" autocomplete="off">
+          <ul id="solar-suggest" class="suggest" role="listbox" hidden></ul>
+        </label>
+        <button id="solar-home">Místo narození</button>
+      </div>
+      <div id="controls" data-help="controls"></div>
+      <div id="error" hidden></div>
+      <section id="calendar" data-help="calendar" hidden></section>
+      <section id="view">
+        <div id="wheel" data-help="wheel"></div>
+        <div id="detail" data-help="detail">
+          <nav id="subtabs"></nav>
+          <div id="panel"></div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <dialog id="person-dialog">
+    <form id="person-form" method="dialog" autocomplete="off">
+      <h2 id="form-title">Nový člověk</h2>
+      <label>Jméno <input id="f-name" required></label>
+      <p id="f-name-hint" class="note"></p>
+      <div class="with-help"><label>Rod ve výkladech <select id="f-sex"><option value="">Poznat podle jména</option><option value="f">Žena</option><option value="m">Muž</option></select></label><button type="button" class="help-q" data-topic="lide" aria-label="Nápověda: údaje o člověku">?</button></div>
+      <div class="row">
+        <label>Datum narození <input id="f-date" placeholder="např. 14. 7. 1985" required></label>
+        <label>Čas narození <input id="f-time" placeholder="např. 14:30"></label>
+      </div>
+      <div class="with-help"><label class="check"><input type="checkbox" id="f-noknown"> Čas narození neznám</label><button type="button" class="help-q" data-topic="cas" aria-label="Nápověda: čas narození">?</button></div>
+      <label class="place">Místo narození
+        <input id="f-place" placeholder="Začněte psát, např. Brno" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="suggest" required>
+        <ul id="suggest" class="suggest" role="listbox" hidden></ul>
+      </label>
+      <p id="place-info"></p>
+      <details>
+        <summary>Pokročilé: ruční posun času</summary>
+        <label>Posun od UTC v hodinách (prázdné = automaticky podle místa a data)
+          <input id="f-offset" placeholder="např. 1 nebo 5.5"></label>
+        <button type="button" class="link" data-topic="cas">Kdy a jak ruční posun použít</button>
+      </details>
+      <label>Poznámka <textarea id="f-note" rows="2"></textarea></label>
+      <p id="form-error"></p>
+      <div class="dialog-actions">
+        <button type="button" id="delete-person" class="danger" hidden>Smazat</button>
+        <span></span>
+        <button type="button" id="cancel-person">Zrušit</button>
+        <button type="button" id="show-only" title="Spočítá horoskop bez uložení. Po zavření programu zmizí.">Jen zobrazit</button>
+        <button type="submit" class="primary">Uložit</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="confirm-dialog">
+    <p id="confirm-text"></p>
+    <div class="dialog-actions">
+      <span></span>
+      <button id="confirm-no">Ne</button>
+      <button id="confirm-yes" class="danger">Ano, smazat</button>
+    </div>
+  </dialog>
+
+  <dialog id="close-dialog">
+    <p id="close-text"></p>
+    <p id="close-error" class="form-error"></p>
+    <div class="dialog-actions">
+      <button id="close-back">Zpět do programu</button>
+      <button id="close-discard" class="danger">Zavřít bez uložení</button>
+      <button id="close-save" class="primary">Uložit a zavřít</button>
+    </div>
+  </dialog>
+
+  <dialog id="settings-dialog">
+    <form method="dialog">
+      <h2>Nastavení</h2>
+      <div class="with-help"><label>Systém domů <select id="s-house"></select></label><button type="button" class="help-q" data-topic="domy" aria-label="Nápověda: systémy domů">?</button></div>
+      <div class="with-help"><label class="check"><input type="checkbox" id="s-chiron"> Zobrazovat Chirona</label><button type="button" class="help-q" data-topic="telesa" aria-label="Nápověda: Chiron">?</button></div>
+      <div class="with-help"><label class="check"><input type="checkbox" id="s-minor"> Zobrazovat vedlejší aspekty</label><button type="button" class="help-q" data-topic="aspekty" aria-label="Nápověda: aspekty">?</button></div>
+      <div class="with-help"><label class="check"><input type="checkbox" id="s-arc"> Progresivní osy a domy solárním obloukem, asi 1° za rok (jinak jako v původním Astrologu)</label><button type="button" class="help-q" data-topic="osy" aria-label="Nápověda: progrese os">?</button></div>
+      <div class="with-help"><h3>Záloha lidí</h3><button type="button" class="help-q" data-topic="zaloha" aria-label="Nápověda: záloha">?</button></div>
+      <p class="note" id="backup-info"></p>
+      <div class="backup-actions">
+        <button type="button" id="backup-save">Uložit zálohu do souboru</button>
+        <button type="button" id="backup-load">Načíst zálohu</button>
+      </div>
+      <p class="note">Načtení jen přidá lidi, kteří v programu chybí. Nikoho nezmění ani nesmaže. Zálohu mějte i mimo tento počítač, například na flash disku.</p>
+      <p class="note" id="backup-result" role="status"></p>
+      <p class="note" id="app-version"></p>
+      <p class="note">Vychází z programu Astrolog Waltera D. Pullena (astrolog.org). Polohy těles: NASA JPL (DE440, Horizons). Data míst: GeoNames (geonames.org), licence CC BY 4.0. Symboly: písmo Astronomicon (licence OFL). Program je svobodný software pod licencí GPL. <a href="#" data-topic="licence">Autoři a licence</a></p>
+      <div class="dialog-actions"><span></span><button type="button" id="settings-save" class="primary">Hotovo</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="help-dialog" aria-label="Nápověda">
+    <header class="help-head">
+      <h2>Nápověda</h2>
+      <input id="help-search" type="search" placeholder="Hledat v nápovědě, např. orb, letní čas, záloha" aria-label="Hledat v nápovědě">
+      <button type="button" id="help-close">Zavřít</button>
+    </header>
+    <div class="help-body">
+      <nav id="help-nav" aria-label="Témata nápovědy"></nav>
+      <article id="help-article"></article>
+    </div>
+  </dialog>
+
+  <div id="tour" hidden>
+    <div id="tour-block"></div>
+    <div id="tour-ring"></div>
+    <div id="tour-card" role="dialog" aria-live="polite">
+      <small id="tour-count"></small>
+      <b id="tour-title"></b>
+      <p id="tour-text"></p>
+      <div class="dialog-actions">
+        <button id="tour-end">Konec</button>
+        <span></span>
+        <button id="tour-prev">Zpět</button>
+        <button id="tour-next" class="primary">Další</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="print-sheet"></div>
+
+  <script src="app.js"></script>
+  <script src="help-content.js"></script>
+  <script src="help.js"></script>
+</body>
+</html>

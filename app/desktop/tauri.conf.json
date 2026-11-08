@@ -1,0 +1,73 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Kosmogram",
+  "version": "1.0.0",
+  "identifier": "kosmogram",
+  "build": {
+    "frontendDist": "../ui"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "Kosmogram",
+        "width": 1280,
+        "height": 860,
+        "minWidth": 560,
+        "minHeight": 440,
+        "center": true,
+        "visible": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "nsis"
+    ],
+    "icon": [
+      "icons/icon.ico"
+    ],
+    "publisher": "Kosmogram",
+    "copyright": "Kosmogram vychází z programu Astrolog © 1991-2026 Walter D. Pullen, licence GNU GPL 2 nebo novější",
+    "shortDescription": "Kosmogram, astrologický program v češtině",
+    "category": "Utility",
+    "resources": {
+      "../LICENSE": "licenses/LICENSE.txt",
+      "../NOTICE.md": "licenses/NOTICE.md",
+      "../licenses/*": "licenses/",
+      "../ui/fonts/Astronomicon-OFL-License.txt": "licenses/Astronomicon-OFL-License.txt"
+    },
+    "createUpdaterArtifacts": true,
+    "windows": {
+      "webviewInstallMode": {
+        "type": "downloadBootstrapper",
+        "silent": true
+      },
+      "nsis": {
+        "installMode": "currentUser",
+        "languages": [
+          "Czech"
+        ],
+        "displayLanguageSelector": false,
+        "customLanguageFiles": {
+          "Czech": "nsis/Czech.nsh"
+        }
+      }
+    }
+  },
+  "plugins": {
+    "updater": {
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNDRDkzMkUxMzJBQjE1NjcKUldSbkZhc3k0VExaUE1MdXFsd1kvM0ZuS2w5b2c3Mm42MXBpVzBGVFdNei9PQmVUUlp2dVdtNW4K",
+      "endpoints": [
+        "https://github.com/N4t4niel/kosmogram/releases/latest/download/latest.json"
+      ],
+      "windows": {
+        "installMode": "passive"
+      }
+    }
+  }
+}

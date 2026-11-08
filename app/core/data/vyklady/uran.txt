@@ -1,0 +1,91 @@
+# Výklady pro Uran. Každý řádek: kdo | kde nebo s kým | případně aspekt | text.
+# Řádek začínající křížkem program přeskočí. Chybějící řádek nahradí původní složená věta.
+# Uran stojí v jednom znamení přibližně sedm let, znamení proto popisují hlavně generaci.
+
+Uran | Beran | Uran zůstává v jednom znamení kolem sedmi let, proto tato poloha popisuje spíš generaci než jednotlivce. Tato generace přichází s prudkou chutí začínat znovu a nečekat na něčí svolení. Přináší odvahu, vynalézavost a hlad po nezávislosti, stinnou stránkou je unáhlenost a ostrý tón. U jednotlivce se projeví hlavně tehdy, když se Uran dotýká Slunce, Měsíce nebo os horoskopu.
+Uran | Býk | Celá generace tu mění vztah k penězům, majetku, půdě a hodnotám. Tvrdošíjnost se tu spojuje s vynalézavostí, takže lidé této generace hledají nové způsoby, jak žít a hospodařit prakticky. V osobním horoskopu ukazuje sklon k výkyvům v jistotách i schopnost najít vždy nové východisko.
+Uran | Blíženci | Tuto polohu sdílí generace s neklidnou a pohotovou myslí. Přitahuje ji věda, technika, nové způsoby sdělování a vše, co mění to, jak se lidé učí a domlouvají. Dává to všestrannost a ostrovtip, ale i roztěkanost a povrchní znalost mnoha věcí.
+Uran | Rak | Generace s touto polohou znovu promýšlí, co je rodina, domov a vlast. Citová vnímavost je tu vysoká a neklidná, tradiční podoba domova se mění a vznikají nové způsoby soužití. V osobním horoskopu to přináší potřebu mít prostor i uprostřed blízkých a méně pevné kořeny.
+Uran | Lev | Uran stojí naproti svému znamení a tato generace chce svobodu vyjádřit osobně a nahlas. Odmítá se nechat poučovat, touží po odvážném sebevyjádření a nově chápe tvorbu, lásku i výchovu dětí. Přináší sebedůvěru a smysl pro velký čin, slabinou bývá vzdorovitost a potřeba být středem pozornosti.
+Uran | Panna | Tato generace mění způsoby práce, organizace a péče o tělo. Hledá lepší metody a její originalita se projevuje v řemesle, vědě a užitečných systémech. Přináší důmyslnost a smysl pro službu, ale i tvrdohlavost v detailu a neklid při zaběhnuté rutině.
+Uran | Váhy | Poloha je společná celé generaci, která hledá nová pravidla mezilidských vztahů, partnerství a spravedlnosti. Umí sbližovat různé skupiny a má vytříbený cit pro umění. Stinnou stránkou je netrpělivost ve vztazích, když se nedaří spojit blízkost s vlastní volností.
+Uran | Štír | Celá generace tu jde k jádru věcí a nebojí se tabu. Mění pohled na moc, sexualitu, peníze a vše skryté a má velkou sílu vůle i odolnost vůči nátlaku. V osobním horoskopu dává bystrý úsudek a vzpurnost, úkolem je tuto sílu ovládat a nezneužívat.
+Uran | Střelec | Generace s touto polohou chce víc svobody v myšlení, víře a cestování. Přináší široký rozhled, chuť hledat nové vize a odvahu vzít tradiční názory s rezervou. Pozor si dát na sklon k velkým teoriím, které se nepotkaly s fakty.
+Uran | Kozoroh | Tato generace zpochybňuje tradice a instituce a chce je přestavět. Její vzpoura mívá praktický cíl: nejde jí o zničení řádu, ale o jeho obnovu novými prostředky. Přináší odhodlání a organizační sílu, slabinou bývá tvrdost a rozpor mezi chutí věci měnit a neochotou pustit to, co je známé.
+Uran | Vodnář | Uran je ve vlastním znamení, a proto se tu jeho vlastnosti ukazují velmi čistě. Celá generace chápe svobodu jednotlivce jako věc všech a přitahuje ji věda, technika a společná práce pro lepší budoucnost. Přináší lidskost a nové myšlenky, ale také odstup od osobních citů.
+Uran | Ryby | Polohu sdílí generace s jemnou intuicí a chutí překračovat hranice všedního světa. Přitahují ji tajemství, duchovní hledání, nové umění a nové způsoby léčby a pomoci. Dává to vidění dál a soucit, stinnou stránkou je neklid bez jasného cíle a únik do snů.
+
+Uran | 1. dům | Člověk tu působí nezávisle a nezařaditelně, jde vlastní cestou a nenechá se snadno usměrnit. Bývá přímý, nápaditý a jeho život má rychlé zvraty, často proto, že si je sám způsobí. Dává to originalitu a odvahu být jiný. Učí se rozlišit opravdovou nezávislost od vzdoru a nezpřetrhat zbytečně vazby.
+Uran | 2. dům | Peníze a majetek tu nejsou stálé a člověk zažívá příjmy i výdaje, které přicházejí nečekaně. Vydělává neobvyklým způsobem, často díky nápadu, technice nebo vlastní vynalézavosti. Vlastní hodnotu chce vidět jinde než v penězích, proto se jich umí i vzdát. Vyplatí se mít rezervu a vybudovat si jistotu, která přežije i větší změnu.
+Uran | 3. dům | Mysl tu pracuje rychle, skokem a nezávisle na autoritách. Člověk rád zpochybňuje, co se mu říká, hodně ho přitahují nové myšlenky a neobvyklé způsoby učení. Se sourozenci a sousedy mohou být vztahy nepravidelné a plné překvapení. Potřebuje mluvit tak, aby mu lidé rozuměli, a dotáhnout myšlenku do konce.
+Uran | 4. dům | Domov a rodina tu nejsou obvyklé. Člověk se často stěhuje nebo vyrůstal v prostředí plném změn a chce mít volnost i doma, někdy si sám vybere vlastní rodinu mezi blízkými lidmi. Získává tím samostatnost a odvahu odejít od kořenů. Potřebuje najít klid a vnitřní domov, který nezávisí na místě.
+Uran | 5. dům | Člověk tu tvoří a miluje po svém. Láska přichází náhle a nečekaně, přitahují ho výjimeční lidé a vztahy, které nezapadají do běžných představ. Tvořivost je originální a člověk raději určuje směr, než by jej následoval. V penězích a riskantních sázkách se vyplatí opatrnost. K dětem přistupuje svobodně a potřebuje jim dát i pevnou jistotu.
+Uran | 6. dům | Člověk tu těžko snáší pevný řád a nejlépe mu je v práci, která dává volnost nebo využívá techniku a neobvyklé postupy. Dobře se mu daří, když pracuje na vlastní účet. Vyplatí se šetřit nervy, dbát na spánek, střídat práci s klidem a zkoušet nové způsoby péče o sebe. Potřebuje najít rytmus, který ho nesvazuje.
+Uran | 7. dům | Vztahy jsou tu pro člověka zdrojem probuzení. Do života mu vstupují neobvyklí, nezávislí lidé a láska může přijít rychle a nečekaně. Partnerství mu dobře funguje, když si oba ponechají prostor a nebudou se měnit podle cizích pravidel. Stojí za to nerozhodovat o vztahu ukvapeně a rozlišit svobodu od útěku, když je blízkost příliš těsná.
+Uran | 8. dům | Sdílení, důvěra a společné peníze tu procházejí nečekanými obraty. Člověk má silnou intuici, zájem o skryté souvislosti a výzkum a láká ho poznání za hranicí běžného světa. Změny ve společných penězích mohou přijít náhle, proto je dobré mít věci smluvně jasné. Krizová období pro něj často znamenají náhlé vnitřní osvobození.
+Uran | 9. dům | Člověk tu nepřijímá hotové pravdy a tvoří si svůj vlastní pohled na svět. Přitahují ho neobvyklé myšlenky, nové vědy, reformy a cizí země, kde zažívá nečekané věci. Má intuici a schopnost vidět celek dřív než jiní. Prospívá mu opírat svou pravdu o fakta a nechat prostor i názorům jiných.
+Uran | 10. dům | Povolání je tu nekonvenční a dráha plná změn. Člověk chce být sám sobě pánem, nesnadno se podřizuje a často si najde obor, který ještě nemá pevná pravidla. Může mít pověst průkopníka a jeho dráha mívá vzestupy i nečekané obraty. Zkouškou je spojit touhu po změně s trpělivostí, aby dílo vydrželo.
+Uran | 11. dům | Uran je tu v domě, který se mu nejvíc podobá. Člověk se obklopuje neobvyklými přáteli, vstupuje do spolků a sdílí s nimi ideály o lepší budoucnosti. Přátelství vznikají náhle a pomoc přichází nečekaně. Těžší je být lidem blízko, nejen sdílet s nimi myšlenku.
+Uran | 12. dům | Individualita tu působí skrytě. Člověk má silnou intuici, neobvyklé sny a vnitřní svět, který ukazuje jen málokomu, a jeho nápady se rodí v samotě. Potlačovaná touha po svobodě ho může přivádět k neklidu nebo k náhlým útěkům. Prospívá mu najít bezpečný způsob, jak svou jinakost vyjádřit, a nezůstávat s neklidem sám.
+
+Uran | Zpětný pohyb | Zpětný Uran se v horoskopu objeví asi u dvou lidí z pěti, takže jde o běžnou polohu. Originalita tu pracuje spíš uvnitř: člověk může svou jinakost skrývat a navenek se držet pravidel. Nahromaděná energie se pak občas uvolní v náhlém rozhodnutí nebo vzpouře. Úkolem je vyjadřovat svou nezávislost průběžně, ne až v nouzi.
+
+Uran | Neptun | Konjunkce | Toto generační spojení se opakuje asi jednou za 171 let. Ideály celé doby se otřásají a vznikají nové představy o duchovnu, umění a společenství. Osobní váhu získává, když se ho dotýká Slunce, Měsíc nebo některá z os.
+Uran | Neptun | Opozice | Tento generační aspekt staví proti sobě touhu po změně a touhu po jednotě. Generace se dělí mezi víru v pokrok a hledání něčeho, co přesahuje člověka. V osobním horoskopu se projeví hlavně tehdy, když se tohoto aspektu dotýkají další tělesa.
+Uran | Neptun | Kvadratura | Jde o generační aspekt doby, která zpochybňuje své představy o skutečnosti a pokroku. Tato generace se vyznačuje vzpourou, ideály a odvahou myslet samostatně, ale také opakovaným rozčarováním. U jednotlivce ukazuje, jak člověk unese napětí mezi novou myšlenkou a touhou po smyslu.
+Uran | Neptun | Trigon | Celá generace tu dostává citlivost pro nové myšlenky a jemnou intuici. Snadno spojuje vynalézavost s představivostí a uměním. U jednotlivce se ukáže hlavně tehdy, když z této lehkosti udělá vytrvalou práci.
+Uran | Neptun | Sextil | V tomto generačním aspektu jdou nové nápady a představivost ruku v ruce. Otevírá generaci možnosti v umění, duchovním hledání i společenských experimentech, když se jich sama chopí.
+Uran | Neptun | Kvinkunx | V tomto generačním aspektu se nové myšlenky a ideály obtížně slaďují a generace je musí stále přizpůsobovat skutečnosti.
+Uran | Neptun | Polosextil | Tento generační aspekt tiše pojí touhu po změně s citlivostí pro to, co přesahuje všední svět.
+Uran | Neptun | Polokvadrát | Tento generační aspekt dráždí vrstevníky rozporem mezi novými nápady a nejasnými ideály.
+Uran | Neptun | Seskvikvadrát | Přetlak tohoto generačního aspektu žene vrstevníky za jejich ideály a přináší náhlé zvraty a novinky, které nebývají vždy vítané.
+
+Uran | Pluto | Konjunkce | Toto generační spojení patří době, kdy se otřásají společenské a politické základy. Celá generace je poznamenaná touhou po změně od kořene, ne jen na povrchu. V osobním horoskopu získává váhu, když se ho dotýká Slunce, Měsíc nebo některá z os. Pak přináší vhled a odvahu i potřebu rozlišit proměnu od zbytečného bouření.
+Uran | Pluto | Opozice | V tomto generačním aspektu se střetává touha po svobodě a tlak hlubokých společenských sil. Generace vyrůstá mezi hnutími, která chtějí změnu, a mocí, která ji brzdí. Jednotlivec se učí opustit myšlení ve dvou krajnostech a unést v sobě obě strany.
+Uran | Pluto | Kvadratura | Jde o generační aspekt doby, ve které se boří přežité systémy. Generace vyrůstá v napětí mezi svobodou a hlubokou přestavbou společnosti a získává odolnost vůči složitým poměrům. Jednotlivec se učí rozlišit plodné tření od zbytečného boje.
+Uran | Pluto | Trigon | Změna a obnova tu plynou poměrně snadno, jde o aspekt celé generace. Generace dobře zvládá přechodná období a má intuici pro nové začátky. Člověk by měl myslet i na ty, kterým změna tak snadno nejde.
+Uran | Pluto | Sextil | Tento generační aspekt nechává spolupracovat nové nápady a hlubší přestavbu. Změny se generaci jeví jako zvládnutelné a postupné, takže je možné je přehlédnout, když se člověk sám nezapojí.
+Uran | Pluto | Kvinkunx | V tomto generačním aspektu se touha po volnosti a hluboké změny jen obtížně slaďují a generace musí stále měnit postup.
+Uran | Pluto | Polosextil | Tento generační aspekt tiše spojuje vynalézavost se silou, která mění věci od základu.
+Uran | Pluto | Polokvadrát | Tento generační aspekt dráždí vrstevníky potřebou změnit to, co jim svazuje ruce.
+Uran | Pluto | Seskvikvadrát | Nahromaděný tlak tohoto generačního aspektu vede vrstevníky k prudkým změnám směru.
+
+Uran | Chiron | Konjunkce | Být jiný je tu zároveň dar i citlivé místo. Člověk často prožívá svou odlišnost jako samotu a právě ona ho vede k vlastnímu pohledu a odvaze. Roste, když svou jinakost přijme dřív, než ji pochopí ostatní.
+Uran | Chiron | Opozice | Touha po svobodě a zranitelnost stojí proti sobě a často se ukazují ve vztazích. Člověk střídá roli toho, kdo změnu spustí, a toho, koho změna zasáhne. Tato opozice se opakuje po dlouhá léta, sdílí ji proto mnoho vrstevníků a osobní váhu získává hlavně tehdy, když se jí dotýkají další tělesa.
+Uran | Chiron | Kvadratura | Touha vymanit se a strach z odmítnutí se tu navzájem dráždí. Člověk střídá období přizpůsobování a vzpoury. Pomáhá mu, když toto napětí vnímá vědomě a nepoužívá je ani proti sobě, ani jako zbraň.
+Uran | Chiron | Trigon | Originalita a porozumění druhým se tu snadno propojují. Člověk umí být neobvyklý, aniž by tím druhé vylučoval, a jeho nápady často pomáhají. Roste, když se pustí i do toho, co ho vyvádí z jistoty.
+Uran | Chiron | Sextil | Člověk umí přinášet změnu bez zbytečných otřesů a ve své odlišnosti nachází způsob, jak být užitečný.
+Uran | Chiron | Kvinkunx | Člověk je svůj jako málokdo a věci neumí dělat jinak než po svém, přitom stále hledá, jak být sám sebou a nezranit se.
+Uran | Chiron | Polosextil | Člověk si cení náhlých vhledů, odvážně zkouší nové cesty sebepoznání a pomáhá druhým uvolnit se z tísnivých konvencí.
+Uran | Chiron | Polokvadrát | Člověk věci řeší samostatně a vynalézavě, jeho jistota, že zvládne všechno, ho ale někdy drží u postupů, které neslouží.
+Uran | Chiron | Seskvikvadrát | Člověk je neklidný a stále zkouší něco nového, nejraději to, co se podle druhých nedá. Stará bolest z nepřijetí se v tom může změnit v prudký odpor.
+
+Uran | Severní uzel | Konjunkce | Uran stojí u Severního uzlu a životní směr vede k větší svobodě a vlastní cestě. Člověk může být průkopníkem nebo nekonformním hledačem a jeho život se mění nečekanými obraty. Úkolem je dát náhlým změnám směr, aby se nerozplynuly v neklidném hledání.
+Uran | Severní uzel | Opozice | Uran stojí u Jižního uzlu a člověk má zažitou nezávislost a snadno se spoléhá na to, že je jiný. Vzpoura je pro něj známé území. Růst přichází, když se odhodlá něčemu zůstat věrný a dát svou originalitu do služeb lidem.
+Uran | Severní uzel | Kvadratura | Uran stojí napříč osou uzlů a potřeba svobody se střetává se směrem, kterým má člověk růst. Může se cítit nepochopený a jeho cesta bývá plná nečekaných odboček. Klíčem je přijmout vlastní odlišnost a přitom neztratit smysl pro svůj úkol.
+Uran | Severní uzel | Trigon | Originalita podporuje životní směr. Člověk se snadno ocitá ve správnou chvíli mezi lidmi, kteří mu otevřou nové možnosti.
+Uran | Severní uzel | Sextil | Když člověk využije své nápady a odvahu k jiné cestě, otevírají se mu příležitosti ve směru, kterým má růst.
+Uran | Severní uzel | Kvinkunx | Potřeba volnosti a životní směr se míjejí a člověk musí stále hledat, co je opravdu změna a co jen útěk.
+Uran | Severní uzel | Polosextil | Mezi nezávislostí a životním směrem je tichá vazba, která se ukáže nečekaně.
+Uran | Severní uzel | Polokvadrát | Chuť zkoušet pořád něco jiného člověka odvádí od kroků, které jsou pro něj důležité.
+Uran | Severní uzel | Seskvikvadrát | Neklid vyvolává náhlé odbočky, které člověku ukazují, kam se jeho cesta skutečně ubírá.
+
+Uran | Ascendent | Konjunkce | Uran stojí u Ascendentu a člověk působí neobvykle a těžko se zařazuje. Jeho vystupování se umí prudce změnit a lidi překvapit. Přináší to originalitu, nesmí ji ale zaměňovat za neustálé proměny a pouhý vzdor.
+Uran | Ascendent | Opozice | Uran stojí u Descendentu a člověka probouzejí především blízké vztahy. Přitahuje nezávislé a nevypočitatelné lidi, kteří přinášejí změny. Učí se rozvíjet vlastní originalitu a nepřenechat ji partnerům.
+Uran | Ascendent | Kvadratura | Potřeba být jiný se střetává s tlakem působit přijatelně. Člověk kolísá mezi přizpůsobením a vzdorem, někdy z něj jinakost vytryskne náhle. Časem dozraje k pravdivému a udržitelnému způsobu, jak být sám sebou.
+Uran | Ascendent | Trigon | Člověk působí originálně, a přitom nikoho neohrožuje. Snadno se přizpůsobuje změnám a jeho svéráz bývá spíš přitažlivý.
+Uran | Ascendent | Sextil | Člověk umí ukázat svou nezávislost tehdy, když je to užitečné, a jinde splynout s okolím. Nové kontakty mu přinášejí podněty.
+Uran | Ascendent | Kvinkunx | Vnitřní neklid a to, jak člověk vystupuje, nejsou zcela v souladu a je potřeba je průběžně ladit.
+Uran | Ascendent | Polosextil | Do vystupování vstupuje nenápadný svéráz, který se vybarví až při bližším poznání.
+Uran | Ascendent | Polokvadrát | Člověk občas zareaguje podrážděně a nečekaně, když má pocit, že ho někdo svazuje.
+Uran | Ascendent | Seskvikvadrát | Prudké výkyvy ve vystupování lidi překvapují a člověku pomáhá, když si včas uvědomí, co ho žene.
+
+Uran | Medium coeli | Konjunkce | Uran stojí blízko vrcholu horoskopu a pracovní dráha je spojená s originalitou a nezávislostí. Člověk je znám svým nekonvenčním přístupem a jeho cesta se může nečekaně změnit. Výzvou je spojit neklid s vytrvalým závazkem.
+Uran | Medium coeli | Opozice | Uran stojí blízko dna horoskopu a touha po svobodě se naplňuje hlavně v soukromí. Na veřejnosti člověk své neobvyklé stránky často skrývá. Roste, když je přinese i do své práce.
+Uran | Medium coeli | Kvadratura | Potřeba volnosti se střetává s pravidly a nadřízenými. Dráha může být neklidná a člověk musí hlídat, aby ji sám nepřerušoval vzdorem. Daří se mu, když mění věci postupně a dává své nezávislosti konstruktivní podobu.
+Uran | Medium coeli | Trigon | Originalita a pracovní dráha spolu dobře vycházejí a nové nápady bývají vítané. Člověk může být úspěšný v oborech, které se rychle mění, pokud se nespokojí s pohodlím.
+Uran | Medium coeli | Sextil | Neobvyklé nápady pomáhají člověku v kariéře, aniž by ji rozkolísaly, a příležitosti přicházejí díky nim.
+Uran | Medium coeli | Kvinkunx | Pracovní role a touha po volnosti se nedají dobře skloubit a člověk musí stále hledat kompromis.
+Uran | Medium coeli | Polosextil | Mezi originalitou a životní dráhou je tichá vazba, která se ukáže s časem.
+Uran | Medium coeli | Polokvadrát | Neshody s pravidly v práci člověka občas popudí k unáhlenému kroku.
+Uran | Medium coeli | Seskvikvadrát | Neklid v práci člověka žene ke změnám, které je lepší nejprve promyslet.

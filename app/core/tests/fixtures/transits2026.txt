@@ -1,0 +1,445 @@
+Astrolog 8.00 chart for Sun Jul 14, 1985  2:30pm (ST Zone 1E)  16:36E 49:12N
+
+Transits during 2026 (ST Zone 8W)
+ 1/ 1/2026  2:48am trans Mercury (Sag) Tri natal (Leo) Midheaven
+ 1/ 2/2026  3:41pm trans Mercury (Cap) Con natal [Cap] Neptune
+ 1/ 2/2026  7:17pm trans Mercury (Cap) Sex natal (Sco) Pluto
+ 1/ 2/2026  7:22pm trans    Mars (Cap) Sex natal (Sco) Ascendant
+ 1/ 3/2026 11:29am trans    Mars (Cap) Tri natal [Tau] North Node
+ 1/ 4/2026  8:36am trans     Sun (Cap) Sex natal (Sco) Ascendant
+ 1/ 4/2026  5:44pm trans   Venus (Cap) Sex natal (Sco) Ascendant
+ 1/ 4/2026  8:45pm trans     Sun (Cap) Tri natal [Tau] North Node
+ 1/ 5/2026  3:34am trans   Venus (Cap) Tri natal [Tau] North Node
+ 1/10/2026  1:07am trans North N [Pis] Squ natal (Gem) Moon
+ 1/10/2026 11:51am trans   Venus (Cap) Sex natal [Sco] Saturn
+ 1/10/2026  5:46pm trans Mercury (Cap) Sex natal (Sco) Ascendant
+ 1/10/2026  8:50pm trans   Venus (Cap) Opp natal (Can) Sun
+ 1/11/2026  1:32am trans Mercury (Cap) Tri natal [Tau] North Node
+ 1/11/2026 11:08am trans     Sun (Cap) Sex natal [Sco] Saturn
+ 1/11/2026  5:27pm trans   Venus (Cap) Opp natal (Can) Mars
+ 1/11/2026 10:13pm trans     Sun (Cap) Opp natal (Can) Sun
+ 1/12/2026  4:48am trans    Mars (Cap) Sex natal [Sco] Saturn
+ 1/12/2026  7:23pm trans    Mars (Cap) Opp natal (Can) Sun
+ 1/12/2026 11:40pm trans     Sun (Cap) Opp natal (Can) Mars
+ 1/14/2026  4:52am trans    Mars (Cap) Opp natal (Can) Mars
+ 1/15/2026  5:53am trans Mercury (Cap) Sex natal [Sco] Saturn
+ 1/15/2026 12:49pm trans Mercury (Cap) Opp natal (Can) Sun
+ 1/16/2026  4:44am trans Mercury (Cap) Opp natal (Can) Mars
+ 1/18/2026  5:28pm trans   Venus (Aqu) Squ natal (Sco) Pluto
+ 1/21/2026 12:15pm trans Mercury (Aqu) Squ natal (Sco) Pluto
+ 1/21/2026  3:09pm trans     Sun (Aqu) Squ natal (Sco) Pluto
+ 1/24/2026  7:05am trans   Venus (Aqu) Tri natal (Gem) Venus
+ 1/25/2026 12:32pm trans    Mars (Aqu) Squ natal (Sco) Pluto
+ 1/25/2026  2:57pm trans Mercury (Aqu) Tri natal (Gem) Venus
+ 1/26/2026 11:40am trans   Venus (Aqu) Tri natal (Gem) Moon
+ 1/27/2026  5:10am trans Mercury (Aqu) Tri natal (Gem) Moon
+ 1/28/2026 12:17pm trans     Sun (Aqu) Tri natal (Gem) Venus
+ 1/28/2026  2:26pm trans   Venus (Aqu) Squ natal (Sco) Ascendant
+ 1/28/2026  5:46pm trans Mercury (Aqu) Squ natal (Sco) Ascendant
+ 1/28/2026  7:16pm trans   Venus (Aqu) Sex natal [Sag] Uranus
+ 1/28/2026  7:47pm trans   Venus (Aqu) Con natal [Aqu] Jupiter
+ 1/28/2026  9:14pm trans Mercury (Aqu) Sex natal [Sag] Uranus
+ 1/28/2026  9:37pm trans Mercury (Aqu) Con natal [Aqu] Jupiter
+ 1/29/2026 12:17am trans   Venus (Aqu) Squ natal [Tau] North Node
+ 1/29/2026 12:50am trans Mercury (Aqu) Squ natal [Tau] North Node
+ 1/31/2026  3:46am trans Mercury (Aqu) Opp natal (Leo) Mercury
+ 1/31/2026  5:20am trans     Sun (Aqu) Tri natal (Gem) Moon
+ 1/31/2026 11:35pm trans   Venus (Aqu) Opp natal (Leo) Mercury
+ 2/ 1/2026  8:26pm trans Mercury (Aqu) Squ natal [Sco] Saturn
+ 2/ 2/2026  8:11pm trans     Sun (Aqu) Squ natal (Sco) Ascendant
+ 2/ 3/2026  2:10am trans     Sun (Aqu) Sex natal [Sag] Uranus
+ 2/ 3/2026  2:48am trans     Sun (Aqu) Con natal [Aqu] Jupiter
+ 2/ 3/2026  8:23am trans     Sun (Aqu) Squ natal [Tau] North Node
+ 2/ 3/2026  8:54am trans   Venus (Aqu) Squ natal [Sco] Saturn
+ 2/ 3/2026 11:15am trans    Mars (Aqu) Tri natal (Gem) Venus
+ 2/ 6/2026  5:47am trans Mercury (Aqu) Opp natal (Leo) Midheaven
+ 2/ 6/2026 11:28pm trans    Mars (Aqu) Tri natal (Gem) Moon
+ 2/ 7/2026 12:41am trans     Sun (Aqu) Opp natal (Leo) Mercury
+ 2/ 7/2026  2:02pm trans Mercury (Pis) Sex natal [Cap] Neptune
+ 2/ 7/2026  5:14pm trans Mercury (Pis) Tri natal (Sco) Pluto
+ 2/ 9/2026  1:39pm trans   Venus (Aqu) Opp natal (Leo) Midheaven
+ 2/ 9/2026 11:41pm trans     Sun (Aqu) Squ natal [Sco] Saturn
+ 2/10/2026  8:38am trans    Mars (Aqu) Squ natal (Sco) Ascendant
+ 2/10/2026  4:22pm trans    Mars (Aqu) Sex natal [Sag] Uranus
+ 2/10/2026  5:11pm trans    Mars (Aqu) Con natal [Aqu] Jupiter
+ 2/11/2026 12:23am trans    Mars (Aqu) Squ natal [Tau] North Node
+ 2/11/2026 10:46am trans   Venus (Pis) Sex natal [Cap] Neptune
+ 2/11/2026  3:12pm trans   Venus (Pis) Tri natal (Sco) Pluto
+ 2/11/2026  8:36pm trans Mercury (Pis) Squ natal (Gem) Venus
+ 2/13/2026  2:29pm trans Mercury (Pis) Squ natal (Gem) Moon
+ 2/15/2026  9:55am trans Mercury (Pis) Tri natal (Sco) Ascendant
+ 2/15/2026  2:13pm trans Mercury (Pis) Squ natal [Sag] Uranus
+ 2/15/2026  6:09pm trans    Mars (Aqu) Opp natal (Leo) Mercury
+ 2/15/2026  6:51pm trans Mercury (Pis) Sex natal [Tau] North Node
+ 2/17/2026  5:21am trans   Venus (Pis) Squ natal (Gem) Venus
+ 2/17/2026  4:09pm trans     Sun (Aqu) Opp natal (Leo) Midheaven
+ 2/19/2026 10:09am trans   Venus (Pis) Squ natal (Gem) Moon
+ 2/19/2026  1:28pm trans    Mars (Aqu) Squ natal [Sco] Saturn
+ 2/20/2026 12:11am trans     Sun (Pis) Sex natal [Cap] Neptune
+ 2/20/2026  5:41am trans     Sun (Pis) Tri natal (Sco) Pluto
+ 2/21/2026  1:10pm trans   Venus (Pis) Tri natal (Sco) Ascendant
+ 2/21/2026  6:01pm trans   Venus (Pis) Squ natal [Sag] Uranus
+ 2/21/2026 11:04pm trans   Venus (Pis) Sex natal [Tau] North Node
+ 2/22/2026 11:10am trans Mercury (Pis) Tri natal [Sco] Saturn
+ 2/23/2026 10:29am trans Mercury (Pis) Tri natal (Can) Sun
+ 2/27/2026  4:32am trans     Sun (Pis) Squ natal (Gem) Venus
+ 2/27/2026  8:20am trans   Venus (Pis) Tri natal [Sco] Saturn
+ 2/27/2026  5:24pm trans   Venus (Pis) Tri natal (Can) Sun
+ 2/28/2026 10:02am trans  Saturn (Ari) Squ natal [Cap] Neptune
+ 2/28/2026 11:56am trans Mercury [Pis] Tri natal (Can) Sun
+ 2/28/2026  2:12pm trans   Venus (Pis) Tri natal (Can) Mars
+ 3/ 1/2026 10:08am trans    Mars (Aqu) Opp natal (Leo) Midheaven
+ 3/ 1/2026 11:36am trans Mercury [Pis] Tri natal [Sco] Saturn
+ 3/ 1/2026 10:20pm trans     Sun (Pis) Squ natal (Gem) Moon
+ 3/ 3/2026 12:25am trans North N [Pis] Squ natal (Gem) Venus
+ 3/ 4/2026  9:52am trans    Mars (Pis) Sex natal [Cap] Neptune
+ 3/ 4/2026  1:56pm trans     Sun (Pis) Tri natal (Sco) Ascendant
+ 3/ 4/2026  4:55pm trans    Mars (Pis) Tri natal (Sco) Pluto
+ 3/ 4/2026  7:59pm trans     Sun (Pis) Squ natal [Sag] Uranus
+ 3/ 5/2026  2:17am trans     Sun (Pis) Sex natal [Tau] North Node
+ 3/ 7/2026 11:27am trans   Venus (Ari) Squ natal [Cap] Neptune
+ 3/ 9/2026  3:21am trans Mercury [Pis] Sex natal [Tau] North Node
+ 3/ 9/2026  9:40am trans Mercury [Pis] Squ natal [Sag] Uranus
+ 3/ 9/2026  3:52pm trans Mercury [Pis] Tri natal (Sco) Ascendant
+ 3/11/2026  7:41pm trans     Sun (Pis) Tri natal [Sco] Saturn
+ 3/12/2026  6:59am trans     Sun (Pis) Tri natal (Can) Sun
+ 3/12/2026  2:49pm trans Mercury [Pis] Squ natal (Gem) Moon
+ 3/13/2026  7:03am trans   Venus (Ari) Sex natal (Gem) Venus
+ 3/13/2026  8:59am trans     Sun (Pis) Tri natal (Can) Mars
+ 3/13/2026  2:06pm trans    Mars (Pis) Squ natal (Gem) Venus
+ 3/15/2026 12:17pm trans   Venus (Ari) Sex natal (Gem) Moon
+ 3/17/2026  2:00am trans    Mars (Pis) Squ natal (Gem) Moon
+ 3/17/2026  2:03pm trans Mercury [Pis] Squ natal (Gem) Venus
+ 3/17/2026  8:36pm trans   Venus (Ari) Tri natal [Sag] Uranus
+ 3/17/2026  9:07pm trans   Venus (Ari) Sex natal [Aqu] Jupiter
+ 3/18/2026  4:46am trans Neptune (Ari) Squ natal [Cap] Neptune
+ 3/20/2026 11:04am trans    Mars (Pis) Tri natal (Sco) Ascendant
+ 3/20/2026  6:48pm trans    Mars (Pis) Squ natal [Sag] Uranus
+ 3/21/2026  1:57am trans   Venus (Ari) Tri natal (Leo) Mercury
+ 3/21/2026  2:49am trans    Mars (Pis) Sex natal [Tau] North Node
+ 3/21/2026 11:42pm trans     Sun (Ari) Squ natal [Cap] Neptune
+ 3/23/2026 11:42am trans Mercury (Pis) Squ natal (Gem) Venus
+ 3/23/2026  9:12pm trans   Venus (Ari) Squ natal (Can) Sun
+ 3/24/2026  6:12pm trans   Venus (Ari) Squ natal (Can) Mars
+ 3/29/2026 12:50am trans Mercury (Pis) Squ natal (Gem) Moon
+ 3/29/2026  6:48am trans     Sun (Ari) Sex natal (Gem) Venus
+ 3/29/2026  4:32pm trans    Mars (Pis) Tri natal [Sco] Saturn
+ 3/29/2026  7:09pm trans   Venus (Ari) Tri natal (Leo) Midheaven
+ 3/30/2026  6:57am trans    Mars (Pis) Tri natal (Can) Sun
+ 3/31/2026  4:06pm trans    Mars (Pis) Tri natal (Can) Mars
+ 3/31/2026  5:02pm trans   Venus (Tau) Tri natal [Cap] Neptune
+ 3/31/2026  9:32pm trans   Venus (Tau) Opp natal (Sco) Pluto
+ 4/ 1/2026  1:41am trans     Sun (Ari) Sex natal (Gem) Moon
+ 4/ 1/2026  9:30am trans Mercury (Pis) Tri natal (Sco) Ascendant
+ 4/ 1/2026  4:21pm trans Mercury (Pis) Squ natal [Sag] Uranus
+ 4/ 1/2026 11:16pm trans Mercury (Pis) Sex natal [Tau] North Node
+ 4/ 4/2026 12:30am trans     Sun (Ari) Tri natal [Sag] Uranus
+ 4/ 4/2026  1:10am trans     Sun (Ari) Sex natal [Aqu] Jupiter
+ 4/ 8/2026  1:51am trans     Sun (Ari) Tri natal (Leo) Mercury
+ 4/ 8/2026  7:50am trans Mercury (Pis) Tri natal [Sco] Saturn
+ 4/ 8/2026  5:16pm trans Mercury (Pis) Tri natal (Can) Sun
+ 4/ 9/2026  2:33pm trans Mercury (Pis) Tri natal (Can) Mars
+ 4/10/2026 11:59pm trans   Venus (Tau) Opp natal (Sco) Ascendant
+ 4/11/2026  5:28am trans   Venus (Tau) Squ natal [Aqu] Jupiter
+ 4/11/2026 10:05am trans   Venus (Tau) Con natal [Tau] North Node
+ 4/11/2026  2:33pm trans     Sun (Ari) Squ natal (Can) Sun
+ 4/11/2026  3:51pm trans    Mars (Ari) Squ natal [Cap] Neptune
+ 4/12/2026  5:00pm trans     Sun (Ari) Squ natal (Can) Mars
+ 4/13/2026  1:22am trans  Uranus (Tau) Squ natal (Leo) Midheaven
+ 4/14/2026 11:12am trans   Venus (Tau) Squ natal (Leo) Mercury
+ 4/15/2026 11:54pm trans Mercury (Ari) Squ natal [Cap] Neptune
+ 4/16/2026 10:03pm trans   Venus (Tau) Opp natal [Sco] Saturn
+ 4/17/2026  7:17am trans   Venus (Tau) Sex natal (Can) Sun
+ 4/18/2026  4:32am trans   Venus (Tau) Sex natal (Can) Mars
+ 4/19/2026  1:25am trans     Sun (Ari) Tri natal (Leo) Midheaven
+ 4/20/2026  6:32pm trans Mercury (Ari) Sex natal (Gem) Venus
+ 4/20/2026 11:35pm trans    Mars (Ari) Sex natal (Gem) Venus
+ 4/21/2026 11:17am trans     Sun (Tau) Tri natal [Cap] Neptune
+ 4/21/2026  4:59pm trans     Sun (Tau) Opp natal (Sco) Pluto
+ 4/22/2026 11:39am trans Mercury (Ari) Sex natal (Gem) Moon
+ 4/23/2026  7:01am trans   Venus (Tau) Squ natal (Leo) Midheaven
+ 4/24/2026  5:49am trans Mercury (Ari) Tri natal [Sag] Uranus
+ 4/24/2026  6:12am trans Mercury (Ari) Sex natal [Aqu] Jupiter
+ 4/24/2026  1:11pm trans    Mars (Ari) Sex natal (Gem) Moon
+ 4/26/2026  1:42pm trans Mercury (Ari) Tri natal (Leo) Mercury
+ 4/28/2026  7:59am trans    Mars (Ari) Tri natal [Sag] Uranus
+ 4/28/2026  8:49am trans    Mars (Ari) Sex natal [Aqu] Jupiter
+ 4/28/2026 12:34pm trans Mercury (Ari) Squ natal (Can) Sun
+ 4/28/2026  4:36pm trans  Saturn (Ari) Sex natal (Gem) Venus
+ 4/29/2026  2:52am trans Mercury (Ari) Squ natal (Can) Mars
+ 5/ 1/2026  4:34am trans   Venus (Gem) Con natal (Gem) Venus (Venus Return)
+ 5/ 2/2026 10:41am trans Mercury (Ari) Tri natal (Leo) Midheaven
+ 5/ 3/2026 11:11am trans   Venus (Gem) Con natal (Gem) Moon
+ 5/ 3/2026  1:01pm trans    Mars (Ari) Tri natal (Leo) Mercury
+ 5/ 3/2026  3:53pm trans Mercury (Tau) Tri natal [Cap] Neptune
+ 5/ 3/2026  6:43pm trans Mercury (Tau) Opp natal (Sco) Pluto
+ 5/ 4/2026 11:13am trans     Sun (Tau) Opp natal (Sco) Ascendant
+ 5/ 4/2026  6:09pm trans     Sun (Tau) Squ natal [Aqu] Jupiter
+ 5/ 4/2026 11:59pm trans     Sun (Tau) Con natal [Tau] North Node
+ 5/ 5/2026  9:00pm trans   Venus (Gem) Opp natal [Sag] Uranus
+ 5/ 5/2026  9:33pm trans   Venus (Gem) Tri natal [Aqu] Jupiter
+ 5/ 8/2026  2:06am trans    Mars (Ari) Squ natal (Can) Sun
+ 5/ 8/2026  8:26pm trans     Sun (Tau) Squ natal (Leo) Mercury
+ 5/ 9/2026  4:29am trans   Venus (Gem) Sex natal (Leo) Mercury
+ 5/ 9/2026 12:12pm trans    Mars (Ari) Squ natal (Can) Mars
+ 5/ 9/2026  8:44pm trans Mercury (Tau) Opp natal (Sco) Ascendant
+ 5/ 9/2026 11:55pm trans Mercury (Tau) Squ natal [Aqu] Jupiter
+ 5/10/2026  2:35am trans Mercury (Tau) Con natal [Tau] North Node
+ 5/11/2026  8:28pm trans Mercury (Tau) Squ natal (Leo) Mercury
+ 5/11/2026 10:49pm trans     Sun (Tau) Opp natal [Sco] Saturn
+ 5/12/2026 10:30am trans     Sun (Tau) Sex natal (Can) Sun
+ 5/13/2026  5:44am trans Mercury (Tau) Opp natal [Sco] Saturn
+ 5/13/2026 10:56am trans Mercury (Tau) Sex natal (Can) Sun
+ 5/13/2026  1:22pm trans     Sun (Tau) Sex natal (Can) Mars
+ 5/13/2026 10:51pm trans Mercury (Tau) Sex natal (Can) Mars
+ 5/16/2026  7:11pm trans Mercury (Tau) Squ natal (Leo) Midheaven
+ 5/17/2026  5:22pm trans    Mars (Ari) Tri natal (Leo) Midheaven
+ 5/17/2026  6:30pm trans Jupiter (Can) Tri natal [Sco] Saturn
+ 5/18/2026  3:49am trans   Venus (Gem) Sex natal (Leo) Midheaven
+ 5/20/2026 12:08am trans     Sun (Tau) Squ natal (Leo) Midheaven
+ 5/20/2026  3:07am trans   Venus (Can) Opp natal [Cap] Neptune
+ 5/20/2026  7:46am trans   Venus (Can) Tri natal (Sco) Pluto
+ 5/20/2026 12:07pm trans Jupiter (Can) Con natal (Can) Sun
+ 5/20/2026  8:30pm trans    Mars (Tau) Tri natal [Cap] Neptune
+ 5/21/2026  3:54am trans    Mars (Tau) Opp natal (Sco) Pluto
+ 5/21/2026  5:38am trans Mercury (Gem) Con natal (Gem) Venus
+ 5/22/2026  1:01pm trans Mercury (Gem) Con natal (Gem) Moon
+ 5/23/2026 10:50pm trans Mercury (Gem) Opp natal [Sag] Uranus
+ 5/23/2026 11:09pm trans Mercury (Gem) Tri natal [Aqu] Jupiter
+ 5/25/2026  4:35am trans  Saturn (Ari) Sex natal (Gem) Moon
+ 5/25/2026 10:35pm trans Mercury (Gem) Sex natal (Leo) Mercury
+ 5/26/2026  1:35pm trans Jupiter (Can) Con natal (Can) Mars
+ 5/29/2026 11:32pm trans     Sun (Gem) Con natal (Gem) Venus
+ 5/30/2026  6:22pm trans   Venus (Can) Tri natal (Sco) Ascendant
+ 5/31/2026  4:50am trans   Venus (Can) Sex natal [Tau] North Node
+ 5/31/2026  6:39pm trans Mercury (Gem) Sex natal (Leo) Midheaven
+ 6/ 1/2026  8:27pm trans     Sun (Gem) Con natal (Gem) Moon
+ 6/ 2/2026  4:16am trans Mercury (Can) Opp natal [Cap] Neptune
+ 6/ 2/2026  7:38am trans Mercury (Can) Tri natal (Sco) Pluto
+ 6/ 4/2026  9:21pm trans     Sun (Gem) Opp natal [Sag] Uranus
+ 6/ 4/2026 10:02pm trans     Sun (Gem) Tri natal [Aqu] Jupiter
+ 6/ 5/2026  9:49pm trans   Venus (Can) Tri natal [Sco] Saturn
+ 6/ 6/2026  7:26am trans   Venus (Can) Con natal (Can) Sun
+ 6/ 6/2026  8:34pm trans    Mars (Tau) Opp natal (Sco) Ascendant
+ 6/ 7/2026  5:32am trans   Venus (Can) Con natal (Can) Mars
+ 6/ 7/2026  5:42am trans    Mars (Tau) Squ natal [Aqu] Jupiter
+ 6/ 7/2026  1:24pm trans    Mars (Tau) Con natal [Tau] North Node
+ 6/ 9/2026  1:27am trans     Sun (Gem) Sex natal (Leo) Mercury
+ 6/10/2026 11:57pm trans Mercury (Can) Tri natal (Sco) Ascendant
+ 6/11/2026 10:19am trans Mercury (Can) Sex natal [Tau] North Node
+ 6/12/2026  3:34pm trans    Mars (Tau) Squ natal (Leo) Mercury
+ 6/14/2026  6:29pm trans   Venus (Leo) Squ natal (Sco) Pluto
+ 6/16/2026  6:20pm trans    Mars (Tau) Opp natal [Sco] Saturn
+ 6/17/2026  9:53am trans    Mars (Tau) Sex natal (Can) Sun
+ 6/18/2026  3:42am trans Mercury (Can) Tri natal [Sco] Saturn
+ 6/18/2026  6:06pm trans Mercury (Can) Con natal (Can) Sun
+ 6/18/2026  9:42pm trans    Mars (Tau) Sex natal (Can) Mars
+ 6/20/2026  6:15am trans Mercury (Can) Con natal (Can) Mars
+ 6/20/2026  7:48am trans     Sun (Gem) Sex natal (Leo) Midheaven
+ 6/20/2026  7:30pm trans   Venus (Leo) Sex natal (Gem) Venus
+ 6/22/2026  7:01pm trans     Sun (Can) Opp natal [Cap] Neptune
+ 6/23/2026 12:50am trans     Sun (Can) Tri natal (Sco) Pluto
+ 6/23/2026  4:53am trans   Venus (Leo) Sex natal (Gem) Moon
+ 6/25/2026 12:29pm trans   Venus (Leo) Squ natal (Sco) Ascendant
+ 6/25/2026  5:47pm trans   Venus (Leo) Tri natal [Sag] Uranus
+ 6/25/2026  6:21pm trans   Venus (Leo) Opp natal [Aqu] Jupiter
+ 6/25/2026 11:18pm trans   Venus (Leo) Squ natal [Tau] North Node
+ 6/27/2026  1:17pm trans    Mars (Tau) Squ natal (Leo) Midheaven
+ 6/29/2026  5:47am trans   Venus (Leo) Con natal (Leo) Mercury
+ 7/ 1/2026  9:10pm trans   Venus (Leo) Squ natal [Sco] Saturn
+ 7/ 6/2026  1:05am trans     Sun (Can) Tri natal (Sco) Ascendant
+ 7/ 6/2026  2:04pm trans     Sun (Can) Sex natal [Tau] North Node
+ 7/ 8/2026  7:09pm trans   Venus (Leo) Con natal (Leo) Midheaven
+ 7/ 8/2026  7:53pm trans Jupiter (Leo) Squ natal (Sco) Pluto
+ 7/ 8/2026  9:20pm trans Mercury [Can] Con natal (Can) Mars
+ 7/10/2026  3:28pm trans Mercury [Can] Con natal (Can) Sun
+ 7/10/2026  9:56pm trans   Venus (Vir) Tri natal [Cap] Neptune
+ 7/11/2026  2:28am trans    Mars (Gem) Con natal (Gem) Venus
+ 7/11/2026  2:56am trans   Venus (Vir) Sex natal (Sco) Pluto
+ 7/11/2026  9:07am trans Mercury [Can] Tri natal [Sco] Saturn
+ 7/12/2026 12:02pm trans  Saturn (Ari) Tri natal [Sag] Uranus
+ 7/13/2026  3:43am trans North N [Pis] Tri natal (Sco) Pluto
+ 7/13/2026  3:15pm trans     Sun (Can) Tri natal [Sco] Saturn
+ 7/13/2026  4:34pm trans  Saturn (Ari) Sex natal [Aqu] Jupiter
+ 7/14/2026  3:05am trans     Sun (Can) Con natal (Can) Sun (Solar Return)
+ 7/15/2026  1:06am trans    Mars (Gem) Con natal (Gem) Moon
+ 7/15/2026  6:15am trans     Sun (Can) Con natal (Can) Mars
+ 7/17/2026 11:26am trans   Venus (Vir) Squ natal (Gem) Venus
+ 7/17/2026 12:33pm trans North N [Pis] Sex natal [Cap] Neptune
+ 7/19/2026  5:52am trans    Mars (Gem) Opp natal [Sag] Uranus
+ 7/19/2026  6:48am trans    Mars (Gem) Tri natal [Aqu] Jupiter
+ 7/20/2026 12:08am trans   Venus (Vir) Squ natal (Gem) Moon
+ 7/22/2026 11:11am trans   Venus (Vir) Sex natal (Sco) Ascendant
+ 7/22/2026  4:50pm trans   Venus (Vir) Squ natal [Sag] Uranus
+ 7/22/2026 10:42pm trans   Venus (Vir) Tri natal [Tau] North Node
+ 7/24/2026 11:37am trans     Sun (Leo) Squ natal (Sco) Pluto
+ 7/25/2026  1:17am trans    Mars (Gem) Sex natal (Leo) Mercury
+ 7/29/2026  6:44am trans   Venus (Vir) Sex natal [Sco] Saturn
+ 7/29/2026  5:31pm trans   Venus (Vir) Sex natal (Can) Sun
+ 7/30/2026  6:21pm trans   Venus (Vir) Sex natal (Can) Mars
+ 7/31/2026  7:20pm trans     Sun (Leo) Sex natal (Gem) Venus
+ 8/ 2/2026  9:55pm trans Mercury (Can) Tri natal [Sco] Saturn
+ 8/ 3/2026  8:39am trans Mercury (Can) Con natal (Can) Sun
+ 8/ 3/2026  4:22pm trans     Sun (Leo) Sex natal (Gem) Moon
+ 8/ 4/2026  8:05am trans Mercury (Can) Con natal (Can) Mars
+ 8/ 6/2026 10:56am trans     Sun (Leo) Squ natal (Sco) Ascendant
+ 8/ 6/2026  5:16pm trans     Sun (Leo) Tri natal [Sag] Uranus
+ 8/ 6/2026  5:57pm trans     Sun (Leo) Opp natal [Aqu] Jupiter
+ 8/ 6/2026 11:51pm trans     Sun (Leo) Squ natal [Tau] North Node
+ 8/ 8/2026  3:40am trans   Venus (Lib) Squ natal [Cap] Neptune
+ 8/ 8/2026  7:21am trans  Saturn [Ari] Sex natal [Aqu] Jupiter
+ 8/ 9/2026 12:09pm trans  Saturn [Ari] Tri natal [Sag] Uranus
+ 8/ 9/2026  1:01pm trans Jupiter (Leo) Sex natal (Gem) Venus
+ 8/10/2026 12:37am trans    Mars (Gem) Sex natal (Leo) Midheaven
+ 8/10/2026  1:02pm trans Mercury (Leo) Squ natal (Sco) Pluto
+ 8/10/2026  9:08pm trans     Sun (Leo) Con natal (Leo) Mercury
+ 8/13/2026  2:01pm trans    Mars (Can) Opp natal [Cap] Neptune
+ 8/13/2026 10:25pm trans    Mars (Can) Tri natal (Sco) Pluto
+ 8/14/2026 12:01am trans     Sun (Leo) Squ natal [Sco] Saturn
+ 8/14/2026 11:44am trans Mercury (Leo) Sex natal (Gem) Venus
+ 8/15/2026 12:59pm trans   Venus (Lib) Tri natal (Gem) Venus
+ 8/15/2026 10:28pm trans Mercury (Leo) Sex natal (Gem) Moon
+ 8/17/2026  7:12am trans Mercury (Leo) Squ natal (Sco) Ascendant
+ 8/17/2026 10:17am trans Mercury (Leo) Tri natal [Sag] Uranus
+ 8/17/2026 10:37am trans Mercury (Leo) Opp natal [Aqu] Jupiter
+ 8/17/2026  1:29pm trans Mercury (Leo) Squ natal [Tau] North Node
+ 8/18/2026 10:58am trans   Venus (Lib) Tri natal (Gem) Moon
+ 8/19/2026 10:29am trans Mercury (Leo) Con natal (Leo) Mercury (Mercury Return)
+ 8/20/2026 10:18pm trans Mercury (Leo) Squ natal [Sco] Saturn
+ 8/21/2026  2:55pm trans   Venus (Lib) Sex natal [Sag] Uranus
+ 8/21/2026  3:38pm trans   Venus (Lib) Tri natal [Aqu] Jupiter
+ 8/22/2026  1:51am trans     Sun (Leo) Con natal (Leo) Midheaven
+ 8/22/2026  3:43am trans Jupiter (Leo) Sex natal (Gem) Moon
+ 8/24/2026 12:30pm trans     Sun (Vir) Tri natal [Cap] Neptune
+ 8/24/2026  6:15pm trans     Sun (Vir) Sex natal (Sco) Pluto
+ 8/24/2026  7:07pm trans Mercury (Leo) Con natal (Leo) Midheaven
+ 8/25/2026 11:32pm trans Mercury (Vir) Tri natal [Cap] Neptune
+ 8/26/2026  2:20am trans Mercury (Vir) Sex natal (Sco) Pluto
+ 8/26/2026  3:13am trans   Venus (Lib) Sex natal (Leo) Mercury
+ 8/29/2026  4:20pm trans Mercury (Vir) Squ natal (Gem) Venus
+ 8/30/2026  6:21am trans   Venus (Lib) Squ natal (Can) Sun
+ 8/30/2026 11:52pm trans North N [Aqu] Opp natal (Leo) Midheaven
+ 8/31/2026  2:57am trans Mercury (Vir) Squ natal (Gem) Moon
+ 8/31/2026  2:29pm trans   Venus (Lib) Squ natal (Can) Mars
+ 9/ 1/2026 12:10am trans     Sun (Vir) Squ natal (Gem) Venus
+ 9/ 1/2026 12:51pm trans Mercury (Vir) Sex natal (Sco) Ascendant
+ 9/ 1/2026  4:06pm trans Mercury (Vir) Squ natal [Sag] Uranus
+ 9/ 1/2026  7:30pm trans Mercury (Vir) Tri natal [Tau] North Node
+ 9/ 2/2026  3:30am trans    Mars (Can) Tri natal (Sco) Ascendant
+ 9/ 2/2026 11:05pm trans    Mars (Can) Sex natal [Tau] North Node
+ 9/ 3/2026  4:25pm trans Jupiter (Leo) Squ natal (Sco) Ascendant
+ 9/ 3/2026  8:23pm trans     Sun (Vir) Squ natal (Gem) Moon
+ 9/ 4/2026  9:39pm trans Jupiter (Leo) Tri natal [Sag] Uranus
+ 9/ 5/2026 12:48am trans Jupiter (Leo) Opp natal [Aqu] Jupiter
+ 9/ 5/2026 11:59am trans Mercury (Vir) Sex natal [Sco] Saturn
+ 9/ 5/2026  6:19pm trans Mercury (Vir) Sex natal (Can) Sun
+ 9/ 6/2026  4:09am trans Jupiter (Leo) Squ natal [Tau] North Node
+ 9/ 6/2026  8:55am trans Mercury (Vir) Sex natal (Can) Mars
+ 9/ 6/2026  2:07pm trans     Sun (Vir) Sex natal (Sco) Ascendant
+ 9/ 6/2026  8:23pm trans     Sun (Vir) Squ natal [Sag] Uranus
+ 9/ 7/2026  2:52am trans     Sun (Vir) Tri natal [Tau] North Node
+ 9/ 9/2026 12:17am trans   Venus (Lib) Sex natal (Leo) Midheaven
+ 9/11/2026  8:32am trans Mercury (Lib) Squ natal [Cap] Neptune
+ 9/12/2026  4:36pm trans   Venus (Sco) Sex natal [Cap] Neptune
+ 9/13/2026  1:51am trans   Venus (Sco) Con natal (Sco) Pluto
+ 9/13/2026  6:19pm trans    Mars (Can) Tri natal [Sco] Saturn
+ 9/14/2026 12:49am trans     Sun (Vir) Sex natal [Sco] Saturn
+ 9/14/2026 12:24pm trans     Sun (Vir) Sex natal (Can) Sun
+ 9/14/2026 12:44pm trans    Mars (Can) Con natal (Can) Sun
+ 9/15/2026  3:01pm trans     Sun (Vir) Sex natal (Can) Mars
+ 9/15/2026  6:49pm trans Mercury (Lib) Tri natal (Gem) Venus
+ 9/16/2026  7:11am trans    Mars (Can) Con natal (Can) Mars (Mars Return)
+ 9/17/2026 12:42pm trans Mercury (Lib) Tri natal (Gem) Moon
+ 9/19/2026  9:52am trans Mercury (Lib) Sex natal [Sag] Uranus
+ 9/19/2026 10:18am trans Mercury (Lib) Tri natal [Aqu] Jupiter
+ 9/22/2026  1:27am trans Mercury (Lib) Sex natal (Leo) Mercury
+ 9/24/2026  9:38am trans     Sun (Lib) Squ natal [Cap] Neptune
+ 9/24/2026 10:19am trans Mercury (Lib) Squ natal (Can) Sun
+ 9/25/2026  2:28am trans Jupiter (Leo) Con natal (Leo) Mercury
+ 9/25/2026  4:23am trans Mercury (Lib) Squ natal (Can) Mars
+ 9/29/2026 10:37am trans  Saturn [Ari] Sex natal (Gem) Moon
+ 9/29/2026  3:55pm trans Mercury (Lib) Sex natal (Leo) Midheaven
+10/ 1/2026  1:47am trans    Mars (Leo) Squ natal (Sco) Pluto
+10/ 1/2026 10:31am trans Mercury (Sco) Sex natal [Cap] Neptune
+10/ 1/2026  2:45pm trans Mercury (Sco) Con natal (Sco) Pluto
+10/ 1/2026  6:27pm trans     Sun (Lib) Tri natal (Gem) Venus
+10/ 4/2026  1:33pm trans     Sun (Lib) Tri natal (Gem) Moon
+10/ 7/2026 12:21pm trans     Sun (Lib) Sex natal [Sag] Uranus
+10/ 7/2026  1:00pm trans     Sun (Lib) Tri natal [Aqu] Jupiter
+10/11/2026  1:17pm trans     Sun (Lib) Sex natal (Leo) Mercury
+10/12/2026  6:53am trans Jupiter (Leo) Squ natal [Sco] Saturn
+10/12/2026  7:39am trans Mercury (Sco) Con natal (Sco) Ascendant
+10/12/2026  2:34pm trans Mercury (Sco) Squ natal [Aqu] Jupiter
+10/12/2026  8:34pm trans Mercury (Sco) Opp natal [Tau] North Node
+10/13/2026  8:59am trans    Mars (Leo) Sex natal (Gem) Venus
+10/15/2026  1:17am trans     Sun (Lib) Squ natal (Can) Sun
+10/16/2026  3:26am trans     Sun (Lib) Squ natal (Can) Mars
+10/17/2026 10:04am trans Mercury (Sco) Squ natal (Leo) Mercury
+10/18/2026  9:26am trans    Mars (Leo) Sex natal (Gem) Moon
+10/21/2026  9:25pm trans   Venus [Sco] Con natal (Sco) Pluto
+10/22/2026  6:37am trans   Venus [Sco] Sex natal [Cap] Neptune
+10/22/2026  9:42am trans     Sun (Lib) Sex natal (Leo) Midheaven
+10/23/2026  8:33am trans    Mars (Leo) Squ natal (Sco) Ascendant
+10/23/2026  8:03pm trans    Mars (Leo) Tri natal [Sag] Uranus
+10/23/2026  9:17pm trans    Mars (Leo) Opp natal [Aqu] Jupiter
+10/24/2026  8:01am trans    Mars (Leo) Squ natal [Tau] North Node
+10/24/2026  6:28pm trans     Sun (Sco) Sex natal [Cap] Neptune
+10/25/2026 12:03am trans     Sun (Sco) Con natal (Sco) Pluto
+10/26/2026  3:15am trans   Venus [Lib] Sex natal (Leo) Midheaven
+10/29/2026  5:08pm trans Mercury [Sco] Squ natal (Leo) Mercury
+10/31/2026  1:44pm trans    Mars (Leo) Con natal (Leo) Mercury
+11/ 2/2026  4:50am trans Mercury [Sco] Opp natal [Tau] North Node
+11/ 2/2026  9:19am trans Mercury [Sco] Squ natal [Aqu] Jupiter
+11/ 2/2026  2:37pm trans Mercury [Sco] Con natal (Sco) Ascendant
+11/ 6/2026  9:51am trans     Sun (Sco) Con natal (Sco) Ascendant
+11/ 6/2026  3:22pm trans    Mars (Leo) Squ natal [Sco] Saturn
+11/ 6/2026  4:33pm trans     Sun (Sco) Squ natal [Aqu] Jupiter
+11/ 6/2026  7:03pm trans  Saturn [Ari] Sex natal (Gem) Venus
+11/ 6/2026 10:10pm trans     Sun (Sco) Opp natal [Tau] North Node
+11/10/2026  3:22am trans   Venus [Lib] Squ natal (Can) Mars
+11/10/2026  3:15pm trans     Sun (Sco) Squ natal (Leo) Mercury
+11/13/2026  2:43pm trans     Sun (Sco) Con natal [Sco] Saturn
+11/14/2026  1:56am trans     Sun (Sco) Tri natal (Can) Sun
+11/15/2026  3:41am trans     Sun (Sco) Tri natal (Can) Mars
+11/17/2026  7:04am trans   Venus (Lib) Squ natal (Can) Mars
+11/21/2026  7:41am trans     Sun (Sco) Squ natal (Leo) Midheaven
+11/24/2026 12:20am trans    Mars (Leo) Con natal (Leo) Midheaven
+11/25/2026  1:55am trans Mercury (Sco) Con natal (Sco) Ascendant
+11/25/2026  7:08am trans Mercury (Sco) Squ natal [Aqu] Jupiter
+11/25/2026 11:29am trans Mercury (Sco) Opp natal [Tau] North Node
+11/25/2026  3:57pm trans Neptune [Ari] Squ natal [Cap] Neptune
+11/28/2026  5:32am trans Mercury (Sco) Squ natal (Leo) Mercury
+11/30/2026 12:37am trans    Mars (Vir) Tri natal [Cap] Neptune
+11/30/2026  8:07am trans Mercury (Sco) Con natal [Sco] Saturn
+11/30/2026  3:29pm trans    Mars (Vir) Sex natal (Sco) Pluto
+11/30/2026  3:54pm trans Mercury (Sco) Tri natal (Can) Sun
+11/30/2026  7:05pm trans     Sun (Sag) Opp natal (Gem) Venus
+12/ 1/2026  9:43am trans Mercury (Sco) Tri natal (Can) Mars
+12/ 2/2026 10:50pm trans   Venus (Lib) Sex natal (Leo) Midheaven
+12/ 3/2026 12:14pm trans     Sun (Sag) Opp natal (Gem) Moon
+12/ 5/2026  2:03pm trans Mercury (Sco) Squ natal (Leo) Midheaven
+12/ 6/2026  9:01am trans     Sun (Sag) Con natal [Sag] Uranus
+12/ 6/2026  9:40am trans     Sun (Sag) Sex natal [Aqu] Jupiter
+12/ 6/2026  1:31pm trans   Venus (Sco) Sex natal [Cap] Neptune
+12/ 6/2026  9:34pm trans   Venus (Sco) Con natal (Sco) Pluto
+12/10/2026  7:18am trans     Sun (Sag) Tri natal (Leo) Mercury
+12/11/2026  8:54pm trans Mercury (Sag) Opp natal (Gem) Venus
+12/13/2026  3:48pm trans Mercury (Sag) Opp natal (Gem) Moon
+12/15/2026  1:02pm trans Mercury (Sag) Con natal [Sag] Uranus
+12/15/2026  1:27pm trans Mercury (Sag) Sex natal [Aqu] Jupiter
+12/18/2026  2:52am trans Mercury (Sag) Tri natal (Leo) Mercury
+12/20/2026  9:16pm trans     Sun (Sag) Tri natal (Leo) Midheaven
+12/22/2026  2:51am trans   Venus (Sco) Con natal (Sco) Ascendant
+12/22/2026 10:12am trans   Venus (Sco) Squ natal [Aqu] Jupiter
+12/22/2026  4:20pm trans   Venus (Sco) Opp natal [Tau] North Node
+12/23/2026  4:46am trans     Sun (Cap) Con natal [Cap] Neptune
+12/23/2026 10:13am trans     Sun (Cap) Sex natal (Sco) Pluto
+12/25/2026 12:18am trans Mercury (Sag) Tri natal (Leo) Midheaven
+12/25/2026  6:43am trans    Mars (Vir) Squ natal (Gem) Venus
+12/26/2026 12:09pm trans Mercury (Cap) Con natal [Cap] Neptune
+12/26/2026  3:35pm trans   Venus (Sco) Squ natal (Leo) Mercury
+12/26/2026  3:40pm trans Mercury (Cap) Sex natal (Sco) Pluto
+12/29/2026  9:14am trans Neptune (Ari) Squ natal [Cap] Neptune
+12/29/2026  5:33pm trans   Venus (Sco) Con natal [Sco] Saturn
+12/30/2026  5:00am trans   Venus (Sco) Tri natal (Can) Sun
+12/31/2026  7:07am trans   Venus (Sco) Tri natal (Can) Mars

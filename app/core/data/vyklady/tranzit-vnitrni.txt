@@ -1,0 +1,363 @@
+# Výklady tranzitů rychlých těles a Severního uzlu. Každý řádek: Tranzit | hýbající se těleso | bod radixu | aspekt | text.
+# Řádek začínající křížkem program přeskočí. Chybějící řádek nahradí původní složená věta.
+# Opozice Severního uzlu znamená, že na bodu radixu stojí Jižní uzel, proto se čte jako uvolňování starého.
+
+# Tranzitující Slunce: jeden až dva dny, každý rok ve stejnou dobu.
+Tranzit | Slunce | Slunce | Konjunkce | Narozeniny: Slunce se vrací na své místo a začíná nový osobní rok. Příhodné je zastavit se, říct si, co má příští rok přinést, a nezaplnit tyto dny jen povinnostmi.
+Tranzit | Slunce | Slunce | Opozice | Půl roku od narozenin, období, kdy bývá životní síla slabší. V těchto dnech je dobré šetřit síly, víc spát a nebrat si nesouhlas druhých jako útok na vlastní osobu.
+Tranzit | Slunce | Slunce | Kvadratura | Čtvrtinový milník osobního roku, asi tři měsíce od narozenin. Plány začaté kolem narozenin narážejí na první překážku, proto je lepší upravit postup a neztrácet důvěru v sebe.
+Tranzit | Slunce | Slunce | Trigon | Asi čtyři měsíce od narozenin plyne den snadněji, člověk má dost sil i sebejistoty a věci vycházejí bez tlačení. Rozumné je toho využít k jednání s lidmi, kteří rozhodují.
+Tranzit | Slunce | Slunce | Sextil | Asi dva měsíce od narozenin se nabízí malá příležitost ukázat, co člověk umí. Stačí projevit zájem a udělat první krok, samo se to nestane.
+Tranzit | Slunce | Měsíc | Konjunkce | Den, kdy se vědomé cíle potkávají s city a člověk lépe ví, co potřebuje. Pozornost se obrací k domovu a rodině. Větší rozhodnutí ať počkají, až se první pocit usadí.
+Tranzit | Slunce | Měsíc | Opozice | Co člověk chce a co cítí, se v těchto dnech rozchází a domácí nálada se snadno zhorší. Dobré je nereagovat hned a nebrat drobnosti v rodině příliš osobně.
+Tranzit | Slunce | Měsíc | Kvadratura | Den napětí mezi prací a domovem nebo mezi povinností a náladou. Rozumné je nedělat rázná rozhodnutí a nevylévat si podrážděnost na blízkých.
+Tranzit | Slunce | Měsíc | Trigon | Klidný den, kdy se doma i mezi lidmi daří a city jsou v souladu s tím, co člověk dělá. Den je dobrý pro usmíření, rodinné věci a péči o sebe.
+Tranzit | Slunce | Měsíc | Sextil | Den vhodný na malé domácí úpravy, telefonát blízkému člověku nebo setkání se ženskou postavou v rodině. Pohoda přijde, když se jí člověk věnuje, jinak tiše přejde.
+Tranzit | Slunce | Merkur | Konjunkce | Slunce osvětluje myšlení, hlava je jasná a slova mají váhu. Je to dobrý den na důležitý rozhovor, psaní nebo vyřízení, pozor jen na to, aby člověk nemluvil hlavně o sobě.
+Tranzit | Slunce | Merkur | Opozice | Odlišný pohled někoho druhého vyzve k obhajobě vlastních názorů. Lepší je nejdřív poslouchat, ověřit si údaje a nepřít se jen proto, aby člověk měl pravdu.
+Tranzit | Slunce | Merkur | Kvadratura | Den nervózního spěchu, kdy se myšlenky rozbíhají a snadno vznikne nedorozumění. Je dobré si věci zapisovat, neslibovat toho moc a důležitou zprávu dvakrát zkontrolovat.
+Tranzit | Slunce | Merkur | Trigon | Myšlení je věcné a člověk se snadno vyjadřuje i rozhoduje. Den se hodí na zkoušku, prezentaci, jednání nebo krátkou cestu.
+Tranzit | Slunce | Merkur | Sextil | Příznivý den na domluvu, vyřizování pošty a drobné cesty. Rozhovor se sourozencem nebo kolegou může přinést užitečnou informaci.
+Tranzit | Slunce | Venuše | Konjunkce | Příjemný den, kdy člověk působí mile a má chuť být s lidmi, které má rád. Den je příznivý na schůzku, oslavu nebo tvůrčí práci, pozor jen na přehnané utrácení a mlsání.
+Tranzit | Slunce | Venuše | Opozice | Člověk čeká od druhých víc pozornosti, než dostává, a snadno se cítí nedoceněný. Den je lepší věnovat partnerovi nebo přátelům bez nároků a nezlepšovat si náladu nákupy.
+Tranzit | Slunce | Venuše | Kvadratura | Den, kdy se nechce do práce a láká pohodlí, sladkosti a výdaje. Vyplatí se neodkládat povinnosti a drobné rozmrzelosti ve vztahu nenafukovat.
+Tranzit | Slunce | Venuše | Trigon | Společenský a lehký den, lidé jsou vstřícní a jednání se daří. Je to dobrý čas na setkání, nákup něčeho krásného i na smír ve vztahu.
+Tranzit | Slunce | Venuše | Sextil | Malá příležitost pro přátelství nebo drobné gesto v lásce, stačí někoho pozvat nebo oslovit. Den je příznivý i pro výtvarnou práci a úpravu domova.
+Tranzit | Slunce | Mars | Konjunkce | Den plný energie a odvahy, člověk chce začít a jít do toho. Síla se hodí pro práci, sport a první krok, jen je třeba hlídat hněv a zbytečně ostrá slova.
+Tranzit | Slunce | Mars | Opozice | Někdo se může postavit proti vůli člověka, nebo člověk sám reaguje prudčeji, než je potřeba. Vhodné je vyhnout se malicherným sporům a dávat pozor na spěch.
+Tranzit | Slunce | Mars | Kvadratura | Neklidný den s krátkou trpělivostí, překážky dráždí a snadno vznikne hádka. Energii je lepší vybít v pohybu nebo v práci, s nástroji a za volantem je dobré nespěchat.
+Tranzit | Slunce | Mars | Trigon | Člověk má chuť i sílu jednat a daří se mu dotahovat věci do konce. Výborný den pro sport, práci a rozhodná řešení.
+Tranzit | Slunce | Mars | Sextil | Den vhodný k tomu vzít iniciativu v menší věci, napsat, požádat nebo začít. Energie je k dispozici, ale je nutné ji použít.
+Tranzit | Slunce | Jupiter | Konjunkce | Den optimismu a velkorysosti, člověk vidí věci ve větším měřítku a okolí mu přeje. Příhodný pro žádosti a plány, jen je vhodné hlídat, aby nadšení nepřerostlo možnosti.
+Tranzit | Slunce | Jupiter | Opozice | Druzí i člověk sám snadno slibují víc, než se dá splnit. V těchto dnech je dobré nepřehánět, hlídat výdaje a nepřesvědčovat okolí příliš velkými slovy.
+Tranzit | Slunce | Jupiter | Kvadratura | Den, kdy láká přecenit se, přejíst se nebo utratit víc, než je moudré. Velké sliby a sebejisté skoky je lepší odložit a držet se rozumné míry.
+Tranzit | Slunce | Jupiter | Trigon | Šťastný, otevřený den, kdy bývají vlivní lidé nakloněni a dobrá pověst pomáhá. Den je vhodný pro žádosti, cestování, studium a vše, co má růst.
+Tranzit | Slunce | Jupiter | Sextil | Malá příležitost rozšířit obzor, třeba nabídka, doporučení nebo dobrá rada od vlivného člověka. Stojí za to říct si o pomoc.
+Tranzit | Slunce | Saturn | Konjunkce | Střízlivý, těžší den, kdy člověk vidí hlavně povinnosti a hranice svých sil. Nehodí se pro začínání nových věcí, zato se v něm dobře dokončuje, únavu je dobré respektovat.
+Tranzit | Slunce | Saturn | Opozice | Autority nebo okolnosti staví člověku překážku a sebedůvěra klesá. Není to den na žádosti a velké začátky, pomůže trpělivost a nebrat odmítnutí jako konečný verdikt.
+Tranzit | Slunce | Saturn | Kvadratura | Den, kdy práce jde pomalu a člověk může pochybovat o sobě. Nejlepší je nezačínat důležité věci, ubrat z přehnaných nároků a dopřát si odpočinek.
+Tranzit | Slunce | Saturn | Trigon | Soustředěný den vhodný pro dlouhodobé plány a práci, která vyžaduje vytrvalost. Člověk působí spolehlivě a starší nebo zkušenější lidé to ocení.
+Tranzit | Slunce | Saturn | Sextil | Je to dobrý den udělat pořádek v povinnostech, domluvit se na něčem pevném nebo poradit se s někým zkušeným. Malý poctivý krok bude mít trvalý užitek.
+Tranzit | Slunce | Uran | Konjunkce | Den, kdy člověk touží po svobodě a dělá něco jinak než obvykle. Může přijít nečekaný nápad nebo změna plánu, jen není třeba rázem přerušit něco, co má hodnotu.
+Tranzit | Slunce | Uran | Opozice | Někdo z okolí se chová nevypočitatelně nebo svou touhou po nezávislosti ruší plány. Pomůže zachovat pružnost a na podráždění neodpovídat prudkým rozhodnutím.
+Tranzit | Slunce | Uran | Kvadratura | Neklidný den s nečekanými změnami, člověk se snadno vzbouří proti pravidlům. Pozor na ukvapené kroky a na rozhodnutí udělaná jen proto, aby se něco změnilo.
+Tranzit | Slunce | Uran | Trigon | Živý den s čerstvými nápady, kdy funguje i neobvyklé řešení. Je vhodné vyzkoušet nový postup, poznat nové lidi nebo se pustit do techniky.
+Tranzit | Slunce | Uran | Sextil | Drobná změna rutiny přinese osvěžení a možná i nečekanou příležitost. Vhodné je zapojit se do skupiny nebo vyzkoušet něco nového.
+Tranzit | Slunce | Neptun | Konjunkce | Den jemnější vnímavosti, člověk víc cítí, než ví, a má blízko k fantazii, hudbě i modlitbě. Pro přesnou práci a důležitá rozhodnutí se nehodí, věci nejsou tak jasné, jak se zdají.
+Tranzit | Slunce | Neptun | Opozice | Někdo nebo něco může člověka mást, sliby nemusí být pevné a vlastní úsudek je zamlžený. Dobré je nic nepodepisovat naslepo a druhé neidealizovat.
+Tranzit | Slunce | Neptun | Kvadratura | Den únavy a rozostření, vůle slábne a láká únik od povinností. Lepší je zpomalit, víc odpočívat a důležitá rozhodnutí přesunout na jasnější den.
+Tranzit | Slunce | Neptun | Trigon | Den inspirace a soucitu, intuice dobře pracuje. Den je příznivý pro umění, hudbu, meditaci a pomoc druhým.
+Tranzit | Slunce | Neptun | Sextil | Tichá příležitost pro tvořivost, duchovní zájem nebo dobrý skutek bez nároku na vděk. Stojí za to věnovat tomu hodinu klidu.
+Tranzit | Slunce | Pluto | Konjunkce | Soustředěný, vážný den, kdy člověk vnímá svou sílu a jde věcem na dřeň. Dobrý pro průzkum a pro rozhodnutí, která něco ukončí, pozor jen na snahu mít všechno pod kontrolou.
+Tranzit | Slunce | Pluto | Opozice | Může dojít ke střetu s někým, kdo chce prosadit svou, a člověk cítí tlak. Na místě je nevstupovat do mocenských her a nenechat se vyprovokovat.
+Tranzit | Slunce | Pluto | Kvadratura | Den vnitřního napětí, kdy vyplouvají skryté obavy a potřeba zvítězit. Prospěje na nikoho netlačit, nepodezírat druhé bez důvodu a napětí uvolnit prací nebo pohybem.
+Tranzit | Slunce | Pluto | Trigon | Pronikavý den, člověk vidí, co je pod povrchem, a dokáže to využít. Den je příznivý pro rozhodné kroky, společné finance a obnovu sil.
+Tranzit | Slunce | Pluto | Sextil | Příležitost prozkoumat problém hlouběji nebo uklidit něco zastaralého. I malá změna teď uleví víc, než by se zdálo.
+Tranzit | Slunce | Chiron | Konjunkce | Den, kdy se hlásí staré pochyby o sobě a citlivé místo je víc na očích. Neznamená to selhání, vyplatí se být k sobě laskavý a nestahovat se do ústraní.
+Tranzit | Slunce | Chiron | Opozice | Citlivé téma se ukáže skrze druhé, cizí zranitelnost může připomenout tu vlastní. Dobré je nebrat na sebe jen roli pomáhajícího a nepřehlížet vlastní potřeby.
+Tranzit | Slunce | Chiron | Kvadratura | Den, kdy sebevědomí narazí na starou nejistotu a člověk se snadno brání nebo přehání. Pomáhá krátká pauza před reakcí a přijetí toho, že nemusí být dokonalý.
+Tranzit | Slunce | Chiron | Trigon | Vlastní zkušenost s bolestí se mění v porozumění druhým. Den se hodí pro radu, učení, pomáhající práci nebo rozhovor s někým, kdo to potřebuje.
+Tranzit | Slunce | Chiron | Sextil | Jemná příležitost promluvit o něčem, co člověka dlouho bolelo, nebo udělat malý krok k smíření se starým tématem. Snadno se to přehlédne, chce to vlastní vůli.
+Tranzit | Slunce | Severní uzel | Konjunkce | Krátký den, kdy se objeví člověk nebo situace ukazující směr, kterým se vyplatí jít dál. Stojí za to být vidět a říct, o co člověku jde.
+Tranzit | Slunce | Severní uzel | Opozice | Slunce stojí na Jižním uzlu a osvětluje staré návyky a to, co člověk umí až příliš dobře. Je to dobrý den rozpoznat, co už neslouží, a nevracet se do starých kolejí jen z pohodlnosti.
+Tranzit | Slunce | Severní uzel | Kvadratura | Den rozcestí, kdy člověka táhnou staré jistoty i nový směr zároveň. Vyplatí se nerozhodovat zbrkle a všimnout si, co vlastně odkládá.
+Tranzit | Slunce | Severní uzel | Trigon | Snadno se postupuje směrem, který člověku dlouhodobě prospívá. Je to dobrý den pro krok, který spojí to, co umí, s tím, co se má naučit.
+Tranzit | Slunce | Severní uzel | Sextil | Malá příležitost posunout se vpřed, třeba užitečná známost nebo nabídka. Vyžaduje to kousek vlastní iniciativy.
+Tranzit | Slunce | Ascendent | Konjunkce | Slunce přechází přes Ascendent, člověk je víc vidět a působí svěže a sebejistě. Je to dobrý den pro vystupování, první dojem a osobní nové začátky.
+Tranzit | Slunce | Ascendent | Opozice | Slunce stojí naproti Ascendentu a pozornost patří partnerovi a druhým lidem. Den je vhodný pro dohody, je však třeba přijmout kompromis a neprosazovat se přes míru.
+Tranzit | Slunce | Ascendent | Kvadratura | Osobní přání narážejí na okolí a člověk může působit příliš rázně nebo se cítit přehlížený. Den není příznivý pro jednání s nadřízenými, pomáhá uznat i potřeby druhých.
+Tranzit | Slunce | Ascendent | Trigon | Člověk působí přirozeně a sebejistě a okolí ho dobře přijímá. Den je příznivý pro jednání s nadřízenými, soutěžení i pro ukázku toho, co člověk umí.
+Tranzit | Slunce | Ascendent | Sextil | Příjemný den pro setkávání, společnou práci a navazování známostí. Chce to přijít mezi lidi a dát o sobě vědět.
+Tranzit | Slunce | Medium coeli | Konjunkce | Slunce na vrcholu horoskopu staví člověka do popředí v práci i na veřejnosti. Je to dobrý den předvést výsledky a mluvit o svých cílech, jen poctivě, protože je vidět i to, co není hotové.
+Tranzit | Slunce | Medium coeli | Opozice | Slunce stojí na dně horoskopu a pozornost se obrací domů, k rodině a k vlastním kořenům. Den je lepší věnovat soukromí a načerpání sil než veřejnému výkonu.
+Tranzit | Slunce | Medium coeli | Kvadratura | Den, kdy nadřízení nebo pracovní okolnosti nejsou nakloněni a snadno dojde ke střetu o to, kdo rozhoduje. Nejlepší je nic neprosazovat silou a nebrat kritiku osobně.
+Tranzit | Slunce | Medium coeli | Trigon | Příznivý den pro kariéru, pověst a jednání s vlivnými lidmi, práce bývá oceněna. Je čas požádat o postup nebo představit výsledky.
+Tranzit | Slunce | Medium coeli | Sextil | Malá příležitost posunout se v práci nebo se ukázat správnému člověku. Užitečné je zmínit své plány a udržovat pracovní kontakty.
+
+# Tranzitující Merkur: několik dní, při zpětném pohybu déle a někdy až třikrát za sebou.
+Tranzit | Merkur | Slunce | Konjunkce | Rušné dny plné telefonátů a vyřizování, člověk myslí jasně a chce být slyšet. Dny jsou vhodné pro psaní, obchod a nové nápady, jen je dobré nechat mluvit i ostatní.
+Tranzit | Merkur | Slunce | Opozice | Někdo zpochybní názory nebo postup člověka a slova se berou osobně. Lepší je držet se věci a nedělat z debaty souboj o to, kdo má pravdu.
+Tranzit | Merkur | Slunce | Kvadratura | Zprávy a rozhovory v těchto dnech skřípou a kritika se dotkne sebevědomí. Pomůže mluvit věcně, ověřit si zadání a neprosazovat se hlasem.
+Tranzit | Merkur | Slunce | Trigon | Rozhodnutí přicházejí snadno a člověk umí svůj názor dobře podat. Vhodné dny pro jednání s nadřízenými, žádosti a studium.
+Tranzit | Merkur | Slunce | Sextil | Je to příznivá chvíle na krátký rozhovor, ve kterém si člověk vyjasní, co chce. Dobrý nápad z těchto dnů stojí za to dotáhnout.
+Tranzit | Merkur | Měsíc | Konjunkce | Člověk dokáže pojmenovat, co cítí, a rozhovor s blízkou osobou mu uleví. Myšlenky se vracejí do minulosti a úsudek se řídí náladou, je rozumné s tím počítat.
+Tranzit | Merkur | Měsíc | Opozice | Slova druhých se dotknou víc, než by měla, rozum a cit se přetahují. Dobré je neodpovídat uraženě a chvíli počkat, než člověk odešle zprávu.
+Tranzit | Merkur | Měsíc | Kvadratura | Neklidné dny, kdy se ztrácejí věci, zapomíná se na domluvené a mysl těká. Na místě je psát si seznamy a nebrat poznámky blízkých tak vážně.
+Tranzit | Merkur | Měsíc | Trigon | Milé zprávy, dobrá domluva v rodině a snadné vyjadřování pocitů. Je to vhodná chvíle požádat o laskavost nebo zavolat příbuzným.
+Tranzit | Merkur | Měsíc | Sextil | Krátká návštěva nebo rozhovor s příbuznými potěší a vyjasní nějakou domácí drobnost. Hodí se i pro psaní deníku nebo plánování domácnosti.
+Tranzit | Merkur | Merkur | Konjunkce | Merkur se vrací na své místo zhruba jednou za rok, někdy kvůli zpětnému pohybu i třikrát, a začíná nový cyklus myšlení. Jsou to dobré dny pro nové plány, učení a věcné domluvy.
+Tranzit | Merkur | Merkur | Opozice | Zhruba půl roku od návratu Merkuru ukážou názory druhých mezery v tom, co si člověk naplánoval. Stojí za to je vyslechnout a neunáhlit rozhodnutí.
+Tranzit | Merkur | Merkur | Kvadratura | Čtvrtinový bod ročního cyklu myšlení přináší přetížení informacemi a neklidnou hlavu. Snadno vzniknou spory o slovíčka, proto je lepší se vyjadřovat přesně a dávat si přestávky.
+Tranzit | Merkur | Merkur | Trigon | Užitečné informace přicházejí včas a mysl pracuje lehce. Vhodné je vyřídit věci, které vyžadují přemýšlení, a otevřít rozhovor, který čekal.
+Tranzit | Merkur | Merkur | Sextil | Jsou to dobré dny pro pochůzky, domluvu se sourozenci nebo vrstevníky a výměnu užitečných tipů. Malé vyřízené věci udělají radost.
+Tranzit | Merkur | Venuše | Konjunkce | Slova plynou mile, člověk je vtipný a dokáže potěšit. Dny jsou příznivé pro vyznání, smlouvání, dopis milované osobě i přátelská setkání.
+Tranzit | Merkur | Venuše | Opozice | Povrchní řeči nebo nepovedená poznámka mohou zamrzet. Vyplatí se nebrat si všechno k srdci a raději se zeptat, jak to bylo myšleno.
+Tranzit | Merkur | Venuše | Kvadratura | Dny společenských přešlapů, člověk řekne něco nevhodného nebo se dotkne cizí poznámky. Dražší nákupy je lepší rozmyslet a odložit.
+Tranzit | Merkur | Venuše | Trigon | Šarm a diplomacie pomáhají, dobře se vyjednává a obchoduje. Dny jsou vhodné pro smír, upřímnou pochvalu a společenské pozvání.
+Tranzit | Merkur | Venuše | Sextil | Příjemné dny pro drobné obchody, dopisování a milé slovo ve správnou chvíli. Přátelství se upevní krátkým rozhovorem.
+Tranzit | Merkur | Mars | Konjunkce | Mysl je rychlá a slova ostrá, práce jde od ruky, trpělivost však chybí. Pozor na zprávy napsané v rozčilení a na spory, které vzniknou ze spěchu.
+Tranzit | Merkur | Mars | Opozice | Spor se může rozhořet z malé poznámky a druhá strana nechce ustoupit. Lepší je debatu zkrátit a v rozčilení nic neposílat.
+Tranzit | Merkur | Mars | Kvadratura | Podrážděné dny, kdy jazyk předbíhá rozum a řeč zní útočně. Chce to počkat s odpovědí, nespěchat v dopravě a dopřát hlavě dost spánku.
+Tranzit | Merkur | Mars | Trigon | Rychlé rozhodování a pohotovost, člověk umí hájit svůj názor bez hádky. Dny jsou výborné pro debatu, vyjednávání a práci, která potřebuje rychlý postup.
+Tranzit | Merkur | Mars | Sextil | Spontánní nápad se dá hned proměnit v čin. Příhodné je vyřídit odkládané věci a ozvat se kvůli tomu, co vázne.
+Tranzit | Merkur | Jupiter | Konjunkce | Člověk vidí souvislosti a dokáže přesvědčit. Dny jsou dobré pro studium, obchod, cestování a nabídky, jen je třeba myslet i na podrobnosti.
+Tranzit | Merkur | Jupiter | Opozice | Velké plány bez podrobností a sliby, které se těžko plní, patří k těmto dnům. Rozumné je číst i drobné písmo a nepřehánět.
+Tranzit | Merkur | Jupiter | Kvadratura | Přemíra informací svádí něco nafouknout nebo slíbit příliš. Než člověk něco přislíbí, měl by si spočítat čas a peníze.
+Tranzit | Merkur | Jupiter | Trigon | Dobré zprávy, nabídky a úspěšná jednání. Dny jsou příznivé pro psaní, učení, vydávání textů a žádosti.
+Tranzit | Merkur | Jupiter | Sextil | Krátká cesta nebo rozhovor může přinést nabídku či užitečnou radu. Stojí za to sdílet nápad s někým, kdo ho může podpořit.
+Tranzit | Merkur | Saturn | Konjunkce | Vážné myšlení, člověk se dobře soustředí a přijímá i střízlivé zprávy. Dny jsou příznivé pro práci o samotě a plánování, pozor na chmurné myšlenky a přehnané obavy.
+Tranzit | Merkur | Saturn | Opozice | Někdo namítá, úřady nebo druzí lidé zdržují a myšlenky se kalí. Dobré je neztrácet trpělivost a nevyvozovat z odmítnutí závěry o sobě.
+Tranzit | Merkur | Saturn | Kvadratura | Zpoždění, úřední překážky a váznoucí domluva, mysl se snadno zatáhne pesimismem. Pomůže počítat s rezervou a těžké myšlenky svěřit někomu blízkému.
+Tranzit | Merkur | Saturn | Trigon | Mysl je ukázněná a dobře pracuje s podrobnostmi. Hodí se pro plánování, účty, smlouvy a důkladnou přípravu.
+Tranzit | Merkur | Saturn | Sextil | Je to dobrý čas dát do pořádku papíry, dohody a termíny. Rada zkušeného člověka ušetří pozdější práci.
+Tranzit | Merkur | Uran | Konjunkce | Blesková myšlenka, nečekaná zpráva nebo neobvyklý zájem. Člověk je vynalézavý, ale roztěkaný, pozor, aby nápad hned nevydával za hotovou věc.
+Tranzit | Merkur | Uran | Opozice | Překvapivá zpráva nebo názor někoho druhého rozhodí plány. Vyplatí se nereagovat jízlivě a neutíkat do tvrdohlavosti.
+Tranzit | Merkur | Uran | Kvadratura | Myšlení přeskakuje, plány se mění na poslední chvíli a nervy jsou napjaté. Lepší je ověřit si techniku a nic důležitého neslibovat hned.
+Tranzit | Merkur | Uran | Trigon | Původní nápady a rychlé porozumění, daří se v technice, na internetu a ve skupinách. Je to dobrá chvíle naučit se něco úplně nového.
+Tranzit | Merkur | Uran | Sextil | Setkání ve skupině nebo náhodný rozhovor přinese neobvyklý nápad. Je čas vyzkoušet novou aplikaci nebo jiný postup.
+Tranzit | Merkur | Neptun | Konjunkce | Intuice a představivost sílí, přesnost klesá. Dny jsou dobré pro poezii a hudbu, ne pro smlouvy, a co se člověk dozví, stojí za to si ověřit.
+Tranzit | Merkur | Neptun | Opozice | Nejasné sdělení nebo polopravda od druhých může zmást. Prospěje ověřovat zdroje a neslibovat nic na základě domněnek.
+Tranzit | Merkur | Neptun | Kvadratura | Dny rozptýlenosti a nerozhodnosti, kdy informace nejsou spolehlivé. Smlouvy a důležité dokumenty je lepší odložit nebo dát přečíst někomu dalšímu.
+Tranzit | Merkur | Neptun | Trigon | Fantazie se spojuje se slovem, dobře se píše a přemýšlí o hlubších věcech. Člověk snadno pochopí i to, co nebylo vysloveno.
+Tranzit | Merkur | Neptun | Sextil | Tichá chvíle pro tvůrčí práci, rozjímání nebo rozhovor o víře a snech. Malá inspirace stojí za zapsání.
+Tranzit | Merkur | Pluto | Konjunkce | Mysl jde pod povrch a hledá skryté významy. Dny jsou vhodné pro pátrání, rozbor a vážné rozhovory, pozor na podezřívavost a myšlenky, které se vracejí dokola.
+Tranzit | Merkur | Pluto | Opozice | Někdo tlačí na to, aby člověk změnil názor, nebo se rozhovor mění v přetlačování. Lepší je nenechat se vtáhnout a neříkat víc, než člověk chce.
+Tranzit | Merkur | Pluto | Kvadratura | Myšlenky se točí kolem jedné věci, přichází podezření a ostrá slova. Nejlepší je nikoho nevyslýchat a nerozhodovat o důležitých věcech v napětí.
+Tranzit | Merkur | Pluto | Trigon | Psychologický vhled, člověk umí naslouchat a odhalit podstatu věci. Dny jsou dobré pro důvěrný rozhovor, výzkum a řešení složitého problému.
+Tranzit | Merkur | Pluto | Sextil | Rozhovor může něco odkrýt a trpělivá úvaha přinese malý objev. Dny jsou příznivé k ujasnění peněz nebo jiné důvěrné věci.
+Tranzit | Merkur | Chiron | Konjunkce | Myšlenky se obracejí k citlivým věcem a člověk dokáže pojmenovat, co obvykle zůstává nevyřčené. Pozor na sebekritiku, která se tváří jako poznání.
+Tranzit | Merkur | Chiron | Opozice | Slova druhých se dotknou starého bolavého místa, i když tak nebyla myšlena. Lepší je před odpovědí chvíli počkat a neschovávat se za roli chytrého rádce.
+Tranzit | Merkur | Chiron | Kvadratura | Rozhovor je nabitý a slova jako by nestačila. Úkolem je rozlišit zdravou ochranu od vyhýbání se tématu a neodpovídat obranně.
+Tranzit | Merkur | Chiron | Trigon | Rozhovory o zranitelných věcech jdou přirozeněji a druzí mohou přijít pro radu. Je to dobrá doba říct někomu něco, co mu pomůže.
+Tranzit | Merkur | Chiron | Sextil | Krátká chvíle, kdy se dá říct něco nelehkého, na co dlouho nebyla odvaha. Příležitost je nenápadná a snadno mine.
+Tranzit | Merkur | Severní uzel | Konjunkce | Zpráva, rozhovor nebo kniha ukáže, kudy se vydat dál. Stojí za to zapsat si nápad a ozvat se lidem, kteří k tomuto směru patří.
+Tranzit | Merkur | Severní uzel | Opozice | Merkur stojí na Jižním uzlu a myšlenky se vracejí k tomu, co už bylo řečeno a promyšleno. Dny jsou dobré k uzavření starých debat, ne k jejich dalšímu přetřásání.
+Tranzit | Merkur | Severní uzel | Kvadratura | Hlava se přetahuje mezi starými názory a novým směrem. Vyplatí se sbírat informace a nedělat závěr hned.
+Tranzit | Merkur | Severní uzel | Trigon | Myšlenky i kontakty přirozeně podporují to, kam se člověk posouvá. Je to dobrá doba učit se to, co bude dlouhodobě potřebovat.
+Tranzit | Merkur | Severní uzel | Sextil | Krátký rozhovor nebo užitečný kontakt pomůže o krůček dál. Je třeba se zeptat.
+Tranzit | Merkur | Ascendent | Konjunkce | Člověk mluví přímo, chce se mu vyřizovat a navazovat kontakty. Dny jsou dobré pro domluvu a vyjednávání, jen by neměl přehlušit ostatní.
+Tranzit | Merkur | Ascendent | Opozice | Merkur stojí naproti Ascendentu a do popředí jdou rozhovory s partnerem a spolupracovníky. Je vhodné požádat o zpětnou vazbu a domluvit společné věci, ne se obhajovat.
+Tranzit | Merkur | Ascendent | Kvadratura | Úkolů a vyřizování je příliš a hlava těžko udrží pozornost u jedné věci. Člověk se může přeslechnout nebo být špatně pochopen, proto je lepší si věci potvrdit.
+Tranzit | Merkur | Ascendent | Trigon | Člověk se jasně vyjadřuje a snadno zvládne podrobnosti. Dny jsou dobré pro psaní, veřejné mluvení a představení sebe sama.
+Tranzit | Merkur | Ascendent | Sextil | Čilé dny pro pochůzky, krátké cesty a rozhovory se sousedy. Vhodné je navázat kontakt, který se může později vyplatit.
+Tranzit | Merkur | Medium coeli | Konjunkce | Myšlenky se obracejí k práci a cílům, člověk dokáže jasně říct, kam míří. Dny jsou dobré pro veřejné vystoupení, přihlášky a důležitá pracovní jednání.
+Tranzit | Merkur | Medium coeli | Opozice | Merkur stojí na dně horoskopu a řeči se točí kolem domova a rodiny. Příhodné je vyřešit domácí věci a probrat rodinné vzpomínky, pracovní rozhodnutí mohou počkat.
+Tranzit | Merkur | Medium coeli | Kvadratura | Soustředění na práci vázne, mohou se šířit řeči nebo vzniknout nedorozumění s nadřízenými. Na místě je držet se faktů a nepřidávat se k pomluvám.
+Tranzit | Merkur | Medium coeli | Trigon | Je to dobrý čas pro plánování kariéry, studium a pracovní kontakty. Vlastní slovo má teď váhu a posiluje dobrou pověst.
+Tranzit | Merkur | Medium coeli | Sextil | Krátký pracovní rozhovor může otevřít dveře. Je čas poslat životopis, nabídku nebo se ozvat profesnímu kontaktu.
+
+# Tranzitující Venuše: několik dní, při zpětném pohybu déle.
+Tranzit | Venuše | Slunce | Konjunkce | Milé dny, kdy člověk působí přívětivě a hledá soulad s okolím. Hodí se pro společenské akce, lásku a radost, povinnosti jdou v těchto dnech hůř od ruky.
+Tranzit | Venuše | Slunce | Opozice | Touha po uznání a pohodlí svádí k ústupkům nebo k drahým gestům. Rozumné je nekupovat si pozornost druhých a hlídat, aby vztah nebyl jednostranný.
+Tranzit | Venuše | Slunce | Kvadratura | Líné dny s chutí užívat si víc, než je rozumné. Pozor na ješitnost ve vztazích a na výdaje, které slouží hlavně k předvedení.
+Tranzit | Venuše | Slunce | Trigon | Spolupráce i společenský styk jdou hladce a v penězích je dobrý úsudek. Vhodné dny požádat o laskavost a být mezi lidmi.
+Tranzit | Venuše | Slunce | Sextil | Příležitost k přátelskému setkání nebo menšímu finančnímu přilepšení. Stačí přijmout pozvání.
+Tranzit | Venuše | Měsíc | Konjunkce | Vřelé dny doma i v lásce, člověk touží po něžnosti a kráse kolem sebe. Hodí se nákup do domácnosti, rodinné setkání a čas s blízkými ženami.
+Tranzit | Venuše | Měsíc | Opozice | City jsou přecitlivělé a člověk čeká důkaz lásky. Dobré je neutrácet pro útěchu a nenechat drobné pošťuchování přerůst v hádku.
+Tranzit | Venuše | Měsíc | Kvadratura | Člověk se cítí nedoceněný a útěchu hledá v jídle nebo nákupech. Chce to říct si o pozornost přímo, ne trucovat.
+Tranzit | Venuše | Měsíc | Trigon | Pohoda doma, oblíbenost mezi lidmi a mírná nálada. Dny jsou dobré pro pohoštění, péči o sebe a usmíření s blízkými.
+Tranzit | Venuše | Měsíc | Sextil | Drobná radost doma, milá návštěva nebo nákup něčeho do bytu. Vhodné je dopřát si klid a nic nehonit.
+Tranzit | Venuše | Merkur | Konjunkce | Myšlení je laskavé, mluví se hezky a obchody jsou příjemné. Dny jsou příznivé pro psaní, smlouvání a přátelské rozhovory.
+Tranzit | Venuše | Merkur | Opozice | Zdvořilost může zakrývat, co si kdo myslí. Neshody ve vkusu nebo nedorozumění je dobré vyjasnit s humorem.
+Tranzit | Venuše | Merkur | Kvadratura | Člověk se snadno dotkne poznámek a špatně se soustředí. Drobnou společenskou chybu je lepší přejít s úsměvem a důležité psaní odložit.
+Tranzit | Venuše | Merkur | Trigon | Takt a diplomacie pomáhají a návrh bude přijat vlídně. Dny jsou vhodné pro obchodní nabídky, pochvalu a hledání shody.
+Tranzit | Venuše | Merkur | Sextil | Příjemná výměna zpráv, drobný obchod nebo milé setkání cestou. Dobře se hledá správné slovo.
+Tranzit | Venuše | Venuše | Konjunkce | Návrat Venuše zhruba jednou za rok otevírá nový cyklus lásky, krásy a vztahu k penězům. Dny jsou dobré pro obnovu vztahu, nové oblečení, umění a úvahu o tom, co má člověk skutečně rád.
+Tranzit | Venuše | Venuše | Opozice | Asi půl roku od návratu Venuše se člověk ptá, zda dává a dostává rovným dílem. Vyplatí se neurážet se a nevyhýbat se, lepší je říct, co by si přál.
+Tranzit | Venuše | Venuše | Kvadratura | Milník ročního cyklu lásky přináší nejistotu, co člověk vlastně chce, a chuť si to vynahradit nákupy. Je dobré nespěchat s velkými kroky ve vztahu.
+Tranzit | Venuše | Venuše | Trigon | Vztahy plynou snadno a lásky je dost. Je vhodné s rozmyslem utratit za něco hezkého a užít si chvíle s milovanými.
+Tranzit | Venuše | Venuše | Sextil | Malá příležitost někoho potěšit nebo si dopřát kousek krásy. Drobná pozornost posílí přátelství.
+Tranzit | Venuše | Mars | Konjunkce | Přitažlivost sílí a probouzí se touha, činná a přijímající stránka člověka se potkávají. Hodí se pro lásku i tvorbu, pozor jen na impulzivní utrácení.
+Tranzit | Venuše | Mars | Opozice | Přitažlivost a napětí jdou ruku v ruce a láska se snadno změní v soupeření. Dobré je říct své přání přímo a nehrát hry.
+Tranzit | Venuše | Mars | Kvadratura | Žárlivost, netrpělivost v lásce a impulzivní nákupy. Lepší je nevykládat si chování druhého jako odmítnutí a nehonit se za okamžitým požitkem.
+Tranzit | Venuše | Mars | Trigon | Člověk se dokáže přiblížit někomu, kdo ho přitahuje, a tvořivá energie plyne. Příhodné je vzít iniciativu v lásce i v umění.
+Tranzit | Venuše | Mars | Sextil | Malá příležitost projevit zájem nebo oživit společný čas. Stačí trochu odvážnější gesto.
+Tranzit | Venuše | Jupiter | Konjunkce | Jeden z nejpříjemnějších dní v roce přináší velkorysost, radost a nečekanou náklonnost. Je čas smířit se, oslavovat a požádat o pomoc, jen peněženka má své meze.
+Tranzit | Venuše | Jupiter | Opozice | Příliš mnoho dobrého, ať jde o sladkosti, výdaje, nebo sliby. Rozumné je užívat si s mírou a nezadlužovat se kvůli radosti.
+Tranzit | Venuše | Jupiter | Kvadratura | Láká utrácet, přejídat se a odkládat povinnosti. Velkorysost je dobré počítat podle toho, co si člověk může dovolit.
+Tranzit | Venuše | Jupiter | Trigon | Přibývá důvěry a dobré nálady a společenské dveře se otevírají. Dny jsou příznivé pro peněžní záležitosti, oslavu i štědrost.
+Tranzit | Venuše | Jupiter | Sextil | Drobná radost nebo příjemná nabídka přichází skrze přátele. Stojí za to říct ano.
+Tranzit | Venuše | Saturn | Konjunkce | Střízlivé dny ve vztazích, láska se zkouší skutkem a člověk je zdrženlivější. Dny jsou příznivé pro vážný rozhovor o závazku a uvážené výdaje, méně pro veselí.
+Tranzit | Venuše | Saturn | Opozice | Někdo blízký se může zdát chladný nebo vzdálený a člověk se cítí odmítnutý. Je dobré to nebrat jako konečný soud nad vztahem a hlídat peníze.
+Tranzit | Venuše | Saturn | Kvadratura | Pocit samoty, plachost, obava z odmítnutí a napjaté finance. Nejlepší je neuzavírat se do sebe a nic velkého teď nekupovat.
+Tranzit | Venuše | Saturn | Trigon | Stálost a věrnost, vztahy nabývají pevnosti a oporou může být starší člověk. Dny jsou dobré pro dlouhodobé úspory a vážné dohody.
+Tranzit | Venuše | Saturn | Sextil | Příležitost udělat drobný spolehlivý krok ve vztahu nebo v penězích. Malá pozornost starší osobě se vrátí.
+Tranzit | Venuše | Uran | Konjunkce | Nečekaná přitažlivost, náhlé setkání a chuť na něco nového. Je to příjemné vzrušení, jen je lepší na něm nestavět trvalá rozhodnutí.
+Tranzit | Venuše | Uran | Opozice | Někdo blízký potřebuje prostor, nebo ho chce člověk sám. Vztah ožije, když se o tom mluví bez výbuchů.
+Tranzit | Venuše | Uran | Kvadratura | Touha po svobodě se střetává s potřebou blízkosti a příjmy nebo výdaje kolísají. Vyplatí se nedělat impulzivní rozhodnutí ve vztahu ani v penězích.
+Tranzit | Venuše | Uran | Trigon | Otevřené a nápadité dny, nové známosti se rodí lehce. Hodí se pro nové setkání, umění a neobvyklé zájmy.
+Tranzit | Venuše | Uran | Sextil | Malé osvěžení ve vztahu, neobvyklý dárek nebo pozvání ze skupiny. Stačí trochu spontánnosti.
+Tranzit | Venuše | Neptun | Konjunkce | Romantika, soucit a snění, člověk vidí lásku v růžových barvách. Je dobré se těšit z hudby a umění a větší rozhodnutí odložit, dokud se věci neprojasní.
+Tranzit | Venuše | Neptun | Opozice | Přikrášlený obraz druhého člověka může skončit zklamáním, když se ukáže skutečnost. Na místě je nepodléhat slibům a dávat pozor na peníze.
+Tranzit | Venuše | Neptun | Kvadratura | Snadno se podléhá iluzi, láska nebo výhodná koupě nemusí být tím, čím se zdá. Lepší je nic nepodepisovat, nekupovat a ověřit si fakta.
+Tranzit | Venuše | Neptun | Trigon | Něžné dny soucitu a krásy. Dny jsou dobré pro romantický večer, umění a pomoc potřebným.
+Tranzit | Venuše | Neptun | Sextil | Jemná inspirace, laskavý skutek nebo porozumění beze slov. Stojí za to si pro to udělat klidnou chvíli.
+Tranzit | Venuše | Pluto | Konjunkce | Silná přitažlivost a hloubka citů, člověk chce všechno, nebo nic. Pozornost se obrací i k penězům, pozor na žárlivost a snahu druhého vlastnit.
+Tranzit | Venuše | Pluto | Opozice | Vztah může projít zkouškou moci, jedna strana chce mít tu druhou pod kontrolou. Pomůže rozpoznat žárlivost a nepoužívat city jako nátlak.
+Tranzit | Venuše | Pluto | Kvadratura | Podezření a nutkavá touha mohou ovládnout dny i rozhovory. Lepší je ptát se, co je za tímto pocitem, a nevydírat nikoho citem.
+Tranzit | Venuše | Pluto | Trigon | Hluboké a opravdové dny ve vztahu, blízkost léčí. Dny jsou dobré pro důvěrný rozhovor a obnovu pouta.
+Tranzit | Venuše | Pluto | Sextil | Příležitost prohloubit vztah upřímností. Dny jsou vhodné i k obnově něčeho, co vypadalo ztraceně.
+Tranzit | Venuše | Chiron | Konjunkce | Touha po lásce se dotkne citlivého místa a člověk se ptá, zda může být milován i tam, kde se cítí zranitelný. Pozor na staré pocity méněcennosti a na odtahování se, když přichází náklonnost.
+Tranzit | Venuše | Chiron | Opozice | Něha blízkého člověka rozhýbe vlastní staré vzorce, nebo člověk utěšuje druhé, aby nemusel myslet na sebe. Prospěje vzájemnost, kdy oba dávají i přijímají.
+Tranzit | Venuše | Chiron | Kvadratura | Pocit, že člověk není dost dobrý pro lásku, může zesílit, a vede to k přehnanému dávání nebo stažení. Nepříjemný pocit je užitečné brát jako informaci, ne jako pravdu o sobě.
+Tranzit | Venuše | Chiron | Trigon | Laskavost a pochvaly se přijímají snadněji a blízkost hojí. Prospěje říct někomu důvěryhodnému něco upřímného.
+Tranzit | Venuše | Chiron | Sextil | Jemné otevření, kdy se dá s vlídností dotknout něčeho bolavého. Stačí malé gesto péče o sebe nebo o druhého.
+Tranzit | Venuše | Severní uzel | Konjunkce | Setkání nebo příjemná událost ukáže, že láska či krása patří k cestě, kterou má člověk před sebou. Stojí za to přijmout pozvání a jít mezi nové lidi.
+Tranzit | Venuše | Severní uzel | Opozice | Venuše stojí na Jižním uzlu a ve vztazích i v penězích se ozývají staré nesrovnalosti nebo nečekané výdaje. Vyplatí se v klidu projít rozpočet a rozlišit, co opravdu těší a co už je jen zvyk.
+Tranzit | Venuše | Severní uzel | Kvadratura | Pohodlí starých vztahů se přetahuje s tím, co člověk potřebuje pro svůj růst. Rozumné je neustoupit jen kvůli klidu a neodkládat rozhodnutí nákupem nebo zábavou.
+Tranzit | Venuše | Severní uzel | Trigon | Vztahy a příjemné okolnosti přirozeně podporují směr, kterým se člověk ubírá. Nejlepší je navázat známost nebo vložit prostředky do toho, co má budoucnost.
+Tranzit | Venuše | Severní uzel | Sextil | Laskavý člověk nebo malá nabídka pomůže o krok dál. Chce to být vstřícný.
+Tranzit | Venuše | Ascendent | Konjunkce | Člověk působí přitažlivě a milý první dojem otevírá dveře. Dny jsou dobré pro setkání, novou úpravu vzhledu a rande.
+Tranzit | Venuše | Ascendent | Opozice | Venuše stojí naproti Ascendentu a pozornost patří partnerovi a nejbližším lidem. Je to dobrý čas pro smír, společné chvíle a dohody, jen se člověk nemá přizpůsobit až příliš.
+Tranzit | Venuše | Ascendent | Kvadratura | Člověk je citlivější než obvykle a víc stojí o uznání od druhých. Pozor na přehnanou citlivost na hodnocení, soulad za každou cenu a impulzivní výdaje.
+Tranzit | Venuše | Ascendent | Trigon | Okolí člověka vlídně přijímá a nové známosti začínají snadno. Dny jsou příznivé pro první schůzku, kulturu a lehké společenské dny.
+Tranzit | Venuše | Ascendent | Sextil | Příjemné setkání nebo vlídné slovo zpříjemní všední den. Je to dobrý čas pro malou pozornost a nové známosti.
+Tranzit | Venuše | Medium coeli | Konjunkce | Člověk je oblíbený na veřejnosti a v práci a nadřízení mu přejí. Dny jsou vhodné pro pracovní setkání, prezentaci a vytváření dobrých vztahů v zaměstnání.
+Tranzit | Venuše | Medium coeli | Opozice | Venuše stojí na dně horoskopu a člověku je nejlépe doma. Hodí se pro zkrášlení bytu, hostinu a čas s rodinou, kariéra může chvíli počkat.
+Tranzit | Venuše | Medium coeli | Kvadratura | Osobní přání a hodnoty se střetávají s tím, co se čeká v práci, nebo s autoritami. Vyplatí se být zdvořilý, ale nedělat ústupky jen kvůli pochvale, a držet rovnováhu mezi prací a domovem.
+Tranzit | Venuše | Medium coeli | Trigon | Pracovní prostředí je přátelské a dobrá pověst roste. Je vhodné urovnat vztahy na pracovišti a získat uznání.
+Tranzit | Venuše | Medium coeli | Sextil | Malé gesto vůči kolegům nebo vlivné osobě otevře příznivější půdu. Dny jsou příznivé pro společné pracovní setkání.
+
+# Tranzitující Mars: asi týden, když se zastavuje a mění směr, i několik týdnů. Cyklus trvá asi dva roky.
+Tranzit | Mars | Slunce | Konjunkce | Zhruba jednou za dva roky přichází týden nabitý energií a sebevědomím. Výborně se v něm začíná a prosazuje, pozor na vznětlivost, přehnanou důležitost a únavu, přes kterou se nevyplatí tlačit.
+Tranzit | Mars | Slunce | Opozice | Týden střetů s lidmi, kteří chtějí něco jiného. Lepší je nevyvolávat spory, šetřit síly a nepouštět se do rizika.
+Tranzit | Mars | Slunce | Kvadratura | Napětí v práci nebo doma, střet s autoritou a netrpělivost. Lepší je nic neprosazovat silou, stres vybít pohybem a být opatrný za volantem i při fyzické práci.
+Tranzit | Mars | Slunce | Trigon | Odvaha a chuť do práce, sport i podnikání jdou dobře. Člověk může rázně prosadit to, co odkládal, a nemusí kvůli tomu bojovat.
+Tranzit | Mars | Slunce | Sextil | Krátká vlna energie vhodná na menší projekt, stačí se rozhodnout. Vhodné je začít s pohybem nebo dotáhnout úkol v práci.
+Tranzit | Mars | Měsíc | Konjunkce | Emoce se rozjitří, doma je rušno a člověk jedná z pocitu. Týden je dobrý na úklid a opravy a méně na vyřizování sporů, zvláště se ženskými postavami. Klid a odpočinek pomohou.
+Tranzit | Mars | Měsíc | Opozice | Únava přechází v podrážděnost a spory s blízkými. Místo přemítání je lepší jít dřív spát a na žádné řešení netlačit.
+Tranzit | Mars | Měsíc | Kvadratura | Domácí hádky, přecitlivělost a pocit, že člověku ujíždí půda pod nohama. Pomáhá odpočinek a schopnost nebrat se tolik vážně.
+Tranzit | Mars | Měsíc | Trigon | Citová vřelost a chuť dělat něco pro domov. Týden je vhodný pro opravy, vaření, společnou práci a činy z lásky.
+Tranzit | Mars | Měsíc | Sextil | Citová energie se dá dobře vložit do užitečné činnosti. Je třeba se pustit do domácího projektu nebo někomu pomoci.
+Tranzit | Mars | Merkur | Konjunkce | Bystrý a rychlý týden, práce utíká a slova řežou. Dobře se prodává a argumentuje, trvalé závazky a podpisy je lepší nedělat ve spěchu a hlavě dopřát spánek.
+Tranzit | Mars | Merkur | Opozice | Rychlá řeč a unáhlený závěr snadno nadělají zlou krev. Nejlepší je častěji mlčet, i nevinná poznámka může vyvolat dlouhou nevoli.
+Tranzit | Mars | Merkur | Kvadratura | Ukvapené odpovědi a špatná rozhodnutí z rozčilení. Na místě je počítat do deseti, nepřít se o maličkosti a v dopravě nespěchat.
+Tranzit | Mars | Merkur | Trigon | Myšlení je rychlé a jasné, řeč přesvědčivá. Hodí se k obhajobě názorů, důležité debatě a rychlému učení.
+Tranzit | Mars | Merkur | Sextil | Čilé dny na vyřízení korespondence a krátkých úkolů. Myšlenka se dá hned proměnit v čin.
+Tranzit | Mars | Venuše | Konjunkce | Citový náboj roste a s ním přitažlivost, chuť do života i utrácení. Týden je příznivý pro lásku a společenský život, ale s rozumem, impulzivní krok nemusí mít budoucnost.
+Tranzit | Mars | Venuše | Opozice | Láska a hádka mají k sobě blízko a vztahy zkouší nedorozumění nebo odklady. Je lepší nepřehánět výdaje ani sváry.
+Tranzit | Mars | Venuše | Kvadratura | Zklamání v lásce, nedočkavost a výstřelky v utrácení. Vyplatí se zpomalit v projevech citu a vyhnout se pokušením, kterých by člověk pak litoval.
+Tranzit | Mars | Venuše | Trigon | Touha a tvořivost jdou spolu, je vhodný čas vyjít vstříc milované osobě. Týden je vhodný pro umění, lásku a společenské akce.
+Tranzit | Mars | Venuše | Sextil | Malá odvaha v lásce nebo v tvorbě se vyplatí. Je to dobrý čas někoho pozvat.
+Tranzit | Mars | Mars | Konjunkce | Návrat Marsu asi jednou za dva roky začíná nový cyklus činů. Je to dobrý čas pro nové starty a rozhodnutí, která udají směr na další dva roky. Jen vztek a tvrdé prosazování je třeba držet na uzdě.
+Tranzit | Mars | Mars | Opozice | Asi rok od návratu Marsu přichází napětí v půli cyklu a věci se vyhrocují. Nehodí se to pro ukvapená rozhodnutí o práci a penězích, lepší je jednat s protistranou přímo a neklid vybít v pohybu.
+Tranzit | Mars | Mars | Kvadratura | Čtvrtinový bod dvouletého cyklu přináší hodně práce a energie. Nejlepší je nenechat se rozptýlit od započatého a chránit nervy před přepětím.
+Tranzit | Mars | Mars | Trigon | Síly běží v rytmu a člověk má motivaci i sebedůvěru. Týden je vhodný pro fyzickou práci a věci, které vyžadují výdrž.
+Tranzit | Mars | Mars | Sextil | Příjemný impuls ve dvouletém cyklu, tělo i vůle táhnou za jeden provaz. Příhodné je přidat pohyb nebo se pustit do menšího úkolu.
+Tranzit | Mars | Jupiter | Konjunkce | Příležitosti a energie se potkávají, nadšení je veliké a práce uspokojuje. Pozor, aby člověk nechtěl všechno najednou a nerozhazoval peníze.
+Tranzit | Mars | Jupiter | Opozice | Přílišné nadšení vede k riziku nebo k sázce na nejistou věc. Chce to ponechat si střízlivý rozum a nic nepřeceňovat, ani své síly.
+Tranzit | Mars | Jupiter | Kvadratura | Sebejistota přerůstá ve vychloubání a přehlížení podrobností. Drobným ztrátám z neuvážených kroků se dá předejít, když si člověk předem spočítá náklady.
+Tranzit | Mars | Jupiter | Trigon | Silná vůle a chuť do podniku, hodí se pro cesty, sport a nové začátky. Nadšení má tentokrát o co se opřít.
+Tranzit | Mars | Jupiter | Sextil | Příležitost rozjet v malém něco, co může růst. Rozumné je přijít s návrhem.
+Tranzit | Mars | Saturn | Konjunkce | Plyn a brzda současně, člověk chce jednat a naráží na omezení. Je to dobrý čas pro vytrvalou práci a škrty, je třeba zvolnit, respektovat nadřízené a všímat si únavy.
+Tranzit | Mars | Saturn | Opozice | Okolnosti nebo autorita brzdí postup a v člověku narůstá vztek. Vyplatí se nebojovat proti pravidlům, být opatrný při fyzické práci a věnovat pozornost vztahu k otci a starším lidem.
+Tranzit | Mars | Saturn | Kvadratura | Postup vázne a tlak na rychlý výsledek unavuje. Pomůže volnější tempo, dostatek odpočinku a opatrnost s nářadím.
+Tranzit | Mars | Saturn | Trigon | Energie je ukázněná a vytrvalá. Týden je dobrý pro náročné úkoly, stavění a práci, kde se počítá poctivost.
+Tranzit | Mars | Saturn | Sextil | Vhodné dny vložit úsilí do něčeho trvalého. Je vhodné dotáhnout odkládanou povinnost.
+Tranzit | Mars | Uran | Konjunkce | Náhlý impuls, neklid a chuť všechno změnit, nápady tryskají. Pozor na rychlost, stroje a elektřinu i na přetížené nervy. S velkými změnami je lepší chvíli počkat.
+Tranzit | Mars | Uran | Opozice | Prudké reakce, hádka z čistého nebe nebo náhlé přerušení plánu. Na místě je nevybuchnout, dbát na bezpečí a nespěchat.
+Tranzit | Mars | Uran | Kvadratura | Vzpoura proti omezením a chuť riskovat. Člověk se může vymanit z toho, co ho svazuje, je však dobré zvážit, co tím poškodí.
+Tranzit | Mars | Uran | Trigon | Odvaha ke změně, experimentům a nezávislosti. Týden je příznivý na technický úkol nebo smělý krok.
+Tranzit | Mars | Uran | Sextil | Krátký příval odvahy zkusit jiný postup. Stačí nová trasa nebo nová činnost.
+Tranzit | Mars | Neptun | Konjunkce | Intuice i fantazie sílí a člověk vycítí pohnutky druhých, své vlastní však méně. Týden je dobrý pro tvůrčí práci, pozor na únik do požitků a přehnaná očekávání.
+Tranzit | Mars | Neptun | Opozice | Člověk přesně neví, proti čemu bojuje, a odpor může být skrytý. Je dobré nejednat naslepo a nedat se nalákat na lákavé, ale nejasné nabídky.
+Tranzit | Mars | Neptun | Kvadratura | Síly uhýbají a láká útěk od rutiny i nereálné nápady. Rozumné je nepřetěžovat se, nenechat se strhnout a důležitá rozhodnutí neopírat o dojmy.
+Tranzit | Mars | Neptun | Trigon | Inspirace a soucit přecházejí v čin. Týden je vhodný pro tvorbu, hudbu a konkrétní pomoc druhým.
+Tranzit | Mars | Neptun | Sextil | Dny, kdy se tvrdost zjemní a ruce poslechnou fantazii. Je třeba se pustit do malého tvůrčího úkolu nebo dobrého skutku.
+Tranzit | Mars | Pluto | Konjunkce | Mimořádná vůle a odhodlání, člověk zvládne velký kus práce a zbaví se přebytečného. Pozor na tvrdost, nutkání vyhrát za každou cenu a na bezpečnost.
+Tranzit | Mars | Pluto | Opozice | Mocenský střet, někdo tlačí a člověk chce vzdorovat. Pomůže nikoho neprovokovat a z vyhrocené situace včas odejít.
+Tranzit | Mars | Pluto | Kvadratura | Potlačený hněv se dere na povrch a roste tlak od druhých nebo na druhé. Pomáhá fyzická práce a rozhodnutí nepoužívat zastrašování ani sílu.
+Tranzit | Mars | Pluto | Trigon | Soustředěná síla, vytrvalý výkon a úspěch v tom, na čem člověku opravdu záleží. Týden je příznivý pro těžký úkol.
+Tranzit | Mars | Pluto | Sextil | Cílená energie dovolí vyčistit jednu konkrétní věc. Stačí si vybrat, co má zmizet nebo se změnit.
+Tranzit | Mars | Chiron | Konjunkce | Průbojnost a citlivost se potkají v jednom bodě a člověk se může rozhořet nad starým pocitem nevýhody. Pozor na přehnanou útočnost i na úplné stažení.
+Tranzit | Mars | Chiron | Opozice | Téma se odehrává ve vztazích, druzí zrcadlí vlastní průbojnost nebo zranitelnost. Úkolem je nepřipisovat jim to, co člověk nechce vidět u sebe.
+Tranzit | Mars | Chiron | Kvadratura | Tření mezi chutí jednat a starou bolestí, spory jsou nabité víc, než by odpovídalo situaci. Pomáhá chvíle mezi podnětem a reakcí, aby člověk neodpovídal příliš tvrdě ani příliš slabě.
+Tranzit | Mars | Chiron | Trigon | Jednání a citlivost spolupracují a překonané těžkosti se ukazují jako průprava. Lepší je předat zkušenost někomu, kdo řeší něco podobného.
+Tranzit | Mars | Chiron | Sextil | Mírná příležitost udělat malý rozvážný krok tam, kde to bolí. Snadno se přehlédne, když člověk nedává pozor.
+Tranzit | Mars | Severní uzel | Konjunkce | Příval energie k tomu, co člověka posouvá dál. Je to dobrý čas jednat a udělat krok do neznáma, jen si neplést neklid se skutečným směrem.
+Tranzit | Mars | Severní uzel | Opozice | Mars stojí na Jižním uzlu a staré spory, návyky nebo způsoby boje znovu ožívají. Lepší je nezačínat dávné bitvy nanovo a vyhnout se opakování téže chyby.
+Tranzit | Mars | Severní uzel | Kvadratura | Co člověk chce udělat, se nekryje s tím, co ho dlouhodobě posouvá. Vyplatí se vydržet to napětí a netlačit silou ani to nevzdávat.
+Tranzit | Mars | Severní uzel | Trigon | Energie přirozeně proudí správným směrem a dobře se jedná. Hodí se pro krok, který člověk dlouho plánoval.
+Tranzit | Mars | Severní uzel | Sextil | Malé rázné rozhodnutí pomůže kupředu. Je třeba se ozvat a nečekat.
+Tranzit | Mars | Ascendent | Konjunkce | Mars přechází přes Ascendent, člověk je průbojnější a má víc sil, ale i větší ukvapenost. Potřebuje pohyb a měl by se vyvarovat spěchu a nepozornosti.
+Tranzit | Mars | Ascendent | Opozice | Mars stojí naproti Ascendentu a napětí přichází od partnera nebo druhé strany. Nejlepší je neoplácet hrubost a spor raději včas uklidnit.
+Tranzit | Mars | Ascendent | Kvadratura | Přetlak se snadno obrátí proti okolí, člověk je podrážděný a druzí vnímají jeho netrpělivost. Je třeba nepůsobit sebejistěji, než se cítí, a vybít se pohybem.
+Tranzit | Mars | Ascendent | Trigon | Přirozená sebedůvěra a odvaha ukázat se. Týden je vhodný pro sport, vystoupení a první krok.
+Tranzit | Mars | Ascendent | Sextil | Trochu víc energie a odvahy pro jednání a nové kontakty. Je třeba se ozvat jako první.
+Tranzit | Mars | Medium coeli | Konjunkce | Silný pracovní týden, člověk přebírá vedení a chce výsledky. Týden je dobrý pro iniciativu v kariéře, jen je třeba dávat pozor, aby člověk nepřehlížel nadřízené.
+Tranzit | Mars | Medium coeli | Opozice | Mars stojí na dně horoskopu a dění se přesouvá domů, ať jde o opravy, stěhování, nebo napětí v rodině. Prospěje tuto energii obrátit na práci kolem domu, ne na hádky.
+Tranzit | Mars | Medium coeli | Kvadratura | Tření na pracovišti, střety s autoritami a tlak termínů. Nejlepší je držet se věcně, rozložit si síly a nevyvolávat otevřený konflikt.
+Tranzit | Mars | Medium coeli | Trigon | Ambice dostávají vítr do plachet a odhodlání je vidět. Je čas ucházet se o postup a pustit se do náročné zakázky.
+Tranzit | Mars | Medium coeli | Sextil | Malá příležitost ukázat v práci, co člověk umí. Stačí se ozvat a navrhnout řešení.
+
+# Tranzitující Severní uzel: několik týdnů, postupuje zpětně a celý cyklus trvá asi 18,6 roku.
+Tranzit | Severní uzel | Slunce | Konjunkce | Několik týdnů, kdy se člověk dostává do popředí a vidí, kým se stává. Vhodné je přijmout novou roli nebo tvůrčí výzvu a uvolnit zažitou představu o sobě.
+Tranzit | Severní uzel | Slunce | Opozice | Jižní uzel přechází přes Slunce a období se hodí k uzavírání rolí, které člověk přerostl. Může se dostavit únava, proto je rozumné nepřetěžovat se, pustit staré a podržet si, co se člověk naučil.
+Tranzit | Severní uzel | Slunce | Kvadratura | Týdny rozcestí mezi tím, kým člověk byl, a kým se stává, často v práci nebo tvorbě. Je třeba vydržet napětí a nehledat rychlé řešení.
+Tranzit | Severní uzel | Slunce | Trigon | Období, kdy se osobní cíle shodují se směrem růstu. Hodí se věnovat se dlouhodobým projektům, dokud jdou snadno.
+Tranzit | Severní uzel | Slunce | Sextil | Týdny podpory pro osobní záměry, kdy se objeví vhodný člověk nebo nabídka. Vyžaduje to vlastní krok, jinak období mine bez užitku.
+Tranzit | Severní uzel | Měsíc | Konjunkce | Týdny, kdy se dá věřit citu a domov nebo rodina ukazují nový směr. Je dobré sledovat své pocity i do neznámého a nezůstat v tom, co je bezpečné.
+Tranzit | Severní uzel | Měsíc | Opozice | Citové návyky a rodinné vzorce, z nichž část už neslouží, vyplouvají na povrch, protože Měsíce se dotýká Jižní uzel. Úkolem je poznat, co pustit, a přijmout, že to může být chvíli nepříjemné.
+Tranzit | Severní uzel | Měsíc | Kvadratura | Potřeba citového bezpečí se střetává s tím, co vyžaduje vlastní rozvoj, a člověk je na rozcestí mezi domovem a jinými povinnostmi. Vyplatí se hledat cestu, která ctí obojí, a nepečovat o druhé na svůj úkor.
+Tranzit | Severní uzel | Měsíc | Trigon | City a směr života jdou v souladu a domácí prostředí podporuje změnu. Je to dobrý čas vytvořit si zdravý návyk nebo upevnit vztah s rodinou.
+Tranzit | Severní uzel | Měsíc | Sextil | Ženská postava nebo blízká osoba nabídne oporu a člověk se cítí lépe usazený. Hodí se tuto pohodu využít k malému kroku pro sebe.
+Tranzit | Severní uzel | Merkur | Konjunkce | Týdny, kdy nový kontakt, kurz nebo myšlenka změní pohled na to, kam jít. Na místě je učit se, psát a mluvit s lidmi z jiného prostředí.
+Tranzit | Severní uzel | Merkur | Opozice | Jižní uzel stojí na Merkuru, a tak jsou zaběhnuté způsoby myšlení a řeči teď dobře vidět. Příhodné je zbavit se starých předsudků a nelpět na tom, že člověk už všechno ví.
+Tranzit | Severní uzel | Merkur | Kvadratura | Nové informace se nekryjí s tím, co si člověk dosud myslel, a rozhodnutí je obtížné. Na místě je nepospíchat se závěrem a dovolit si změnit názor.
+Tranzit | Severní uzel | Merkur | Trigon | Myšlení a kontakty přirozeně podporují další růst. Vhodný čas pro studium a domluvy, které mají dlouhodobý význam.
+Tranzit | Severní uzel | Merkur | Sextil | Užitečná informace nebo krátký kurz pomůže posunout se dál. Stačí se aktivně ptát.
+Tranzit | Severní uzel | Venuše | Konjunkce | Týdny, kdy může přijít důležité setkání, nové přátelství nebo radost, která člověka posouvá. Týdny jsou příznivé pro vztahy i peníze, stačí se otevřít i tomu, co se dosud nezdálo jako vlastní vkus.
+Tranzit | Severní uzel | Venuše | Opozice | Jižní uzel na Venuši přivádí zpět staré vztahy a známé způsoby, jak si získat lásku. Je dobré se zamyslet, co z toho patří do minulosti, a neopakovat vztahový vzorec jen ze zvyku.
+Tranzit | Severní uzel | Venuše | Kvadratura | Vztahy nebo peníze jsou v napětí s tím, kam člověk směřuje. Rozumné je neobětovat růst kvůli klidu ani vztah kvůli růstu a hledat, co se dá sladit.
+Tranzit | Severní uzel | Venuše | Trigon | Láska, přátelství a pocit vlastní hodnoty člověka nesou správným směrem. Je to dobrý čas přijmout pomoc a podporu, dokud se nabízí.
+Tranzit | Severní uzel | Venuše | Sextil | Laskavé setkání nebo malé finanční zlepšení přichází ve správnou chvíli. Stačí být vstřícný k novým lidem.
+Tranzit | Severní uzel | Mars | Konjunkce | Období, kdy se růst mění v činy a člověk se učí prosazovat novým způsobem. Pozor, aby si nepletl neklid se směrem a nejednal přehnaně prudce.
+Tranzit | Severní uzel | Mars | Opozice | Jižní uzel na Marsu ukazuje staré způsoby boje, soutěžení a hněvu, které už spíš omezují. Dobré je zhodnotit je, ubrat z nich a nevyčerpávat se v opakovaném sporu.
+Tranzit | Severní uzel | Mars | Kvadratura | Tření mezi tím, co člověk chce udělat, a tím, co se zdá potřeba. Lepší je nepřidávat sílu ani se nevzdávat a v klidu změnit způsob jednání.
+Tranzit | Severní uzel | Mars | Trigon | Jednání jde snáz a zdravé prosazení nachází cestu bez tření. Je to dobrý čas vzít věci do rukou, protože bez vlastního činu se nic nestane.
+Tranzit | Severní uzel | Mars | Sextil | Malé odvážné činy se v těchto týdnech vyplácejí. Je čas začít s pohybem nebo si vyřídit odkládanou věc.
+Tranzit | Severní uzel | Jupiter | Konjunkce | Příznivé týdny, kdy se otevírají nové obzory, přichází podpora rádce nebo příležitost ke studiu a cestě. Stačí ji nebrat jako samozřejmost.
+Tranzit | Severní uzel | Jupiter | Opozice | Pokušením je spokojit se s tím, co člověk už umí, nebo se držet starých přesvědčení, protože Jupitera se dotýká Jižní uzel. Vyplatí se ověřit si, zda víra a plány ještě odpovídají, a nepřehánět sliby ani výdaje.
+Tranzit | Severní uzel | Jupiter | Kvadratura | Nadšení pro velký plán se dostává do napětí s tím, co je opravdu potřeba. Nejlepší je nerozšiřovat se do všech stran a vybrat jednu cestu.
+Tranzit | Severní uzel | Jupiter | Trigon | Víra v sebe a příznivé okolnosti usnadňují krok vpřed. Hodí se pro studium, cestování a žádost u někoho, kdo může pomoci.
+Tranzit | Severní uzel | Jupiter | Sextil | Dobrá rada nebo příležitost od vstřícného člověka přichází včas. Stojí za to ji přijmout.
+Tranzit | Severní uzel | Saturn | Konjunkce | Období, kdy růst přichází jako povinnost a odpovědnost. Člověk možná přijímá vážný závazek a je dobré vytrvat, ale také si hlídat únavu a nepřeceňovat své síly.
+Tranzit | Severní uzel | Saturn | Opozice | Jižní uzel stojí na Saturnu, a tak se o pozornost hlásí staré strachy, přehnaná kontrola a povinnosti, které už nemají smysl. Úsilí naráží na omezení. Dobré je nic neuspěchat, zhodnotit, co přestalo fungovat, a uvolnit se bez pocitu viny.
+Tranzit | Severní uzel | Saturn | Kvadratura | Nový směr naráží na omezení, autoritu nebo vlastní obavy. Chce to postupovat pomalu, důsledně a nebrat překážku jako konečné ne.
+Tranzit | Severní uzel | Saturn | Trigon | Disciplína a trpělivost dobře slouží dlouhodobému směru. Vhodné týdny na pevnou dohodu a poctivou přípravu.
+Tranzit | Severní uzel | Saturn | Sextil | Starší člověk nebo řád v povinnostech pomůže udělat malý trvalý krok. Stojí za to se ptát a držet slovo.
+Tranzit | Severní uzel | Uran | Konjunkce | Týdny, kdy nečekaná událost nebo nápad ukáže cestu k větší svobodě. Rozumné je ji zvážit a neutéct od všeho jen kvůli vzrušení.
+Tranzit | Severní uzel | Uran | Opozice | Jižní uzel na Uranu přináší neplánované zvraty a zpochybňuje starou touhu po nezávislosti a návyk utíkat. Vhodné je zůstat pružný, poznat, kde vzdor už nic nepřináší, a nezrušit bez rozmyslu to, co funguje.
+Tranzit | Severní uzel | Uran | Kvadratura | Náhlá změna nutí vykročit tam, čemu se člověk vyhýbal. Pomůže zůstat pružný a nedělat prudké kroky jen kvůli úlevě.
+Tranzit | Severní uzel | Uran | Trigon | Změna přichází snadno a nové nápady otevírají dveře. Je to dobrý čas zkusit jiný způsob života nebo práce.
+Tranzit | Severní uzel | Uran | Sextil | Malé neobvyklé rozhodnutí nebo setkání ve skupině může přinést svěží impuls. Stojí za to přijmout nezvyklou nabídku.
+Tranzit | Severní uzel | Neptun | Konjunkce | Období, kdy přitahují duchovní otázky, umění nebo pomoc druhým a kdy cíl může být nejasný. Je dobré sledovat tichý hlas intuice a přitom si ověřovat fakta.
+Tranzit | Severní uzel | Neptun | Opozice | Jižní uzel na Neptunu rozpouští staré iluze a únikové návyky. Příhodné je rozpoznat, kde člověk utíká, a nenechat se unést starými sny.
+Tranzit | Severní uzel | Neptun | Kvadratura | Dosavadní jasno se rozplývá a člověk chvíli neví, kudy dál. Na místě je nerozhodovat pod vlivem nejistoty a dopřát si odpočinek.
+Tranzit | Severní uzel | Neptun | Trigon | Intuice a soucit jemně vedou správným směrem. Týdny jsou příznivé pro tvorbu, duchovní praxi nebo službu druhým.
+Tranzit | Severní uzel | Neptun | Sextil | Inspirace nebo tiché setkání přidá důvěru v to, kam člověk jde. Stačí si dopřát prostor naslouchat.
+Tranzit | Severní uzel | Pluto | Konjunkce | Období silné proměny, kdy okolnosti nutí jít do toho, čemu se člověk vyhýbal. Lepší je pracovat s vlastní silou poctivě a nesnažit se všechno ovládat.
+Tranzit | Severní uzel | Pluto | Opozice | Jižní uzel na Plutu vynáší staré mocenské a obranné vzorce a člověk se jich může zbavit. Je to nepohodlné, ale osvobozující, a vyplatí se nedržet je násilím.
+Tranzit | Severní uzel | Pluto | Kvadratura | Bod rozhodnutí, kdy člověk cítí tlak něco změnit, nebo se vrátit do starého. Vyplatí se nenutit nikoho a nezamotat se do zápasu o kontrolu.
+Tranzit | Severní uzel | Pluto | Trigon | Hluboká změna jde bez velkého tlaku a člověk nachází vnitřní sílu. Je to dobrý čas zbavit se toho, co brzdí, a obnovit se.
+Tranzit | Severní uzel | Pluto | Sextil | Příležitost pustit se do jednoho hlubšího tématu, třeba společně s někým důvěryhodným. Malá změna má delší dosah.
+Tranzit | Severní uzel | Chiron | Konjunkce | Citlivé staré téma se dostává do souvislosti s tím, kam se člověk ubírá dál. Je to dobrý čas přijmout pomoc a nechat zkušenost s bolestí, aby se stala součástí cesty.
+Tranzit | Severní uzel | Chiron | Opozice | Jižní uzel na Chironu ukazuje staré zranění, s nímž se člověk ztotožnil. Hodí se uvolnit roli toho, kdo je zraněný nebo pomáhá všem, a dopřát si smíření.
+Tranzit | Severní uzel | Chiron | Kvadratura | Starý pocit nedostatečnosti se ozve právě ve chvíli, kdy je třeba udělat krok vpřed. Prospěje jít dál i s pochybností a být k sobě laskavý.
+Tranzit | Severní uzel | Chiron | Trigon | Zkušenost s těžkostmi se stává oporou a dá se využít ve prospěch druhých. Týdny jsou vhodné pro učení, poradenství nebo osobní práci.
+Tranzit | Severní uzel | Chiron | Sextil | Malá příležitost promluvit o tom, co bolí, a posunout to o kousek dál. Vyžaduje to vlastní odvahu.
+Tranzit | Severní uzel | Severní uzel | Konjunkce | Uzlový návrat, který přichází asi v 18 až 19, 37 a 56 letech a vrací člověka k tomu, kam směřuje. Je to dobrý čas zastavit se, přehodnotit cestu a odvážit se dalšího kroku.
+Tranzit | Severní uzel | Severní uzel | Opozice | Polovina uzlového cyklu asi v 9, 28 a 47 letech, uzly leží opačně než při narození. Staré jistoty silně přitahují, proto je lepší zkontrolovat kurz a nepovažovat návrat zpět za řešení.
+Tranzit | Severní uzel | Severní uzel | Kvadratura | Zhruba každých 4,6 roku přichází rozcestí v uzlovém cyklu. Tření brání ustrnutí a vybízí k odchodu od zvyku, je vhodné ho nepřehlušit prací nebo změnami bez rozmyslu.
+Tranzit | Severní uzel | Severní uzel | Trigon | Přibližně šest let od uzlového návratu nebo před ním plyne cesta snadněji. Úskalím je jen pohodlnost, růst se sám neudělá a je třeba do něj vložit úsilí.
+Tranzit | Severní uzel | Severní uzel | Sextil | Asi tři roky od uzlového návratu nebo před ním se schopnosti dají spojit s novými cíli. Období podporuje rozvoj, ale první krok musí udělat člověk sám.
+Tranzit | Severní uzel | Ascendent | Konjunkce | Týdny nových lidí a nového způsobu, jak se člověk ukazuje světu. Nejlepší je přijmout pozvání a začít jinak, i když je to neobvyklé.
+Tranzit | Severní uzel | Ascendent | Opozice | Severní uzel stojí naproti Ascendentu a Jižní přímo na něm a růst teď přichází skrze partnera a druhé lidi. Je čas opustit starý osobní přístup a nechtít všechno zvládat sám.
+Tranzit | Severní uzel | Ascendent | Kvadratura | Uzel svírá pravý úhel s osou Ascendentu a člověka táhnou vlastní potřeby a nároky druhých proti sobě. Smysl má ujasnit si, co má přednost, a nesnažit se vyhovět všem.
+Tranzit | Severní uzel | Ascendent | Trigon | Člověk snadno nachází lidi a prostředí, kde mu je dobře a kde roste. Je to dobrý čas na cestu, studium nebo tvorbu.
+Tranzit | Severní uzel | Ascendent | Sextil | Sousedé, přátelé nebo skupina přinesou užitečné spojení. Chce to být vidět a ozvat se.
+Tranzit | Severní uzel | Medium coeli | Konjunkce | Období, kdy se může ukázat nový pracovní směr nebo veřejná role. Na místě je vykročit k cíli a přijmout viditelnost, která s tím jde.
+Tranzit | Severní uzel | Medium coeli | Opozice | Severní uzel stojí na dně horoskopu a Jižní na vrcholu a růst se přesouvá k domovu a kořenům. Chce to ubrat z pracovních nároků a nelpět na starém postavení.
+Tranzit | Severní uzel | Medium coeli | Kvadratura | Uzel stojí na Ascendentu nebo naproti němu a osobní život či vztahy se přetahují s povoláním. Vyplatí se nedělat kariérní rozhodnutí v napětí a dobře vážit, co má přednost.
+Tranzit | Severní uzel | Medium coeli | Trigon | Povolání a životní směr se dobře doplňují a dobré pověsti přibývá. Vhodné je ucházet se o to, k čemu člověk postupně směřoval.
+Tranzit | Severní uzel | Medium coeli | Sextil | Kontakt nebo přítel může v těchto týdnech pomoci k pracovnímu posunu. Stačí jej oslovit.

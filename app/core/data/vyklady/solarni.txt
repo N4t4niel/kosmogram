@@ -1,0 +1,316 @@
+# Výklady solárního návratu, tedy horoskopu okamžiku, kdy se Slunce vrátí na svou polohu z narození. Každý řádek: Solární | kdo | kde nebo s kým | případně aspekt | text.
+# Řádek začínající křížkem program přeskočí. Texty popisují rok od narozenin, ne povahu člověka. Slunce a Merkur tvoří jen Konjunkci, Slunce a Venuše rovněž.
+
+Solární | Slunce | 1. dům | Rok staví do popředí člověka samotného, jeho vůli, vzhled a to, jak působí na druhé. Vyplatí se začít něco vlastního a přitom hlídat, aby se sebevědomí nezměnilo v sebestřednost a aby síly vydržely celý rok.
+Solární | Slunce | 2. dům | Hlavní pozornost roku patří penězům, majetku a otázce, čeho si člověk doopravdy cení. Je to dobrá doba zvážit, kolik si člověk za svou práci zaslouží, a dát do pořádku rozpočet. Vlastní hodnotu by si ale neměl měřit jen tím, co má.
+Solární | Slunce | 3. dům | Rok se točí kolem učení, psaní, vyřizování a krátkých cest a víc prostoru dostávají sourozenci, sousedé a blízké okolí. Přináší to mnoho setkání a podnětů a síly se snadno rozptýlí, proto je třeba vybírat, čemu dát skutečnou pozornost.
+Solární | Slunce | 4. dům | Těžiště roku se přesouvá domů, k rodině, bydlení a k tomu, odkud člověk pochází. Může přijít změna v bydlení nebo větší starost o rodiče a zázemí se upevňuje v klidu, i když navenek to nebude moc vidět.
+Solární | Slunce | 5. dům | Rok je otevřený radosti, lásce, tvorbě a dětem a člověk má chuť ukázat, co v něm je. Stojí za to pustit se do tvůrčího záměru a dopřát si víc potěšení. Hazard a potřebu být obdivován si ale člověk musí držet na uzdě.
+Solární | Slunce | 6. dům | Do popředí se dostává každodenní práce, pracovní podmínky, povinnosti a péče o tělo. Lepší řád, odpočinek a nepřetěžování mají přednost, protože největší cenu budou mít tento rok drobná vylepšení.
+Solární | Slunce | 7. dům | Hlavní pozornost roku patří partnerovi, partnerce a všem vztahům jeden na jednoho, včetně spolupráce a dohod. Vztahy teď ukazují, kým člověk je, a úkolem je zůstat rovnocenný, neztratit se v druhém ani na něj nepřenášet vlastní odpovědnost.
+Solární | Slunce | 8. dům | Rok vede do hloubky: na přetřes přicházejí společné peníze, dluhy, dědictví, důvěra a blízkost. Je to doba vnitřních proměn a uzavírání starých kapitol. Otevřená řeč o penězích i o tom, co člověka tíží, má přednost před bojem o moc.
+Solární | Slunce | 9. dům | Rok láká za obzor, k delším cestám, studiu, cizině, víře a hledání smyslu. Člověk si rozšiřuje pohled a hodí se pustit se do vzdělávání nebo publikování. Nové myšlenky je ale třeba ověřovat a nepoučovat jimi druhé.
+Solární | Slunce | 10. dům | Rok patří práci, postavení a tomu, jak člověka vidí veřejnost. Může přinést uznání i větší odpovědnost, výsledek ale závisí na poctivé přípravě a vztahy s nadřízenými se vyplatí řešit s rozvahou.
+Solární | Slunce | 11. dům | Pozornost se obrací k přátelům, skupinám a plánům do budoucna. Spolupráce s lidmi podobného smýšlení může otevřít nové cesty a úkolem je přispívat do společného, aniž by člověk ztratil vlastní hlas.
+Solární | Slunce | 12. dům | Rok je tišší a obrácený dovnitř, víc v něm znamená samota, odpočinek, pomoc druhým a dokončování starého než vnější úspěch. Vyplatí se šetřit síly a dopřát si klid, protože ukončit, co doslouží, je teď důležitější než začínat.
+
+Solární | Měsíc | 1. dům | Nálady a potřeby jsou teď vidět na první pohled a člověk reaguje víc podle pocitu než podle plánu. Snadno se sbližuje s lidmi, neměl by ale brát na sebe příliš a nechat se zmítat každým výkyvem.
+Solární | Měsíc | 2. dům | City se během roku točí kolem peněz a jistot a příjem i výdaje mohou kolísat. Pomáhá mít přehled a rezervu a nenechat se strachem z nedostatku vést k utrácení pro útěchu ani ke zbytečnému šetření.
+Solární | Měsíc | 3. dům | Hodně se mluví, píše, telefonuje a vyřizuje v blízkém okolí a mysl je stále v pohybu. Prospívají rozhovory se sourozenci a sousedy, člověk se ale učí rozlišovat, co opravdu cítí a co si pouze vysvětluje rozumem.
+Solární | Měsíc | 4. dům | Srdcem roku je domov: rodina, matka, bydlení a pocit, kam člověk patří. Mohou se objevit změny v domácnosti nebo oživnout staré vzpomínky a vyplatí se věnovat čas blízkým i vlastnímu klidu.
+Solární | Měsíc | 5. dům | Citový život se otevírá lásce, hře, dětem a tvorbě a člověk touží po radosti. Zamilovanost i nápady přicházejí snadno, stojí ale za to rozlišovat mezi chvilkovým okouzlením a tím, co opravdu vydrží.
+Solární | Měsíc | 6. dům | Pohoda tento rok závisí na každodenním řádu, pracovním prostředí a na tom, jak se člověk o sebe stará. Tělo citlivě odpovídá na nálady. Důležitý je pravidelný spánek a jídlo a člověk se nemá nechat pohltit cizími povinnostmi.
+Solární | Měsíc | 7. dům | Největší citová pozornost patří partnerovi, partnerce a blízkým vztahům, které se mohou prohloubit nebo proměnit. Člověk teď víc potřebuje druhé. Co cítí, má říkat otevřeně, protože to nikdo neuhodne.
+Solární | Měsíc | 8. dům | Na povrch vystupuje to, co se ve vztazích dosud nevyslovilo, a prožívání je silnější než obvykle. Mohou se měnit společné peníze a závazky. Intuici je třeba oddělit od úzkosti a v těžších chvílích se nebát říct si o pomoc.
+Solární | Měsíc | 9. dům | Srdce táhne jinam, k cestám, cizině, studiu a hledání smyslu, a člověku je dobře tam, kde se dozví něco nového. Neklid je dobré využít k učení nebo k cestě, ne k útěku od toho, co čeká doma.
+Solární | Měsíc | 10. dům | Práce, veřejný život a pověst se teď silně dotýkají citů a postavení se může měnit. Člověk je víc na očích, a tak potřebuje odstup od výkyvů uznání a rovnováhu mezi prací a domovem.
+Solární | Měsíc | 11. dům | Pohodu přinášejí přátelé, skupiny a společné plány a rok je vhodný k zasévání záměrů do budoucna. Může přibýt nová důležitá známost, vlastní potřeby se ale nemají skrývat za potřeby skupiny.
+Solární | Měsíc | 12. dům | Člověk v tomto roce víc potřebuje samotu, klid a čas na vnitřní zpracování toho, co prožil. Vynořit se mohou staré smutky, proto se vyplatí dopřát si odpočinek a svěřit se někomu důvěryhodnému, místo aby si vše nechával jen pro sebe.
+
+Solární | Merkur | 1. dům | Člověk víc mluví za sebe, dává svým názorům tvar a chce být slyšen. Stojí za to představit nový záměr nebo se učit veřejně vystupovat. Mluvit ale nemá překotně a má také naslouchat.
+Solární | Merkur | 2. dům | Myšlení se obrací k praktickým věcem, rozpočtu, smlouvám a k tomu, jak vydělat vědomostmi. Je to dobrá doba pro plánování financí a obchodní jednání, smlouvy ale chtějí pozorné čtení.
+Solární | Merkur | 3. dům | Tato oblast Merkuru svědčí, přibývá studia, psaní, zpráv a cest po okolí. Hodí se naučit se novou dovednost nebo dokončit text. Pozor si dát na roztříštění pozornosti mezi příliš mnoho věcí.
+Solární | Merkur | 4. dům | Hodně se přemýšlí a mluví o domově, rodině a bydlení a mohou přijít rodinná jednání nebo papíry kolem nemovitosti. Je to vhodná chvíle vyříkat staré nedorozumění a zamyslet se nad dětstvím a vztahem k rodičům.
+Solární | Merkur | 5. dům | Mysl si teď hraje, baví ji tvorba, koníčky, hry, učení s dětmi a vtipná výměna názorů v lásce. Daří se psaní a výuce. Člověk by ale neměl slibovat víc, než chce splnit, a spoléhat v penězích na štěstí.
+Solární | Merkur | 6. dům | Pozornost patří pracovním postupům, pořádku v papírech a řešení drobných problémů. Hodí se zlepšit svou odbornost a udělat si jasno v životosprávě. Stinnou stránkou bývají zbytečné starosti a puntičkářství.
+Solární | Merkur | 7. dům | Rok je plný jednání, dohod a rozhovorů s partnerem, partnerkou nebo obchodními společníky. Stojí za to vyjasnit si očekávání a dávat dohody na papír, úkolem je rozlišit rozhovor od sporu o to, kdo má pravdu.
+Solární | Merkur | 8. dům | Myšlení se noří do hloubky, láká zkoumání, psychologie a všechno skryté, ale také pořádek ve společných penězích, pojistkách a dědictví. Je to dobrá doba pro finanční plán a důvěrné rozhovory, stinnou stránkou bývá podezírání.
+Solární | Merkur | 9. dům | Mysl se rozšiřuje k vyššímu studiu, cizím jazykům, publikování a velkým otázkám. Rok přeje kurzům a cestám za poznáním, podrobnosti se ale musejí dotahovat a dojmy nestačí.
+Solární | Merkur | 10. dům | Slovo se stává pracovním nástrojem, přibývá jednání, prezentací a profesních rozhodnutí. Znalosti se dají zviditelnit, pozor si ale dát na to, co člověk říká veřejně a před nadřízenými.
+Solární | Merkur | 11. dům | Mysl se zaměřuje na výměnu názorů s přáteli a spolky a na plánování do budoucna. Přibývá rozhovorů a známostí, které přinášejí dobré nápady, řeči ale ještě nejsou skutečný plán.
+Solární | Merkur | 12. dům | Člověk v tomto roce víc přemýšlí o samotě, než mluví. Prospívá deník, klidné studium a rozhovor s důvěrníkem. Tíživým myšlenkám by neměl podléhat a má vážit, co a komu svěří.
+
+Solární | Venuše | 1. dům | Člověk působí příjemněji a sám víc dbá na svůj vzhled i na to, jak se cítí ve své kůži. Druzí se k němu snáz přibližují. Důležité je zůstat sám sebou a nehledat potvrzení své hodnoty jen v tom, že se někomu líbí.
+Solární | Venuše | 2. dům | Peníze přicházejí snáz a bez velkého úsilí a přibývá radosti z pěkných věcí, snadněji ale také odtékají. Vyplatí se utrácet za to, co má trvalou hodnotu, a ptát se, co člověku opravdu dodává pocit vlastní ceny.
+Solární | Venuše | 3. dům | Běžné rozhovory jsou vlídnější, vztahy se sourozenci a sousedy se mohou oteplit a radost přinášejí krátké výlety. Slovo teď umí zjemnit spor. Říkat se má i to, co člověk dlouho odkládal, ne jen to, co chtějí druzí slyšet.
+Solární | Venuše | 4. dům | Domov se stává zdrojem radosti, láká zkrášlovat byt, zvát blízké a urovnat rodinné vztahy. Pohoda doma je skutečným darem tohoto roku a úkolem je nezametat pod koberec, co by bylo potřeba vyslovit.
+Solární | Venuše | 5. dům | Láska, potěšení, tvorba a radost z dětí jsou v tomto roce nablízku. Je to jedna z nejlepších dob pro romantiku i umění. Radost leží v samotném prožitku a s požitky a výdaji se to nemá přehánět.
+Solární | Venuše | 6. dům | Příjemnější jsou vztahy na pracovišti a člověk si zpříjemňuje všední den, může přijít i sblížení s někým z okolí práce. Tělo si zaslouží péči a radost z pohybu, pohodlí ale nesmí odvést od pravidelných povinností.
+Solární | Venuše | 7. dům | Hlavním dějištěm roku jsou vztahy: partnerství se může prohloubit nebo vzniknout nové a užitek přináší i spolupráce a dohoda. Vyplatí se dělat ústupky, jen ne tak, aby se člověk druhému zcela přizpůsobil a ztratil vlastní potřeby.
+Solární | Venuše | 8. dům | Blízkost a důvěra jdou do hloubky, přitažlivost sílí a vztahy se dotýkají citlivějších míst. Mohou se zlepšit společné finance nebo přijít podpora od druhých. Člověk si má ujasnit, co dává a co čeká, aby se do lásky nepletly peníze ani moc.
+Solární | Venuše | 9. dům | Krása a láska přicházejí zdálky, z cest, cizí kultury, umění nebo studia. Může vzniknout vztah s někým odjinud a stojí za to dopřát si cestu pro radost a nezaměňovat okouzlení cizím za trvalou hodnotu.
+Solární | Venuše | 10. dům | V práci a na veřejnosti se daří díky vlídnosti a dobrým vztahům a pomáhá přízeň vlivných lidí. Rok je příznivý pro pověst a pro práci spojenou s krásou nebo lidmi. Stavět se má na skutečném výkonu, ne jen na příjemném dojmu.
+Solární | Venuše | 11. dům | Okruh přátel se rozšiřuje a člověka víc těší společnost mnoha lidí než jeden hluboký vztah. Přes známosti může přijít i výdělek. Člověk se učí rozlišit upřímné vztahy od pohodlných a nepřeceňovat společenské radosti.
+Solární | Venuše | 12. dům | Láska a péče se v tomto roce obracejí do ticha, ke skryté náklonnosti, samotě nebo nezištné pomoci. Člověk má pečovat také o sebe, pojmenovat staré citové vzorce a dobře zvážit vztahy, které by se musely skrývat.
+
+Solární | Mars | 1. dům | Síly je hodně a člověk má chuť jednat, prosadit se a začít po svém. Energii je dobré mířit do pohybu a konkrétního cíle, protože vznětlivost a spěch zvyšují riziko ukvapených kroků i drobných nehod.
+Solární | Mars | 2. dům | Energie jde do vydělávání a člověk je ochoten za své peníze bojovat. Příjem může vzrůst, výdaje ale také. Velké nákupy si zaslouží rozmysl a okamžitý nápad nemá člověka unést.
+Solární | Mars | 3. dům | Mysl je ostrá a řeč přímá, rok je nabitý rozhovory, pohybem a krátkými cestami. Dobře se tak obhajují názory. Rozepře se sousedy nebo sourozenci se ale snadno rozhoří a za volantem je na místě klid.
+Solární | Mars | 4. dům | Doma se toho hodně děje, od stěhování a rekonstrukce po napětí v rodině. Energii je dobré dát do práce na bydlení, spory s blízkými řešit včas a dbát na bezpečnost v domácnosti.
+Solární | Mars | 5. dům | Silná je vášeň, soutěživost a chuť riskovat, ať jde o lásku, sport, nebo tvorbu. Přináší to hodně života. Hazard a žárlivost si ale člověk musí držet na uzdě a s dětmi je na místě trpělivost.
+Solární | Mars | 6. dům | Práce je v tomto roce náročná, tempo roste a mohou se objevit třenice s kolegy. Vyplatí se rozvrhnout síly, pravidelně se hýbat a nepracovat přes únavu, protože tělo si o odpočinek samo řekne.
+Solární | Mars | 7. dům | Vztahy jsou plné náboje, partner nebo společník člověka vyzývá a rozpory vycházejí přímo na povrch. Rok se hodí k tomu vyslovit, co nefunguje, úkolem je nezaměňovat otevřenost s bojem a nepřipisovat vlastní hněv druhým.
+Solární | Mars | 8. dům | Energie směřuje ke společným penězům, dluhům a k tomu, kdo v blízkém vztahu rozhoduje. Silná je přitažlivost i ochota věci ukončit a začít znovu. Do rizikových podniků se nemá spěchat a vlastní bezpečí má přednost.
+Solární | Mars | 9. dům | Člověk prudce stojí za svým přesvědčením a má chuť jednat v cizině, ve studiu nebo pro věc, které věří. Hodí se to k učení a dobrodružství. Svou pravdu by ale neměl vnucovat druhým a podcenit přípravu na cesty.
+Solární | Mars | 10. dům | Ctižádost je silná a rok žene člověka k výkonu, samostatnosti a viditelné práci. Může se hodně prosadit. Ve sporech s nadřízenými je ale důležitá rozvaha, aby ukvapený krok nezničil dobrou pověst.
+Solární | Mars | 11. dům | Síly jdou do společných akcí, spolků a plánů a člověk rád táhne ostatní za sebou. Dobré je bojovat za věc spolu s přáteli, ne proti nim, a hlídat, aby z rivality ve skupině nevznikly rozepře.
+Solární | Mars | 12. dům | Energie pracuje pod povrchem, hněv se snadno dusí uvnitř a síly kolísají. Pomáhá pohyb v ústraní, klidná vnitřní práce a otevřené pojmenování toho, co člověka dráždí, místo tichého odporu.
+
+Solární | Jupiter | 1. dům | Přibývá optimismu, sebedůvěry a chuti růst a člověk působí velkoryse. Otevírají se nové možnosti. Člověk by si ale neměl nabírat příliš a má držet míru v jídle i ve slibech.
+Solární | Jupiter | 2. dům | Rok bývá příznivý pro příjem, nové zdroje a využití vlastního nadání. Více než velké výdaje mu prospívá rozumné hospodaření, protože se snadno utratí víc, než přiteklo.
+Solární | Jupiter | 3. dům | Rozšiřuje se okruh známých, učení a psaní a člověk se dozvídá víc, než stačí zpracovat. Prospěšné jsou kurzy, cesty po okolí a dobré vztahy se sourozenci, důležité je ale jít do hloubky a neklouzat po povrchu.
+Solární | Jupiter | 4. dům | Doma se daří, může přijít větší bydlení, koupě nemovitosti nebo úleva v rodině. Zázemí dává jistotu, která má sloužit růstu, ne jen pohodlí.
+Solární | Jupiter | 5. dům | Radost, láska, tvorba a děti dávají roku velkorysý rozměr. Štěstí je nablízku v lásce i v tvorbě. Začaté se ale má dotahovat a nesázet víc, než si člověk může dovolit.
+Solární | Jupiter | 6. dům | Práce bývá lehčí a příjemnější, přicházejí příležitosti, pomoc od kolegů a chuť dát do pořádku životosprávu. Je dobré nebrat na sebe víc, než lze zvládnout, a hlídat míru v jídle.
+Solární | Jupiter | 7. dům | Vztahy a dohody přinášejí růst, partner nebo společník může být oporou a může vzniknout nové spojení nebo výhodná spolupráce. Úkolem je nečekat, že druhý vyřeší za člověka jeho vlastní rozvoj.
+Solární | Jupiter | 8. dům | Užitek mohou přinést společné finance, dědictví, půjčky nebo podpora partnera. Prohlubuje se i vnitřní život. Stinnou stránkou bývají dluhy z přehnané důvěry a hledání silných zážitků pro ně samotné.
+Solární | Jupiter | 9. dům | Rok je otevřený dálkám, studiu, víře, cizině a publikování a Jupiteru se v této oblasti daří. Přicházejí příležitosti rozšířit obzor. Vlastní přesvědčení ale není jediná pravda a začaté věci potřebují dotažení.
+Solární | Jupiter | 10. dům | Může přijít uznání, postup nebo větší vliv a okolí člověku důvěřuje. Přirozenou cestou je přijmout odpovědnost, pro kterou dozrál, a lákavé nabídky poměřovat vlastními silami.
+Solární | Jupiter | 11. dům | Přátelé a skupiny otevírají dveře a člověk může získat cennou podporu a nové naděje. Společným plánům se daří a stojí za to pěstovat kvalitní vztahy místo jejich množství.
+Solární | Jupiter | 12. dům | Pomoc přichází potichu a člověk cítí ochranu i v těžších chvílích. Rok prospívá duchovnímu životu, dobročinnosti a hojení starého, od světa se ale člověk nemá stahovat víc, než je zdravé.
+
+Solární | Saturn | 1. dům | Rok žádá zralost, člověk cítí tíhu vlastní odpovědnosti a síly mohou být nižší než obvykle. Je čas ubrat z nadbytečného, dbát na kondici a vzít své směřování do vlastních rukou.
+Solární | Saturn | 2. dům | V penězích je třeba opatrnosti, příjmy mohou růst pomalu a výdaje dolehnout. Rok učí hospodařit, tvořit rezervu a poznat, že vlastní hodnota nezávisí na stavu účtu.
+Solární | Saturn | 3. dům | Myšlení se zpomaluje a zpřesňuje a učení, psaní i jednání vyžadují trpělivost. Daří se soustředěnému studiu a přesné práci. Starosti by ale neměly člověka zatížit a péči potřebují i vztahy se sourozenci a sousedy.
+Solární | Saturn | 4. dům | Na člověka doléhají povinnosti kolem domova, rodiny, stárnoucích rodičů nebo bydlení. Domov je teď třeba zpevňovat, opravit, co dlouho čeká, a vyrovnat se s rodinnými vzorci, i když to stojí hodně sil.
+Solární | Saturn | 5. dům | Radost a láska žádají v tomto roce vážnost, je v nich méně lehkosti a víc závazku, také vůči dětem. Tvorbě se daří tam, kde je za ní pravidelná práce, a potěšení si člověk nemá zakazovat.
+Solární | Saturn | 6. dům | Práce je náročná a plná povinností a tělo si žádá řád. Vyplatí se dbát na odpočinek a pravidelné prohlídky, nepřetěžovat se a zlepšovat své dovednosti krok za krokem.
+Solární | Saturn | 7. dům | Vztahy procházejí zkouškou pravdivosti, partnerství vyžaduje závazek, realistická očekávání a poctivě vyřešené spory. Co stojí na pevném základě, může tento rok zesílit, a o tom, co pevné není, je potřeba otevřeně mluvit.
+Solární | Saturn | 8. dům | Tlak se objevuje kolem dluhů, společných peněz, daní nebo dědictví a výdaje je třeba krotit. Také blízkost si žádá důvěru a trpělivost. Finance potřebují pořádek a člověk se má poctivě podívat na to, co ve vztahu kontroluje.
+Solární | Saturn | 9. dům | Přesvědčení procházejí zkouškou a člověk zjišťuje, čemu doopravdy věří. Studiu se daří, pokud je důkladné a dlouhodobé, a cesty nebo jednání s cizinou je třeba pečlivě připravit.
+Solární | Saturn | 10. dům | Práce je plná odpovědnosti a jedna pracovní etapa se může uzavřít, aby jiná začala od základů. Člověk má přijmout povinnost, pracovat poctivě a nespěchat za rychlým úspěchem.
+Solární | Saturn | 11. dům | Okruh přátel se zužuje na ty skutečné a člověk střízlivě přehodnocuje své plány. Závazky ve skupinách je dobré vybírat a dlouhodobé cíle nastavit tak, aby byly uskutečnitelné.
+Solární | Saturn | 12. dům | Rok vede do ústraní a člověk může cítit samotu nebo tíhu starých věcí. Prospívá klidná vnitřní práce, pravidelný odpočinek a ochota dokončit staré záležitosti. Všechno nést sám není nutné.
+
+Solární | Uran | 1. dům | Člověk cítí silnou potřebu změny a svobody a chce se ukázat jinak než dosud. Nové začátky jsou možné. Pozor si dát na rozhodování pod náhlým popudem a ve spěchu.
+Solární | Uran | 2. dům | Příjmy se mohou nečekaně změnit oběma směry a člověk přehodnocuje, co opravdu potřebuje. Vyplatí se mít rezervu, nekupovat z rozmaru a stavět jistotu spíš na přizpůsobivosti než na stálosti.
+Solární | Uran | 3. dům | Mysl je neklidná a rychlá a přicházejí nečekané zprávy, nápady a setkání v okolí. Hodí se to pro neobvyklé studium a techniku. Věci se nemají uzavírat ve spěchu a při řízení je namístě soustředění.
+Solární | Uran | 4. dům | Domácí situace se může rychle změnit, možné je stěhování nebo nečekané události v rodině. Člověk má být na změnu připraven a hledat domov, který si sám vybere, místo aby jen držel ten starý.
+Solární | Uran | 5. dům | Láska a tvorba se rozjíždějí nečekanými směry, přicházejí náhlá okouzlení, neobvyklé nápady a záliby. Přináší to svěžest i vzruch, závazky se ale nemají vzdávat kvůli chvilkovému nadšení.
+Solární | Uran | 6. dům | Zaběhnutý řád v práci se rozvolňuje a může se změnit pracovní prostředí nebo způsob práce. Hodí se zavést volnější a chytřejší režim a všímat si, jak tělo reaguje na neklid a stres.
+Solární | Uran | 7. dům | Vztahy dostávají nový náboj, do života mohou vstoupit neobvyklí lidé a v partnerství sílí touha po svobodě. Člověk má upřímně říct, co potřebuje, a hledat rovnováhu mezi blízkostí a samostatností dřív, než unáhleně přetrhne vazby.
+Solární | Uran | 8. dům | Nečekaně se mohou změnit společné peníze, dědictví nebo závazky a v blízkých vztazích se ukazují skryté obrany. Vyplatí se být ve financích obezřetný a k citlivým tématům přistupovat šetrně, protože náhlá otevřenost může věci uvolnit.
+Solární | Uran | 9. dům | Dosavadní přesvědčení se otřásají a člověka lákají neobvyklé myšlenky, cesty a nové obory. Člověk hledá vlastní odpovědi a má počítat s tím, že náhle nalezená pravda nemusí být konečná.
+Solární | Uran | 10. dům | Pracovní dráha může dostat nečekaný obrat, přichází změna postavení, zaměstnání nebo touha pracovat na vlastní pěst. Změnu se vyplatí promyslet a nepálit za sebou mosty ve sporu s nadřízenými.
+Solární | Uran | 11. dům | Do života vstupují noví a neobvyklí přátelé a mění se skupiny, ke kterým člověk patří, i plány do budoucna. Stojí za to ujasnit si, s kým opravdu sdílí hodnoty, a počítat s tím, že některé vztahy odejdou.
+Solární | Uran | 12. dům | Pod povrchem se hýbe to, co člověk dosud nevnímal, a neklid přichází bez zjevné příčiny. Vnitřní objevy potřebují čas, tvorbu a rozjímání a nervozita člověka nemá unést.
+
+Solární | Neptun | 1. dům | Hranice vlastního já se rozvolňují, člověk vnímá jemněji a snadno přebírá nálady okolí. Hodí se to k tvorbě a soucitu, oporou je ale pevný denní řád a péče o své síly.
+Solární | Neptun | 2. dům | V penězích je méně jasno, člověk může podlehnout iluzím o příjmu nebo cizím slibům a ztrácet přehled. Vyplatí se vést si pečlivé záznamy a hledat jistotu i v jiných hodnotách než ve věcech.
+Solární | Neptun | 3. dům | Mysl je obrazotvorná a intuitivní, ale snadno se ztratí podrobnosti a dojde k nedorozumění. Prospívá psát, číst a rozjímat. Důležité zprávy a dohody je však třeba ověřovat.
+Solární | Neptun | 4. dům | Doma může být méně jasno, rodinné vztahy zůstávají nedořečené nebo člověk sní o jiném domově. Je to čas k soucitnému pohledu na rodinu. Záležitosti kolem bydlení ale potřebují důkladné prověření.
+Solární | Neptun | 5. dům | Láska a tvorba jsou plné snění a inspirace a člověk se snadno okouzlí. Umění se daří. Ve vztazích má člověk vidět druhého takového, jaký je, a nesázet na iluze ani v hazardu.
+Solární | Neptun | 6. dům | Každodenní práce ztrácí jasné obrysy a člověk hledá v povinnostech smysl, který může najít ve službě druhým. Pracovní úkoly si má ujasnit, všímat si únavy a být opatrný v tom, co tělu dává.
+Solární | Neptun | 7. dům | Partnera člověk snadno vidí v idealizovaném světle a hranice mezi soucitem a obětí se stírají. Soucit potřebuje střízlivý pohled, dohody pozorné čtení a člověk se nemá nechat vtáhnout do role zachránce.
+Solární | Neptun | 8. dům | Společné finance a závazky mohou být nejasné, proto je dobré ověřovat si dohody a dokumenty. V blízkých vztazích sílí citlivost na nevyřčené a úkolem je zůstat přítomný, nesplynout s druhým ani neutéct.
+Solární | Neptun | 9. dům | Člověka přitahují duchovní cesty, vzdálené kraje a ideály. Inspirace je silná, ověřuje ji ale až zkušenost a autority se nemají následovat jen proto, že slibují smysl.
+Solární | Neptun | 10. dům | Pracovní směr se mlží a člověk se ptá, zda jeho práce odpovídá tomu, kým se stává. Prospívají tvůrčí nebo pomáhající úkoly. Vlastní pověst přitom chrání jasnost a důslednost.
+Solární | Neptun | 11. dům | Přátelství a skupiny jsou nesené ideály a člověk rád pomáhá, ne vždy ale vidí, kdo je kdo. Stojí za to zachovat realistický pohled na společné plány a hlídat, aby vlastní potřeby nezmizely.
+Solární | Neptun | 12. dům | Vnitřní život, rozjímání, umění a soucit se prohlubují a ticho má velkou cenu. Samota prospívá, člověk se ale musí držet všedního dne, aby se z ní nestal únik.
+
+Solární | Pluto | 1. dům | Rok může proměnit samotný obraz sebe sama a člověk nechává odejít staré role. Síla vůle je velká a úkolem je obrátit ji na vlastní změnu, ne na ovládání druhých.
+Solární | Pluto | 2. dům | Peníze a majetek procházejí hlubokou změnou a s nimi i pocit vlastní ceny. Člověk se učí oprostit se od lpění, zbavit se toho, co už neslouží, a nepoužívat peníze jako nástroj moci.
+Solární | Pluto | 3. dům | Řeč i myšlení jsou pronikavé, člověk se ptá do hloubky a nesnese povrchnost. Slova mají velkou váhu, a tak s nimi má zacházet citlivě a nepřemílat stále dokola tytéž myšlenky.
+Solární | Pluto | 4. dům | Domov a rodina se hluboce proměňují a mohou vyplavat staré rodinné příběhy i otázka, kdo doma rozhoduje. Člověk k nim má přistupovat pravdivě a stavět pocit bezpečí znovu a pevněji.
+Solární | Pluto | 5. dům | Láska a tvorba mají velkou intenzitu a člověk chce prožívat naplno. Takový žár může obohatit umění i vztahy. Pozor si dát na lpění na druhém a na potěšení, které se mění v posedlost.
+Solární | Pluto | 6. dům | Každodenní zvyky a pracovní řád se mění od základu a co ztuhlo, musí ustoupit. Vyplatí se pečovat o tělo, všímat si jeho signálů a nenechat se vtáhnout do mocenských her na pracovišti.
+Solární | Pluto | 7. dům | V blízkých vztazích vychází najevo, kdo má jakou moc, a někdy se přehodnocuje celá podoba partnerství. Cílem je poctivější a rovnější vztah, a tak se nemají přehlížet pokusy o ovládání, vlastní ani cizí.
+Solární | Pluto | 8. dům | Proměna jde až na dno a velkými tématy jsou blízkost, důvěra, společné peníze a loučení se starým. Síla tohoto roku je v ochotě pustit kontrolu a o financích se vyplatí jednat otevřeně a s dobrým poradcem.
+Solární | Pluto | 9. dům | Stará přesvědčení se hroutí a člověk hledá pravdu, která obstojí. Studium nebo cesta mohou změnit pohled na život a úkolem je neproměnit nové poznání v novou neoblomnost.
+Solární | Pluto | 10. dům | Pracovní role prochází zásadním obratem a to, co už nesedí, odchází. Vliv může růst a je důležité jednat čistě, protože vztah k moci a autoritám je teď pod drobnohledem.
+Solární | Pluto | 11. dům | Přátelství a skupiny se prověřují a ukazuje se, kdo kam doopravdy patří. Ve skupinách se vyplatí všímat si skrytých úmyslů a usilovat o proměnu vlastních cílů, ne o vliv.
+Solární | Pluto | 12. dům | Z hloubky vystupuje, co bylo dlouho skryté, nevyslovené pocity a staré vzorce. Tato práce potřebuje prostor, klidně s odbornou pomocí, a záležitosti v pozadí se řeší spíš diskrétně než bojem.
+
+Solární | Chiron | 1. dům | Citlivěji se ozývá téma přijetí sebe sama, vlastního vzhledu a těla. Je čas přestat hrát roli a ukázat se i se svou zranitelností, protože tím člověk pomůže sobě i druhým.
+Solární | Chiron | 2. dům | Citlivým místem je vlastní hodnota a vztah k penězům. Člověk se učí odlišit svou cenu od výkonu a uznání a daří se mu tam, kde své zkušenosti nabídne jako užitečnou schopnost.
+Solární | Chiron | 3. dům | Může bolet pocit, že člověk není slyšen nebo pochopen, třeba mezi sourozenci nebo při učení. Člověk hledá vlastní slova a právě z toho se může stát dar radit a učit druhé.
+Solární | Chiron | 4. dům | Znovu se ozývají staré rány z dětství a rodiny a pocit domova je křehčí. Člověk se k nim má vrátit s laskavostí, případně s pomocí, a přerušit to, co se v rodině předávalo dál.
+Solární | Chiron | 5. dům | Radost, láska nebo tvorba se dotýkají staré citlivosti a citlivější může být i vztah k dětem. Stojí za to dovolit si hrát a tvořit bez obav z hodnocení a dopřát péči vnitřnímu dítěti.
+Solární | Chiron | 6. dům | Zvýšenou pozornost si žádá rovnováha mezi prací a péčí o sebe. Vyplatí se naslouchat tělu, nepomáhat ostatním na úkor vlastních sil a pečovat o sebe tak, jak člověk pečuje o druhé.
+Solární | Chiron | 7. dům | Ve vztazích se ozývají staré rány a vzorce a blízký člověk se jich může nechtěně dotknout. Poctivé sdílení zranitelnosti může vztah uzdravit, nesmí ale vést k roli zachránce ani oběti.
+Solární | Chiron | 8. dům | Citlivě se ozývá důvěra, blízkost a to, co si člověk nese z předchozích ztrát a strachů. Prospívá otevřenost a odborná opora, protože právě tam, kam se člověk nerad dívá, leží úleva.
+Solární | Chiron | 9. dům | Víra nebo obraz světa mohou být otřeseny a člověk hledá smysl, který unese i bolest. Studium, cesta nebo učitel mohou přinést hojivý pohled a člověk sám pak může předávat, co pochopil.
+Solární | Chiron | 10. dům | Otevírá se citlivé místo v pracovní roli, pocit nedostatečnosti nebo otázka, zda práce odpovídá pravdě člověka. Dobře se to proměňuje v práci s lidmi, ve vedení druhých a v otevřenosti na veřejnosti.
+Solární | Chiron | 11. dům | Pocit, že člověk nepatří mezi ostatní, se může ozvat mezi přáteli nebo ve skupinách. Právě odlišnost se tu může stát přínosem. Člověk hledá lidi, kteří ho přijímají takového, jaký je.
+Solární | Chiron | 12. dům | Skryté bolesti vystupují potichu a žádají soucit. Prospívá ticho, rozjímání a odpuštění sobě. To, co bolí, by se nemělo odbývat jen proto, že to není vidět.
+
+Solární | Severní uzel | 1. dům | Rok zve člověka k samostatnosti a vlastnímu rozhodování, i když je zvyklý spoléhat na druhé. Pohodlná závislost na partnerovi už k růstu nestačí a stojí za to vystoupit sám za sebe.
+Solární | Severní uzel | 2. dům | Cesta vede k vlastním zdrojům, finanční samostatnosti a praktickým dovednostem. Člověk má spoléhat víc na sebe než na cizí peníze a podporu a poznat, co sám dokáže.
+Solární | Severní uzel | 3. dům | Růst přichází z blízkého okolí, z konkrétního učení a všedních rozhovorů. Velké teorie mohou počkat, přednost má to, co je po ruce, a lidé, kteří bydlí nablízku.
+Solární | Severní uzel | 4. dům | Rok obrací člověka k domovu, rodině a vnitřnímu zázemí. Pracovní úspěch ho teď neuspokojí tolik jako pocit, že někam patří, a stojí za to dát tomu přednost.
+Solární | Severní uzel | 5. dům | Růst přichází skrze radost, tvorbu, lásku a osobní odvahu vystoupit z davu. Je čas přestat se schovávat za skupinu nebo roli pozorovatele a něco vsadit na vlastní srdce.
+Solární | Severní uzel | 6. dům | Úkolem roku je dobrý řád, užitečná práce a starost o tělo. Člověk sestupuje ze snění a únikových cest k tomu, co je dnes potřeba udělat.
+Solární | Severní uzel | 7. dům | Cesta vede ke spolupráci, kompromisu a skutečnému partnerství. Člověk se učí nedělat všechno sám a dávat druhému prostor, čímž získá víc než dosavadní soběstačností.
+Solární | Severní uzel | 8. dům | Rok zve přijmout pomoc, vstoupit do hlubší blízkosti a podstoupit vnitřní změnu. Člověk se učí povolit v lpění na vlastním majetku a nezávislosti a sdílet.
+Solární | Severní uzel | 9. dům | Růst leží za obzorem, ve studiu, na cestách, ve výuce a v širším pohledu na svět. Nemá uvíznout v podrobnostech a řečech okolí, ale hledat, co má hlubší smysl.
+Solární | Severní uzel | 10. dům | Rok volá z ústraní ven, k veřejné odpovědnosti, vedení a pracovním cílům. Domácí pohodlí a závislost na rodině už nestačí a člověk má příležitost udělat krok vpřed.
+Solární | Severní uzel | 11. dům | Cesta vede k lidem, společným cílům a dlouhodobým plánům. Osobní lesk už nestačí, je čas přispět k něčemu, co přesahuje vlastní příběh.
+Solární | Severní uzel | 12. dům | Rok zve k tichu, vnitřnímu klidu a soucitu, i když na to člověk není zvyklý. Člověk má povolit v neustálém výkonu a puntičkářství a dát prostor tomu, co se nedá změřit.
+
+Solární | Ascendent | Beran | Rok se nese v tónu odvahy, nových začátků a rychlého jednání a člověk spoléhá víc na sebe. Sílu dává samostatnost, rok ale svádí k netrpělivosti a zbytečným střetům.
+Solární | Ascendent | Býk | Tempo se zpomaluje a rok se věnuje upevňování, penězům a tomu, co dává tělu i duši jistotu. Daří se trpělivému budování, rok ale svádí k lpění na pohodlí a odporu k potřebné změně.
+Solární | Ascendent | Blíženci | Rok je pestrý, plný pohybu, rozhovorů, nápadů a nových známostí. Přináší zvědavost a lehkost, důležité je ale udržet pozornost a odlišit pouhou informaci od skutečného poznání.
+Solární | Ascendent | Rak | Rok je citlivý a obrací člověka k domovu, rodině a vnitřnímu bezpečí. Víc záleží na náladách a blízkých lidech. Stahovat se do ulity při každé nejistotě ale není řešení.
+Solární | Ascendent | Lev | Člověk v tomto roce vystupuje sebejistěji, chce být vidět a tvořit. Vřelost a schopnost vést otevírají dveře, rok ale svádí k závislosti na obdivu a k dramatizování.
+Solární | Ascendent | Panna | Rok je věcný a věnuje se práci, zdokonalování, službě a životosprávě. Pečlivým úkolům se daří, člověk by ale neměl být příliš kritický k sobě ani k druhým a ztrácet kvůli podrobnostem celek.
+Solární | Ascendent | Váhy | Rok se odvíjí ve znamení vztahů, dohod a hledání rovnováhy. Člověk víc vychází vstříc a působí příjemně, úkolem je však rozhodovat se a nevyhýbat se potřebnému střetu za každou cenu.
+Solární | Ascendent | Štír | Rok je intenzivní a sahá pod povrch, k pravdivosti, proměně a k tomu, co bylo skryté. Člověk vnímá ostře a má velkou sílu. Stinnou stránkou bývá podezírání, ovládání a zápas z každého setkání.
+Solární | Ascendent | Střelec | Rok rozšiřuje obzory a láká k cestám, studiu, velkým plánům a hledání smyslu. Optimismus nese člověka vpřed, věci ale nemá nechávat rozdělané a poučovat druhé.
+Solární | Ascendent | Kozoroh | Rok je vážný, pracovní a míří k dlouhodobým cílům a pevnému řádu. Hodně se toho dá postavit. Úspěch se ale neměří jen vnějším výkonem a na odpočinek se nemá zapomínat.
+Solární | Ascendent | Vodnář | Rok zve k samostatnosti, vlastnímu svědomí a novým nápadům a člověka víc táhne k lidem podobného smýšlení. Úkolem je neodmítat pravidla jen z odporu, nezůstávat citově vzdálený a plnit, co slíbil.
+Solární | Ascendent | Ryby | Rok je měkký, citlivý a otevřený soucitu, umění a duchovním otázkám. Intuice je silná, člověk si ale musí držet hranice a neunikat před nepříjemnou skutečností do snění.
+
+Solární | Měsíc | Beran | Citově se rok nese v touze po novém začátku a člověk reaguje rychle a spontánně. Minulost se snáz nechává být, odvaha ale není totéž co ukvapenost.
+Solární | Měsíc | Býk | Měsíci se tu daří a rok přináší citovou stálost a touhu zapustit kořeny. Pohodu dávají domov, příroda a jistota, rok ale svádí k utěšování se pohodlím.
+Solární | Měsíc | Blíženci | Citový život je neklidný, zvědavý a rozdělený mezi mnoho podnětů. Pocity se nejlépe zpracují v rozhovoru. Člověk se ale nemá zahltit a čas patří i tomu, co se slovy vyřešit nedá.
+Solární | Měsíc | Rak | Měsíc je ve svém znamení a citová potřeba rodiny a domova je velmi silná. Přináší to vřelost a pocit sounáležitosti, ale také přecitlivělost a návrat starých zranění.
+Solární | Měsíc | Lev | Nálada roku je vřelá, hravá a sebejistá a člověk touží po radosti a uznání. Daří se tvorbě i lásce, dobrá nálada ale nemá záviset na tom, jak reagují ostatní.
+Solární | Měsíc | Panna | Citově se rok nese v potřebě být užitečný, mít pořádek a věci pod kontrolou. Jistotu dává dobře odvedená práce a zdravé návyky, rok ale svádí k úzkostlivosti a hledání chyb.
+Solární | Měsíc | Váhy | Citová pohoda v tomto roce závisí na vztazích, souladu a dobré společnosti. Člověk působí přitažlivěji a víc spolupracuje, spory se ale mají řešit, ne jen uhlazovat.
+Solární | Měsíc | Štír | Prožívání je silné a sahá pod povrch, i když navenek zůstává ovládané. Vnímavost k lidem roste, rok ale svádí k lpění, žárlivosti a dlouhému nošení křivd v sobě.
+Solární | Měsíc | Střelec | Nálada roku je optimistická a neklidná, člověk touží po dobrodružství, volnosti a smyslu. Pomáhá cestovat nebo se učit, člověk by ale neměl přeskakovat od jednoho nadšení k druhému.
+Solární | Měsíc | Kozoroh | Citově je rok střízlivý a přednost dostávají povinnosti a dlouhodobé cíle. Dává to vytrvalost a sebekázeň. Blízcí ale mohou citově strádat, a tak má člověk zůstat dostupný a dát najevo, co cítí.
+Solární | Měsíc | Vodnář | Člověk v tomto roce potřebuje citový prostor, volnost a blízkost lidí, kteří ho zajímají. Dává to nadhled a neobvyklé reakce, vlastní city by ale neměly zůstat zakryté rozumem a odstupem.
+Solární | Měsíc | Ryby | Citlivost a představivost jsou velké a člověk potřebuje čas pro sebe. Prospívá tvorba a ticho. Člověk se má šetřit, chránit své hranice a nepodléhat pocitu, že ho nikdo nevidí.
+
+Solární | Medium coeli | Beran | Pracovní cíle roku žádají iniciativu, samostatnost a odvahu pustit se do nového. Daří se tomu, kdo jde první. Člověk by ale neměl přepínat a má uvážit, s kým se střetne.
+Solární | Medium coeli | Býk | Veřejné cíle roku míří k upevnění, stabilnímu příjmu a tomu, co má trvalou hodnotu. Postupuje se pomaleji a jistěji, zaběhnutý stav ale nesmí ukolébat.
+Solární | Medium coeli | Blíženci | Pracovní směr roku souvisí se slovem, kontakty a mnohostrannou činností. Může přibýt několik úkolů najednou a stojí za to určit, který z nich má přednost.
+Solární | Medium coeli | Rak | Cíle roku se váží k péči o druhé, k rodině a k tomu, aby práce poskytovala pocit bezpečí. Veřejný a soukromý život se tu prolínají, proto je dobré držet mezi nimi jasnou hranici.
+Solární | Medium coeli | Lev | Rok míří k viditelnosti, vedení a uznání za tvůrčí práci. Člověk může vystoupit do popředí. Patří k tomu velkorysost a zásluhy druhých si nemá nárokovat.
+Solární | Medium coeli | Panna | Pracovní cíle roku žádají odbornost, přesnost a službu, která má skutečný užitek. Uznání přichází za dobře odvedené detaily, člověk se jimi ale nemá nechat zahltit.
+Solární | Medium coeli | Váhy | Veřejná cesta roku vede přes spolupráci, jednání, dohody a dobré vztahy. Daří se tomu, kdo umí spojovat lidi. Rozhodovat se ale nemá podle toho, co se komu bude líbit.
+Solární | Medium coeli | Štír | Rok míří k práci do hloubky, k odpovědnosti za citlivé věci a k proměně vlastní role. Vliv může růst a je dobré využívat jej otevřeně, bez zákulisních her.
+Solární | Medium coeli | Střelec | Pracovní cíle roku se rozšiřují, ke slovu přichází vzdělávání, cizina a větší rozhled. Hodí se plánovat ve velkém, proveditelnost je ale třeba prověřit.
+Solární | Medium coeli | Kozoroh | Rok míří k dlouhodobému budování postavení, disciplíně a pevné odpovědnosti. Výsledky přicházejí za poctivou práci, ta ale nemá vytlačit všechno ostatní.
+Solární | Medium coeli | Vodnář | Pracovní cesta roku žádá nezávislost, nové nápady a práci pro širší okruh lidí. Změna oboru nebo způsobu práce je možná, nesmí se při ní ale ztratit spolehlivost.
+Solární | Medium coeli | Ryby | Pracovní cíle roku jsou méně ostré a lákají k pomáhajícím nebo tvůrčím úkolům. Člověk hledá ve své práci smysl a vyplatí se jasně pojmenovat, co od ní očekává, a dohody mít na papíře.
+
+Solární | Slunce | Měsíc | Konjunkce | Rok začíná jako nové kolo, vůle a city jdou stejným směrem, kořeny a rodina nabývají na významu a novým začátkům se daří.
+Solární | Slunce | Měsíc | Opozice | Rok je rušný a pamětihodný, vnější cíle se přetahují s citovými potřebami a vztahy, a tak je potřeba hledat vědomou rovnováhu.
+Solární | Slunce | Měsíc | Kvadratura | Je to rok důležitých obratů. Tření mezi tím, co člověk chce, a tím, co potřebuje, může narušit klid domova, a tak péči potřebuje rodina i vlastní pohoda.
+Solární | Slunce | Měsíc | Trigon | Vůle a city se snadno domluví, síly přibývá, stres polevuje a oporu dávají rodina a přátelé.
+Solární | Slunce | Měsíc | Sextil | Vztahy doma a mezi přáteli nabízejí klidnou podporu, kterou se vyplatí využít k uskutečnění vlastních plánů.
+Solární | Slunce | Merkur | Konjunkce | Myšlení je spojené s vůlí, přibývá psaní, studia, jednání a krátkých cest a je dobré rozhodovat se s rozvahou, ne ve spěchu.
+Solární | Slunce | Venuše | Konjunkce | Rok je společenský a příjemný, přináší pozvání, příležitosti v lásce a radost z tvorby, pozor si ale dát na výdaje za pohodlí.
+Solární | Slunce | Mars | Konjunkce | Síly a ctižádosti je dost na nové projekty, krotit se ale musí netrpělivost a hněv a ve spěchu je na místě opatrnost.
+Solární | Slunce | Mars | Opozice | Druzí se v tomto roce stavějí proti vůli člověka a střety se snadno vyostří, a ne na každou výzvu je nutné odpovídat.
+Solární | Slunce | Mars | Kvadratura | Síla se tlačí ven v podobě podrážděnosti a ukvapených činů, a tak prospívá pravidelný pohyb a rozvaha, zvláště za volantem a při práci s nářadím.
+Solární | Slunce | Mars | Trigon | Přibývá elánu, odvahy a chuti dotahovat cíle a rok se hodí pro samostatný krok i pro cestu.
+Solární | Slunce | Mars | Sextil | Otevírá se možnost prosadit se vlastní aktivitou, stačí ji včas uchopit a zapojit do ní síly i lidi kolem sebe.
+Solární | Slunce | Jupiter | Konjunkce | Rok patří k příznivým, přináší růst postavení, příjmů i poznání, jen míru v jídle a výdajích je třeba držet.
+Solární | Slunce | Jupiter | Opozice | Velké nabídky a sliby druhých lákají k přecenění sil, proto je nutné počítat s realitou a nic nepodepisovat bez kontroly.
+Solární | Slunce | Jupiter | Kvadratura | Přehnaná sebedůvěra a rozhazovačnost mohou přerůst možnosti, a tak je namístě míra a pozornost k podrobnostem a papírům.
+Solární | Slunce | Jupiter | Trigon | Problémy se řeší snadněji, přichází pomoc vlivných lidí a sklizeň dřívější práce a rok přeje učení, cestám a úředním záležitostem.
+Solární | Slunce | Jupiter | Sextil | Objevují se příznivé příležitosti ve studiu, práci nebo na cestách, které se naplní tomu, kdo se o ně sám přihlásí.
+Solární | Slunce | Saturn | Konjunkce | Odpovědnost omezuje volnost a sil je méně, přináší to však zralost a pořádek, pokud se člověk soustředí na to podstatné.
+Solární | Slunce | Saturn | Opozice | Nadřízení, starší lidé nebo partner kladou požadavky, které brzdí vlastní vůli, a je nutné přijmout realitu a jednat poctivě.
+Solární | Slunce | Saturn | Kvadratura | Překážky a pomalé výsledky zkoušejí vytrvalost, vztah k autoritám nebo k otci si žádá pozornost a síly se mají šetřit.
+Solární | Slunce | Saturn | Trigon | Kázeň a trpělivost nesou plody a daří se dlouhodobé práci, plánování, opravám i studiu s podporou zkušenějších.
+Solární | Slunce | Saturn | Sextil | Střízlivý plán a pravidelná práce otevírají možnost získat důvěru starších a upevnit své postavení.
+Solární | Slunce | Uran | Konjunkce | Sílí touha po svobodě a změně a možné jsou velké obraty v práci, bydlení nebo vztazích, které si zaslouží promyšlení, i když přicházejí náhle.
+Solární | Slunce | Uran | Opozice | Neklid a nepředvídatelní lidé v okolí obracejí plány vzhůru nohama, a vazby by se neměly utínat v prudké reakci.
+Solární | Slunce | Uran | Kvadratura | Napětí se hromadí a vybíjí náhlými změnami a stresem, a tak je dobré uvolňovat je včas a ve spěchu zpozornět.
+Solární | Slunce | Uran | Trigon | Přicházejí svěží nápady, příjemná překvapení a spontánní cesty a člověk může změnit život bez velkých otřesů.
+Solární | Slunce | Uran | Sextil | Nová technika, neobvyklé zájmy nebo noví lidé nabízejí možnost udělat krok jinam, stačí se jí otevřít.
+Solární | Slunce | Neptun | Konjunkce | Vnímání a intuice se zjemňují, sílí touha pomáhat a ponořit se do umění nebo duchovna, síly ale kolísají a rok svádí k úniku do snění.
+Solární | Slunce | Neptun | Opozice | Druzí mohou být nejasní a jejich sliby nespolehlivé, proto se vyplatí ověřovat si fakta a nepodléhat iluzím ve vztazích.
+Solární | Slunce | Neptun | Kvadratura | Nejasné cíle, obavy a únava rozmazávají směr, a tak člověk potřebuje chránit své síly, být obezřetný v penězích a nestavět na domněnkách.
+Solární | Slunce | Neptun | Trigon | Inspirace, soucit a intuice plynou snadno a rok přeje umění, rozjímání a pomoci druhým.
+Solární | Slunce | Neptun | Sextil | Hudba, umění, duchovní zájmy nebo dobročinnost nabízejí přístup k hlubšímu smyslu, stačí jim věnovat čas.
+Solární | Slunce | Pluto | Konjunkce | Rok má hlubokou proměňující sílu, na povrch vystupuje, co bylo pohřbené, a do mocenských zápasů se člověk nemá pouštět.
+Solární | Slunce | Pluto | Opozice | Silní nebo ovládaví lidé zkoušejí vůli člověka a důležité je držet si své hranice s klidem a nezatvrzovat se.
+Solární | Slunce | Pluto | Kvadratura | Zakořeněné návyky a vnitřní tlak volají po změně a možné jsou i střety s autoritami, snaha vyhrát ale nesmí člověka ovládnout.
+Solární | Slunce | Pluto | Trigon | Člověk má sílu měnit věci od základu a rok se hodí k sebepoznání, obnově a rozhodnému, ale klidnému jednání.
+Solární | Slunce | Pluto | Sextil | Otevírá se možnost obnovy, ať přes rozhovor s odborníkem, nebo přes rozhodný krok, který odstraní, co už neslouží.
+Solární | Slunce | Chiron | Konjunkce | Rok se dotýká nejcitlivějšího místa sebedůvěry a přináší příležitost přijmout vlastní zranitelnost jako zdroj síly.
+Solární | Slunce | Chiron | Opozice | Citlivá místa odhalují spíš vztahy s druhými, kteří mohou připomenout staré rány, a je lepší mluvit o nich v klidu.
+Solární | Slunce | Chiron | Kvadratura | Pocit, že člověk nestačí, může brzdit jeho záměry, proto si žádá laskavost a člověk se nemá přetěžovat dokazováním.
+Solární | Slunce | Chiron | Trigon | Staré zkušenosti se snadno mění v moudrost a člověk umí pomoci druhým i sobě.
+Solární | Slunce | Chiron | Sextil | Nabízí se setkání nebo úkol, při kterém může člověk využít to, co se naučil ze svých těžších zkušeností.
+Solární | Slunce | Severní uzel | Konjunkce | Rok je důležitým krokem na životní cestě a osobní rozhodnutí mají dopad na dlouhé období.
+Solární | Slunce | Severní uzel | Opozice | Slunce stojí na Jižním uzlu, takže se rok vrací ke starým vzorcům a lidem a úkolem je uzavřít je, ne se v nich zabydlet.
+Solární | Slunce | Severní uzel | Kvadratura | Životní směr se dostává na křižovatku, kde vlastní vůle nejde snadno s tím, co žádá další růst, a východiskem bývá třetí cesta.
+Solární | Slunce | Severní uzel | Trigon | Vlastní vůle a dlouhodobý růst se podporují a kroky vpřed se dělají s lehkostí.
+Solární | Slunce | Severní uzel | Sextil | Objevuje se příležitost nebo člověk, který pomůže jít po životní cestě dál, stačí je nepřehlédnout.
+Solární | Slunce | Ascendent | Konjunkce | Přibývá síly a sebedůvěry, člověk je na očích a vstupuje do roku s odhodláním a chutí vést.
+Solární | Slunce | Ascendent | Opozice | Slunce stojí naproti Ascendentu, takže hlavní síla roku směřuje k partnerovi a ke druhým lidem. Vlastní díl odpovědnosti jim ale člověk nemá přenechat.
+Solární | Slunce | Ascendent | Kvadratura | Vnější cíle a osobní vystupování se hůř shodují, pýcha a snaha prosadit se mohou vyčerpávat, proto se vyplatí šetřit síly a vycházet s autoritami.
+Solární | Slunce | Ascendent | Trigon | Sebevědomí a elán jsou na očích, člověk si rozumí s lidmi i s nadřízenými a síly se rychle obnovují.
+Solární | Slunce | Ascendent | Sextil | Příjemné a jisté vystupování otevírá dveře u vlivných lidí a stačí toho včas využít.
+Solární | Slunce | Medium coeli | Konjunkce | Rok patří ctižádosti a veřejnému působení, viditelnost roste a na vlastních rozhodnutích hodně záleží.
+Solární | Slunce | Medium coeli | Opozice | Slunce stojí v nejhlubším bodě horoskopu, takže těžiště roku leží doma a v soukromí, zatímco práce se musí přizpůsobit.
+Solární | Slunce | Medium coeli | Kvadratura | Pracovní cíle narážejí na překážky a tření se spolupracovníky a žádají víc úsilí a ochotu přijmout cizí názor.
+Solární | Slunce | Medium coeli | Trigon | Přichází pracovní úspěch, respekt a jasné cíle a rok je vhodný k postupu.
+Solární | Slunce | Medium coeli | Sextil | Otevírá se pracovní příležitost, zvláště přes spolupracovníky a kontakty, o kterou je třeba se jasně přihlásit.
+
+Solární | Měsíc | Merkur | Konjunkce | Mysl i city jsou čilé, hodně se mluví, cestuje a řeší a pozornost si žádá nervozita a rozvrh dne.
+Solární | Měsíc | Merkur | Opozice | Pocity a rozum se rozcházejí, rozhovory s blízkými vyžadují trpělivost a věci je lepší nejdřív v klidu promyslet.
+Solární | Měsíc | Merkur | Kvadratura | Mysl je přetížená starostmi a nervozitou, a tak pomáhá mít pořádek v plánech a vyslovit, co člověka trápí.
+Solární | Měsíc | Merkur | Trigon | Cit a rozum si rozumějí, rozhovory uklidňují a daří se psaní, učení a vyjednávání.
+Solární | Měsíc | Merkur | Sextil | Dobře vedený rozhovor nebo nová zpráva může uvolnit citové napětí a otevřít praktickou možnost.
+Solární | Měsíc | Venuše | Konjunkce | Sílí touha po radosti, pohodlí a společnosti, hlásí se ke slovu láska i přání založit rodinu a nálady jsou vlídné, i když proměnlivé.
+Solární | Měsíc | Venuše | Opozice | Mezi vlastními potřebami a přáním druhých je třeba hledat rovnováhu a nehledat útěchu v utrácení nebo přehnaných požitcích.
+Solární | Měsíc | Venuše | Kvadratura | Citová pohoda závisí na přízni druhých, a člověk se učí rozlišit lásku od pouhého přizpůsobování.
+Solární | Měsíc | Venuše | Trigon | Partner a přátelé poskytují oporu, domov je příjemný a člověk se cítí přijímaný.
+Solární | Měsíc | Venuše | Sextil | Laskavé gesto nebo společenská příležitost přináší radost, pokud ji člověk sám přijme.
+Solární | Měsíc | Mars | Konjunkce | Emoce jsou prudké a rychle se rozhoří, člověk je netrpělivý a činorodý a vyplatí se směřovat hněv do práce nebo pohybu.
+Solární | Měsíc | Mars | Opozice | Střety s blízkými se rozhoří z maličkostí a lepší je nejdřív vychladnout a teprve potom odpovědět.
+Solární | Měsíc | Mars | Kvadratura | Podrážděnost a neklid hledají ventil, a tak pomáhá hodně se hýbat a dávat pozor při práci i na cestách.
+Solární | Měsíc | Mars | Trigon | City mají vitalitu, člověk jedná pohotově a bez zbytečných obav a domácí věci rychle odsýpají.
+Solární | Měsíc | Mars | Sextil | Citové podněty se dají snadno obrátit v činy, které posunou domácí i osobní záležitosti vpřed.
+Solární | Měsíc | Jupiter | Konjunkce | Nálada je povznesená, člověk chce rozšířit svůj okruh a dary, odměny nebo rodinné radosti přicházejí snáz, stačí jen držet míru.
+Solární | Měsíc | Jupiter | Opozice | City jsou velké a sílí chuť rozšířit svůj okruh, očekávání od druhých ale bývají větší než skutečnost, a tak je na místě míra ve slibech.
+Solární | Měsíc | Jupiter | Kvadratura | Silné city a chuť dávat přinášejí radost, přehnaná štědrost se ale může obrátit proti člověku, proto si má rozmyslet, komu a co slíbí.
+Solární | Měsíc | Jupiter | Trigon | Rok přináší pohodu, spokojenost a důvěru a blízcí přispívají ke štěstí člověka.
+Solární | Měsíc | Jupiter | Sextil | Dobrá nálada a ochota dávat otevírají možnost rozšířit domov, přátelství nebo příjem.
+Solární | Měsíc | Saturn | Konjunkce | City zůstávají skryté, přibývá povinností, tíhy a potřeby jistoty, a tak člověk nemá zůstávat se vším sám.
+Solární | Měsíc | Saturn | Opozice | Vztahy s blízkými mohou přinést chlad nebo závazky, které tíží, a prospívá otevřeně říct, co člověk zvládne.
+Solární | Měsíc | Saturn | Kvadratura | Starosti a pocit osamění ztěžují dobrou náladu, proto je na místě odpočinek a hledání opory.
+Solární | Měsíc | Saturn | Trigon | Citová rovnováha je stálá, člověk zvládá povinnosti a umí se spolehnout sám na sebe.
+Solární | Měsíc | Saturn | Sextil | Pomáhá rozumný režim a rada zkušeného člověka, které dávají citům pevnější oporu.
+Solární | Měsíc | Uran | Konjunkce | Nálady se mění ze dne na den, přicházejí překvapení a touha po vzruchu a napětí se nemá řešit útěkem.
+Solární | Měsíc | Uran | Opozice | Blízcí mohou náhle změnit své postoje a vztahy potřebují víc prostoru a nadhledu, než se člověk rozhodne.
+Solární | Měsíc | Uran | Kvadratura | Citový neklid a nervozita vedou k prudkým rozhodnutím, a tak pomáhá počkat, až se vzruch uklidní.
+Solární | Měsíc | Uran | Trigon | Svěží změny, noví lidé a rychlé reakce vnášejí do citového života lehkost.
+Solární | Měsíc | Uran | Sextil | Neobvyklé setkání nebo nápad uvolní všední stereotyp, pokud mu člověk dá šanci.
+Solární | Měsíc | Neptun | Konjunkce | Citlivost a vnímavost jsou velké, nálady však mlhavé a hranice vůči cizím pocitům si žádají pozornost.
+Solární | Měsíc | Neptun | Opozice | V blízkých vztazích může vznikat nejasnost nebo pocit zklamání, proto se vyplatí věci ověřovat a pojmenovávat.
+Solární | Měsíc | Neptun | Kvadratura | Nejasné nálady, sebelítost nebo zmatek v domácnosti si žádají pevný řád a klidné ověřování skutečnosti.
+Solární | Měsíc | Neptun | Trigon | Soucit, fantazie a intuice jsou silné a prospívají umění i péči o druhé.
+Solární | Měsíc | Neptun | Sextil | Hudba, příroda nebo chvíle ticha nabízejí klid, který je dobré si dopřát.
+Solární | Měsíc | Pluto | Konjunkce | City jsou mimořádně silné a vůle pevná, zaběhnuté zvyky se mění a držet se jich silou nemá smysl.
+Solární | Měsíc | Pluto | Opozice | Ve vztazích s blízkými může vzniknout pocit nátlaku nebo ovládání a je lepší pojmenovat ho a držet si hranice.
+Solární | Měsíc | Pluto | Kvadratura | Ozývají se hluboké emoce, staré křivdy a pocit izolace, které potřebují bezpečný prostor a případně odbornou oporu.
+Solární | Měsíc | Pluto | Trigon | Citová hloubka dává sílu k proměně a člověk se snáz vyrovnává s tím, co je třeba opustit.
+Solární | Měsíc | Pluto | Sextil | Upřímný rozhovor nebo hlubší sebepoznání může uvolnit to, co dlouho svazovalo.
+Solární | Měsíc | Chiron | Konjunkce | Citová zranitelnost je zřetelná, staré rány se připomínají a člověk se k nim má chovat laskavě.
+Solární | Měsíc | Chiron | Opozice | Blízcí lidé se mohou nechtěně dotknout bolavého místa a rozhovor o tom, co to vyvolává, může přinést úlevu.
+Solární | Měsíc | Chiron | Kvadratura | Pocit nejistoty v citech a v domově je dobré nepřehlušovat a věnovat mu klidnou péči.
+Solární | Měsíc | Chiron | Trigon | Soucit s druhými i se sebou přichází přirozeně a člověk umí utěšit.
+Solární | Měsíc | Chiron | Sextil | Rozhovor nebo pomoc druhým může přinést úlevu i tomu, kdo pomáhá.
+Solární | Měsíc | Severní uzel | Konjunkce | Citové záležitosti a domov ukazují, kudy má rok vést, a lidé, které člověk potká, mohou mít dlouhodobý význam.
+Solární | Měsíc | Severní uzel | Opozice | Měsíc stojí na Jižním uzlu, takže člověka táhnou zpět staré citové návyky a úkolem je přiznat jim místo, ale nežít jen z nich.
+Solární | Měsíc | Severní uzel | Kvadratura | Mezi citovými potřebami a dalším směrem života vzniká napětí, které si žádá rozhodnutí a trpělivost.
+Solární | Měsíc | Severní uzel | Trigon | City vedou přirozeně správným směrem a blízcí podporují další růst.
+Solární | Měsíc | Severní uzel | Sextil | Citový impulz nebo setkání s blízkým otevírá krok, který stojí za to udělat.
+Solární | Měsíc | Ascendent | Konjunkce | Nálady jsou na očích, člověk je vnímavý a citově přítomný a snadno navazuje kontakt s lidmi.
+Solární | Měsíc | Ascendent | Opozice | Měsíc stojí naproti Ascendentu, takže se city soustředí na partnera a blízké a člověk se učí odlišit jejich pocity od vlastních.
+Solární | Měsíc | Ascendent | Kvadratura | Citové potřeby a osobní vystupování se rozcházejí, proto je dobré dát si prostor, než člověk zareaguje.
+Solární | Měsíc | Ascendent | Trigon | Přirozený soulad citů a chování přináší vlídné přijetí od okolí.
+Solární | Měsíc | Ascendent | Sextil | Vnímavost k druhým otevírá přátelské kontakty, které člověku v tomto roce prospějí.
+Solární | Měsíc | Medium coeli | Konjunkce | Citová účast v práci i veřejném životě je velká a pozornost okolí kolísá, proto pomáhá nadhled.
+Solární | Měsíc | Medium coeli | Opozice | Citové těžiště roku leží doma a v soukromí, což může ubírat pozornost práci a žádá rovnováhu.
+Solární | Měsíc | Medium coeli | Kvadratura | Domov a práce si konkurují a kolísání nálad se dotýká postavení, a tak pomáhá jasný rozvrh.
+Solární | Měsíc | Medium coeli | Trigon | City a práce se doplňují a zázemí domova pomáhá v pracovních cílech.
+Solární | Měsíc | Medium coeli | Sextil | Dobré vztahy v okolí otevírají pracovní příležitost, kterou stačí s citem využít.

@@ -1,0 +1,56 @@
+Astrolog 8.00 chart for Sun Jul 14, 1985  2:30pm (ST Zone 1E)  16:36E 49:12N
+Chart #2 comparison for Fri Mar  2, 1990  6:15am (ST Zone 1E)  14:25E 50:05N
+
+  1:    Moon (Gem) Squ with (Pis) Sun       - orb: +0:18' - power: 21.24
+  2:     Sun (Can) Opp with (Cap) Saturn    - orb: -0:11' - power: 15.62
+  3:     Sun (Can) Opp with (Cap) Mars      - orb: -0:59' - power: 14.01
+  4: Ascenda (Sco) Opp with (Tau) Moon      - orb: -2:18' - power: 12.82
+  5:   Venus (Gem) Squ with (Pis) Sun       - orb: -2:26' - power: 11.12
+  6:  Uranus [Sag] Con with (Sag) Midheaven - orb: +0:20' - power: 10.95
+  7:    Moon (Gem) Opp with (Sag) Midheaven - orb: -2:34' - power: 10.86
+  8: Mercury (Leo) Squ with (Tau) Moon      - orb: +1:56' - power: 10.61
+  9: Jupiter [Aqu] Squ with (Tau) Moon      - orb: +2:01' - power: 10.46
+ 10: Ascenda (Sco) Tri with (Pis) Sun       - orb: -2:58' - power:  9.44
+ 11:  Uranus [Sag] Squ with (Pis) Sun       - orb: -3:13' - power:  9.08
+ 12:  Saturn [Sco] Squ with (Aqu) Ascendant - orb: +2:13' - power:  8.19
+ 13: Ascenda (Sco) Sex with (Cap) Neptune   - orb: -0:18' - power:  7.96
+ 14:    Mars (Can) Opp with (Cap) Mars      - orb: -0:05' - power:  7.90
+ 15: Midheav (Leo) Opp with (Aqu) Mercury   - orb: -1:51' - power:  7.35
+ 16: Ascenda (Sco) Con with [Sco] Pluto     - orb: +3:25' - power:  7.16
+ 17: Jupiter [Aqu] Sex with (Sag) Midheaven - orb: +0:21' - power:  7.04
+ 18:    Mars (Can) Opp with (Cap) Saturn    - orb: -0:53' - power:  6.98
+ 19: Mercury (Leo) Squ with [Sco] Pluto     - orb: -0:49' - power:  6.35
+ 20: Neptune [Cap] Opp with (Can) Jupiter   - orb: -0:50' - power:  6.34
+ 21: North N [Tau] Con with (Tau) Moon      - orb: +1:47' - power:  6.06
+ 22: Midheav (Leo) Sex with (Can) Jupiter   - orb: -1:31' - power:  5.60
+ 23:  Saturn [Sco] Opp with (Tau) Moon      - orb: -4:56' - power:  5.36
+ 24:     Sun (Can) Sex with (Tau) Moon      - orb: +5:24' - power:  5.35
+ 25:  Saturn [Sco] Sex with (Cap) Saturn    - orb: +0:39' - power:  5.34
+ 26:     Sun (Can) Tri with [Sco] Pluto     - orb: -4:17' - power:  5.29
+ 27: Ascenda (Sco) Squ with [Aqu] North Node- orb: +0:56' - power:  5.29
+ 28: Jupiter [Aqu] Con with [Aqu] North Node- orb: +0:39' - power:  5.02
+ 29:   Pluto (Sco) Tri with (Can) Jupiter   - orb: +1:04' - power:  4.58
+ 30:  Saturn [Sco] Sex with (Cap) Mars      - orb: +1:27' - power:  4.54
+ 31:   Pluto (Sco) Squ with (Cap) Venus     - orb: -2:56' - power:  4.17
+ 32:  Saturn [Sco] Con with [Sco] Pluto     - orb: +3:49' - power:  4.09
+ 33: Jupiter [Aqu] Squ with [Sco] Pluto     - orb: -3:08' - power:  3.97
+ 34: North N [Tau] Squ with [Aqu] North Node- orb: -0:25' - power:  3.15
+ 35: Mercury (Leo) Opp with (Aqu) Ascendant - orb: -5:12' - power:  3.06
+ 36: Midheav (Leo) Opp with (Aqu) Ascendant - orb: -5:32' - power:  2.90
+ 37: Mercury (Leo) Tri with (Sag) Midheaven - orb: -4:19' - power:  2.86
+ 38:  Uranus [Sag] Sex with [Aqu] North Node- orb: +0:41' - power:  2.56
+ 39:   Venus (Gem) Opp with (Sag) Midheaven - orb: -5:19' - power:  2.40
+ 40: North N [Tau] Tri with (Cap) Neptune   - orb: +0:49' - power:  2.29
+ 41:     Sun (Can) Opp with (Cap) Venus     - orb: -6:56' - power:  2.13
+ 42:   Pluto (Sco) Tri with (Aqu) Mercury   - orb: -4:26' - power:  1.97
+ 43: Neptune [Cap] Sex with (Aqu) Mercury   - orb: -4:12' - power:  1.61
+ 44:    Mars (Can) Opp with (Cap) Venus     - orb: -5:51' - power:  1.31
+ 45:    Mars (Can) Tri with [Sco] Pluto     - orb: -5:22' - power:  1.26
+ 46:  Saturn [Sco] Squ with (Aqu) Mercury   - orb: +5:54' - power:  1.24
+ 47:    Mars (Can) Sex with (Tau) Moon      - orb: +6:29' - power:  0.77
+ 48: Ascenda (Sco) Sex with (Cap) Uranus    - orb: -5:30' - power:  0.69
+
+Sum power: 296.30 - Average power: 6.17
+Con:  5   Opp: 14   Squ: 12   Tri:  7   Sex: 10
+Sun:  9   Moo:  9   Mer:  8   Ven:  5   Mar:  8   Jup:  7   Sat:  9   Ura:  4
+Nep:  4   Plu:  9   Nor:  7   Asc:  9   Mid:  8

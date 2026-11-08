@@ -1,0 +1,24 @@
+Astrolog 8.00 chart for Sun Jul 14, 1985  2:30pm (ST Zone 1E)  16:36E 49:12N
+Chart #2 comparison for Fri Mar  2, 1990  6:15am (ST Zone 1E)  14:25E 50:05N
+Body  Locat. Ret. Lati. Rul.      House  Rul. Veloc.    Placidus Houses
+
+Sun : 11Pis21   + 0:00' (-) [ 4th house] [-] +1.003  -  House cusp  1: 14Sco19
+Moon: 16Tau38   + 5:13' (X) [ 7th house] [-] +14.42  -  House cusp  2: 13Sag45
+Merc: 27Aqu28   - 2:07' (-) [ 3rd house] [R] +1.666  -  House cusp  3: 20Cap32
+Venu: 28Cap58   + 4:54' (-) [ 3rd house] [-] +0.656  -  House cusp  4: 29Aqu20
+Mars: 23Cap02   - 0:46' (X) [ 3rd house] [-] +0.735  -  House cusp  5:  1Ari21
+Jupi:  0Can51   + 0:01' (X) [ 8th house] [-] +0.018  -  House cusp  6: 25Ari33
+Satu: 22Cap13   + 0:13' (R) [ 3rd house] [-] +0.090  -  House cusp  7: 14Tau19
+Uran:  8Cap49   - 0:17' (-) [ 2nd house] [f] +0.035  -  House cusp  8: 13Gem45
+Nept: 14Cap01   + 0:51' (f) [ 2nd house] [-] +0.023  -  House cusp  9: 20Can32
+Plut: 17Sco45 R +15:44' (R) [ 1st house] [-] -0.006  -  House cusp 10: 29Leo20
+Nort: 15Aqu16 R + 0:00' (R) [ 3rd house] [X] -0.052  -  House cusp 11:  1Lib21
+Asce: 23Aqu47   + 0:00'     [ 3rd house]     +675.1  -  House cusp 12: 25Lib33
+Midh: 14Sag14   + 0:00'     [ 2nd house]     +335.7
+                                                        Car Fix Mut TOT   +: 4
+                                                     Fir  0   0   1   1   -: 9
+                                                     Ear  5   1   0   6   M: 2
+                                                     Air  0   3   0   3   N: 9
+                                                     Wat  1   1   1   3   A: 8
+                                                     TOT  6   5   2  13   D: 3
+                                                                          <: 2

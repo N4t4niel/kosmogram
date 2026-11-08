@@ -1,0 +1,29 @@
+Astrolog 8.00 chart for Sun Jul 14, 1985  2:30pm (ST Zone 1E)  16:36E 49:12N
+
+  1:     Sun (Can) Con (Can) Mars       - orb: a1:04' - power: 17.30
+  2: Jupiter [Aqu] Squ (Sco) Ascendant  - orb: a0:16' - power: 11.52
+  3:    Moon (Gem) Con (Gem) Venus      - orb: s2:45' - power: 11.48
+  4:     Sun (Can) Tri [Sco] Saturn     - orb: s0:28' - power: 11.29
+  5:    Moon (Gem) Opp [Sag] Uranus     - orb: a2:54' - power:  8.40
+  6: North N [Tau] Opp (Sco) Ascendant  - orb: a0:30' - power:  7.42
+  7:    Moon (Gem) Tri [Aqu] Jupiter    - orb: a2:56' - power:  6.65
+  8: Jupiter [Aqu] Sex [Sag] Uranus     - orb: a0:01' - power:  5.38
+  9: Jupiter [Aqu] Squ [Tau] North Node - orb: s0:14' - power:  5.29
+ 10: Mercury (Leo) Squ (Sco) Ascendant  - orb: a4:14' - power:  4.72
+ 11:    Mars (Can) Tri [Sco] Saturn     - orb: s1:33' - power:  4.67
+ 12: Neptune [Cap] Sex (Sco) Pluto      - orb: s0:13' - power:  4.62
+ 13: Neptune [Cap] Tri (Leo) Midheaven  - orb: a2:21' - power:  4.58
+ 14: Mercury (Leo) Squ [Sco] Saturn     - orb: a2:59' - power:  4.58
+ 15:   Pluto (Sco) Sex (Leo) Midheaven  - orb: a2:35' - power:  3.93
+ 16: Mercury (Leo) Opp [Aqu] Jupiter    - orb: s3:57' - power:  3.47
+ 17: Mercury (Leo) Tri [Sag] Uranus     - orb: s3:59' - power:  2.32
+ 18:   Venus (Gem) Opp [Sag] Uranus     - orb: a5:39' - power:  1.38
+ 19:   Venus (Gem) Tri [Aqu] Jupiter    - orb: a5:41' - power:  1.12
+ 20:     Sun (Can) Tri (Sco) Ascendant  - orb: a7:42' - power:  0.54
+ 21:    Moon (Gem) Sex (Leo) Mercury    - orb: a6:54' - power:  0.15
+ 22: Jupiter [Aqu] Squ [Sco] Saturn     - orb: s6:57' - power:  0.05
+
+Sum power: 120.86 - Average power: 5.49
+Con:  2   Opp:  4   Squ:  5   Tri:  7   Sex:  4
+Sun:  3   Moo:  4   Mer:  5   Ven:  3   Mar:  2   Jup:  7   Sat:  4   Ura:  4
+Nep:  2   Plu:  2   Nor:  2   Asc:  4   Mid:  2

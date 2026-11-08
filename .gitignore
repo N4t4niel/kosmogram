@@ -1,3 +1,14 @@
 CLAUDE.md
 .claude/
 __pycache__/
+
+# Signing keys and their passwords never belong in the repository.
+*.key
+*.key.pub
+*.key.password
+*.key.password.dpapi
+*.dpapi
+*.pem
+*.pfx
+.tauri/
+.env

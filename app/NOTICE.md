@@ -2,7 +2,7 @@
 
 Kosmogram je česká verze vycházející z programu Astrolog 8.00 Waltera D. Pullena, není to původní program. Jako celek je pod licencí GNU GPL verze 2 nebo novější, protože z Astrologu vychází. Text licence je v `LICENSE`.
 
-Sestavený program obsahuje knihovny pod licencí Apache 2.0 (například `tao`, `ring`, `sync_wrapper`), které se slučují jen s GPL verze 3. Sestavený program se proto šíří podle GPL verze 3, což volba „verze 2 nebo novější“ dovoluje. Text GPL 3 je v `licenses/GPL-3.0.txt`.
+Sestavený program obsahuje knihovny pod licencí Apache 2.0 (`tao`, `dpi`, `sync_wrapper`), které se slučují jen s GPL verze 3. Sestavený program se proto šíří podle GPL verze 3, což volba „verze 2 nebo novější“ dovoluje. Text GPL 3 je v `licenses/GPL-3.0.txt`.
 
 | Část | Kde je | Autor | Licence |
 |---|---|---|---|

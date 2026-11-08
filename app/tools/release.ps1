@@ -6,8 +6,8 @@
 # The key stays outside the repository (default C:\Users\<user>\.tauri\kosmogram.key). Its password is
 # stored with Windows DPAPI in kosmogram.key.password.dpapi, readable only by this user on this computer.
 #
-# Every release also carries Kosmogram-x64-setup.exe and Kosmogram-arm64-setup.exe, so these links always
-# lead to the newest version:
+# Every release carries Kosmogram-x64-setup.exe and Kosmogram-arm64-setup.exe, so these links always lead to
+# the newest version:
 #   https://github.com/<repo>/releases/latest/download/Kosmogram-x64-setup.exe
 param(
   [string]$Notes = "",
@@ -48,13 +48,15 @@ try {
     if ($code) { throw "tauri build pro $target selhal" }
     $setup = "$($conf.productName)_${version}_${arch}-setup.exe"
     $bundle = "$app\target\$target\release\bundle\nsis"
-    Copy-Item "$bundle\$setup", "$bundle\$setup.sig" $out -Force
-    Copy-Item "$bundle\$setup" "$out\$($conf.productName)-$arch-setup.exe" -Force
+    # One file per architecture with a stable name: the updater reads it from this release by its tag,
+    # people download it from releases/latest. The signature covers the content, not the name.
+    $stable = "$($conf.productName)-$arch-setup.exe"
+    Copy-Item "$bundle\$setup" "$out\$stable" -Force
     $platforms[$platform] = @{
-      signature = (Get-Content "$out\$setup.sig" -Raw).Trim()
-      url = "https://github.com/$Repo/releases/download/$tag/$setup"
+      signature = (Get-Content "$bundle\$setup.sig" -Raw).Trim()
+      url = "https://github.com/$Repo/releases/download/$tag/$stable"
     }
-    $assets += "$out\$setup", "$out\$($conf.productName)-$arch-setup.exe"
+    $assets += "$out\$stable"
   }
 }
 finally { Remove-Item Env:TAURI_SIGNING_PRIVATE_KEY, Env:TAURI_SIGNING_PRIVATE_KEY_PASSWORD -ErrorAction SilentlyContinue }

@@ -463,3 +463,12 @@ fn every_relationship_template_fills() {
         }
     }
 }
+
+/// Settings saved by version 1.0 have no font sizes; they load with the normal size.
+#[test]
+fn old_settings_load_with_normal_font_size() {
+    let s: Settings = serde_json::from_str(r#"{"house_system":"P","chiron":true,"minor_aspects":false,"solar_arc_angles":false,"dark":true}"#).unwrap();
+    assert_eq!((s.font_scale, s.print_scale), (100, 100));
+    assert!(s.chiron && s.dark);
+    assert_eq!(Settings::default().font_scale, 100);
+}

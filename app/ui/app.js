@@ -614,6 +614,12 @@ function applyTheme() {
   $("theme").setAttribute("aria-checked", String(dark));
 }
 
+// Screen size zooms the whole window; the printed sheet takes its own size from --print-scale.
+function applySizes(font = state.settings.font_scale, print = state.settings.print_scale) {
+  document.documentElement.style.setProperty("--print-scale", String(print / 100));
+  invoke("set_zoom", { scale: Number(font) }).catch(showError);
+}
+
 $("theme").onclick = async () => {
   state.settings = { ...state.settings, dark: !state.settings.dark };
   applyTheme();
@@ -625,6 +631,8 @@ $("open-settings").onclick = () => {
   $("s-chiron").checked = state.settings.chiron;
   $("s-minor").checked = state.settings.minor_aspects;
   $("s-arc").checked = state.settings.solar_arc_angles;
+  $("s-font").value = String(state.settings.font_scale);
+  $("s-print").value = String(state.settings.print_scale);
   $("backup-result").textContent = "";
   showBackupInfo();
   $("settings-dialog").showModal();
@@ -659,8 +667,14 @@ $("backup-load").onclick = async () => {
     $("backup-result").textContent = e;
   }
 };
+// The screen size is tried out at once; closing without Hotovo goes back to the saved size.
+$("s-font").onchange = () => applySizes(Number($("s-font").value));
+$("settings-dialog").addEventListener("close", () => applySizes());
 $("settings-save").onclick = async () => {
-  const settings = { ...state.settings, house_system: $("s-house").value, chiron: $("s-chiron").checked, minor_aspects: $("s-minor").checked, solar_arc_angles: $("s-arc").checked };
+  const settings = {
+    ...state.settings, house_system: $("s-house").value, chiron: $("s-chiron").checked, minor_aspects: $("s-minor").checked,
+    solar_arc_angles: $("s-arc").checked, font_scale: Number($("s-font").value), print_scale: Number($("s-print").value),
+  };
   const data = await invoke("save_settings", { settings });
   state.settings = data.settings;
   $("settings-dialog").close();
@@ -694,6 +708,7 @@ $("update-now").onclick = async () => {
   state.people = data.people;
   state.settings = data.settings;
   applyTheme();
+  applySizes();
   $("s-house").innerHTML = systems.map(([k, n]) => `<option value="${k}">${esc(n)}</option>`).join("");
   sky.place = data.sky_place ?? (await invoke("search_places", { query: "Praha" }))[0];
   showSky();

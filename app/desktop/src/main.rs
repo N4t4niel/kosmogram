@@ -62,6 +62,16 @@ fn save_settings(settings: Settings, store: State<Store>) -> R<Data> {
     store.update(|d| d.settings = settings)
 }
 
+/// Zooms the whole window, so the layout reflows as with a bigger font; printing keeps its own size.
+#[tauri::command]
+fn set_zoom(scale: u16, window: WebviewWindow) -> R<()> {
+    window.set_zoom(zoom_factor(scale)).map_err(|e| e.to_string())
+}
+
+fn zoom_factor(scale: u16) -> f64 {
+    f64::from(scale.clamp(80, 200)) / 100.0
+}
+
 #[tauri::command]
 fn save_sky_place(place: Place, store: State<Store>) -> R<Data> {
     store.update(|d| d.sky_place = Some(place))
@@ -184,7 +194,12 @@ fn main() {
         .setup(|app| {
             let data = app.path().app_data_dir()?;
             std::fs::create_dir_all(&data)?;
-            app.manage(Store::open(data.join("lide.json")));
+            let store = Store::open(data.join("lide.json"));
+            let scale = store.get().settings.font_scale;
+            app.manage(store);
+            if let Some(window) = app.get_webview_window("main") {
+                window.set_zoom(zoom_factor(scale))?;
+            }
             app.manage(Unsaved::default());
             std::thread::spawn(places::preload);
             fit_window(app.handle())?;
@@ -199,7 +214,7 @@ fn main() {
             }
         })
         .invoke_handler(tauri::generate_handler![
-            set_unsaved, close_app, search_places, load_data, save_person, delete_person, save_settings, save_sky_place, house_systems,
+            set_unsaved, close_app, search_places, load_data, save_person, delete_person, save_settings, set_zoom, save_sky_place, house_systems,
             sky, radix, transits, progressions, events, relation, name_forms, solar_return, backup_info, export_backup, import_backup,
             check_update, install_update
         ])

@@ -95,10 +95,14 @@ const HELP_TOPICS = [
 <p class="tip">Otazník nahoře nebo klávesa <kbd>F1</kbd> otevře nápovědu k tomu, co máte právě na obrazovce. Otazník u nastavení a ve formuláři vysvětlí jednu konkrétní volbu.</p>`,
   },
   {
-    id: "novinky", area: "start", title: "Co umí verze 1.0",
-    summary: "Přehled první veřejné verze.",
-    keys: "novinky změny verze 1.0 co je nového",
+    id: "novinky", area: "start", title: "Co je nového",
+    summary: "Co přinesla která verze.",
+    keys: "novinky změny verze 1.0 1.0.1 co je nového",
     html: `
+<h3>Verze 1.0.1</h3>
+<ul>
+  <li><b>Velikost písma.</b> V Nastavení zvolíte větší písmo na obrazovce a zvlášť velikost textu při tisku a v PDF. <a data-topic="nastaveni">Více</a>.</li>
+</ul>
 <h3>Verze 1.0</h3>
 <ul>
   <li><b>Horoskop, tranzity, progrese, solární návrat, kalendář a vztahy.</b> Polohy se počítají z dat NASA JPL přímo v programu, bez internetu.</li>
@@ -181,11 +185,12 @@ const HELP_TOPICS = [
   {
     id: "tisk", area: "work", title: "Tisk a uložení do PDF",
     summary: "Co se vytiskne a jak vznikne PDF.",
-    keys: "tisk tiskárna pdf vytisknout uložit papír",
+    keys: "tisk tiskárna pdf vytisknout uložit papír velikost písma větší",
     html: `
 <p>Tlačítko <b>Vytisknout nebo uložit PDF</b> vytiskne to, co máte právě otevřené. Na listu je jméno, poznámka, kolo, tabulka poloh, aspekty a výklad. V Kalendáři se tiskne seznam událostí.</p>
 <p>Otevře se okno tisku Windows. Pro PDF v něm místo tiskárny zvolte <b>Uložit jako PDF</b> nebo <b>Microsoft Print to PDF</b>. Název souboru program předvyplní podle pohledu a jména.</p>
-<p>Tisk je vždy světlý, i když máte zapnutý noční režim.</p>`,
+<p>Tisk je vždy světlý, i když máte zapnutý noční režim.</p>
+<p>Velikost textu na listu nastavíte v Nastavení, volba <b>Při tisku a v PDF</b>. Velikost písma na obrazovce tisk nemění.</p>`,
   },
 
   {
@@ -416,7 +421,7 @@ const HELP_TOPICS = [
   {
     id: "nastaveni", area: "data", title: "Všechna nastavení",
     summary: "Přehled voleb a co která změní.",
-    keys: "nastavení volby možnosti vedlejší chiron noční režim světlý tmavý vzhled",
+    keys: "nastavení volby možnosti vedlejší chiron noční režim světlý tmavý vzhled velikost písma větší písmo zvětšit lupa čitelnost",
     html: `
 <p>Nastavení otevřete v levém sloupci dole. Platí pro všechny lidi a zůstanou uložená.</p>
 <dl>
@@ -424,6 +429,8 @@ const HELP_TOPICS = [
   <dt>Zobrazovat Chirona</dt><dd>Přidá Chirona do kol, tabulek, výkladů i kalendáře. <a data-topic="telesa">Více</a>.</dd>
   <dt>Zobrazovat vedlejší aspekty</dt><dd>Přidá kvinkunx, polosextil, polokvadrát a seskvikvadrát. V kole přibude čar a ve výkladu textů. <a data-topic="aspekty">Více</a>.</dd>
   <dt>Progresivní osy a domy solárním obloukem</dt><dd>Mění pohyb Ascendentu, MC a domů v progresi. <a data-topic="osy">Rozdíl obou způsobů</a>.</dd>
+  <dt>Velikost písma na obrazovce</dt><dd>Běžné, Větší, Velké nebo Největší. Zvětší se celé okno, text, kolo i tlačítka, a rozložení se přizpůsobí. Změna se ukáže hned, uloží se tlačítkem Hotovo. Když okno zavřete bez Hotovo, velikost se vrátí.</dd>
+  <dt>Velikost písma při tisku a v PDF</dt><dd>Menší, Běžné, Větší nebo Velké. Mění text na vytištěném listu, kolo zůstává stejně velké. Větší písmo zabere víc stránek. <a data-topic="tisk">Tisk a PDF</a>.</dd>
   <dt>Verze programu</dt><dd>Je dole v Nastavení. O nové verzi dá program vědět sám, viz <a data-topic="aktualizace">Aktualizace programu</a>.</dd>
   <dt>Denní a noční režim</dt><dd>Přepínač je nahoře vedle názvu programu. Tisk je vždy světlý.</dd>
   <dt>Záloha lidí</dt><dd>Uložení do souboru a načtení. <a data-topic="zaloha">Více</a>.</dd>

@@ -244,12 +244,16 @@ kbd { padding: 1px 6px; border: 1px solid var(--line); border-radius: 4px; backg
   }
   html, body { display: block; height: auto; overflow: visible; background: #fff; font-size: 11pt; }
   body > :not(#print-sheet) { display: none !important; }
-  #print-sheet { display: block; color: var(--ink); }
+  /* Every size on the sheet is relative to its base (at 100 % the same as 13px, 14px, 20px, 20pt and 13pt before), so Nastavení > Při tisku a v PDF scales the text but not the wheel. */
+  #print-sheet { display: block; color: var(--ink); font-size: calc(11pt * var(--print-scale, 1)); }
+  #print-sheet th { font-size: .886em; }
+  #print-sheet .note { font-size: .955em; }
+  #print-sheet .gl { font-size: 1.364em; }
   #print-sheet header { margin-bottom: 6mm; }
-  #print-sheet h1 { margin: 0; font-size: 20pt; }
+  #print-sheet h1 { margin: 0; font-size: 1.818em; }
   #print-sheet header p { margin: 1mm 0 0; color: var(--muted); }
   #print-sheet .sheet-note { white-space: pre-line; }
-  #print-sheet h3 { margin: 6mm 0 2mm; font-size: 13pt; break-after: avoid; }
+  #print-sheet h3 { margin: 6mm 0 2mm; font-size: 1.182em; break-after: avoid; }
   #print-sheet table { width: 100%; }
   #print-sheet tr, #print-sheet .item, #print-sheet .note { break-inside: avoid; }
   .sheet-wheel { width: 150mm; margin: 0 auto; break-after: page; }

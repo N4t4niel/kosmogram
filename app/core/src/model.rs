@@ -43,10 +43,20 @@ pub struct Settings {
     /// Night theme of the app.
     #[serde(default)]
     pub dark: bool,
+    /// Size of everything on screen in percent, the whole window is zoomed.
+    #[serde(default = "hundred")]
+    pub font_scale: u16,
+    /// Size of the text on the printed sheet and in PDF, in percent of 11 pt.
+    #[serde(default = "hundred")]
+    pub print_scale: u16,
+}
+
+fn hundred() -> u16 {
+    100
 }
 
 impl Default for Settings {
     fn default() -> Self {
-        Settings { house_system: 'P', chiron: false, minor_aspects: false, solar_arc_angles: false, dark: false }
+        Settings { house_system: 'P', chiron: false, minor_aspects: false, solar_arc_angles: false, dark: false, font_scale: 100, print_scale: 100 }
     }
 }

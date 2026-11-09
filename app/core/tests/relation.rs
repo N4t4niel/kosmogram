@@ -73,6 +73,7 @@ fn person(name: &str, date: &str, time: &str, lat: f64, lon: f64) -> Person {
         place: Place { name: "x".into(), region: String::new(), country: String::new(), lat, lon, tz: "Europe/Prague".into() },
         offset_min: Some(60),
         note: String::new(),
+        group: String::new(),
     }
 }
 

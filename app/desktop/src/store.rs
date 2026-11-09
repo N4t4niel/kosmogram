@@ -83,9 +83,13 @@ impl Store {
         let mut added = 0;
         let data = self.update(|d| {
             for person in backup.people {
-                if !d.people.iter().any(|p| p.id == person.id) {
-                    d.people.push(person);
-                    added += 1;
+                match d.people.iter_mut().find(|p| p.id == person.id) {
+                    // Someone already here keeps their data, only an empty group is taken from the backup.
+                    Some(p) => if p.group.is_empty() { p.group = person.group },
+                    None => {
+                        d.people.push(person);
+                        added += 1;
+                    }
                 }
             }
             d.people.sort_by_key(|p| p.name.to_lowercase());
@@ -151,6 +155,24 @@ mod tests {
         assert_eq!(store.import(&backup).unwrap().1, 0, "podruhé už nic");
         let reopened = Store::open(dir.join("lide.json"));
         assert_eq!(names(&reopened.get()), ["Anna", "Bára nová", "Cyril"]);
+    }
+
+    #[test]
+    fn import_keeps_groups_and_fills_only_an_empty_one() {
+        let dir = folder("groups");
+        let store = Store::open(dir.join("lide.json"));
+        let with = |id, name, group: &str| Person { group: group.into(), ..person(id, name) };
+        store.update(|d| d.people = vec![with("1", "Anna", "Rodina"), with("2", "Bára", "Klienti"), with("3", "Cyril", "Známí")]).unwrap();
+        let backup = dir.join("zaloha.json");
+        store.export(&backup).unwrap();
+        store.update(|d| {
+            d.people.retain(|p| p.id != "1");
+            d.people[0].group = "Rodina".into();
+            d.people[1].group.clear();
+        }).unwrap();
+        let (data, _) = store.import(&backup).unwrap();
+        let groups: Vec<&str> = data.people.iter().map(|p| p.group.as_str()).collect();
+        assert_eq!(groups, ["Rodina", "Rodina", "Známí"], "Anna se vrátí se skupinou, Bára si nechá novou, Cyril dostane zpět svou");
     }
 
     #[test]

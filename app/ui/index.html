@@ -26,6 +26,7 @@
     <button id="open-sky" class="sky-button on" data-help="sky">Obloha</button>
     <button id="new-person" class="primary" data-help="new-person">+ Nový člověk</button>
     <input id="filter" data-help="filter" type="search" placeholder="Jméno, místo, poznámka" aria-label="Hledat ve jménech, místech a poznámkách">
+    <select id="group-filter" data-help="groups" aria-label="Zobrazit skupinu" hidden></select>
     <ul id="people" data-help="people"></ul>
     <button id="open-settings" class="link" data-help="settings">Nastavení</button>
   </aside>
@@ -108,6 +109,8 @@
           <input id="f-offset" placeholder="např. 1 nebo 5.5"></label>
         <button type="button" class="link" data-topic="cas">Kdy a jak ruční posun použít</button>
       </details>
+      <label>Skupina <input id="f-group" list="group-list" maxlength="40" placeholder="např. Rodina, Klienti, Známí" autocomplete="off"></label>
+      <datalist id="group-list"></datalist>
       <label>Poznámka <textarea id="f-note" rows="2"></textarea></label>
       <p id="form-error"></p>
       <div class="dialog-actions">

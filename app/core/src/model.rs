@@ -30,6 +30,9 @@ pub struct Person {
     /// "m" or "f", empty means the gender is guessed from the name.
     #[serde(default)]
     pub sex: String,
+    /// Group in the people list, such as family or clients; empty means none.
+    #[serde(default)]
+    pub group: String,
 }
 
 #[derive(Clone, Debug, Serialize, Deserialize, PartialEq)]

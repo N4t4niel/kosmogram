@@ -27,14 +27,57 @@ function czDate(iso) {
   return `${d}. ${m}. ${y}`;
 }
 
+const NO_GROUP = "-bez-skupiny-";
+const groupOf = (p) => (p.group ?? "").trim();
+// Group names as people wrote them, alphabetically; "Rodina" and "rodina" count as one.
+function groupNames() {
+  const seen = new Map();
+  for (const p of allPeople()) {
+    const g = groupOf(p);
+    if (g && !seen.has(g.toLocaleLowerCase("cs"))) seen.set(g.toLocaleLowerCase("cs"), g);
+  }
+  return [...seen.values()].sort((a, b) => a.localeCompare(b, "cs"));
+}
+const sameGroup = (a, b) => a.toLocaleLowerCase("cs") === b.toLocaleLowerCase("cs");
+// A new person gets the group shown in the list, so adding family while looking at family needs no typing.
+const only = () => ($("group-filter").value === NO_GROUP ? "" : $("group-filter").value);
+// "rodina " is saved as the existing "Rodina", so one group does not split in two.
+function canonicalGroup(text) {
+  const g = text.trim().replace(/\s+/g, " ");
+  return groupNames().find((n) => sameGroup(n, g)) ?? g;
+}
+
+function renderGroupFilter() {
+  const sel = $("group-filter");
+  const names = groupNames();
+  const chosen = sel.value;
+  sel.hidden = names.length === 0;
+  sel.innerHTML = `<option value="">Všechny skupiny</option>${names.map((g) => `<option value="${esc(g)}">${esc(g)}</option>`).join("")}<option value="${NO_GROUP}">Bez skupiny</option>`;
+  sel.value = chosen === NO_GROUP || names.some((g) => g === chosen) ? chosen : "";
+  $("group-list").innerHTML = names.map((g) => `<option value="${esc(g)}">`).join("");
+}
+
 function renderPeople() {
+  renderGroupFilter();
   const q = normalize($("filter").value);
+  const only = $("group-filter").value;
   const item = (p, cls = "") => `<li class="${cls}"><button data-id="${esc(p.id)}" class="${state.current?.id === p.id ? "on" : ""}">${esc(p.name)}<small>${esc(czDate(p.date))}, ${esc(p.place.name)}</small></button></li>`;
-  const found = (p) => normalize(`${p.name} ${placeLabel(p.place)} ${p.note ?? ""}`).includes(q);
+  const inGroup = (p) => !only || (only === NO_GROUP ? !groupOf(p) : sameGroup(groupOf(p), only));
+  const found = (p) => inGroup(p) && normalize(`${p.name} ${placeLabel(p.place)} ${p.note ?? ""} ${groupOf(p)}`).includes(q);
   const temps = state.temps.filter(found);
   const saved = state.people.filter(found);
-  $("people").innerHTML = (temps.length ? `<li class="group">Neuloženo, po zavření zmizí</li>${temps.map((p) => item(p)).join("")}` : "") +
-    saved.map((p, i) => item(p, temps.length && i === 0 ? "saved-start" : "")).join("");
+  let html = temps.length ? `<li class="group">Neuloženo, po zavření zmizí</li>${temps.map((p) => item(p)).join("")}` : "";
+  const names = groupNames();
+  if (only || !names.length) {
+    html += saved.map((p, i) => item(p, temps.length && i === 0 ? "saved-start" : "")).join("");
+  } else {
+    // All groups at once: a heading for each, people without a group at the end.
+    const sections = [...names.map((g) => [g, saved.filter((p) => sameGroup(groupOf(p), g))]), ["Bez skupiny", saved.filter((p) => !groupOf(p))]];
+    for (const [title, list] of sections.filter(([, l]) => l.length)) {
+      html += `<li class="group">${esc(title)}</li>${list.map((p) => item(p)).join("")}`;
+    }
+  }
+  $("people").innerHTML = html;
 }
 
 function normalize(s) {
@@ -46,6 +89,7 @@ $("people").addEventListener("click", (e) => {
   if (b) selectPerson(b.dataset.id);
 });
 $("filter").addEventListener("input", renderPeople);
+$("group-filter").addEventListener("change", renderPeople);
 $("f-name").addEventListener("input", showNameHint);
 $("f-sex").addEventListener("change", showNameHint);
 
@@ -338,6 +382,7 @@ function openForm(person) {
   $("f-time").disabled = $("f-noknown").checked;
   $("f-offset").value = person?.offset_min != null ? person.offset_min / 60 : "";
   $("f-note").value = person?.note ?? "";
+  $("f-group").value = person?.group ?? (only() || "");
   $("form-error").textContent = "";
   $("delete-person").hidden = !person;
   setPlace(person?.place ?? null);
@@ -389,7 +434,7 @@ function readForm() {
   const offsetText = $("f-offset").value.trim().replace(",", ".");
   const offset = offsetText === "" ? null : Math.round(Number(offsetText) * 60);
   if (Number.isNaN(offset)) return err("Posun zadejte jako číslo, například 1 nebo 5.5.");
-  return { id: "", name: $("f-name").value.trim(), date, time, time_known: known, place: state.place, offset_min: offset, note: $("f-note").value, sex: $("f-sex").value };
+  return { id: "", name: $("f-name").value.trim(), date, time, time_known: known, place: state.place, offset_min: offset, note: $("f-note").value, sex: $("f-sex").value, group: canonicalGroup($("f-group").value) };
 }
 
 $("person-form").addEventListener("submit", async (e) => {
@@ -404,6 +449,9 @@ $("person-form").addEventListener("submit", async (e) => {
     state.people = data.people;
     if (editing?.temp) setTemps(state.temps.filter((p) => p.id !== editing.id));
     $("person-dialog").close();
+    // Saved into another group than the one shown: show all, so the person does not vanish from the list.
+    const shown = $("group-filter").value;
+    if (shown && (shown === NO_GROUP ? person.group : !sameGroup(person.group, shown))) $("group-filter").value = "";
     selectPerson(person.id || state.people.find((p) => !before.has(p.id))?.id);
   } catch (ex) {
     $("form-error").textContent = ex;

@@ -138,7 +138,7 @@ fn search_ignores_diacritics_and_prefers_czech() {
 
 fn person(time_known: bool) -> Person {
     let place = search("brno", 1)[0].place.clone();
-    Person { id: "1".into(), name: "Jana".into(), date: "1985-07-14".into(), time: "14:30".into(), time_known, place, offset_min: None, note: String::new(), sex: String::new() }
+    Person { id: "1".into(), name: "Jana".into(), date: "1985-07-14".into(), time: "14:30".into(), time_known, place, offset_min: None, note: String::new(), sex: String::new(), group: String::new() }
 }
 
 #[test]

@@ -20,7 +20,8 @@ const HELP_TOURS = {
     { at: "side-brand", title: "Program a režim", text: "Přepínačem vpravo změníte denní a noční vzhled." },
     { at: "sky", title: "Obloha", text: "Ukáže, jak obloha vypadá právě teď, nebo v kterýkoli den a na kterémkoli místě. Program se tímto pohledem otevírá." },
     { at: "new-person", title: "Nový člověk", text: "Sem zadáte jméno, datum, čas a místo narození." },
-    { at: "filter", title: "Hledání", text: "Hledá ve jménech, místech i poznámkách. Háčky a čárky psát nemusíte." },
+    { at: "filter", title: "Hledání", text: "Hledá ve jménech, místech, poznámkách i skupinách. Háčky a čárky psát nemusíte." },
+    { at: "groups", title: "Skupiny", text: "Když lidem dáte skupinu, třeba Rodina nebo Klienti, objeví se tady výběr. Ukáže jen jednu skupinu, nebo všechny pod nadpisy." },
     { at: "people", title: "Seznam lidí", text: "Kliknutím na jméno otevřete horoskop daného člověka." },
     { at: "tabs", title: "Pohledy na člověka", text: "Horoskop, tranzity, progrese, solární návrat, kalendář a vztah. Každý má vlastní téma v nápovědě.", tab: "radix" },
     { at: "wheel", title: "Kolo", text: "Obrázek horoskopu. Co znamenají barvy a čáry, popisuje téma Jak číst kolo." },
@@ -97,8 +98,12 @@ const HELP_TOPICS = [
   {
     id: "novinky", area: "start", title: "Co je nového",
     summary: "Co přinesla která verze.",
-    keys: "novinky změny verze 1.0 1.0.1 co je nového",
+    keys: "novinky změny verze 1.0 1.0.1 1.0.2 co je nového",
     html: `
+<h3>Verze 1.0.2</h3>
+<ul>
+  <li><b>Skupiny lidí.</b> Ve formuláři dáte člověku skupinu, třeba Rodina, Klienti nebo Známí. Nad seznamem pak vyberete, kterou skupinu chcete vidět. <a data-topic="lide">Více</a>.</li>
+</ul>
 <h3>Verze 1.0.1</h3>
 <ul>
   <li><b>Velikost písma.</b> V Nastavení zvolíte větší písmo na obrazovce a zvlášť velikost textu při tisku a v PDF. <a data-topic="nastaveni">Více</a>.</li>
@@ -115,8 +120,8 @@ const HELP_TOPICS = [
   },
   {
     id: "lide", area: "work", title: "Lidé: přidání, úprava, hledání",
-    summary: "Formulář, rod ve výkladech, Jen zobrazit, mazání.",
-    keys: "nový člověk formulář jméno datum čas místo poznámka uložit smazat rod muž žena skloňování neuložený dočasný jen zobrazit",
+    summary: "Formulář, skupiny, rod ve výkladech, Jen zobrazit, mazání.",
+    keys: "nový člověk formulář jméno datum čas místo poznámka uložit smazat rod muž žena skloňování neuložený dočasný jen zobrazit skupina skupiny rodina klienti známí filtr",
     html: `
 <h3>Nový člověk</h3>
 <dl>
@@ -124,8 +129,12 @@ const HELP_TOPICS = [
   <dt>Datum narození</dt><dd>Například 14. 7. 1985. Program počítá roky 1800 až 2399.</dd>
   <dt>Čas narození</dt><dd>Například 14:30. Pokud ho neznáte, zaškrtněte <b>Čas narození neznám</b>. Co to změní, popisuje téma <a data-topic="cas">Čas narození a časová pásma</a>.</dd>
   <dt>Místo narození</dt><dd>Začněte psát a vyberte město ze seznamu. Výběr určí souřadnice i časové pásmo.</dd>
+  <dt>Skupina</dt><dd>Nepovinná, například Rodina, Klienti nebo Známí. Napište název, nebo vyberte skupinu, kterou už máte. Velká a malá písmena nevadí, „rodina“ se uloží do skupiny Rodina.</dd>
   <dt>Poznámka</dt><dd>Cokoli pro vás. Ukáže se pod jménem, vytiskne se a dá se v ní hledat.</dd>
 </dl>
+<h3>Skupiny v seznamu</h3>
+<p>Jakmile má aspoň jeden člověk skupinu, objeví se nad seznamem výběr. <b>Všechny skupiny</b> ukáže všechny lidi pod nadpisy skupin, lidé bez skupiny jsou na konci. Když vyberete jednu skupinu, uvidíte jen ji a nový člověk do ní rovnou patří. Hledání funguje i v názvech skupin.</p>
+<p>Skupina zmizí sama, když v ní nikdo nezůstane. Přejmenujete ji tak, že lidem ve formuláři přepíšete skupinu. Záloha skupiny ukládá a obnova je vrátí, člověku, který už skupinu má, ji nepřepíše.</p>
 <h3>Uložit, nebo Jen zobrazit</h3>
 <p><b>Uložit</b> člověka přidá do seznamu natrvalo. <b>Jen zobrazit</b> spočítá horoskop bez uložení, člověk se objeví nahoře pod nadpisem Neuloženo. Při zavírání se program zeptá, jestli ho chcete uložit.</p>
 <h3>Úprava a mazání</h3>
@@ -447,7 +456,7 @@ const HELP_TOPICS = [
 <h3>Záloha do souboru</h3>
 <p>V Nastavení zvolte <b>Uložit zálohu do souboru</b>. Mějte ji i mimo tento počítač, například na flash disku. Automatické kopie před poruchou počítače neochrání.</p>
 <h3>Načtení zálohy</h3>
-<p><b>Načíst zálohu</b> jen přidá lidi, kteří v programu chybí. Nikoho nezmění ani nesmaže, takže je to bezpečné i opakovaně. Stejně přenesete lidi na jiný počítač.</p>`,
+<p><b>Načíst zálohu</b> jen přidá lidi, kteří v programu chybí. Nikoho nesmaže ani nezmění, jen člověku bez skupiny doplní skupinu ze zálohy. Je to proto bezpečné i opakovaně. Stejně přenesete lidi na jiný počítač.</p>`,
   },
   {
     id: "aktualizace", area: "data", title: "Aktualizace programu",

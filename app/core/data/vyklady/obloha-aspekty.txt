@@ -1,0 +1,237 @@
+# Obloha: aspekty mezi planetami na nebi pro zvolený den, čas a místo, bez konkrétního člověka.
+# Formát: Obloha | těleso A | těleso B | aspekt | text. Těleso A stojí v řadě Slunce až Pluto dřív než B.
+# Texty popisují obecnou atmosféru doby, kdy aspekt platí, pro všechny lidi stejně.
+# Délka odpovídá tempu: aspekty Měsíce trvají hodiny, rychlých planet dny,
+# Jupitera a Saturnu měsíce, pomalých planet mezi sebou roky až desetiletí.
+# Nemožné aspekty chybí: Slunce a Merkur jen Konjunkce, Slunce a Venuše jen Konjunkce,
+# Merkur a Venuše jen Konjunkce a Sextil.
+
+# Slunce a Měsíc
+Obloha | Slunce | Měsíc | Konjunkce | Vůle a cit táhnou na pár hodin za jeden provaz a lidé snáz vědí, co chtějí. Hodí se rozhodnutí, za kterým stojí hlava i srdce.
+Obloha | Slunce | Měsíc | Opozice | Rozum říká jedno a cit druhé, proto se nálada dne snadno přelévá mezi povinností a přáním. Krok stranou a pohled s odstupem uleví, než přijde reakce.
+Obloha | Slunce | Měsíc | Kvadratura | Hodiny, kdy se to, co je třeba udělat, přetahuje s tím, co lidem chybí uvnitř. Drobné podráždění často vychází ze staré nespokojenosti, ne z dnešní věci.
+Obloha | Slunce | Měsíc | Trigon | Lidé působí vstřícně a přirozeně, s ženami i s veřejností se jedná snadno. Je to příjemná chvíle pro malé setkání s přáteli nebo klidné hodiny s rodinou.
+Obloha | Slunce | Měsíc | Sextil | Nálada je přátelská a vstřícné slovo snadno najde odezvu. Kdo pracuje s lidmi, může čekat ochotu i uznání, stačí podat ruku jako první.
+
+# Měsíc
+Obloha | Měsíc | Merkur | Konjunkce | Myšlenky se na pár hodin řídí citem a hovory plynou rychle. Dobré je zavolat, napsat a vyřídit drobnosti, které čekají na odpověď.
+Obloha | Měsíc | Merkur | Opozice | Srdce vede hlavu a co se dnes zdá jasné, může zítra vypadat jinak. Důležité rozhovory a rozhodnutí snesou odklad, dokud se nálada neusadí.
+Obloha | Měsíc | Merkur | Kvadratura | Řeči se snadno stočí k drbům nebo k unáhleným závěrům, protože pocity předbíhají fakta. Pro připravené vystoupení, které stojí na číslech, je to ale použitelná chvíle.
+Obloha | Měsíc | Merkur | Trigon | Hovory se daří a lidé si snadno porozumí, i když se dlouho neviděli. Ženy bývají v těchto hodinách ochotné poradit a podělit se o užitečnou informaci.
+Obloha | Měsíc | Merkur | Sextil | Zpráva, telefonát nebo příspěvek najdou adresáta bez potíží. Kdo potřebuje něco vyjasnit nebo se na něco zeptat, má teď otevřené dveře.
+Obloha | Měsíc | Venuše | Konjunkce | Pár hodin laskavé, smířlivé nálady, kdy se lidem chce být spolu. Vhodná je schůzka, společná večeře nebo drobná úprava domova.
+Obloha | Měsíc | Venuše | Opozice | Chuť si dopřát roste a s ní sklon k přehánění v jídle i v nákupech. Někdo blízký se může cítit opomenutý, malá pozornost předejde zbytečné výčitce.
+Obloha | Měsíc | Venuše | Kvadratura | Na prohlížení výloh dobré, na utrácení méně. Drobné nedorozumění s blízkými se brzy urovná, když jde víc o dávání než o braní.
+Obloha | Měsíc | Venuše | Trigon | Doma i ve společnosti panuje vlídná pohoda a lidé si naladí stejnou notu. Příjemná chvíle pro romantickou večeři, práci na zahradě nebo pozvání hostů.
+Obloha | Měsíc | Venuše | Sextil | Vlídné slovo a malá pozornost mají teď velkou ozvěnu. Stojí za to zařídit něco hezkého pro domov nebo naplánovat setkání s přáteli.
+Obloha | Měsíc | Mars | Konjunkce | Cit se rychle mění v čin a lidé reagují prudčeji než obvykle. Energie se hodí do pohybu a práce, do sporů o maličkosti méně.
+Obloha | Měsíc | Mars | Opozice | Drobné mrzutosti se v těchto hodinách rychle nafouknou do hádky. Pomáhá zhluboka se nadechnout, nebrat si každou poznámku osobně a dávat pozor při práci s nářadím i za volantem.
+Obloha | Měsíc | Mars | Kvadratura | Netrpělivost a podrážděnost rostou, takže malá jiskra může zapálit větší spor. Klid a nadhled teď přinesou víc než rychlá odpověď.
+Obloha | Měsíc | Mars | Trigon | Chuť do práce a dobrá nálada se šíří mezi lidmi. Je to vhodná chvíle ujmout se vedení v menším úkolu, zacvičit si nebo vyrazit na sportovní utkání.
+Obloha | Měsíc | Mars | Sextil | Odvaha přichází snadno a lidé se nebojí začít. Dobrá chvíle pro rychlou poradu, pohyb nebo menší úkol, který chce rozhodnost.
+Obloha | Měsíc | Jupiter | Konjunkce | Hodiny dobré nálady, smíchu a velkorysosti. Lidé jsou ochotnější vyhovět prosbě a lépe se domluví i s úřadem nebo se známým zdaleka.
+Obloha | Měsíc | Jupiter | Opozice | Optimismus je silný, ale rád předbíhá skutečnost. Než se rozjede velký plán, stojí za to ověřit, zda má pevný základ, a nechat prostor i cizímu názoru.
+Obloha | Měsíc | Jupiter | Kvadratura | Chuť po volnosti a sklon slibovat víc, než jde splnit, jdou ruku v ruce. Rozumná míra v utrácení i v očekáváních chrání před zklamáním.
+Obloha | Měsíc | Jupiter | Trigon | Veselá, uvolněná nálada nakazí každého, kdo je nablízku. Hodí se požádat o laskavost, učit se něco nového nebo čekat dobrou zprávu zdaleka.
+Obloha | Měsíc | Jupiter | Sextil | Drobná laskavost se vrací a prosba obvykle bývá vyslyšena. Vhodná chvíle rozšířit si obzor rozhovorem, knihou nebo plánem cesty.
+Obloha | Měsíc | Saturn | Konjunkce | Nálada je vážnější a střídmější, pozornost patří spíš povinnostem než radosti. Uleví udělat jednu věc pořádně a najít potěšení v něčem prostém.
+Obloha | Měsíc | Saturn | Opozice | Na pár hodin může přijít pocit osamění nebo tíhy odpovědnosti a podpora okolí se zdá vzdálená. Moudré je nečekat od dne víc, než unese, a dopřát si drobnou radost.
+Obloha | Měsíc | Saturn | Kvadratura | Únava a skepse ubírají chuti a i malý úkol se zdá jako stoupání do kopce. Ve stejných hodinách ale roste i odhodlání dotáhnout, co je rozdělané.
+Obloha | Měsíc | Saturn | Trigon | Klidné, soustředěné hodiny přejí pečlivé práci a pocitu dobře odvedené věci. Lépe sedí tichý rozhovor než hlučná oslava a návštěva u starších potěší obě strany.
+Obloha | Měsíc | Saturn | Sextil | Trpělivost roste a s ní schopnost poradit si s drobnou překážkou. Je to vhodná chvíle uspořádat si věci a promluvit si o nich věcně.
+Obloha | Měsíc | Uran | Konjunkce | Nálada se mění jako aprílové počasí a lidé touží po změně a vzruchu. Rutina nudí, pomáhá zkusit známou práci jinak nebo se jít projít.
+Obloha | Měsíc | Uran | Opozice | Citové výkyvy a neklid ztěžují soustředění, nečekaná zpráva může přeházet plán. Lepší je nechat si v programu volné místo a nereagovat hned.
+Obloha | Měsíc | Uran | Kvadratura | Netrpělivost a chuť vybočit z řady se teď hlásí nejvíc. Hádanka, procházka nebo nový postup u běžné práce dobře zabaví neklidnou mysl.
+Obloha | Měsíc | Uran | Trigon | Setkání s přáteli a společná činnost přinášejí příjemné překvapení. Nový známý může otevřít dveře, o kterých nikdo nevěděl.
+Obloha | Měsíc | Uran | Sextil | Hodiny vhodné pro nápady, nová seznámení a práci ve skupině. Stačí se přidat, podnět často přijde odjinud, než se čekalo.
+Obloha | Měsíc | Neptun | Konjunkce | Citlivost je vysoká a lidé vnímají atmosféru i nevyřčené. Tyto hodiny přejí tvoření, odpočinku a snění, méně už střízlivým počtům.
+Obloha | Měsíc | Neptun | Opozice | Pocity jsou blízko povrchu a krátká poznámka může zranit víc, než byla myšlena. Leccos se špatně pochopí, proto je moudré neunáhlit se se závěry.
+Obloha | Měsíc | Neptun | Kvadratura | Snadno vznikne mylný dojem o tom, co druhý řekl nebo myslel. Intuice pracuje, ale potřebuje ověření, než se podle ní jedná.
+Obloha | Měsíc | Neptun | Trigon | Lidé jsou vnímaví, laskaví a mají měkké srdce pro ty, kdo potřebují pomoc. Sny mohou nést užitečný postřeh a vlídné slovo dnes dokáže přesvědčit.
+Obloha | Měsíc | Neptun | Sextil | Soucit a cit pro druhé otevírají cestu k porozumění. Hezká chvíle pro hudbu, tvoření nebo podporu někoho blízkého, aniž by jeho starosti přešly na pomocníka.
+Obloha | Měsíc | Pluto | Konjunkce | Pocity jsou hluboké a silné, malé věci mohou probudit velké emoce. Dobře poslouží úklid a loučení s nepotřebným, zatímco v duši odeznívá, co se v ní hýbe.
+Obloha | Měsíc | Pluto | Opozice | Silné emoce mohou probudit žárlivost, majetnickost nebo boj o to, kdo má navrch. Odstup a klidná mysl pomáhají rozlišit skutečnost od domněnky.
+Obloha | Měsíc | Pluto | Kvadratura | Citové napětí roste a může se změnit ve snahu ovládat druhé nebo se nechat ovládat. Kdo se na chvíli vzdálí, aspoň v duchu, získá ztracenou rovnováhu.
+Obloha | Měsíc | Pluto | Trigon | Hloubka citu tentokrát posiluje a pomáhá ujasnit si, co lidé skutečně cítí. Dobrá chvíle pro opravy doma a obnovení pořádku v práci.
+Obloha | Měsíc | Pluto | Sextil | Chuť udělat pořádek je silná a pustit staré věci jde nečekaně snadno. Hodí se vyklidit šuplík, dokončit domácí opravu nebo upřímně promluvit.
+
+# Slunce s planetami
+Obloha | Slunce | Merkur | Konjunkce | Pozornost se v těchto dnech upírá k myšlenkám, zprávám a vyřizování. Mysl pracuje naplno, ale vlastní nápad se snadno zdá jediný správný, proto stojí za to vyslechnout i jiný pohled.
+Obloha | Slunce | Venuše | Konjunkce | Dny nesou vlídnou, společenskou náladu a chuť obklopit se krásou. Vztahům prospívá ochota ke kompromisu, jen u nákupů láká drahý rozmar.
+Obloha | Slunce | Mars | Konjunkce | Energie a odvaha rostou a nové začátky se daří, pokud jim předchází plán. Spěch ale svádí k neuváženým krokům, opatrnost na cestě i v práci je namístě.
+Obloha | Slunce | Mars | Opozice | Vůle narazí na vůli a spory se rozhoří rychleji než jindy. Kdo ustoupí při prvním náznaku konfliktu a sílu vloží do práce, ušetří si zbytečné šrámy.
+Obloha | Slunce | Mars | Kvadratura | Netrpělivost a chuť prosadit se zvyšují napětí mezi lidmi. Síla se dá vložit do užitečné práce, jen se nevrhat do ničeho bez rozmyslu.
+Obloha | Slunce | Mars | Trigon | Všechno nové láká a práce jde od ruky díky elánu a sebedůvěře. Pohyb a sport osvěží, jen je dobré nezačínat pět věcí najednou.
+Obloha | Slunce | Mars | Sextil | Příležitost k činu přichází a stačí se jí chopit. Na řadu může přijít rázné rozhodnutí, práce, která chce sílu, nebo sport.
+Obloha | Slunce | Jupiter | Konjunkce | Dny optimismu a velkorysosti, kdy se lidem chce věřit v dobrý konec. Štěstí přeje těm, kdo slibují jen to, co opravdu stihnou.
+Obloha | Slunce | Jupiter | Opozice | Chuť stihnout všechno najednou vede k přecenění sil i rozpočtu. Rozvaha a poctivá práce teď dokážou víc než spoléhání na štěstí.
+Obloha | Slunce | Jupiter | Kvadratura | Optimismus snadno přeroste v přehánění a velká očekávání se nemusí naplnit. Solidní úsilí a praktický přístup tvoří štěstí lépe než velká gesta.
+Obloha | Slunce | Jupiter | Trigon | Lidé jsou nakloněni důvěře a velkorysosti a často se ocitnou na správném místě ve správnou chvíli. Cestám, studiu a zprávám zdaleka se v těchto dnech daří.
+Obloha | Slunce | Jupiter | Sextil | Dobrá vůle a víra v budoucnost otevírají dveře, stačí jimi projít s promyšleným plánem. Vhodný čas pro učení, cestování a jednání s úřady.
+Obloha | Slunce | Saturn | Konjunkce | Chuť do života je střídmější a věci se hýbou pomaleji. Dny ale přejí soustředěné práci, plánování a dotažení toho, co vyžaduje vytrvalost.
+Obloha | Slunce | Saturn | Opozice | Překážky a odklady zkoušejí trpělivost a s nadřízenými se lze snadno střetnout. Lépe se daří samostatné práci a klidnému tempu než velkým plánům.
+Obloha | Slunce | Saturn | Kvadratura | Únava a pocit, že se věci zasekly, mohou ubrat sil. Vytrvalost a pečlivé plánování přesto nesou ovoce, jen ne hned.
+Obloha | Slunce | Saturn | Trigon | Pracovní morálka je pevná a pečlivé úsilí přináší viditelný výsledek. Jednání o práci, bydlení a nemovitostech má pevnou půdu a trpělivá péče o starší přichází vhod.
+Obloha | Slunce | Saturn | Sextil | Dobrý čas pro žádost o místo, postup nebo dohodu, která má vydržet. Trpělivost a smysl pro řád se teď mění v konkrétní výsledek.
+Obloha | Slunce | Uran | Konjunkce | Touha po volnosti a změně je silná a rutina snadno omrzí. Nečekané zvraty vyžadují pružnost, ale přinášejí i čerstvé nápady.
+Obloha | Slunce | Uran | Opozice | Neklid a chuť setřást všechna omezení se mohou srazit s povinnostmi. Krátká přestávka nebo procházka pomůže víc než prudký odchod od rozdělané práce.
+Obloha | Slunce | Uran | Kvadratura | Nečekané změny a vzdorovitost vnášejí do dnů neklid, s přáteli nebo ve skupině může zajiskřit. Pružnost se teď cení víc než pevný plán.
+Obloha | Slunce | Uran | Trigon | Lidé se cítí svobodní být sami sebou a baví je společnost neobvyklých lidí. Dny přejí skupinovým akcím, novinkám a nákupu techniky, s ohledem na rozpočet.
+Obloha | Slunce | Uran | Sextil | Změna přichází jako vítaný podnět, ne jako vyrušení. Je to dobrý čas zkusit nový postup, sejít se s přáteli a dát šanci originálnímu nápadu.
+Obloha | Slunce | Neptun | Konjunkce | Snění a touha uniknout ze všedních starostí sílí, zato roste i vnímavost a tvořivost. Vlídné slovo má teď velkou moc, jen je dobré rozlišit kouzlo od skutečnosti.
+Obloha | Slunce | Neptun | Opozice | Hranice mezi přáním a skutečností se rozmazávají a lidé snadno uvěří tomu, čemu věřit chtějí. Opatrnost s alkoholem, se vším, co otupuje úsudek, i s líbivými sliby je namístě.
+Obloha | Slunce | Neptun | Kvadratura | Únava a nejasnost mohou zastřít úsudek, motivace se ztrácí v mlze. Tvořivá práce, hudba nebo meditace jsou teď lepší volbou než důležité podpisy.
+Obloha | Slunce | Neptun | Trigon | Intuice napoví, co si druzí myslí a co cítí, a ochota pomoci je velká. Romantika, hudba a tvorba mají zelenou, jen se nemá všechno vidět růžově.
+Obloha | Slunce | Neptun | Sextil | Soucit a fantazie se rády mění v pomoc nebo v tvůrčí dílo. Vhodný čas pro umění, dobročinnost a klidné rozjímání.
+Obloha | Slunce | Pluto | Konjunkce | Vůle je silná a otázky moci a vlivu se dostávají do popředí. Tato síla poslouží zásadní změně nebo úklidu, ne přetlačování s druhými.
+Obloha | Slunce | Pluto | Opozice | Mocenské spory vyplouvají na povrch, i když se těžko říká, kde začaly. Dobré je prověřit vlastní pohnutky, vyhnout se lidem, kteří chtějí ovládat, a nevstupovat do riskantních situací.
+Obloha | Slunce | Pluto | Kvadratura | Ješitnost a touha mít navrch snadno přerostou v tvrdý střet. Užitečné je zkoumat, odkud se napětí bere, a nepovolit nátlaku.
+Obloha | Slunce | Pluto | Trigon | Vůle je teď nejsilnějším pomocníkem a dokáže přinést trvalou změnu k lepšímu. Kdo jde příkladem, snadno získá podporu vlivných lidí.
+Obloha | Slunce | Pluto | Sextil | Odhodlání a soustředění pomáhají uskutečnit, co se dlouho odkládalo. Dobrý čas vytřídit nepotřebné a postavit věci na nový základ.
+
+# Merkur s planetami
+Obloha | Merkur | Venuše | Konjunkce | Myšlenky se točí kolem krásy, umění a lásky a slova se volí s citem. Psaní, jednání i smíření jdou lehce, jen lehkomyslné utrácení je dobré hlídat.
+Obloha | Merkur | Venuše | Sextil | Život se zdá lehčí a přátelský tón snadno získává sympatie. Hodí se koníček, koncert, setkání s přáteli nebo pohovor, kde rozhoduje první dojem.
+Obloha | Merkur | Mars | Konjunkce | Myšlení je rychlé a slova ostrá, debata snadno přeroste ve spor. Rozhodnost pomáhá při jednání, jen trpělivost s pomalejšími dochází rychle.
+Obloha | Merkur | Mars | Opozice | Ostrá výměna názorů může skončit hádkou nebo sporem, který nikam nevede. Pomůže říct věc jednou a v klidu a zpomalit i za volantem.
+Obloha | Merkur | Mars | Kvadratura | Drobné mrzutosti lezou na nervy a jiskra snadno přeskočí. Klidný dech a smíření s tím, že ne vše jde podle plánu, šetří síly.
+Obloha | Merkur | Mars | Trigon | Mysl rychle chápe podstatu věci a slovo má váhu. Jednání, prodej a obhajoba nápadu mají naději na úspěch, s trochou trpělivosti k těm, kdo potřebují víc času.
+Obloha | Merkur | Mars | Sextil | Pohotové myšlení a jasná řeč pomáhají prosadit dobrý nápad. Vhodná chvíle vysvětlit své důvody a rychle se domluvit.
+Obloha | Merkur | Jupiter | Konjunkce | Mysl vidí celek a myšlenky se rozbíhají do šíře. Plánování, studiu a cestám se daří, jen podrobnosti nesmí zmizet ze zřetele.
+Obloha | Merkur | Jupiter | Opozice | Velké plány a velká slova předbíhají to, co lze opravdu stihnout. Realistický odhad času a skromnost v chlubení ušetří zklamání.
+Obloha | Merkur | Jupiter | Kvadratura | Přílišný optimismus vede k přehlédnutí podrobností a k planým slibům. Kdo si přečte i drobné písmo, vyhne se pozdějším nepříjemnostem.
+Obloha | Merkur | Jupiter | Trigon | Dny přejí plánování, výuce, cestám i obchodním a právním věcem. Dobrá zpráva posílí důvěru a lidé snadno vidí celek i podrobnosti.
+Obloha | Merkur | Jupiter | Sextil | Otevřená mysl rozšiřuje obzor a jiný úhel pohledu obohacuje. Vhodný čas začít kurz, napsat důležitý dopis nebo domluvit cestu.
+Obloha | Merkur | Saturn | Konjunkce | Myšlení je soustředěné, důkladné a trochu těžkopádné. Pečlivá práce, plánování a vážné rozhovory jdou dobře, lehké tlachání méně.
+Obloha | Merkur | Saturn | Opozice | Pochybnosti a nedůvěra brzdí dorozumění a odpověď na sebe nechá čekat. Trpělivost a věcný tón pomohou víc než naléhání.
+Obloha | Merkur | Saturn | Kvadratura | Myšlenky se točí kolem starostí a slova váznou, rozhovor může skončit nedorozuměním. Pomáhá vzít si čas, vše si sepsat a postupovat krok za krokem.
+Obloha | Merkur | Saturn | Trigon | Silnou stránkou těchto dnů je plánování, organizace a schopnost se soustředit. Vážný rozhovor může překvapivě zahřát a uvážené rozhodnutí má trvalou hodnotu.
+Obloha | Merkur | Saturn | Sextil | Pečlivá příprava teď přináší uznání a pevné základy pro další postup. Hodí se sepsat plán, uzavřít dohodu nebo se poradit se zkušeným.
+Obloha | Merkur | Uran | Konjunkce | Nápady přicházejí jako blesk a mysl touží po novém. Spolu s vynalézavostí ale roste i sklon k ukvapeným slovům a rozhodnutím.
+Obloha | Merkur | Uran | Opozice | Nečekané zprávy a změny plánů vyžadují pružnost. Dobré je promyslet, co se napíše a řekne, a zálohovat důležité soubory.
+Obloha | Merkur | Uran | Kvadratura | Nervózní spěch a příliš mnoho rozdělaných věcí rozptylují pozornost. Kdo se drží jedné věci a nechá vychladnout prudkou odpověď, ušetří si opravy.
+Obloha | Merkur | Uran | Trigon | Intuice a fantazie nacházejí originální řešení a společná porada přináší nápadům podporu. Dny přejí přátelství, novým kontaktům a podnětným rozhovorům.
+Obloha | Merkur | Uran | Sextil | Spontánní nápad se ujme, když se o něj lidé podělí. Vhodný čas pro společné vymýšlení, novou techniku nebo setkání s neobvyklými lidmi.
+Obloha | Merkur | Neptun | Konjunkce | Fantazie a intuice jsou silné, zato fakta se rozplývají. Dny přejí tvorbě, poezii a hudbě, smlouvy a důležitá rozhodnutí snesou odklad.
+Obloha | Merkur | Neptun | Opozice | Zmatek a nedorozumění se množí a ani zdánlivě jasná věc nemusí být jasná. Je moudré nešířit tajemství ani pověsti a ověřovat, co se doslechne.
+Obloha | Merkur | Neptun | Kvadratura | Myšlenky jsou zamlžené, i když se zdají průzračné, a slovo snadno sklouzne k nepřesnosti. Všechno důležité je lepší dvakrát zkontrolovat.
+Obloha | Merkur | Neptun | Trigon | Tvořivé myšlení je teď silné a pomáhá vidět souvislosti, které jinak unikají. Vhod přijde film, dobrá kniha nebo psaní, velká rozhodnutí ale počkají.
+Obloha | Merkur | Neptun | Sextil | Představivost a soucit dávají slovům měkkost a hloubku. Dobrá chvíle pro tvůrčí psaní, plány do budoucna a laskavý rozhovor.
+Obloha | Merkur | Pluto | Konjunkce | Myšlení jde do hloubky a slovo má přesvědčivou sílu. Daří se studiu, bádání a soustředěné práci, jen hranice mezi zaujetím a posedlostí je tenká.
+Obloha | Merkur | Pluto | Opozice | Názory se srážejí s nátlakem a rozhovor se může změnit v boj o pravdu. Odstup od těch, kdo chtějí ovládat, a zdrženlivost v názorech jsou teď moudré.
+Obloha | Merkur | Pluto | Kvadratura | Ostré soudy a snaha přesvědčit za každou cenu zvyšují napětí. Soustředění ale dobře poslouží studiu a hledání odpovědí na zapeklité otázky.
+Obloha | Merkur | Pluto | Trigon | Pohled proniká pod povrch a řešení obtížných otázek se hledá snadno. Lidé pozorně naslouchají tomu, kdo mluví věcně a s rozmyslem.
+Obloha | Merkur | Pluto | Sextil | Bystrý postřeh a vytrvalost pomáhají dobrat se jádra věci. Vhodný čas pro výzkum, učení a rozhovor, který má něco změnit.
+
+# Venuše s planetami
+Obloha | Venuše | Mars | Konjunkce | Přitažlivost a vášeň sílí a láska, tanec i společnost mají své dny. Unáhlené rozhodnutí ve vztahu nebo impulzivní nákup je ale lepší si rozmyslet.
+Obloha | Venuše | Mars | Opozice | Láska a hádka mají k sobě blízko a spor v páru se může točit i kolem peněz. Lepší je nerozhodovat o vztahu narychlo a nákupy odložit.
+Obloha | Venuše | Mars | Kvadratura | Touha a netrpělivost se srážejí, city mohou vzplanout a zase rychle vychladnout. Ohleduplnost a takt teď předejdou zbytečnému zranění.
+Obloha | Venuše | Mars | Trigon | Z jiskry přitažlivosti bývá radostné setkání. Je to dobrý čas někoho pozvat, požádat o laskavost a užít si společnost.
+Obloha | Venuše | Mars | Sextil | Odvaha v lásce i v tvorbě se vyplácí a lidé jsou vstřícní. Malé pozvání nebo společný výlet mohou mít příjemné pokračování.
+Obloha | Venuše | Jupiter | Konjunkce | Dny pohody, štědrosti a radosti ze života, kdy láska i peníze mají štěstí. Velkorysost se ale snadno změní v přejídání a utrácení nad poměry.
+Obloha | Venuše | Jupiter | Opozice | Nálada je dobrá, ale láká přehánět v jídle, výdajích i slibech. U nabídek rychlého zisku je na místě zdravá nedůvěra.
+Obloha | Venuše | Jupiter | Kvadratura | Sklon dopřávat si všeho moc vede k utrácení a k přeceňování možností. Umírněnost chrání radost i rozpočet.
+Obloha | Venuše | Jupiter | Trigon | Štěstí přeje lásce i penězům a společenské akce mají vlídnou atmosféru. Přání se často plní, zdravý rozum ale nechybí ani teď.
+Obloha | Venuše | Jupiter | Sextil | Lidé jsou laskaví a ochotní a drobná pozornost potěší dvojnásob. Dobrý čas pro oslavu, setkání nebo nákup, který udělá radost na dlouho.
+Obloha | Venuše | Saturn | Konjunkce | City jsou střídmější a vztahy procházejí zkouškou opravdovosti. Věrnost, závazky a uvážená péče o peníze mají přednost před bezstarostnou zábavou.
+Obloha | Venuše | Saturn | Opozice | Sblížit se s lidmi jde ztuha a může přijít pocit osamění. Je to čas zamyslet se, co vztahy skutečně dávají, a nebrat chladné slovo osobně.
+Obloha | Venuše | Saturn | Kvadratura | Vztahy chladnou, přichází pocit odstupu nebo lítost nad minulostí. Upřímnost k vlastním citům pomůže víc než ukvapené rozhodnutí.
+Obloha | Venuše | Saturn | Trigon | Pevné vztahy se teď ještě upevní a setkání se starým známým potěší. Dny přejí rozvážným investicím, koupi nebo pronájmu bydlení i zvelebení domova.
+Obloha | Venuše | Saturn | Sextil | Spolehlivost a věrnost nacházejí uznání. Na řadu mohou přijít dlouhodobá finanční rozhodnutí, domácí práce a péče o vztahy, které mají budoucnost.
+Obloha | Venuše | Uran | Konjunkce | Vztahy se rozvlní a láska na první pohled je stejně možná jako náhlý konec. Chuť po vzruchu a volnosti je silná, ale často rychle přejde.
+Obloha | Venuše | Uran | Opozice | Citová nestálost a touha po nezávislosti mohou rozkolísat vztahy. Ukvapený odchod ani nákup z rozmaru není dobrý nápad, pocit brzy pomine.
+Obloha | Venuše | Uran | Kvadratura | Náhlé změny nálad a nečekané zvraty ve vztazích ztěžují klid. Pružnost a trocha humoru pomohou přečkat, co se jinak zdá jako drama.
+Obloha | Venuše | Uran | Trigon | Láska může přijít nečekanou cestou a nová přátelství se rychle ujmou. Dny přinášejí příjemná překvapení, šťastný nález i radost ze společné práce.
+Obloha | Venuše | Uran | Sextil | Svěží nápad oživí vztah i společnost a lidé jsou otevření neobvyklému. Dobrý čas pro nové seznámení, umění a hudbu.
+Obloha | Venuše | Neptun | Konjunkce | Romantika, hudba a snění mají v těchto dnech velkou sílu. Idealizovat lásku je v pořádku, dokud je jasné, že dokonalost je jen sen.
+Obloha | Venuše | Neptun | Opozice | Láska snadno oslní a pak zklame, protože lidé vidí, co vidět chtějí. S penězi, půjčkami a velkými rozhodnutími je lepší počkat, až se mlha zvedne.
+Obloha | Venuše | Neptun | Kvadratura | Iluze ve vztazích i v penězích se mohou rozplynout a přinést rozčarování. Střízlivý pohled a odklad důležitých kroků jsou teď na místě.
+Obloha | Venuše | Neptun | Trigon | Něha, hudba a fantazie vytvářejí kouzelnou atmosféru. Laskavé slovo nebo objetí teď dokáže udělat velkou radost mnoha lidem.
+Obloha | Venuše | Neptun | Sextil | Soucit a cit pro krásu vedou k pomoci druhým nebo k umění. Vhodný čas pro koncert, tvoření a vlídnost k těm, kdo ji potřebují.
+Obloha | Venuše | Pluto | Konjunkce | City jsou hluboké a vášnivé a přitažlivost má velkou sílu. Pozor na to, aby se láska neproměnila ve vlastnění.
+Obloha | Venuše | Pluto | Opozice | Žárlivost, majetnickost a snaha ovládat mohou zastínit lásku. Kdo vidí věci střízlivě a nenechá se manipulovat, zachová si klid.
+Obloha | Venuše | Pluto | Kvadratura | Ve vztazích roste napětí a city se snadno stanou zbraní v boji o moc. Je to zkouška, zda láska unese svobodu druhého.
+Obloha | Venuše | Pluto | Trigon | Tichá přitažlivost a hloubka citu dávají vztahům nový rozměr. Příznivá doba je i pro finanční záležitosti, pokud se do nich nevstupuje naslepo.
+Obloha | Venuše | Pluto | Sextil | Upřímný cit a vytrvalost pomáhají obnovit vztah nebo začít něco trvalého. Dobrý čas také uspořádat společné finance.
+
+# Mars s pomalejšími planetami
+Obloha | Mars | Jupiter | Konjunkce | Elán a chuť do podnikání jsou velké a smělé plány se rodí snadno. Rozumné je mířit, nerozhazovat síly a nepřeceňovat vlastní štěstí.
+Obloha | Mars | Jupiter | Opozice | Odhodlání je velké, ale riskování a přehnaná sebedůvěra mohou přinést ztrátu. Střídmost a jasný cíl jsou nejlepší ochranou.
+Obloha | Mars | Jupiter | Kvadratura | Síly se snadno rozprchnou do příliš mnoha směrů a riskantní krok láká. Umírněnost a dotažení jedné věci přinesou víc než velké gesto.
+Obloha | Mars | Jupiter | Trigon | Dny přejí podnikání, růstu a novým příležitostem. Rozumná sebeprezentace a ochota pracovat přinášejí úspěch, jen netlačit na ostatní.
+Obloha | Mars | Jupiter | Sextil | Nabídka k činu přichází a odvaha ji přijmout se vyplácí. Vhodný čas pro dohodu, smlouvu nebo začátek projektu s výhledem do budoucna.
+Obloha | Mars | Saturn | Konjunkce | Energie naráží na odpor a práce jde ztěžka, zato s vytrvalostí. Na místě je úkol, který chce sílu a soustředění, ne riskantní spěch.
+Obloha | Mars | Saturn | Opozice | Frustrace, netrpělivost a hněv snadno vyvedou z rovnováhy, s autoritou je lepší mluvit málo. Pomáhá přesná práce, která chce soustředění, a opatrnost na cestách.
+Obloha | Mars | Saturn | Kvadratura | Vůle naráží na překážky a vztek se hromadí. Trpělivost a práce o samotě převedou napětí v užitečný výsledek, opravy je lepší svěřit odborníkovi.
+Obloha | Mars | Saturn | Trigon | Čas stanovit si reálný cíl, sestavit plán a vytrvale jít vpřed. Dny přejí domácím opravám, zahradě a práci, po které zůstane něco hmatatelného.
+Obloha | Mars | Saturn | Sextil | Trpělivé úsilí teď přináší uspokojivý výsledek a možná i uznání. Dobrý čas pustit se do práce, která potřebuje sílu i rozvahu.
+Obloha | Mars | Uran | Konjunkce | Náhlý příval energie a vzdoru dává odvahu ke změně, ale i sklon k prudkým činům. Při práci, sportu i na silnici je namístě zvýšená opatrnost.
+Obloha | Mars | Uran | Opozice | Nervozita a vzpurná nálada vedou k prudkým střetům a ukvapeným činům. Mírný pohyb a opatrnost s technikou i elektřinou pomáhají napětí bezpečně vybít.
+Obloha | Mars | Uran | Kvadratura | Netrpělivost a chuť porušit pravidla jsou silné a impulzivní krok se nemusí vyplatit. Zpomalení a užitečný odtok pro napětí ušetří nejednu opravu.
+Obloha | Mars | Uran | Trigon | Neklid hledá změnu a tentokrát najde užitečnou cestu. Dny přejí vedení týmu, technickým dovednostem a odvážnému nápadu.
+Obloha | Mars | Uran | Sextil | Rychlé rozhodnutí a odvaha zkusit něco nového se teď vyplácejí. I tak je dobré myslet na bezpečnost, když jde všechno rychle.
+Obloha | Mars | Neptun | Konjunkce | Síla je rozptýlená a těžko se soustředit, motivace se ztrácí v mlze. Lepší je věnovat se tvorbě, hudbě nebo tanci než velkému začátku.
+Obloha | Mars | Neptun | Opozice | Energie je nízká bez zjevného důvodu a slovům se dnes nedá věřit naplno. Nové začátky snesou odklad a osobní věci je lepší si nechat pro sebe.
+Obloha | Mars | Neptun | Kvadratura | Pravda se ohýbá, pomluvy se šíří a vlastní síly ubývají. Prospěje odpočinek, film nebo kniha a zdrženlivost v tom, komu se kdo svěří.
+Obloha | Mars | Neptun | Trigon | Sny lze teď proměnit v čin, pokud jsou reálné. Dny přejí romantice, tanci, hudbě a projektům, které čerpají z fantazie.
+Obloha | Mars | Neptun | Sextil | Představivost dodává práci křídla a ochota pomoci je velká. Vhodný čas pro tvůrčí projekt nebo dobrovolnou práci.
+Obloha | Mars | Pluto | Konjunkce | Odhodlání a síla jsou mimořádné a dokážou pohnout i těžkými věcmi. Stejně snadno ale svádějí k tlaku na druhé a k boji o moc.
+Obloha | Mars | Pluto | Opozice | Tlak na druhé a ctižádost mohou vést k mocenskému střetu. Klidné vystupování a ochota ustoupit chrání víc než přetlačování.
+Obloha | Mars | Pluto | Kvadratura | Ctižádost a vůle prosadit se za každou cenu vyvolávají napětí. Hrubá síla tu neuspěje, vytrvalost tentokrát vyhraje víc.
+Obloha | Mars | Pluto | Trigon | Vnitřní hnací síla ožívá a stačí ji použít. Sebepoznání i soustředěná práce, která vyžaduje hloubku a vytrvalost, teď nesou ovoce.
+Obloha | Mars | Pluto | Sextil | Cílevědomost a vnitřní síla pomáhají k znatelnému pokroku. Je to dobrý čas pro úsilí, které má trvalý výsledek.
+
+# Jupiter a Saturn s pomalými planetami (měsíce)
+Obloha | Jupiter | Saturn | Konjunkce | Začíná nová, zhruba dvacetiletá kapitola ve vztahu růstu a řádu, v hospodářství i ve společnosti se mění pravidla. Doba přeje trpělivě budovaným plánům, které počítají s dlouhou cestou.
+Obloha | Jupiter | Saturn | Opozice | Chuť růst se v těchto měsících střetává s nutností šetřit a dodržovat pravidla. Ve společnosti i v práci se hledá rovnováha mezi odvahou a opatrností.
+Obloha | Jupiter | Saturn | Kvadratura | Měsíce, kdy se rozvoj potýká s omezeními, průtahy a nespokojeností. Pomáhá myslet ve velkém, ale reálně, a počítat s tím, že věci poběží pomalu.
+Obloha | Jupiter | Saturn | Trigon | Doba přeje rozvážnému růstu, kdy zkušenost a poctivá práce přinášejí plody. Postupné kroky a vzdělávání se teď vyplácejí víc než velký skok.
+Obloha | Jupiter | Saturn | Sextil | Na uvážené plány a spolupráci se zkušenými je teď příznivý čas. Pokrok přichází po krocích a stojí na tom, co už bylo vybudováno.
+Obloha | Jupiter | Uran | Konjunkce | Doba nečekaných příležitostí, objevů a šťastných zvratů, kdy se rychle šíří nové myšlenky. Chuť po vzruchu ale může svádět k lehkomyslným krokům.
+Obloha | Jupiter | Uran | Opozice | Touha po svobodě a novém se v těchto měsících přetahuje s ustálenými názory. Velká očekávání a spory o přesvědčení mohou rozkolísat klid.
+Obloha | Jupiter | Uran | Kvadratura | Napětí se hromadí a pak se náhle uvolní, změny přicházejí skokem. Přehánění a umíněnost jsou teď větší úskalí než změna sama.
+Obloha | Jupiter | Uran | Trigon | Měsíce přejí vynálezům, cestám a společným projektům a štěstí stojí při odvážných nápadech. Nové věci se ujímají snadněji než jindy.
+Obloha | Jupiter | Uran | Sextil | Dobrý nápad se teď rád potká s příležitostí. Je čas zkoušet nové postupy, navazovat kontakty a učit se novým věcem.
+Obloha | Jupiter | Neptun | Konjunkce | Doba idealismu, soucitu a velkých snů, kdy roste zájem o duchovní věci a dobročinnost. Zároveň se snadno věří slibům a lákavým spekulacím, proto je dobré zůstat nohama na zemi.
+Obloha | Jupiter | Neptun | Opozice | Velká očekávání a sny se rozcházejí se skutečností. U peněz i u slibů je moudrá opatrnost a střízlivý pohled chrání před zklamáním.
+Obloha | Jupiter | Neptun | Kvadratura | Iluze se snadno vydávají za pravdu a spekulace láká víc než poctivá práce. Občasné střízlivé ohlédnutí a rada blízkých pomáhají udržet směr.
+Obloha | Jupiter | Neptun | Trigon | Soucit, umění a duchovní hledání mají v těchto měsících dobrou půdu. Dobročinné snahy a péče o slabší nacházejí širokou podporu.
+Obloha | Jupiter | Neptun | Sextil | Ideály lze teď proměnit v konkrétní pomoc a tvorbu. Dobrá doba podpořit užitečnou věc nebo dát prostor hudbě a umění.
+Obloha | Jupiter | Pluto | Konjunkce | Začíná nová kapitola ve vztahu k moci, bohatství a vlivu a v hospodářství se přeskupují síly. Ctižádost je silná a úspěch přeje tomu, kdo své postavení nezneužívá.
+Obloha | Jupiter | Pluto | Opozice | Velké ambice se střetávají a boj o vliv vystupuje na povrch. Je dobré sledovat, co se kolem děje, a nenechat se strhnout cizím tlakem.
+Obloha | Jupiter | Pluto | Kvadratura | Touha po moci a růstu za každou cenu zvyšuje napětí ve společnosti i v práci. Nechat věci dozrát vlastním tempem je teď moudřejší než tlačit.
+Obloha | Jupiter | Pluto | Trigon | Doba přeje velkým projektům, obnově a schopnému vedení. Soustředěné úsilí může přinést výrazný pokrok, pokud se nespoléhá jen na štěstí.
+Obloha | Jupiter | Pluto | Sextil | Větší věci se v těchto měsících dobře organizují a změna snadno získá podporu. Odhodlání a schopnost vést nacházejí ohlas.
+Obloha | Saturn | Uran | Konjunkce | Staré a nové se potkávají tváří v tvář a pravidla se přestavují. Začíná dlouhý cyklus, kdy je třeba zachovat, co funguje, a odvážně měnit, co už neslouží.
+Obloha | Saturn | Uran | Opozice | Napětí mezi touhou po svobodě a potřebou jistoty prostupuje společnost, hospodářství i práci. Rozumné je měnit věci uvnitř stávajícího rámce, ne všechno najednou bourat.
+Obloha | Saturn | Uran | Kvadratura | Tradice a pokrok se přetahují a nespokojenost s omezeními roste. Schůdná cesta vede přes postupné úpravy, ne přes vzdor.
+Obloha | Saturn | Uran | Trigon | Promyšlené změny s pevným základem mají teď dobré podmínky. Nové nápady se spojují se zkušeností a lze vybudovat něco trvalého a moderního.
+Obloha | Saturn | Uran | Sextil | Pokrok se dá uskutečnit krok po kroku. Měsíce přejí zavádění nových postupů do zaběhnutých struktur a pečlivému plánování.
+Obloha | Saturn | Neptun | Konjunkce | Sny se zkoušejí skutečností a jistoty se zdají méně pevné. Je to příležitost dát ideálům tvar a rozlišit, co je opravdu důležité.
+Obloha | Saturn | Neptun | Opozice | Pochybnosti a zmatek oslabují pocit jistoty ve společnosti i v práci. Střízlivost, trpělivost a duchovní nebo tvůrčí opora pomáhají ustát nejistotu.
+Obloha | Saturn | Neptun | Kvadratura | Pevné struktury se zdají rozpouštět a není jasné, čemu věřit. Moudré je nedělat ukvapené kroky a hledat oporu v tom, co vydrželo.
+Obloha | Saturn | Neptun | Trigon | Ideály se v této době dobře spojují s praktickou prací. Dobré úmysly lze převést do trvalé podoby a soucit dostává konkrétní tvar.
+Obloha | Saturn | Neptun | Sextil | Měsíce vhodné pro rozjímání, ujasnění směru a pomoc druhým. Vize se dá klidně a vytrvale proměnit v plán.
+Obloha | Saturn | Pluto | Konjunkce | Začíná nová kapitola, kdy se staré struktury rozpadají a vznikají nové, ve společnosti i v hospodářství. Doba je vážná a náročná, odměňuje vytrvalost a ochotu pustit, co dosloužilo.
+Obloha | Saturn | Pluto | Opozice | Tlak, omezení a boj o moc doléhají na mnoho lidí současně, často kvůli poměrům ve světě. Pomáhá důvěra ve vlastní síly, přijetí toho, co změnit nelze, a pohled dopředu.
+Obloha | Saturn | Pluto | Kvadratura | Měsíce zkoušek, kdy se konce a velké změny ohlašují v práci i ve společnosti. Kdo se méně drží minulosti, snáz najde nový začátek.
+Obloha | Saturn | Pluto | Trigon | Vytrvalá, hluboká práce a pevné odhodlání mají teď podporu. Úsilí a šetrnost položí základ, na kterém lze stavět dlouho.
+Obloha | Saturn | Pluto | Sextil | Doba je vhodná k dlouhodobému a vytrvalému budování. Odhodlání a disciplína přinášejí výsledky, které vydrží.
+
+# Pomalé planety mezi sebou (roky, generace)
+Obloha | Uran | Neptun | Konjunkce | Mimořádně vzácné setkání, které otevírá novou éru ideálů, objevů a duchovního hledání a vtiskne pečeť celé generaci. Inspirace se mísí se zmatkem a staré představy o světě ztrácejí platnost.
+Obloha | Uran | Neptun | Opozice | Dlouhé období, kdy se v celé společnosti střetávají ideály s náhlými změnami. Nové objevy otevírají obzory, ale jasno v tom, co je skutečné, se hledá obtížně.
+Obloha | Uran | Neptun | Kvadratura | Léta, kdy se rozpadají staré iluze a společnost hledá nové hodnoty. Inspirace i zmatek sílí a zkouška spočívá v tom, rozlišit pravdu od přání.
+Obloha | Uran | Neptun | Trigon | Pokrok a soucit jdou v těchto letech ruku v ruce a nové myšlenky se šíří s idealistickým zápalem. Generace narozená v této době nese cit pro lidské a duchovní hodnoty.
+Obloha | Uran | Neptun | Sextil | Vynalézavost slouží po léta ideálům a dobrým věcem. Společnosti se otevírá zájem o hlubší smysl a o pomoc druhým.
+Obloha | Uran | Pluto | Konjunkce | Začíná dlouhá epocha převratů, kdy se staré pořádky hroutí a rodí se nové podmínky života. Generace narozená v tomto čase nese silný hlad po změně.
+Obloha | Uran | Pluto | Opozice | Vnější změny nutí celou společnost ke změně vnitřní. Napětí mezi tím, co se bourá, a tím, co vzniká, se léta projevuje v mnoha oblastech života.
+Obloha | Uran | Pluto | Kvadratura | Léta neklidu, kdy se staví a bourá zároveň a společnost hledá nové základy. Velké změny jsou mimo moc jednotlivce, proto pomáhá pružnost a hledání nové cesty.
+Obloha | Uran | Pluto | Trigon | Změny se v tomto dlouhém období dají uskutečnit tvořivě a bez velkých otřesů. Nové myšlenky a noví lidé přinášejí obnovu, která sahá do hloubky.
+Obloha | Uran | Pluto | Sextil | Hledání nových cest přináší po léta pokrok ve vědě, technice i v pohledu na svět. Reformy mají naději, když se opírají o úsilí mnoha lidí.
+Obloha | Neptun | Pluto | Konjunkce | Setkání, které se opakuje jen jednou za necelých pět set let a otevírá novou epochu v duchovním životě. Mění se hluboké představy o smyslu a víře a celé generace hledají nový základ.
+Obloha | Neptun | Pluto | Opozice | Velmi vzácný úhel, kdy se staré a nové představy o smyslu života dostávají do protikladu. Pro celé generace je to doba hledání, kde končí iluze a začíná skutečnost.
+Obloha | Neptun | Pluto | Kvadratura | Dlouhé napětí v hlubokých vrstvách společnosti, kdy víra a moc ztrácejí dosavadní podobu. Doba vyžaduje bdělost vůči svodům a hledání pevného duchovního základu.
+Obloha | Neptun | Pluto | Trigon | Hluboké změny v duchovním životě probíhají po desítky let plynule. Generace z tohoto času mají přirozený cit pro vnitřní proměnu.
+Obloha | Neptun | Pluto | Sextil | Úhel, který trvá desítky let a tiše podporuje duchovní hledání celých generací. Svět se mění v hloubce a otevírá se zájem o smysl, vnitřní život a obnovu hodnot.

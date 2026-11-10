@@ -287,7 +287,7 @@ const HELP_TOPICS = [
   <li><b>Předchozí</b> a <b>Další</b> přejdou o jeden návrat zpět nebo dopředu. Datum a čas návratu je v nadpisu a v tabulce Planety pod polohami.</li>
   <li><b>Místo v den návratu</b> mění domy a Ascendent, polohy planet zůstávají stejné. Je společné se solárním návratem.</li>
 </ul>
-<p>Nejvíc napoví dům, ve kterém Měsíc stojí, a znamení na Ascendentu. Lunární návrat je jemnější než solární, ukazuje spíš náladu a běžné starosti měsíce než velké události.</p>
+<p>Nejvíc napoví dům, ve kterém Měsíc stojí, a znamení na Ascendentu. Lunární návrat je jemnější než solární, ukazuje spíš náladu a běžné starosti měsíce než velké události. MC ukazuje, o co člověk tento měsíc citově usiluje a jak chce působit na druhé. Severní uzel a Chiron se ve výkladu lunárního návratu nevypisují, jsou jen v kole a v tabulce.</p>
 <p>Bez času narození nejde určit polohu Měsíce přesně. Okamžik návratu se pak může lišit až o půl dne a chybí domy, Ascendent a MC.</p>`,
   },
   {

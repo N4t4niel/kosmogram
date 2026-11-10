@@ -198,7 +198,8 @@ fn placement_section(c: &Chart, kind: Kind) -> Section {
             if let (Some(h), true) = (b.house, has_house(b)) {
                 match texts::house(&format!("{p}{}", b.name), h) {
                     Some(t) => text = format!("{text} {t}").trim_start().to_string(),
-                    None => text += &format!(" Nejčastěji se to projeví {}v oblasti {}.", retro_note(b), HOUSE_AREA[h - 1]),
+                    None if !kind.own_texts_only() => text += &format!(" Nejčastěji se to projeví {}v oblasti {}.", retro_note(b), HOUSE_AREA[h - 1]),
+                    None => {}
                 }
             }
             if own_sign.is_none() && !kind.own_texts_only() {
@@ -209,6 +210,8 @@ fn placement_section(c: &Chart, kind: Kind) -> Section {
             }
             Item { title: placement_title(b), text }
         })
+        // A return without its own text for a body leaves it out rather than showing a bare title.
+        .filter(|i| !(kind.own_texts_only() && i.text.trim().is_empty()))
         .collect();
     Section { title: "Planety ve znameních a domech".into(), items }
 }

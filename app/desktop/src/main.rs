@@ -139,6 +139,11 @@ async fn solar_return(person: Person, year: i32, place: Option<Place>, settings:
 }
 
 #[tauri::command]
+async fn lunar_return(person: Person, from: String, place: Option<Place>, settings: Settings) -> R<(views::ChartPanel, String)> {
+    views::lunar_return(&person, &from, place.as_ref(), &settings)
+}
+
+#[tauri::command]
 fn name_forms(name: String, sex: String) -> astro_core::names::Name {
     astro_core::names::name_of(&name, &sex)
 }
@@ -215,7 +220,7 @@ fn main() {
         })
         .invoke_handler(tauri::generate_handler![
             set_unsaved, close_app, search_places, load_data, save_person, delete_person, save_settings, set_zoom, save_sky_place, house_systems,
-            sky, radix, transits, progressions, events, relation, name_forms, solar_return, backup_info, export_backup, import_backup,
+            sky, radix, transits, progressions, events, relation, name_forms, solar_return, lunar_return, backup_info, export_backup, import_backup,
             check_update, install_update
         ])
         .run(tauri::generate_context!())

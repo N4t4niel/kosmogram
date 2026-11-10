@@ -9,6 +9,9 @@ const pad = (n) => String(n).padStart(2, "0");
 const isoDate = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
 const when = { date: isoDate(today), time: `${pad(today.getHours())}:${pad(today.getMinutes())}`, year: today.getFullYear(), month: today.getMonth() + 1, progDate: isoDate(today), important: true };
 const solar = { year: today.getFullYear(), place: null };
+// `from` null means the lunar return in effect today; `date` is the shown return, for stepping.
+const lunar = { from: null, date: null };
+const addDays = (iso, n) => { const d = new Date(`${iso}T12:00:00Z`); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
 
 const allPeople = () => [...state.temps, ...state.people];
 const setTemps = (temps) => {
@@ -98,6 +101,7 @@ function selectPerson(id) {
   state.relation = null;
   state.partnerId = "";
   solar.place = null;
+  lunar.from = null;
   if (!state.current) return showSky();
   if (state.tab === "sky") {
     state.tab = "radix";
@@ -158,6 +162,7 @@ async function refresh() {
     if (state.tab === "transit") panel = await invoke("transits", { person: p, date: when.date, time: when.time, settings });
     if (state.tab === "prog") panel = await invoke("progressions", { person: p, date: when.progDate, settings });
     if (state.tab === "solar") panel = await invoke("solar_return", { person: p, year: solar.year, place: solar.place, settings });
+    if (state.tab === "lunar") panel = await lunarReturn(p, settings);
     if (state.tab === "calendar") {
       showPanel(null);
       return loadCalendar();
@@ -180,7 +185,7 @@ function field(label, html) {
 
 function renderControls() {
   const c = $("controls");
-  if (["sky", "radix", "solar"].includes(state.tab)) c.innerHTML = "";
+  if (["sky", "radix", "solar", "lunar"].includes(state.tab)) c.innerHTML = "";
   if (state.tab === "calendar") {
     c.innerHTML = field("Období", `<select id="c-month">${MONTHS.map((m, i) => `<option value="${i}" ${i === when.month ? "selected" : ""}>${m}</option>`).join("")}</select>`) +
       field("Rok", `<input type="number" id="c-year" value="${when.year}" min="1800" max="2399">`) +
@@ -330,10 +335,14 @@ async function loadCalendar() {
   }
 }
 
-// ---------- solar return ----------
+// ---------- solar and lunar return ----------
 function renderSolarBar() {
-  $("solar-bar").hidden = state.tab !== "solar";
-  if (state.tab !== "solar") return;
+  const lunarTab = state.tab === "lunar";
+  $("solar-bar").hidden = state.tab !== "solar" && !lunarTab;
+  if ($("solar-bar").hidden) return;
+  $("solar-year-label").hidden = lunarTab;
+  $("lunar-step").hidden = !lunarTab;
+  $("lunar-now").disabled = lunar.from === null;
   $("solar-year").value = solar.year;
   $("solar-place").value = placeLabel(solar.place ?? state.current.place);
   $("solar-home").hidden = !solar.place;
@@ -344,6 +353,21 @@ $("solar-year").onchange = (e) => {
   if (year >= 1800 && year <= 2399) { solar.year = year; refresh(); } else renderSolarBar();
 };
 $("solar-home").onclick = () => { solar.place = null; refresh(); };
+
+/** The return asked for; without one, the newest return that is not in the future. */
+async function lunarReturn(p, settings) {
+  const now = isoDate(today);
+  let [panel, date] = await invoke("lunar_return", { person: p, from: lunar.from ?? addDays(now, -28), place: solar.place, settings });
+  if (lunar.from === null && date < now) {
+    const [next, nextDate] = await invoke("lunar_return", { person: p, from: addDays(date, 1), place: solar.place, settings });
+    if (nextDate <= now) [panel, date] = [next, nextDate];
+  }
+  lunar.date = date;
+  return panel;
+}
+$("lunar-prev").onclick = () => { if (lunar.date) { lunar.from = addDays(lunar.date, -28); refresh(); } };
+$("lunar-next").onclick = () => { if (lunar.date) { lunar.from = addDays(lunar.date, 1); refresh(); } };
+$("lunar-now").onclick = () => { lunar.from = null; refresh(); };
 
 // ---------- person form ----------
 function parseCzDate(s) {
@@ -594,7 +618,7 @@ function placeSuggest(input, box, onPick, onEdit) {
 }
 
 placeSuggest($("solar-place"), $("solar-suggest"), (place) => { solar.place = place; refresh(); });
-$("solar-place").addEventListener("blur", () => setTimeout(() => { if (state.tab === "solar" && document.activeElement !== $("solar-place")) renderSolarBar(); }, 200));
+$("solar-place").addEventListener("blur", () => setTimeout(() => { if (["solar", "lunar"].includes(state.tab) && document.activeElement !== $("solar-place")) renderSolarBar(); }, 200));
 
 const hideFormSuggest = placeSuggest($("f-place"), $("suggest"), setPlace, () => {
   state.place = null;

@@ -45,7 +45,7 @@ def key_error(p):
         if len(p) != 4 or p[1] not in BODIES or p[2] not in BODIES or p[3] not in ASPECTS:
             return "špatný klíč"
         return None if BODIES.index(p[1]) <= BODIES.index(p[2]) else "špatné pořadí dvojice"
-    if p[0] in ("Synastrie dům", "Složený", "Solární"):
+    if p[0] in ("Synastrie dům", "Složený", "Solární", "Lunární"):
         if len(p) == 3 and p[1] in BODIES and (HOUSE.match(p[2]) or p[2] in SIGNS):
             return None
         if p[0] != "Synastrie dům" and len(p) == 4 and p[1] in BODIES and p[2] in BODIES and p[3] in ASPECTS:

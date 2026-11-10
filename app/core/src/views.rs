@@ -112,6 +112,15 @@ fn birth_info(p: &Person, m: &Moment) -> Vec<String> {
     v
 }
 
+/// Personal readings name the person: `{1}` in the texts becomes their name in the right case.
+fn personal(p: &Person, mut sections: Vec<Section>) -> Vec<Section> {
+    let who = names::subject(p);
+    for item in sections.iter_mut().flat_map(|sec| sec.items.iter_mut()) {
+        item.text = names::fill_one(&item.text, &who);
+    }
+    sections
+}
+
 fn cz_date(iso: &str) -> String {
     parse_date(iso).map(|d| format!("{}. {}. {}", d.day(), d.month(), d.year())).unwrap_or_else(|_| iso.into())
 }
@@ -120,7 +129,7 @@ pub fn radix(p: &Person, s: &Settings) -> Result<ChartPanel, String> {
     let (c, m) = natal(p, s)?;
     let asp = within(&c, s);
     let svg = render(&c, None, &line_list(&asp, &c, &c));
-    let sections = vec![interpret::overview(&c), interpret::placements(&c), interpret::houses(&c), interpret::natal_aspects(&asp)];
+    let sections = personal(p, vec![interpret::overview(&c), interpret::placements(&c), interpret::houses(&c), interpret::natal_aspects(&asp)]);
     Ok(ChartPanel { title: format!("Horoskop: {}", p.name), svg, rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info: birth_info(p, &m) })
 }
 
@@ -149,7 +158,7 @@ pub fn transits(p: &Person, date: &str, time: &str, s: &Settings) -> Result<Char
     }
     active.sort_by(|x, y| y.power.total_cmp(&x.power));
     let svg = render(&n, Some(&t), &line_list(&active, &t, &n));
-    let sections = vec![interpret::active_moving(&active, "Co teď působí", interpret::TRANSIT)];
+    let sections = personal(p, vec![interpret::active_moving(&active, "Co teď působí", interpret::TRANSIT)]);
     let info = vec![format!("Tranzity k {}, {time}", cz_date(date)), "Uvnitř radix, vně planety pro zvolený den.".into()];
     Ok(ChartPanel { title: format!("Tranzity: {}", p.name), svg, rows: rows(&t), cusps: vec![], aspects: active, sections, info })
 }
@@ -162,7 +171,7 @@ pub fn progressions(p: &Person, date: &str, s: &Settings) -> Result<ChartPanel, 
     let c = progressed(n.jd_ut, target.jd_ut, place, s)?;
     let active: Vec<Aspect> = between(&c, &n, s, false).into_iter().filter(|a| a.orb <= ACTIVE_PROGRESSION_ORB).collect();
     let svg = render(&n, Some(&c), &line_list(&active, &c, &n));
-    let sections = vec![interpret::active_moving(&active, "Progrese k radixu (orb do 1°)", interpret::progression_family(s))];
+    let sections = personal(p, vec![interpret::active_moving(&active, "Progrese k radixu (orb do 1°)", interpret::progression_family(s))]);
     let axes = if s.solar_arc_angles {
         "Osy a domy: solární oblouk, asi 1° za rok."
     } else {
@@ -203,8 +212,46 @@ pub fn solar_return(p: &Person, year: i32, place: Option<&Place>, s: &Settings) 
     if !p.time_known {
         info.push("Bez času narození nejde určit přesný okamžik návratu, proto chybí domy, Ascendent a MC.".into());
     }
-    let sections = vec![interpret::placements_of(&c, Kind::Solar), interpret::aspects_of(&asp, Kind::Solar)];
+    let sections = personal(p, vec![interpret::placements_of(&c, Kind::Solar), interpret::aspects_of(&asp, Kind::Solar)]);
     Ok(ChartPanel { title: format!("Solární návrat {year}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info })
+}
+
+/// The first moment from `jd` on when the Moon stands at `moon`, in UT.
+fn moon_returns(moon: f64, mut jd: f64) -> Result<f64, String> {
+    const DEGREES_A_DAY: f64 = 13.176;
+    jd += (moon - ephem::longitude(jd, MOON as i32)?).rem_euclid(360.0) / DEGREES_A_DAY;
+    for _ in 0..40 {
+        let left = min_diff(moon, ephem::longitude(jd, MOON as i32)?);
+        jd += left / DEGREES_A_DAY;
+        if left.abs() < 1e-7 {
+            break;
+        }
+    }
+    Ok(jd)
+}
+
+/// The first lunar return on or after the local date `from`, for a place of choice.
+/// Returns the chart and the local date of the return, so the next and previous one can be found.
+pub fn lunar_return(p: &Person, from: &str, place: Option<&Place>, s: &Settings) -> Result<(ChartPanel, String), String> {
+    let (n, _) = natal(p, s)?;
+    let start = jd_of_midnight(parse_date(from)?)?.max(n.jd_ut + 1.0);
+    let moon = n.bodies.iter().find(|b| b.index == MOON).ok_or("Chybí poloha Měsíce.")?.lon;
+    let jd = moon_returns(moon, start)?;
+    let at = place.unwrap_or(&p.place);
+    let c = cast(jd, p.time_known.then_some((at.lat, at.lon)), s)?;
+    let asp = within(&c, s);
+    let (local, utc) = (jd_to_local(jd, &at.tz), jd_to_local(jd, "UTC"));
+    let date = format!("{}. {}. {}", local.day(), local.month(), local.year());
+    let mut info = vec![
+        format!("Měsíc se vrací na svou polohu z narození: {date}, {} ({}), {}", local.format("%H:%M"), offset_label((local - utc).num_minutes() as i32), at.name),
+        "Lunární návrat platí asi 27 dní, do dalšího návratu Měsíce.".into(),
+    ];
+    if !p.time_known {
+        info.push("Bez času narození nejde určit polohu Měsíce přesně, okamžik návratu se proto může lišit až o půl dne. Chybí domy, Ascendent a MC.".into());
+    }
+    let sections = personal(p, vec![interpret::placements_of(&c, Kind::Lunar), interpret::aspects_of(&asp, Kind::Lunar)]);
+    let panel = ChartPanel { title: format!("Lunární návrat {date}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info };
+    Ok((panel, local.format("%Y-%m-%d").to_string()))
 }
 
 fn jd_of_midnight(d: NaiveDate) -> Result<f64, String> {
@@ -224,6 +271,7 @@ pub fn events(p: &Person, year: i32, month: u32, progression: bool, s: &Settings
     let (first, next) = (first.ok_or("Neplatné období")?, next.ok_or("Neplatné období")?);
     let mode = if progression { Mode::Progression } else { Mode::Transit };
     let hits = find_hits(&n, (p.place.lat, p.place.lon), jd_of_midnight(first)?, jd_of_midnight(next)?, mode, s)?;
+    let who = names::subject(p);
     Ok(hits
         .into_iter()
         .map(|h| {
@@ -233,7 +281,7 @@ pub fn events(p: &Person, year: i32, month: u32, progression: bool, s: &Settings
                 date: format!("{}. {}. {}", local.day(), local.month(), local.year()),
                 time: local.format("%H:%M").to_string(),
                 title: format!("{} {}{r}: {} – {}", h.mover_name, h.sign, h.aspect_name.to_lowercase(), h.natal_name),
-                text: interpret::transit_text(&h, if progression { interpret::progression_family(s) } else { interpret::TRANSIT }),
+                text: names::fill_one(&interpret::transit_text(&h, if progression { interpret::progression_family(s) } else { interpret::TRANSIT }), &who),
                 hit: h,
             }
         })

@@ -1,7 +1,7 @@
 // Help centre: topics with search, inline figures, a comparison of house systems and on-screen tours.
 // Content lives in help-content.js. Loaded after app.js, whose helpers ($, esc, invoke, normalize) it uses.
 
-const TAB_TOPIC = { sky: "start", radix: "radix", transit: "tranzity", prog: "progrese", solar: "solar", calendar: "kalendar", rel: "vztah" };
+const TAB_TOPIC = { sky: "start", radix: "radix", transit: "tranzity", prog: "progrese", solar: "solar", lunar: "lunar", calendar: "kalendar", rel: "vztah" };
 const helpState = { topic: "start", query: "" };
 
 // ---------- figures ----------

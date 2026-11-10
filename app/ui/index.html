@@ -63,11 +63,17 @@
         <button data-tab="transit">Tranzity</button>
         <button data-tab="prog">Progrese</button>
         <button data-tab="solar">Solární návrat</button>
+        <button data-tab="lunar">Lunární návrat</button>
         <button data-tab="calendar">Kalendář</button>
         <button data-tab="rel">Vztah s…</button>
       </nav>
       <div id="solar-bar" data-help="solar-bar" hidden>
-        <label>Rok <input type="number" id="solar-year" min="1800" max="2399"></label>
+        <label id="solar-year-label">Rok <input type="number" id="solar-year" min="1800" max="2399"></label>
+        <div id="lunar-step" class="stepper" data-help="lunar-step" hidden>
+          <button id="lunar-prev">◀ Předchozí</button>
+          <button id="lunar-next">Další ▶</button>
+          <button id="lunar-now">Platný dnes</button>
+        </div>
         <label class="place">Místo v den návratu
           <input id="solar-place" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="solar-suggest" autocomplete="off">
           <ul id="solar-suggest" class="suggest" role="listbox" hidden></ul>

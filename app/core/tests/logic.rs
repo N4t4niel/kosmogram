@@ -112,6 +112,32 @@ fn solar_return_finds_the_sun_on_its_birth_position() {
 }
 
 #[test]
+fn lunar_return_finds_the_moon_month_after_month() {
+    let place = Place { name: "Brno".into(), lat: 49.2, lon: 16.6, tz: "Europe/Prague".into(), ..Place::default() };
+    let p = Person { name: "Jana".into(), date: "1985-07-14".into(), time: "14:30".into(), time_known: true, place, ..Person::default() };
+    let s = Settings::default();
+    let natal = views::radix(&p, &s).unwrap();
+    let day = |iso: &str| chrono::NaiveDate::parse_from_str(iso, "%Y-%m-%d").unwrap();
+    let (first, d1) = views::lunar_return(&p, "2026-11-01", None, &s).unwrap();
+    assert_eq!(first.rows[1].position, natal.rows[1].position);
+    assert!(day(&d1) >= day("2026-11-01") && day(&d1) < day("2026-11-29"), "{d1}");
+    // The next one from the day after, the previous one from 28 days before.
+    let next_from = (day(&d1) + chrono::Duration::days(1)).to_string();
+    let (_, d2) = views::lunar_return(&p, &next_from, None, &s).unwrap();
+    let gap = (day(&d2) - day(&d1)).num_days();
+    assert!((27..=28).contains(&gap), "{d1} → {d2}");
+    let (_, back) = views::lunar_return(&p, &(day(&d2) - chrono::Duration::days(28)).to_string(), None, &s).unwrap();
+    assert_eq!(back, d1);
+    assert!(first.info[0].starts_with("Měsíc se vrací") && first.title.contains("Jana"), "{}", first.info[0]);
+    // Before birth it starts after the birth, never with the birth itself.
+    let (_, early) = views::lunar_return(&p, "1985-01-01", None, &s).unwrap();
+    assert!(day(&early) > day("1985-07-20"), "{early}");
+    let unknown = Person { time_known: false, ..p };
+    let (u, _) = views::lunar_return(&unknown, "2026-11-01", None, &s).unwrap();
+    assert!(u.cusps.is_empty() && u.info.iter().any(|i| i.contains("půl dne")));
+}
+
+#[test]
 fn changeover_gets_a_note() {
     let gap = parse_date("2024-03-31").unwrap().and_time(parse_time("02:30").unwrap());
     assert!(local_to_moment(gap, "Europe/Prague", None).unwrap().note.is_some());
@@ -459,9 +485,22 @@ fn every_relationship_template_fills() {
         let out = fill(text, &a, &b);
         assert!(!out.contains('{') && !out.contains('}'), "{key}: {out}");
         if !key.starts_with("Synastrie") && !key.starts_with("Složený") {
-            assert!(!text.contains('{'), "{key}");
+            assert!(!text.contains("{2") && !text.contains("{p"), "osobní text zná jen jednoho člověka: {key}");
         }
     }
+}
+
+/// Personal readings name the person; without a real name they speak about "člověk" as before.
+#[test]
+fn personal_texts_use_the_name() {
+    use astro_core::model::Person;
+    use astro_core::names::{fill_one, subject};
+    let who = |name: &str, sex: &str| subject(&Person { name: name.into(), sex: sex.into(), ..Person::default() });
+    let t = "{1} se poznává skrze činy. Často {1:ho|ji} láká nový plán a {1:bývá upřímný|bývá upřímná}. Síla {1g} je v odvaze.";
+    assert_eq!(fill_one(t, &who("Jana Nováková", "")), "Jana se poznává skrze činy. Často ji láká nový plán a bývá upřímná. Síla Jany je v odvaze.");
+    assert_eq!(fill_one(t, &who("Ing. Petr Novák", "")), "Petr se poznává skrze činy. Často ho láká nový plán a bývá upřímný. Síla Petra je v odvaze.");
+    assert_eq!(fill_one(t, &who("Neuložený člověk", "")), "Člověk se poznává skrze činy. Často ho láká nový plán a bývá upřímný. Síla člověka je v odvaze.");
+    assert_eq!(fill_one("Ví to. {1:on|ona} sám.", &who("", "")), "Ví to. On sám.");
 }
 
 /// Settings saved by version 1.0 have no font sizes; they load with the normal size.

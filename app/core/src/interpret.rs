@@ -159,6 +159,7 @@ fn placement_title(b: &Body) -> String {
 pub enum Kind {
     Radix,
     Solar,
+    Lunar,
     Composite,
 }
 
@@ -167,8 +168,14 @@ impl Kind {
         match self {
             Kind::Radix => "",
             Kind::Solar => "Solární | ",
+            Kind::Lunar => "Lunární | ",
             Kind::Composite => "Složený | ",
         }
+    }
+
+    /// Returns show only their own texts; a sentence composed for a birth would not fit a year or a month.
+    fn own_texts_only(self) -> bool {
+        matches!(self, Kind::Solar | Kind::Lunar)
     }
 }
 
@@ -187,14 +194,14 @@ fn placement_section(c: &Chart, kind: Kind) -> Section {
         .iter()
         .map(|b| {
             let own_sign = texts::sign(&format!("{p}{}", b.name), b.sign_name);
-            let mut text = own_sign.map(str::to_string).unwrap_or_else(|| if kind == Kind::Solar { String::new() } else { sign_sentence(b) });
+            let mut text = own_sign.map(str::to_string).unwrap_or_else(|| if kind.own_texts_only() { String::new() } else { sign_sentence(b) });
             if let (Some(h), true) = (b.house, has_house(b)) {
                 match texts::house(&format!("{p}{}", b.name), h) {
                     Some(t) => text = format!("{text} {t}").trim_start().to_string(),
                     None => text += &format!(" Nejčastěji se to projeví {}v oblasti {}.", retro_note(b), HOUSE_AREA[h - 1]),
                 }
             }
-            if own_sign.is_none() && kind != Kind::Solar {
+            if own_sign.is_none() && !kind.own_texts_only() {
                 text += dignity_sentence(b);
             }
             if let (true, Kind::Radix, Some(t)) = (b.retro, kind, texts::get(&format!("{} | Zpětný pohyb", b.name))) {
@@ -247,7 +254,7 @@ fn aspect_section(list: &[Aspect], kind: Kind) -> Section {
     let own = |a: &&Aspect| texts::aspect(&format!("{}{}", kind.prefix(), a.a_name), a.b_name, a.aspect_name).is_some();
     let items = list
         .iter()
-        .filter(|a| kind != Kind::Solar || own(a))
+        .filter(|a| !kind.own_texts_only() || own(a))
         .map(|a| Item {
             title: aspect_title(a),
             text: match texts::aspect(&format!("{}{}", kind.prefix(), a.a_name), a.b_name, a.aspect_name) {

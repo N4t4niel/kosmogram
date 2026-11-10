@@ -23,7 +23,7 @@ const HELP_TOURS = {
     { at: "filter", title: "Hledání", text: "Hledá ve jménech, místech, poznámkách i skupinách. Háčky a čárky psát nemusíte." },
     { at: "groups", title: "Skupiny", text: "Když lidem dáte skupinu, třeba Rodina nebo Klienti, objeví se tady výběr. Ukáže jen jednu skupinu, nebo všechny pod nadpisy." },
     { at: "people", title: "Seznam lidí", text: "Kliknutím na jméno otevřete horoskop daného člověka." },
-    { at: "tabs", title: "Pohledy na člověka", text: "Horoskop, tranzity, progrese, solární návrat, kalendář a vztah. Každý má vlastní téma v nápovědě.", tab: "radix" },
+    { at: "tabs", title: "Pohledy na člověka", text: "Horoskop, tranzity, progrese, solární a lunární návrat, kalendář a vztah. Každý má vlastní téma v nápovědě.", tab: "radix" },
     { at: "wheel", title: "Kolo", text: "Obrázek horoskopu. Co znamenají barvy a čáry, popisuje téma Jak číst kolo." },
     { at: "detail", title: "Planety, Aspekty, Výklad", text: "Vpravo jsou k tomu tabulky a texty. Přepínají se tlačítky nahoře." },
     { at: "print", title: "Tisk a PDF", text: "Vytiskne právě otevřený pohled, nebo ho uloží jako PDF." },
@@ -59,6 +59,11 @@ const HELP_TOURS = {
     { at: "tabs", title: "Solární návrat", text: "Horoskop okamžiku, kdy se Slunce vrátí na svou polohu z narození.", tab: "solar" },
     { at: "solar-bar", title: "Rok a místo", text: "Zvolte rok. Pokud člověk v den návratu pobývá jinde, zadejte to místo. Tlačítko Místo narození ho vrátí." },
     { at: "wheel", title: "Kolo", text: "Solární horoskop platí zhruba do dalšího návratu." },
+  ],
+  lunar: [
+    { at: "tabs", title: "Lunární návrat", text: "Horoskop okamžiku, kdy se Měsíc vrátí na svou polohu z narození. Stane se to jednou za 27 dní.", tab: "lunar" },
+    { at: "lunar-step", title: "Který návrat", text: "Program ukáže návrat, který platí dnes. Šipkami přejdete na předchozí nebo další." },
+    { at: "solar-bar", title: "Místo", text: "Pokud člověk v den návratu pobývá jinde, zadejte to místo. Tlačítko Místo narození ho vrátí." },
   ],
   calendar: [
     { at: "tabs", title: "Kalendář", text: "Přehled přesných tranzitů za měsíc nebo celý rok.", tab: "calendar" },
@@ -98,10 +103,11 @@ const HELP_TOPICS = [
   {
     id: "novinky", area: "start", title: "Co je nového",
     summary: "Co přinesla která verze.",
-    keys: "novinky změny verze 1.0 1.0.1 1.0.2 co je nového",
+    keys: "novinky změny verze 1.0 1.0.1 1.0.2 co je nového lunární návrat jméno",
     html: `
 <h3>Verze 1.0.2</h3>
 <ul>
+  <li><b>Lunární návrat.</b> Nová záložka ukáže horoskop na měsíc, od jednoho návratu Měsíce k dalšímu. <a data-topic="lunar">Více</a>.</li>
   <li><b>Skupiny lidí.</b> Ve formuláři dáte člověku skupinu, třeba Rodina, Klienti nebo Známí. Nad seznamem pak vyberete, kterou skupinu chcete vidět. <a data-topic="lide">Více</a>.</li>
 </ul>
 <h3>Verze 1.0.1</h3>
@@ -269,6 +275,20 @@ const HELP_TOPICS = [
 </ul>
 <p>Přesný den a čas návratu je v tabulce Planety pod polohami. Může se o den lišit od data narození, protože rok není přesně 365 dní.</p>
 <p>Bez času narození nejde určit přesný okamžik, proto chybí domy, Ascendent a MC.</p>`,
+  },
+  {
+    id: "lunar", area: "views", title: "Lunární návrat", tour: "lunar",
+    summary: "Horoskop na měsíc: okamžik, kdy se Měsíc vrátí na svou polohu.",
+    keys: "lunární návrat měsíc měsíční horoskop nálada předchozí další místo",
+    html: `
+<p>Měsíc oběhne celé kolo zhruba za 27 dní. Pokaždé, když se vrátí přesně na stupeň, kde byl při narození, začíná nový lunární návrat. Jeho horoskop ukazuje, kam se v následujících týdnech obrací pozornost, nálady a každodenní potřeby.</p>
+<ul>
+  <li><b>Platný dnes</b> ukáže návrat, který začal naposledy a ještě platí.</li>
+  <li><b>Předchozí</b> a <b>Další</b> přejdou o jeden návrat zpět nebo dopředu. Datum a čas návratu je v nadpisu a v tabulce Planety pod polohami.</li>
+  <li><b>Místo v den návratu</b> mění domy a Ascendent, polohy planet zůstávají stejné. Je společné se solárním návratem.</li>
+</ul>
+<p>Nejvíc napoví dům, ve kterém Měsíc stojí, a znamení na Ascendentu. Lunární návrat je jemnější než solární, ukazuje spíš náladu a běžné starosti měsíce než velké události.</p>
+<p>Bez času narození nejde určit polohu Měsíce přesně. Okamžik návratu se pak může lišit až o půl dne a chybí domy, Ascendent a MC.</p>`,
   },
   {
     id: "kalendar", area: "views", title: "Kalendář", tour: "calendar",

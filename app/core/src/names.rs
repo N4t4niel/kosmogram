@@ -160,6 +160,21 @@ fn is_female(name: &str, sex: &str) -> bool {
     }
 }
 
+/// Who a personal reading speaks about: the person's given name, or "člověk" when there is no real name.
+pub fn subject(p: &Person) -> Name {
+    let name = p.name.trim();
+    if name.is_empty() || name == "Neuložený člověk" {
+        let cases = ["člověk", "člověka", "člověku", "člověka", "člověku", "člověkem"].map(String::from);
+        return Name { full: name.to_string(), cases, female: false };
+    }
+    name_of(name, &p.sex)
+}
+
+/// Puts one person into a personal reading.
+pub fn fill_one(text: &str, who: &Name) -> String {
+    fill(text, who, who)
+}
+
 pub fn name_of(name: &str, sex: &str) -> Name {
     let female = is_female(name, sex);
     Name { full: name.to_string(), cases: decline(given(name), female), female }
@@ -240,6 +255,16 @@ fn token(t: &str, a: &Name, b: &Name) -> Option<String> {
     Some(person.cases[case_index(&t[1..])?].clone())
 }
 
+/// True when the next word begins a sentence, so "{1:on|ona} ..." and the fallback "člověk" get a capital.
+fn starts_sentence(before: &str) -> bool {
+    matches!(before.trim_end().chars().last(), None | Some('.' | '!' | '?'))
+}
+
+fn upper_first(s: &str) -> String {
+    let mut c = s.chars();
+    c.next().map(|f| f.to_uppercase().chain(c).collect()).unwrap_or_default()
+}
+
 /// Puts two people into a template. An unknown token stays visible instead of being lost.
 pub fn fill(text: &str, a: &Name, b: &Name) -> String {
     let mut out = String::with_capacity(text.len() + 32);
@@ -256,7 +281,7 @@ pub fn fill(text: &str, a: &Name, b: &Name) -> String {
                 if !inner.contains(':') {
                     vocalize(&mut out, &v);
                 }
-                out.push_str(&v);
+                out.push_str(&if starts_sentence(&out) { upper_first(&v) } else { v });
             }
             None => out.push_str(&rest[i..=i + j]),
         }

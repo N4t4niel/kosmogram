@@ -2,158 +2,158 @@
 # Vládce domu je planeta vládnoucí znamení na hrotu domu. Téma prvního domu se naplňuje v oblasti druhého.
 # Texty neříkají, o kterou planetu jde, platí pro kteroukoli. Vládce 1. domu je zároveň vládce horoskopu.
 
-Vládce | 1. dům | 1. dům | Vládce horoskopu zůstává doma a člověk proto spoléhá především sám na sebe. Má silnou vlastní povahu, jde za tím, co sám uzná za správné, a okolnosti si umí do značné míry vytvářet. Počítat má i s druhými a neplést si samostatnost s tím, že nikoho nepotřebuje.
-Vládce | 1. dům | 2. dům | Životní energie tu směřuje k penězům, schopnostem a tomu, co má člověk v rukou. Potřebuje vidět výsledek své práce a jistotu si buduje vlastní pílí, takže hodně času věnuje tomu, aby se zajistil. Vlastní cenu nemá odvozovat jen od toho, co vydělá a vlastní.
-Vládce | 1. dům | 3. dům | Člověk se tu realizuje myšlením, řečí a stálým kontaktem s okolím. Je zvědavý, rád se učí, píše, vyřizuje a bývá v pohybu, důležitou roli hrají sourozenci a nejbližší lidé kolem. Stinnou stránkou je neklid a roztříštěnost, proto má smysl dotáhnout aspoň část z toho, co ho zaujme.
-Vládce | 1. dům | 4. dům | Těžiště života je tu v domově, rodině a kořenech. Člověk čerpá sílu ze soukromí a z vazby na rodiče, zvlášť na otce, a mnohé se mu naplno rozvine až ve zralejším věku. Výzvou je vyjít i mimo bezpečné zázemí a nedat se minulostí přidržet.
-Vládce | 1. dům | 5. dům | Člověk se tu naplňuje tvorbou, radostí a tím, co ho těší. Přitahuje ho láska, hra, děti, umění a chuť si něco vsadit, často hledá jeviště, na kterém může ukázat, co v něm je. Prospívá mu tvořit pro věc samu a udržet míru v hledání obdivu a zábavy.
-Vládce | 1. dům | 6. dům | Člověk se tu uplatňuje prací a službou a bývá velmi pracovitý, s potřebou být užitečný. Přitahuje ho péče o druhé, řemeslo, řád a to, jak věci prakticky fungují, často i zdraví a životospráva. Vyplatí se dbát na odpočinek a nepřetěžovat se, úkolem je cenit si sebe i mimo výkon.
-Vládce | 1. dům | 7. dům | Člověk se tu poznává hlavně skrze druhé. Partnerství, společná práce a jednání s veřejností tvoří hlavní osu života a často mu pomáhají dozvědět se, kým je. Přináší to vstřícnost a smysl pro dohodu. Nemá se ale rozhodovat jen podle ohlasu okolí ani zapomínat na vlastní zájmy.
-Vládce | 1. dům | 8. dům | Životní cesta tu vede do hloubky, ke skrytým věcem a k proměnám. Člověk je pozorný, soukromý a umí zkoumat, přitahují ho otázky sdílení, důvěry a společných peněz i hranice běžné zkušenosti. Krize ho často posilují. Učí se pouštět, co skončilo, a nechat si pomoci.
-Vládce | 1. dům | 9. dům | Člověk tu hledá smysl za obzorem. Přitahuje ho vzdělání, víra, filozofie, právo, cizí země a dlouhé cesty, a jeho život se často odvíjí od toho, čemu věří. Má široký rozhled a otevřenou mysl. Vlastní přesvědčení by neměl považovat za jedinou pravdu a velké plány je třeba dotáhnout do praxe.
-Vládce | 1. dům | 10. dům | Člověk tu žije cílem, postavením a odpovědností. Má silnou ctižádost a přirozenou snahu stát se v něčem autoritou a úsilím se může vypracovat vysoko. Pozor si dát, aby osobní život a vztahy nezůstaly za povoláním a aby si své hodnoty neodvozoval jen od veřejného uznání.
-Vládce | 1. dům | 11. dům | Člověk tu rozkvétá mezi lidmi, kteří sdílejí jeho cíle. Přátelé, spolky a společné plány mu dávají oporu a jeho přání se často naplňují právě díky nim. Bývá přátelský a myslí na celek. Stojí za to zachovat si i v kolektivu vlastní názor a blízkost k jednotlivým lidem.
-Vládce | 1. dům | 12. dům | Člověk tu žije více uvnitř než navenek a potřebuje čas o samotě. Bývá citlivý, vnímavý a soucitný, přitahuje ho tichá pomoc druhým, duchovní hledání nebo práce v ústraní. Svádí to ke skrývání se a k tomu, že si překáží sám. Zraje tím, že věří sobě a dává své vnitřní bohatství najevo.
+Vládce | 1. dům | 1. dům | Vládce horoskopu zůstává doma a {1} proto spoléhá především {1:sám|sama} na sebe. Má silnou vlastní povahu, jde za tím, co {1:sám|sama} uzná za správné, a okolnosti si umí do značné míry vytvářet. Počítat má i s druhými a neplést si samostatnost s tím, že nikoho nepotřebuje.
+Vládce | 1. dům | 2. dům | Životní energie tu směřuje k penězům, schopnostem a tomu, co má {1} v rukou. Potřebuje vidět výsledek své práce a jistotu si buduje vlastní pílí, takže hodně času věnuje tomu, aby se {1:zajistil|zajistila}. Vlastní cenu nemá odvozovat jen od toho, co vydělá a vlastní.
+Vládce | 1. dům | 3. dům | {1} se tu realizuje myšlením, řečí a stálým kontaktem s okolím. Je {1:zvědavý|zvědavá}, {1:rád|ráda} se učí, píše, vyřizuje a bývá v pohybu, důležitou roli hrají sourozenci a nejbližší lidé kolem. Stinnou stránkou je neklid a roztříštěnost, proto má smysl dotáhnout aspoň část z toho, co {1:ho|ji} zaujme.
+Vládce | 1. dům | 4. dům | Těžiště života je tu v domově, rodině a kořenech. {1} čerpá sílu ze soukromí a z vazby na rodiče, zvlášť na otce, a mnohé se {1:mu|jí} naplno rozvine až ve zralejším věku. Výzvou je vyjít i mimo bezpečné zázemí a nedat se minulostí přidržet.
+Vládce | 1. dům | 5. dům | {1} se tu naplňuje tvorbou, radostí a tím, co {1:ho|ji} těší. Přitahuje {1:ho|ji} láska, hra, děti, umění a chuť si něco vsadit, často hledá jeviště, na kterém může ukázat, co v {1:něm|ní} je. Prospívá {1:mu|jí} tvořit pro věc samu a udržet míru v hledání obdivu a zábavy.
+Vládce | 1. dům | 6. dům | {1} se tu uplatňuje prací a službou a bývá {1:velmi pracovitý|velmi pracovitá}, s potřebou být {1:užitečný|užitečná}. Přitahuje {1:ho|ji} péče o druhé, řemeslo, řád a to, jak věci prakticky fungují, často i zdraví a životospráva. Vyplatí se dbát na odpočinek a nepřetěžovat se, úkolem je cenit si sebe i mimo výkon.
+Vládce | 1. dům | 7. dům | {1} se tu poznává hlavně skrze druhé. Partnerství, společná práce a jednání s veřejností tvoří hlavní osu života a často {1:mu|jí} pomáhají dozvědět se, kým je. Přináší to vstřícnost a smysl pro dohodu. Nemá se ale rozhodovat jen podle ohlasu okolí ani zapomínat na vlastní zájmy.
+Vládce | 1. dům | 8. dům | Životní cesta tu vede do hloubky, ke skrytým věcem a k proměnám. {1} je {1:pozorný, soukromý|pozorná, soukromá} a umí zkoumat, přitahují {1:ho|ji} otázky sdílení, důvěry a společných peněz i hranice běžné zkušenosti. Krize {1:ho|ji} často posilují. Učí se pouštět, co skončilo, a nechat si pomoci.
+Vládce | 1. dům | 9. dům | {1} tu hledá smysl za obzorem. Přitahuje {1:ho|ji} vzdělání, víra, filozofie, právo, cizí země a dlouhé cesty, a {1:jeho|její} život se často odvíjí od toho, čemu věří. Má široký rozhled a otevřenou mysl. Vlastní přesvědčení by {1:neměl|neměla} považovat za jedinou pravdu a velké plány je třeba dotáhnout do praxe.
+Vládce | 1. dům | 10. dům | {1} tu žije cílem, postavením a odpovědností. Má silnou ctižádost a přirozenou snahu stát se v něčem autoritou a úsilím se může vypracovat vysoko. Pozor si dát, aby osobní život a vztahy nezůstaly za povoláním a aby si své hodnoty {1:neodvozoval|neodvozovala} jen od veřejného uznání.
+Vládce | 1. dům | 11. dům | {1} tu rozkvétá mezi lidmi, kteří sdílejí {1:jeho|její} cíle. Přátelé, spolky a společné plány {1:mu|jí} dávají oporu a {1:jeho|její} přání se často naplňují právě díky nim. Bývá {1:přátelský|přátelská} a myslí na celek. Stojí za to zachovat si i v kolektivu vlastní názor a blízkost k jednotlivým lidem.
+Vládce | 1. dům | 12. dům | {1} tu žije více uvnitř než navenek a potřebuje čas o samotě. Bývá {1:citlivý, vnímavý a soucitný|citlivá, vnímavá a soucitná}, přitahuje {1:ho|ji} tichá pomoc druhým, duchovní hledání nebo práce v ústraní. Svádí to ke skrývání se a k tomu, že si překáží {1:sám|sama}. Zraje tím, že věří sobě a dává své vnitřní bohatství najevo.
 
-Vládce | 2. dům | 1. dům | Peníze a vlastní hodnota se tu pojí přímo s osobou člověka, který vydělává vlastní iniciativou, schopnostmi a tím, jak působí. Důležité je oddělit sebeúctu od stavu účtu.
-Vládce | 2. dům | 2. dům | Příjmy tu stojí na vlastní šikovnosti a vytrvalé práci a člověk má pro peníze přirozený cit. Stinnou stránkou je přílišné lpění na jistotách.
+Vládce | 2. dům | 1. dům | Peníze a vlastní hodnota se tu pojí přímo s osobou {1g}, {1:který|která} vydělává vlastní iniciativou, schopnostmi a tím, jak působí. Důležité je oddělit sebeúctu od stavu účtu.
+Vládce | 2. dům | 2. dům | Příjmy tu stojí na vlastní šikovnosti a vytrvalé práci a {1} má pro peníze přirozený cit. Stinnou stránkou je přílišné lpění na jistotách.
 Vládce | 2. dům | 3. dům | Peníze plynou z řeči, psaní, vzdělávání, obchodu nebo krátkých cest. Do výdělku mohou vstupovat sourozenci a sousedé, proto je dobré mít s nimi finance jasně dohodnuté.
-Vládce | 2. dům | 4. dům | Zdroje člověka souvisejí s domovem, rodinou a nemovitostmi, může těžit z rodinného zázemí, z půdy nebo z práce doma. Větší investice do majetku si zaslouží klidné zvážení.
-Vládce | 2. dům | 5. dům | Výdělek přichází z tvorby, zábavy, práce s dětmi a mládeží nebo z promyšleného rizika. Člověk rád utrácí za radost, proto by měl držet míru a nesázet víc, než si může dovolit.
+Vládce | 2. dům | 4. dům | Zdroje {1g} souvisejí s domovem, rodinou a nemovitostmi, může těžit z rodinného zázemí, z půdy nebo z práce doma. Větší investice do majetku si zaslouží klidné zvážení.
+Vládce | 2. dům | 5. dům | Výdělek přichází z tvorby, zábavy, práce s dětmi a mládeží nebo z promyšleného rizika. {1} {1:rád|ráda} utrácí za radost, proto by {1:měl|měla} držet míru a nesázet víc, než si může dovolit.
 Vládce | 2. dům | 6. dům | Peníze se vydělávají poctivou každodenní prací a službou druhým, často v péči o zdraví nebo o zvířata. Důležité je nepodceňovat cenu vlastní práce.
-Vládce | 2. dům | 7. dům | Finance vedou přes druhé lidi, tedy přes partnera nebo partnerku, smlouvy, společníky a jednání s veřejností. Dohody přinášejí zisk, když jsou jasné, a člověk si má zachovat vlastní finanční půdu pod nohama.
-Vládce | 2. dům | 8. dům | Vlastní příjmy se prolínají s penězi druhých, člověk umí pracovat se společnými prostředky, investicemi a pojištěním a může přijít i k dědictví. Pozor si dát na dluhy a na nabídky bez jasných pravidel.
-Vládce | 2. dům | 9. dům | Výdělek přichází ze vzdělání, publikování, výuky, práva nebo ze styků s cizinou a může člověka zavést daleko od místa narození. Rozpočet ale nemá stavět jen na velkých vyhlídkách.
+Vládce | 2. dům | 7. dům | Finance vedou přes druhé lidi, tedy přes partnera nebo partnerku, smlouvy, společníky a jednání s veřejností. Dohody přinášejí zisk, když jsou jasné, a {1} si má zachovat vlastní finanční půdu pod nohama.
+Vládce | 2. dům | 8. dům | Vlastní příjmy se prolínají s penězi druhých, {1} umí pracovat se společnými prostředky, investicemi a pojištěním a může přijít i k dědictví. Pozor si dát na dluhy a na nabídky bez jasných pravidel.
+Vládce | 2. dům | 9. dům | Výdělek přichází ze vzdělání, publikování, výuky, práva nebo ze styků s cizinou a může {1a} zavést daleko od místa narození. Rozpočet ale nemá stavět jen na velkých vyhlídkách.
 Vládce | 2. dům | 10. dům | Peníze a povolání jdou ruku v ruce, příjmy rostou s postavením a dobrou pověstí. Zkouškou je neměřit vlastní hodnotu jen pracovním úspěchem.
 Vládce | 2. dům | 11. dům | Finance podporují přátelé, vlivní známí, spolky a společné projekty, které umějí otevřít cestu k výdělku. Peníze mezi přáteli si však zaslouží jasnou domluvu.
 Vládce | 2. dům | 12. dům | Výdělek přichází z práce v ústraní nebo v zákulisí, z pomoci druhým a z institucí. Finance tu bývají méně přehledné, proto se vyplatí držet v nich pořádek a jít jasnými a poctivými cestami.
 
-Vládce | 3. dům | 1. dům | Myšlení a řeč výrazně utvářejí osobnost člověka, který je hbitý, přizpůsobivý a samostatně uvažuje. Rád cestuje a vyřizuje záležitosti blízkých, jen se nesmí roztříštit v množství činností.
-Vládce | 3. dům | 2. dům | Vědomosti a schopnost komunikovat se mění v peníze, člověk se učí prakticky a cení si toho, co se dá použít. S příbuznými by měl mít finance předem domluvené.
-Vládce | 3. dům | 3. dům | Mysl je ve svém živlu, člověk snadno mluví, píše, učí se jazyky a s okolím i sourozenci bývá v čilém kontaktu. Prospívá mu dopřát hlavě klid, aby se myšlenky netočily v kruhu.
-Vládce | 3. dům | 4. dům | Myšlenky se často vracejí k domovu, dětství a rodinným kořenům, člověk se hodně naučil doma a může doma i pracovat nebo psát. Sourozenci bývají zapojeni do rodinných a majetkových věcí.
-Vládce | 3. dům | 5. dům | Slova a myšlenky se stávají hrou a tvorbou, člověk rád vypráví, baví ostatní, píše nebo učí děti. Zkouškou je dát hravému nápadu i vážnou podobu.
-Vládce | 3. dům | 6. dům | Mysl se soustředí na detail, pracovní postupy a praktické úkoly, často i na zdraví a metody léčení. Dobře mu dělá dbát na nervy, rytmus a odpočinek po cestách i po duševní práci.
-Vládce | 3. dům | 7. dům | Rozhovor je základem vztahů, člověk přesvědčivě jedná a partnera nebo partnerku může potkat v blízkém okolí, na cestě či při psaní. Vyplatí se pečlivě číst smlouvy a věnovat pozornost nedorozuměním s příbuznými a sousedy.
+Vládce | 3. dům | 1. dům | Myšlení a řeč výrazně utvářejí osobnost {1g}, {1:který je hbitý, přizpůsobivý|která je hbitá, přizpůsobivá} a samostatně uvažuje. {1:Rád|Ráda} cestuje a vyřizuje záležitosti blízkých, jen se nesmí roztříštit v množství činností.
+Vládce | 3. dům | 2. dům | Vědomosti a schopnost komunikovat se mění v peníze, {1} se učí prakticky a cení si toho, co se dá použít. S příbuznými by {1:měl|měla} mít finance předem domluvené.
+Vládce | 3. dům | 3. dům | Mysl je ve svém živlu, {1} snadno mluví, píše, učí se jazyky a s okolím i sourozenci bývá v čilém kontaktu. Prospívá {1:mu|jí} dopřát hlavě klid, aby se myšlenky netočily v kruhu.
+Vládce | 3. dům | 4. dům | Myšlenky se často vracejí k domovu, dětství a rodinným kořenům, {1} se hodně {1:naučil|naučila} doma a může doma i pracovat nebo psát. Sourozenci bývají zapojeni do rodinných a majetkových věcí.
+Vládce | 3. dům | 5. dům | Slova a myšlenky se stávají hrou a tvorbou, {1} {1:rád|ráda} vypráví, baví ostatní, píše nebo učí děti. Zkouškou je dát hravému nápadu i vážnou podobu.
+Vládce | 3. dům | 6. dům | Mysl se soustředí na detail, pracovní postupy a praktické úkoly, často i na zdraví a metody léčení. Dobře {1d} dělá dbát na nervy, rytmus a odpočinek po cestách i po duševní práci.
+Vládce | 3. dům | 7. dům | Rozhovor je základem vztahů, {1} přesvědčivě jedná a partnera nebo partnerku může potkat v blízkém okolí, na cestě či při psaní. Vyplatí se pečlivě číst smlouvy a věnovat pozornost nedorozuměním s příbuznými a sousedy.
 Vládce | 3. dům | 8. dům | Myšlení míří pod povrch, k výzkumu, psychologii a otázkám přesahujícím běžnou zkušenost. Cesty a jednání mohou souviset s dědictvím a společnými penězi a vztah se sourozenci si zaslouží citlivost.
-Vládce | 3. dům | 9. dům | Zájem o okolí přerůstá v touhu po hlubším poznání, člověk se učí celý život, cestuje a může psát nebo publikovat. Má propojit fakta s velkými myšlenkami.
-Vládce | 3. dům | 10. dům | Schopnost mluvit a psát slouží povolání a dobré jméno přináší vzdělání, slovo, obchod nebo pracovní cesty. Slova má vážit, protože mají veřejný dosah.
-Vládce | 3. dům | 11. dům | Přátele člověk získává rozhovorem, korespondencí a na cestách, ve skupinách bývá tím, kdo šíří informace a propojuje lidi. Jeho nápady nacházejí oporu mezi známými i příbuznými.
-Vládce | 3. dům | 12. dům | Myšlení pracuje skrytě, člověk si mnohé nechává pro sebe, potřebuje ke studiu klid a může ho přitahovat duchovní poznání. Vztahy se sourozenci a sousedy si zaslouží otevřenost, cesty a dokumenty větší pozornost.
+Vládce | 3. dům | 9. dům | Zájem o okolí přerůstá v touhu po hlubším poznání, {1} se učí celý život, cestuje a může psát nebo publikovat. Má propojit fakta s velkými myšlenkami.
+Vládce | 3. dům | 10. dům | Schopnost mluvit a psát slouží povolání a dobré jméno přináší vzdělání, slovo, obchod nebo pracovní cesty. Slova má {1} vážit, protože mají veřejný dosah.
+Vládce | 3. dům | 11. dům | Přátele {1} získává rozhovorem, korespondencí a na cestách, ve skupinách bývá {1:tím, kdo šíří informace a propojuje|tou, která šíří informace a propojuje} lidi. {1:Jeho|Její} nápady nacházejí oporu mezi známými i příbuznými.
+Vládce | 3. dům | 12. dům | Myšlení pracuje skrytě, {1} si mnohé nechává pro sebe, potřebuje ke studiu klid a může {1:ho|ji} přitahovat duchovní poznání. Vztahy se sourozenci a sousedy si zaslouží otevřenost, cesty a dokumenty větší pozornost.
 
-Vládce | 4. dům | 1. dům | Rodina a kořeny výrazně utvářejí osobnost, člověk si nese odkaz rodičů a může těžit z rodinného majetku nebo nemovitostí. Úkolem je rozlišit, co je jeho vlastní a co rodinné.
-Vládce | 4. dům | 2. dům | Domov a rodina tvoří základ jistoty, člověk může vydělávat na nemovitostech a půdě nebo díky rodičům. Jistota by ale neměla spočívat jen ve věcech.
-Vládce | 4. dům | 3. dům | Domov se mění často nebo je úzce spojen s příbuznými a sousedstvím, člověk může bydlet nablízku sourozencům nebo se hodně stěhovat. Zázemí je tu plné pohybu a rozhovorů.
-Vládce | 4. dům | 4. dům | Rodina a domov stojí pevně a člověk je se svým původem silně spojen. Daří se mu v nemovitostech i ve starých věcech a vztah k otci bývá výrazný. Nemá se ale uzavřít v tom, co už zná.
-Vládce | 4. dům | 5. dům | Domov je místem radosti, tvorby a dětí a člověk si přeje živou domácnost. Rodinný majetek si zaslouží rozvážnost, aby se neutratil za potěšení.
-Vládce | 4. dům | 6. dům | Domov se prolíná s prací a každodenní péčí, člověk může pracovat doma, sám si stavět a opravovat nebo pečovat o člena rodiny. Důležité je, aby domácnost nebyla zdrojem přetížení.
-Vládce | 4. dům | 7. dům | Domov a vztah splývají, partner nebo partnerka přináší zázemí a člověk hledá blízkost podobnou domovu. Vyplatí se včas si ujasnit, co komu patří, zvlášť u bydlení a majetku.
+Vládce | 4. dům | 1. dům | Rodina a kořeny výrazně utvářejí osobnost, {1} si nese odkaz rodičů a může těžit z rodinného majetku nebo nemovitostí. Úkolem je rozlišit, co je {1:jeho|její} vlastní a co rodinné.
+Vládce | 4. dům | 2. dům | Domov a rodina tvoří základ jistoty, {1} může vydělávat na nemovitostech a půdě nebo díky rodičům. Jistota by ale neměla spočívat jen ve věcech.
+Vládce | 4. dům | 3. dům | Domov se mění často nebo je úzce spojen s příbuznými a sousedstvím, {1} může bydlet nablízku sourozencům nebo se hodně stěhovat. Zázemí je tu plné pohybu a rozhovorů.
+Vládce | 4. dům | 4. dům | Rodina a domov stojí pevně a {1} je se svým původem silně {1:spojen|spojena}. Daří se {1:mu|jí} v nemovitostech i ve starých věcech a vztah k otci bývá výrazný. Nemá se ale uzavřít v tom, co už zná.
+Vládce | 4. dům | 5. dům | Domov je místem radosti, tvorby a dětí a {1} si přeje živou domácnost. Rodinný majetek si zaslouží rozvážnost, aby se neutratil za potěšení.
+Vládce | 4. dům | 6. dům | Domov se prolíná s prací a každodenní péčí, {1} může pracovat doma, {1:sám|sama} si stavět a opravovat nebo pečovat o člena rodiny. Důležité je, aby domácnost nebyla zdrojem přetížení.
+Vládce | 4. dům | 7. dům | Domov a vztah splývají, partner nebo partnerka přináší zázemí a {1} hledá blízkost podobnou domovu. Vyplatí se včas si ujasnit, co komu patří, zvlášť u bydlení a majetku.
 Vládce | 4. dům | 8. dům | Rodinné věci vedou do hloubky, k dědictví, společnému majetku a k tomu, co rodina nevyslovila. Odkaz předků si zaslouží klidný a poctivý přístup.
-Vládce | 4. dům | 9. dům | Domov se hledá daleko, člověk může žít jinde, než se narodil, a z rodiny si nést smysl pro víru a vzdělání. Výzvou je sladit touhu po dálce s potřebou kořenů.
-Vládce | 4. dům | 10. dům | Rodina a povolání se podporují, člověk může pokračovat v rodinné práci nebo se věnovat nemovitostem a půdě. Má najít rovnováhu mezi soukromím a veřejnou rolí.
-Vládce | 4. dům | 11. dům | Domov je otevřený přátelům a přátelství mívají téměř rodinnou stálost. Mnohá přání se člověku naplňují až ve zralém věku.
-Vládce | 4. dům | 12. dům | Domov je spojen s tichem, ústraním a tím, co rodina nosí nevysloveně, člověk může potřebovat žít stranou. Vztah k rodičům si zaslouží pochopení a pozornost.
+Vládce | 4. dům | 9. dům | Domov se hledá daleko, {1} může žít jinde, než se {1:narodil|narodila}, a z rodiny si nést smysl pro víru a vzdělání. Výzvou je sladit touhu po dálce s potřebou kořenů.
+Vládce | 4. dům | 10. dům | Rodina a povolání se podporují, {1} může pokračovat v rodinné práci nebo se věnovat nemovitostem a půdě. Má najít rovnováhu mezi soukromím a veřejnou rolí.
+Vládce | 4. dům | 11. dům | Domov je otevřený přátelům a přátelství mívají téměř rodinnou stálost. Mnohá přání se {1d} naplňují až ve zralém věku.
+Vládce | 4. dům | 12. dům | Domov je spojen s tichem, ústraním a tím, co rodina nosí nevysloveně, {1} může potřebovat žít stranou. Vztah k rodičům si zaslouží pochopení a pozornost.
 
-Vládce | 5. dům | 1. dům | Tvořivost, radost a láska jsou přímo součástí povahy, člověk je hravý, přitažlivý a rád si užívá. Zkouškou je udržet míru v zábavě a v milostných dobrodružstvích.
-Vládce | 5. dům | 2. dům | Záliby a tvorba se mohou stát zdrojem příjmů, člověk umí vydělat na umění, zábavě, práci s dětmi nebo investicích. Stojí za to oddělit peníze na radost od peněz na jistotu.
-Vládce | 5. dům | 3. dům | Radost přinášejí slova, kontakt a výlety, člověk rád podniká cesty s dětmi nebo mladými lidmi a baví ho divadlo a sport. Velkým potěšením mu jsou i příbuzní a sousedé.
-Vládce | 5. dům | 4. dům | Radost a tvorba mají kořeny doma a člověk se nejlépe baví v rodinném kruhu. Domov bývá plný dětí, her a tvořivé činnosti, později může přinést i rodinný majetek.
-Vládce | 5. dům | 5. dům | Radost ze života je silná, člověk přirozeně tvoří, miluje a umí potěšit sebe i druhé, děti mu bývají velkou radostí. Úkolem je rozlišit odvážný krok od hazardu a lásku od potřeby obdivu.
-Vládce | 5. dům | 6. dům | Tvořivost se uplatňuje v práci a každodenních zálibách, často v kontaktu s dětmi, zvířaty nebo ve službě druhým. Dobře mu dělá míra v požitcích, zábava nemá jít před odpočinek.
-Vládce | 5. dům | 7. dům | Láska a partnerství se spojují, člověk hledá vztah plný radosti, hry a porozumění. Pozornost si zaslouží rovnováha mezi partnerem nebo partnerkou a dětmi.
-Vládce | 5. dům | 8. dům | Láska a tvorba jdou do hloubky a člověk prožívá vztahy naplno. Pozor si dát na žárlivost v lásce, druhému je potřeba nechat volnost a nespojovat radost s kontrolou.
-Vládce | 5. dům | 9. dům | Radost přináší poznání, cesty a cizí kultury, člověk může učit, publikovat nebo najít lásku daleko od domova. Děti často přinášejí potěšení svým studiem a rozhledem.
-Vládce | 5. dům | 10. dům | Tvorba se stává povoláním a člověk může být vidět v umění, sportu, divadle nebo práci s mládeží. Důležité je, aby pracovní úspěch nevzal hře její lehkost.
-Vládce | 5. dům | 11. dům | Přátelé a radost patří k sobě, člověk se baví ve společnosti a přátelství mu může přinést i lásku. Spolky a tvůrčí skupiny mu pomáhají k naplnění přání.
-Vládce | 5. dům | 12. dům | Láska a tvorba mají skrytou podobu, člověk tvoří v soukromí a může mít tajné záliby či city. Tvorba potřebuje klid, má však vyjít s ní a s vlastní radostí na světlo.
+Vládce | 5. dům | 1. dům | Tvořivost, radost a láska jsou přímo součástí povahy, {1} je {1:hravý, přitažlivý|hravá, přitažlivá} a {1:rád|ráda} si užívá. Zkouškou je udržet míru v zábavě a v milostných dobrodružstvích.
+Vládce | 5. dům | 2. dům | Záliby a tvorba se mohou stát zdrojem příjmů, {1} umí vydělat na umění, zábavě, práci s dětmi nebo investicích. Stojí za to oddělit peníze na radost od peněz na jistotu.
+Vládce | 5. dům | 3. dům | Radost přinášejí slova, kontakt a výlety, {1} {1:rád|ráda} podniká cesty s dětmi nebo mladými lidmi a baví {1:ho|ji} divadlo a sport. Velkým potěšením {1:mu|jí} jsou i příbuzní a sousedé.
+Vládce | 5. dům | 4. dům | Radost a tvorba mají kořeny doma a {1} se nejlépe baví v rodinném kruhu. Domov bývá plný dětí, her a tvořivé činnosti, později může přinést i rodinný majetek.
+Vládce | 5. dům | 5. dům | Radost ze života je silná, {1} přirozeně tvoří, miluje a umí potěšit sebe i druhé, děti {1:mu|jí} bývají velkou radostí. Úkolem je rozlišit odvážný krok od hazardu a lásku od potřeby obdivu.
+Vládce | 5. dům | 6. dům | Tvořivost se uplatňuje v práci a každodenních zálibách, často v kontaktu s dětmi, zvířaty nebo ve službě druhým. Dobře {1d} dělá míra v požitcích, zábava nemá jít před odpočinek.
+Vládce | 5. dům | 7. dům | Láska a partnerství se spojují, {1} hledá vztah plný radosti, hry a porozumění. Pozornost si zaslouží rovnováha mezi partnerem nebo partnerkou a dětmi.
+Vládce | 5. dům | 8. dům | Láska a tvorba jdou do hloubky a {1} prožívá vztahy naplno. Pozor si dát na žárlivost v lásce, druhému je potřeba nechat volnost a nespojovat radost s kontrolou.
+Vládce | 5. dům | 9. dům | Radost přináší poznání, cesty a cizí kultury, {1} může učit, publikovat nebo najít lásku daleko od domova. Děti často přinášejí potěšení svým studiem a rozhledem.
+Vládce | 5. dům | 10. dům | Tvorba se stává povoláním a {1} může být vidět v umění, sportu, divadle nebo práci s mládeží. Důležité je, aby pracovní úspěch nevzal hře její lehkost.
+Vládce | 5. dům | 11. dům | Přátelé a radost patří k sobě, {1} se baví ve společnosti a přátelství {1:mu|jí} může přinést i lásku. Spolky a tvůrčí skupiny {1:mu|jí} pomáhají k naplnění přání.
+Vládce | 5. dům | 12. dům | Láska a tvorba mají skrytou podobu, {1} tvoří v soukromí a může mít tajné záliby či city. Tvorba potřebuje klid, má však vyjít s ní a s vlastní radostí na světlo.
 
-Vládce | 6. dům | 1. dům | Práce a péče o tělo jsou přímo součástí života člověka, který je pilný a ochotný pomáhat. Svědčí mu pravidelnost a životospráva, nemá se přetěžovat.
+Vládce | 6. dům | 1. dům | Práce a péče o tělo jsou přímo součástí života {1g}, {1:který je pilný a ochotný|která je pilná a ochotná} pomáhat. Svědčí {1:mu|jí} pravidelnost a životospráva, nemá se přetěžovat.
 Vládce | 6. dům | 2. dům | Příjmy se odvíjejí od každodenní práce, služby druhým, péče nebo práce se zvířaty. Zdraví a pracovní podmínky tu mají přímý vliv na finance.
-Vládce | 6. dům | 3. dům | Práce se opírá o řeč, psaní, výuku nebo cestování a člověk se zajímá o metody léčení a o to, jak dělat věci lépe. Po duševní zátěži potřebuje hlava klid.
-Vládce | 6. dům | 4. dům | Práce se přenáší domů, člověk může pracovat z domova nebo pečovat o člena rodiny. Pozornost si zaslouží starosti v domácnosti, které mohou ubírat síly.
-Vládce | 6. dům | 5. dům | Práce může souviset s dětmi, zábavou a tvorbou, člověk chce dělat to, co ho baví. Síla je v radosti z práce, jen nesmí ztratit míru v požitcích.
-Vládce | 6. dům | 6. dům | Práce a služba jsou přirozené a člověk umí pracovat poctivě, pečovat o druhé a udržet si řád. Zdraví a rytmus dne jsou základem, na kterém jeho výkon stojí.
-Vládce | 6. dům | 7. dům | Práce a vztahy se prolínají, člověk může potkat partnera nebo partnerku v zaměstnání nebo spolupracovat v páru. Pozornost si zaslouží jasná domluva s kolegy, podřízenými a odborníky, na které se spoléhá.
+Vládce | 6. dům | 3. dům | Práce se opírá o řeč, psaní, výuku nebo cestování a {1} se zajímá o metody léčení a o to, jak dělat věci lépe. Po duševní zátěži potřebuje hlava klid.
+Vládce | 6. dům | 4. dům | Práce se přenáší domů, {1} může pracovat z domova nebo pečovat o člena rodiny. Pozornost si zaslouží starosti v domácnosti, které mohou ubírat síly.
+Vládce | 6. dům | 5. dům | Práce může souviset s dětmi, zábavou a tvorbou, {1} chce dělat to, co {1:ho|ji} baví. Síla je v radosti z práce, jen nesmí ztratit míru v požitcích.
+Vládce | 6. dům | 6. dům | Práce a služba jsou přirozené a {1} umí pracovat poctivě, pečovat o druhé a udržet si řád. Zdraví a rytmus dne jsou základem, na kterém {1:jeho|její} výkon stojí.
+Vládce | 6. dům | 7. dům | Práce a vztahy se prolínají, {1} může potkat partnera nebo partnerku v zaměstnání nebo spolupracovat v páru. Pozornost si zaslouží jasná domluva s kolegy, podřízenými a odborníky, na které se spoléhá.
 Vládce | 6. dům | 8. dům | Práce se může týkat cizích peněz, výzkumu nebo krizových situací a věrná služba přináší odměnu. Zdraví si tu zaslouží včasnou pozornost a dost času na regeneraci.
-Vládce | 6. dům | 9. dům | Práce vede do širšího světa, k zahraničí, vysokým školám, publikování nebo výuce. Studium a cesty potřebují pravidelný rytmus, aby člověka nevyčerpaly.
-Vládce | 6. dům | 10. dům | Povolání stojí na službě a odbornosti, člověk získává respekt prací, léčením nebo pomocí druhým. Ambice je třeba měřit vlastními silami.
-Vládce | 6. dům | 11. dům | Práce se opírá o kolektiv a sociální zájem, člověk rád pracuje pro společný cíl a mezi kolegy nachází přátele. Síla je ve společné práci, vlastní přání však nemají záviset jen na druhých.
-Vládce | 6. dům | 12. dům | Práce se odehrává v ústraní nebo ve velkých institucích, v péči o druhé, ve výzkumu či v zákulisí. Pozor si dát, aby neschovával vlastní únavu za starost o ostatní.
+Vládce | 6. dům | 9. dům | Práce vede do širšího světa, k zahraničí, vysokým školám, publikování nebo výuce. Studium a cesty potřebují pravidelný rytmus, aby {1a} nevyčerpaly.
+Vládce | 6. dům | 10. dům | Povolání stojí na službě a odbornosti, {1} získává respekt prací, léčením nebo pomocí druhým. Ambice je třeba měřit vlastními silami.
+Vládce | 6. dům | 11. dům | Práce se opírá o kolektiv a sociální zájem, {1} {1:rád|ráda} pracuje pro společný cíl a mezi kolegy nachází přátele. Síla je ve společné práci, vlastní přání však nemají záviset jen na druhých.
+Vládce | 6. dům | 12. dům | Práce se odehrává v ústraní nebo ve velkých institucích, v péči o druhé, ve výzkumu či v zákulisí. Pozor si dát, aby {1} {1:neschovával|neschovávala} vlastní únavu za starost o ostatní.
 
-Vládce | 7. dům | 1. dům | Vztahy a partnerství přicházejí přímo k člověku, který přitahuje lidi sobě podobné a umí získávat přízeň. Zkouškou je neztratit se ve snaze všem vyhovět.
-Vládce | 7. dům | 2. dům | Partner nebo partnerka má vliv na finance a vztah často přináší hmotnou jistotu. Člověk si ve vztahu cení věrnosti, druhého ale nemá držet jako majetek a potřebuje mít jasné dohody o penězích.
-Vládce | 7. dům | 3. dům | Vztah se rodí a žije v rozhovoru, partnera nebo partnerku může člověk potkat v okolí, mezi příbuznými či při studiu. Stojí za to pečlivě hlídat smlouvy a pěstovat dobré vztahy se sousedy.
-Vládce | 7. dům | 4. dům | Partnerství má silnou vazbu na domov a člověk hledá vztah, ve kterém se cítí doma. Může se k němu pojit i majetek. Důležité je, jak spolu vycházejí rodina a partner nebo partnerka.
-Vládce | 7. dům | 5. dům | Vztah je plný hry, romantiky a radosti, člověka přitahuje partner nebo partnerka s mladistvým duchem. Je dobré všímat si, jaký má partner nebo partnerka vztah k dětem, a být opatrný při sázkách a investicích.
-Vládce | 7. dům | 6. dům | Vztah se prolíná s prací a každodenní péčí, člověk může potkat partnera nebo partnerku v zaměstnání. Pozor si dát, aby se pomoc nezměnila v kritiku a aby péče o druhého byla oboustranná.
-Vládce | 7. dům | 7. dům | Partnerství má pevné místo v životě a člověk umí jednat s lidmi i vést dohody. Úkolem je najít ve vztahu rovnováhu a nezávisle na něm vědět, kým je.
-Vládce | 7. dům | 8. dům | Vztah je hluboký a proměňuje člověka, často se v něm řeší společné peníze, majetek a dědictví. Žárlivost a boj o moc si zaslouží pozornost, oporou je důvěra a čitelné finanční dohody.
-Vládce | 7. dům | 9. dům | Člověka přitahuje partner nebo partnerka z jiného prostředí, z ciziny či s odlišnou kulturou a vírou. Vztah ho rozšiřuje a vede na cesty, učí se respektovat názory druhého.
-Vládce | 7. dům | 10. dům | Partner nebo partnerka může podporovat povolání a veřejné postavení, někdy jde o člověka s autoritou. Vztah ale nemá být jen vizitkou a ve spolupráci má zůstat rovnost.
-Vládce | 7. dům | 11. dům | Partnerství má povahu přátelství a člověk si cení volnosti a společných ideálů. Důležité je, aby se z přátelství nestalo soupeření, zvlášť když do vztahu vstupuje skupina.
-Vládce | 7. dům | 12. dům | Vztah má skrytou nebo obětavou stránku, člověk v něm může mít sklon zachraňovat druhého nebo si nechávat věci pro sebe. Vztahy si zaslouží otevřenost a zkouškou je pomáhat a přitom neztratit sebe.
+Vládce | 7. dům | 1. dům | Vztahy a partnerství přicházejí přímo k {1d}, {1:který|která} přitahuje lidi sobě podobné a umí získávat přízeň. Zkouškou je neztratit se ve snaze všem vyhovět.
+Vládce | 7. dům | 2. dům | Partner nebo partnerka má vliv na finance a vztah často přináší hmotnou jistotu. {1} si ve vztahu cení věrnosti, druhého ale nemá držet jako majetek a potřebuje mít jasné dohody o penězích.
+Vládce | 7. dům | 3. dům | Vztah se rodí a žije v rozhovoru, partnera nebo partnerku může {1} potkat v okolí, mezi příbuznými či při studiu. Stojí za to pečlivě hlídat smlouvy a pěstovat dobré vztahy se sousedy.
+Vládce | 7. dům | 4. dům | Partnerství má silnou vazbu na domov a {1} hledá vztah, ve kterém se cítí doma. Může se k němu pojit i majetek. Důležité je, jak spolu vycházejí rodina a partner nebo partnerka.
+Vládce | 7. dům | 5. dům | Vztah je plný hry, romantiky a radosti, {1a} přitahuje partner nebo partnerka s mladistvým duchem. Je dobré všímat si, jaký má partner nebo partnerka vztah k dětem, a být {1:opatrný|opatrná} při sázkách a investicích.
+Vládce | 7. dům | 6. dům | Vztah se prolíná s prací a každodenní péčí, {1} může potkat partnera nebo partnerku v zaměstnání. Pozor si dát, aby se pomoc nezměnila v kritiku a aby péče o druhého byla oboustranná.
+Vládce | 7. dům | 7. dům | Partnerství má pevné místo v životě a {1} umí jednat s lidmi i vést dohody. Úkolem je najít ve vztahu rovnováhu a nezávisle na něm vědět, kým je.
+Vládce | 7. dům | 8. dům | Vztah je hluboký a proměňuje {1a}, často se v něm řeší společné peníze, majetek a dědictví. Žárlivost a boj o moc si zaslouží pozornost, oporou je důvěra a čitelné finanční dohody.
+Vládce | 7. dům | 9. dům | {1a} přitahuje partner nebo partnerka z jiného prostředí, z ciziny či s odlišnou kulturou a vírou. Vztah {1:ho|ji} rozšiřuje a vede na cesty, učí se respektovat názory druhého.
+Vládce | 7. dům | 10. dům | Partner nebo partnerka může podporovat povolání a veřejné postavení, někdy jde o osobnost s autoritou. Vztah ale nemá být jen vizitkou a ve spolupráci má zůstat rovnost.
+Vládce | 7. dům | 11. dům | Partnerství má povahu přátelství a {1} si cení volnosti a společných ideálů. Důležité je, aby se z přátelství nestalo soupeření, zvlášť když do vztahu vstupuje skupina.
+Vládce | 7. dům | 12. dům | Vztah má skrytou nebo obětavou stránku, {1} v něm může mít sklon zachraňovat druhého nebo si nechávat věci pro sebe. Vztahy si zaslouží otevřenost a zkouškou je pomáhat a přitom neztratit sebe.
 
-Vládce | 8. dům | 1. dům | Hloubka, proměny a cizí prostředky přímo formují člověka, který bývá silný v krizích a umí spravovat majetek druhých. Učí se nedržet kontrolu za každou cenu.
-Vládce | 8. dům | 2. dům | Vlastní příjmy se opírají o peníze druhých, partnerské prostředky, dědictví nebo správu cizích záležitostí. Člověk umí vymáhat pohledávky, v dluzích a závazcích ale potřebuje mít jasno.
-Vládce | 8. dům | 3. dům | Mysl se zabývá tím, co je skryté, člověk zkoumá, ptá se a nebojí se těžkých rozhovorů. Citlivé bývají vztahy se sourozenci a na cestách je na místě opatrnost.
-Vládce | 8. dům | 4. dům | Hlubší rodinné otázky a majetek po předcích mají v životě důležité místo, člověk může získat nemovitost děděním. Uleví se mu, když se vyrovná s rodinnou minulostí a ponese ji lehčeji.
-Vládce | 8. dům | 5. dům | Tvorba a láska mají silný náboj a člověk v nich hledá intenzitu. U riskantních investic a sázek je na místě opatrnost.
-Vládce | 8. dům | 6. dům | Práce se může týkat krizí, výzkumu nebo správy cizího majetku. Dobře mu dělá dbát na rezervy sil, nepřehlížet únavu a chránit si příjem z práce jasnými dohodami.
+Vládce | 8. dům | 1. dům | Hloubka, proměny a cizí prostředky přímo formují {1a}, {1:který bývá silný|která bývá silná} v krizích a umí spravovat majetek druhých. Učí se nedržet kontrolu za každou cenu.
+Vládce | 8. dům | 2. dům | Vlastní příjmy se opírají o peníze druhých, partnerské prostředky, dědictví nebo správu cizích záležitostí. {1} umí vymáhat pohledávky, v dluzích a závazcích ale potřebuje mít jasno.
+Vládce | 8. dům | 3. dům | Mysl se zabývá tím, co je skryté, {1} zkoumá, ptá se a nebojí se těžkých rozhovorů. Citlivé bývají vztahy se sourozenci a na cestách je na místě opatrnost.
+Vládce | 8. dům | 4. dům | Hlubší rodinné otázky a majetek po předcích mají v životě důležité místo, {1} může získat nemovitost děděním. Uleví se {1:mu|jí}, když se vyrovná s rodinnou minulostí a ponese ji lehčeji.
+Vládce | 8. dům | 5. dům | Tvorba a láska mají silný náboj a {1} v nich hledá intenzitu. U riskantních investic a sázek je na místě opatrnost.
+Vládce | 8. dům | 6. dům | Práce se může týkat krizí, výzkumu nebo správy cizího majetku. Dobře {1d} dělá dbát na rezervy sil, nepřehlížet únavu a chránit si příjem z práce jasnými dohodami.
 Vládce | 8. dům | 7. dům | Peníze a hlubší otázky se spojují se vztahy, partner nebo partnerka často přináší prostředky. Pozor si dát na citovou zátěž ve vztahu a na sklon mít druhého pod kontrolou.
-Vládce | 8. dům | 8. dům | Člověk umí se společnými penězi, dědictvím a krizemi zacházet a přitahuje ho to, co je skryté. Zraje tím, že důvěřuje změnám a věci včas pouští.
-Vládce | 8. dům | 9. dům | Člověka hluboce zajímají otázky víry a smyslu, jeho přesvědčení procházejí proměnami. Pozornost si zaslouží finanční spory s příbuznými partnera nebo partnerky a věci spojené s cizinou.
-Vládce | 8. dům | 10. dům | Povolání se může týkat cizích peněz, krizí, výzkumu nebo proměn a člověk si získává důvěru v těžkých situacích. Pozornost si zaslouží vztah k matce či nadřízeným, kde se mohou řešit i moc a odpovědnost.
+Vládce | 8. dům | 8. dům | {1} umí se společnými penězi, dědictvím a krizemi zacházet a přitahuje {1:ho|ji} to, co je skryté. Zraje tím, že důvěřuje změnám a věci včas pouští.
+Vládce | 8. dům | 9. dům | {1a} hluboce zajímají otázky víry a smyslu, {1:jeho|její} přesvědčení procházejí proměnami. Pozornost si zaslouží finanční spory s příbuznými partnera nebo partnerky a věci spojené s cizinou.
+Vládce | 8. dům | 10. dům | Povolání se může týkat cizích peněz, krizí, výzkumu nebo proměn a {1} si získává důvěru v těžkých situacích. Pozornost si zaslouží vztah k matce či nadřízeným, kde se mohou řešit i moc a odpovědnost.
 Vládce | 8. dům | 11. dům | Přátelství mají hloubku a mohou přinést hmotnou pomoc i dar. Citlivé bývají chvíle, kdy se okruh blízkých mění.
-Vládce | 8. dům | 12. dům | Hluboké otázky se odehrávají uvnitř, člověk o nich málo mluví a potřebuje čas na jejich zpracování. Starosti a strachy pomáhá sdílet a nejasnosti kolem dědictví včas vyřešit.
+Vládce | 8. dům | 12. dům | Hluboké otázky se odehrávají uvnitř, {1} o nich málo mluví a potřebuje čas na jejich zpracování. Starosti a strachy pomáhá sdílet a nejasnosti kolem dědictví včas vyřešit.
 
-Vládce | 9. dům | 1. dům | Víra, poznání a široký rozhled přímo utvářejí povahu člověka, který se těší vážnosti i mezi cizími lidmi a rád se učí a cestuje. Druhé by měl vést příkladem, ne poučováním.
-Vládce | 9. dům | 2. dům | Vzdělání, psaní, cesty nebo styk s cizinou se mohou stát zdrojem příjmů a člověk umí peníze spojit se svými hodnotami. Stavět je třeba na reálných možnostech.
-Vládce | 9. dům | 3. dům | Hledání smyslu se odehrává v každodenních cestách, učení a rozhovorech, člověk o svém přesvědčení rád píše a mluví. Učí se naslouchat i těm, kdo smýšlejí jinak.
-Vládce | 9. dům | 4. dům | Víra a vzdělání mají kořeny v rodině, člověk může putovat kvůli domovu nebo domov najít v dálce. Stojí za to rozlišit, co přijal z rodiny a co si ověřil sám.
-Vládce | 9. dům | 5. dům | Filozofie a cesty jsou zdrojem radosti, člověk rád cestuje za potěšením a ve výuce dětí nachází naplnění. Nemá kázat, ale strhnout druhé nadšením.
+Vládce | 9. dům | 1. dům | Víra, poznání a široký rozhled přímo utvářejí povahu {1g}, {1:který|která} se těší vážnosti i mezi cizími lidmi a {1:rád|ráda} se učí a cestuje. Druhé by {1:měl|měla} vést příkladem, ne poučováním.
+Vládce | 9. dům | 2. dům | Vzdělání, psaní, cesty nebo styk s cizinou se mohou stát zdrojem příjmů a {1} umí peníze spojit se svými hodnotami. Stavět je třeba na reálných možnostech.
+Vládce | 9. dům | 3. dům | Hledání smyslu se odehrává v každodenních cestách, učení a rozhovorech, {1} o svém přesvědčení {1:rád|ráda} píše a mluví. Učí se naslouchat i těm, kdo smýšlejí jinak.
+Vládce | 9. dům | 4. dům | Víra a vzdělání mají kořeny v rodině, {1} může putovat kvůli domovu nebo domov najít v dálce. Stojí za to rozlišit, co {1:přijal|přijala} z rodiny a co si {1:ověřil sám|ověřila sama}.
+Vládce | 9. dům | 5. dům | Filozofie a cesty jsou zdrojem radosti, {1} {1:rád|ráda} cestuje za potěšením a ve výuce dětí nachází naplnění. Nemá kázat, ale strhnout druhé nadšením.
 Vládce | 9. dům | 6. dům | Práce se týká vzdělání, ciziny, zahraničního obchodu nebo studia zdraví a léčení. Studium a cesty si žádají rozumné tempo.
 Vládce | 9. dům | 7. dům | Partner nebo partnerka přichází z jiné kultury nebo vzdělaného prostředí. Rozdíly ve víře a názorech si zaslouží pozornost, oporou je vzájemný respekt.
-Vládce | 9. dům | 8. dům | Poznání vede člověka k tajemstvím a otázkám pod povrchem života a jeho přesvědčení mohou projít proměnou. Pozornost si zaslouží jednání o dědictví a majetku v dálce.
-Vládce | 9. dům | 9. dům | Touha po poznání je tu silná, člověk snadno rozumí velkým myšlenkám a rád studuje a cestuje, často kvůli víře nebo vědě. Výzvou je vzít si z toho i praktickou moudrost.
-Vládce | 9. dům | 10. dům | Vzdělání, publikování a zahraničí nesou profesní čest, člověk si dobré jméno buduje vědomostmi. Úkolem je, aby autorita zůstala otevřená novým poznatkům.
-Vládce | 9. dům | 11. dům | Přátelé pocházejí z ciziny a ze vzdělaných kruhů, člověk nachází spřízněnou společnost v tom, čemu věří. Zkouškou je unést i to, když jeho přesvědčení nesdílejí všichni.
-Vládce | 9. dům | 12. dům | Víra a poznání jsou niterné, člověk studuje v ústraní a může ho přitahovat duchovní hledání. Vyplatí se dotáhnout to, co v tichu vzniklo, a dát to ostatním.
+Vládce | 9. dům | 8. dům | Poznání vede {1a} k tajemstvím a otázkám pod povrchem života a {1:jeho|její} přesvědčení mohou projít proměnou. Pozornost si zaslouží jednání o dědictví a majetku v dálce.
+Vládce | 9. dům | 9. dům | Touha po poznání je tu silná, {1} snadno rozumí velkým myšlenkám a {1:rád|ráda} studuje a cestuje, často kvůli víře nebo vědě. Výzvou je vzít si z toho i praktickou moudrost.
+Vládce | 9. dům | 10. dům | Vzdělání, publikování a zahraničí nesou profesní čest, {1} si dobré jméno buduje vědomostmi. Úkolem je, aby autorita zůstala otevřená novým poznatkům.
+Vládce | 9. dům | 11. dům | Přátelé pocházejí z ciziny a ze vzdělaných kruhů, {1} nachází spřízněnou společnost v tom, čemu věří. Zkouškou je unést i to, když {1:jeho|její} přesvědčení nesdílejí všichni.
+Vládce | 9. dům | 12. dům | Víra a poznání jsou niterné, {1} studuje v ústraní a může {1:ho|ji} přitahovat duchovní hledání. Vyplatí se dotáhnout to, co v tichu vzniklo, a dát to ostatním.
 
-Vládce | 10. dům | 1. dům | Povolání a ctižádost jsou přímo součástí osobnosti, člověk se vypracovává vlastním úsilím a vlastními zásluhami. Nejlépe je nechat úspěch mluvit sám za sebe.
-Vládce | 10. dům | 2. dům | Postavení a výdělek jsou spojené, člověk vydělává díky povolání a hodnotám, kterým věří. Sebe by neměl poměřovat jen příjmem.
-Vládce | 10. dům | 3. dům | Dobré jméno přinášejí slovo, psaní, obchod a cesty, člověku pomáhají i příbuzní a sousedé. Prospívá mu zůstat věcný a důsledný v tom, co říká.
+Vládce | 10. dům | 1. dům | Povolání a ctižádost jsou přímo součástí osobnosti, {1} se vypracovává vlastním úsilím a vlastními zásluhami. Nejlépe je nechat úspěch mluvit sám za sebe.
+Vládce | 10. dům | 2. dům | Postavení a výdělek jsou spojené, {1} vydělává díky povolání a hodnotám, kterým věří. Sebe by {1:neměl|neměla} poměřovat jen příjmem.
+Vládce | 10. dům | 3. dům | Dobré jméno přinášejí slovo, psaní, obchod a cesty, {1d} pomáhají i příbuzní a sousedé. Prospívá {1:mu|jí} zůstat {1:věcný a důsledný|věcná a důsledná} v tom, co říká.
 Vládce | 10. dům | 4. dům | Povolání je spojené s domovem, rodinou, půdou nebo nemovitostmi a plody úsilí se ukazují ve zralém věku. Výzvou je sladit veřejnou roli se soukromím.
-Vládce | 10. dům | 5. dům | Povolání stojí na tvorbě, umění, zábavě nebo práci s mládeží a člověk v něm potřebuje radost. Kariéru nemá sázet na jedinou kartu.
+Vládce | 10. dům | 5. dům | Povolání stojí na tvorbě, umění, zábavě nebo práci s mládeží a {1} v něm potřebuje radost. Kariéru nemá sázet na jedinou kartu.
 Vládce | 10. dům | 6. dům | Povolání se naplňuje službou, zdravotnictvím, péčí nebo poctivým řemeslem a respekt přichází skromnou, ale spolehlivou prací. Síla je v důslednosti, učí se odmítnout povinnosti navíc.
-Vládce | 10. dům | 7. dům | Povolání a pověst stojí na jednání s lidmi a na spolupráci, člověku může pomáhat partner nebo partnerka. Úkolem je rozlišit pracovní dohody od osobních vztahů.
+Vládce | 10. dům | 7. dům | Povolání a pověst stojí na jednání s lidmi a na spolupráci, {1d} může pomáhat partner nebo partnerka. Úkolem je rozlišit pracovní dohody od osobních vztahů.
 Vládce | 10. dům | 8. dům | Povolání se týká peněz druhých, pojištění, dědictví, výzkumu nebo krizových situací. Vliv má využívat s poctivostí a odpovědností.
-Vládce | 10. dům | 9. dům | Dobré jméno přinášejí vzdělání, publikování, výuka, právo nebo zahraničí a člověk může mít práci mimo rodné místo. Prospívá mu zůstat konkrétní a nezapomínat na blízké.
-Vládce | 10. dům | 10. dům | Člověk má silnou ctižádost a vnitřní pocit povolání a ve vedení se cítí přirozeně. Významnou roli mívá vzor rodičů, má ale najít svou vlastní cestu.
-Vládce | 10. dům | 11. dům | Povolání se opírá o kontakty, přátele a skupiny a člověk získává vážnost mezi vlivnými lidmi. Úkolem je přispívat celku a vážit si lidí i bez ohledu na užitek.
-Vládce | 10. dům | 12. dům | Povolání se odehrává v zákulisí nebo v institucích a v tichosti se v něm dá vykonat velký kus práce. Pozornost si zaslouží pracovní důvěrnosti a to, komu člověk svěřuje své plány.
+Vládce | 10. dům | 9. dům | Dobré jméno přinášejí vzdělání, publikování, výuka, právo nebo zahraničí a {1} může mít práci mimo rodné místo. Prospívá {1:mu|jí} zůstat konkrétní a nezapomínat na blízké.
+Vládce | 10. dům | 10. dům | {1} má silnou ctižádost a vnitřní pocit povolání a ve vedení se cítí přirozeně. Významnou roli mívá vzor rodičů, má ale najít svou vlastní cestu.
+Vládce | 10. dům | 11. dům | Povolání se opírá o kontakty, přátele a skupiny a {1} získává vážnost mezi vlivnými lidmi. Úkolem je přispívat celku a vážit si lidí i bez ohledu na užitek.
+Vládce | 10. dům | 12. dům | Povolání se odehrává v zákulisí nebo v institucích a v tichosti se v něm dá vykonat velký kus práce. Pozornost si zaslouží pracovní důvěrnosti a to, komu {1} svěřuje své plány.
 
-Vládce | 11. dům | 1. dům | Přátelé a podporovatelé přicházejí přímo k člověku a pomáhají mu překonat překážky. Mnohá přání se mu plní, když jedná, sám má také přátelství oplácet.
-Vládce | 11. dům | 2. dům | Přátelé a skupiny otevírají cestu k výdělku a člověk umí ze společných plánů vytěžit i hmotný prospěch. Stojí za to oddělit přátelství od obchodu a mít v penězích jasno.
-Vládce | 11. dům | 3. dům | Přátelství vznikají v blízkém okolí, mezi příbuznými, na cestách a při psaní, známí bývají zároveň sousedé. Člověk je silný v tom, jak propojuje lidi.
-Vládce | 11. dům | 4. dům | Domov je plný přátel a člověk může žít ve společenství nebo najít v přátelích oporu i doma. Přání se často týkají bydlení a rodiny.
-Vládce | 11. dům | 5. dům | Přátelé přinášejí radost, lásku i tvořivé podněty a člověk se baví v partě. Přátelství může přerůst v lásku, a to si zaslouží upřímnost.
-Vládce | 11. dům | 6. dům | Přátele člověk nachází v práci a mezi lidmi, kterým pomáhá, zajímá se o sociální věci a kolektivní službu. Pozor si dát, aby se přátelství nezměnilo v povinnost.
-Vládce | 11. dům | 7. dům | Přátelství přerůstá v partnerství a člověk si s partnerem nebo partnerkou rozumí jako s přítelem. Společné kontakty mu pomáhají, přitom má chránit prostor jen pro dva.
-Vládce | 11. dům | 8. dům | Přátelství mají hloubku a přátelé člověka podporují finančně i v těžkých chvílích, může přijít i dar nebo odkaz. Změny v okruhu blízkých člověk prožívá silně.
-Vládce | 11. dům | 9. dům | Přátelé pocházejí z ciziny a ze světa vzdělání, učení, cest a víry. Člověk se díky nim učí a jeho přání se týkají poznání a širšího světa.
-Vládce | 11. dům | 10. dům | Přátelé mají postavení a pomáhají člověku v povolání a ve veřejném životě. Stavět má na upřímnosti, ne jen na výhodných známostech.
-Vládce | 11. dům | 11. dům | Přátelství a společenství jsou tu silná, člověk má hodně známých a jasné cíle do budoucna. Přitahují ho originální a nezávislí lidé, stojí za to udržet si z nich několik skutečně blízkých.
-Vládce | 11. dům | 12. dům | Přátelství se odehrávají v tichu, člověk mívá málo přátel nebo si je nechává pro sebe. Vyplatí se dobře rozlišit, komu důvěřovat, a najít spřízněné lidi v duchovních či pomáhajících kruzích.
+Vládce | 11. dům | 1. dům | Přátelé a podporovatelé přicházejí přímo k {1d} a pomáhají {1:mu|jí} překonat překážky. Mnohá přání se {1:mu|jí} plní, když jedná, {1:sám|sama} má také přátelství oplácet.
+Vládce | 11. dům | 2. dům | Přátelé a skupiny otevírají cestu k výdělku a {1} umí ze společných plánů vytěžit i hmotný prospěch. Stojí za to oddělit přátelství od obchodu a mít v penězích jasno.
+Vládce | 11. dům | 3. dům | Přátelství vznikají v blízkém okolí, mezi příbuznými, na cestách a při psaní, známí bývají zároveň sousedé. {1} je {1:silný|silná} v tom, jak propojuje lidi.
+Vládce | 11. dům | 4. dům | Domov je plný přátel a {1} může žít ve společenství nebo najít v přátelích oporu i doma. Přání se často týkají bydlení a rodiny.
+Vládce | 11. dům | 5. dům | Přátelé přinášejí radost, lásku i tvořivé podněty a {1} se baví v partě. Přátelství může přerůst v lásku, a to si zaslouží upřímnost.
+Vládce | 11. dům | 6. dům | Přátele {1} nachází v práci a mezi lidmi, kterým pomáhá, zajímá se o sociální věci a kolektivní službu. Pozor si dát, aby se přátelství nezměnilo v povinnost.
+Vládce | 11. dům | 7. dům | Přátelství přerůstá v partnerství a {1} si s partnerem nebo partnerkou rozumí jako s přítelem. Společné kontakty {1:mu|jí} pomáhají, přitom má chránit prostor jen pro dva.
+Vládce | 11. dům | 8. dům | Přátelství mají hloubku a přátelé {1a} podporují finančně i v těžkých chvílích, může přijít i dar nebo odkaz. Změny v okruhu blízkých prožívá silně.
+Vládce | 11. dům | 9. dům | Přátelé pocházejí z ciziny a ze světa vzdělání, učení, cest a víry. {1} se díky nim učí a {1:jeho|její} přání se týkají poznání a širšího světa.
+Vládce | 11. dům | 10. dům | Přátelé mají postavení a pomáhají {1d} v povolání a ve veřejném životě. Stavět má na upřímnosti, ne jen na výhodných známostech.
+Vládce | 11. dům | 11. dům | Přátelství a společenství jsou tu silná, {1} má hodně známých a jasné cíle do budoucna. Přitahují {1:ho|ji} originální a nezávislí lidé, stojí za to udržet si z nich několik skutečně blízkých.
+Vládce | 11. dům | 12. dům | Přátelství se odehrávají v tichu, {1} mívá málo přátel nebo si je nechává pro sebe. Vyplatí se dobře rozlišit, komu důvěřovat, a najít spřízněné lidi v duchovních či pomáhajících kruzích.
 
-Vládce | 12. dům | 1. dům | Vnitřní svět a skryté napětí se ukazují přímo v povaze člověka, který bývá citlivější a uzavřenější, než se zdá. Duchovní hledání a vnitřní práce mu pomáhají překonat pocit omezení.
+Vládce | 12. dům | 1. dům | Vnitřní svět a skryté napětí se ukazují přímo v povaze {1g}, {1:který|která} bývá citlivější a uzavřenější, než se zdá. Duchovní hledání a vnitřní práce {1:mu|jí} pomáhají překonat pocit omezení.
 Vládce | 12. dům | 2. dům | Peníze a hodnoty souvisejí s ústraním, s prací v zákulisí nebo v institucích. Je dobré hlídat, kam peníze skrytě odcházejí, a poctivě pečovat o vlastní hodnotu.
-Vládce | 12. dům | 3. dům | Mysl naslouchá skrytému a člověk může mít dar pro tajemné poznání, rád pracuje se slovem o samotě. Vztahy s příbuznými a sousedy si zaslouží otevřenost a ochotu mluvit o těžkých věcech.
+Vládce | 12. dům | 3. dům | Mysl naslouchá skrytému a {1} může mít dar pro tajemné poznání, {1:rád|ráda} pracuje se slovem o samotě. Vztahy s příbuznými a sousedy si zaslouží otevřenost a ochotu mluvit o těžkých věcech.
 Vládce | 12. dům | 4. dům | Domov má tichou, skrytou stránku a v rodinné minulosti leží věci, o kterých se nemluví. Vztah k rodičům a majetkové nejasnosti stojí za klidné vyjasnění.
-Vládce | 12. dům | 5. dům | Láska a tvorba mají soukromou podobu a člověk se s radostí neukazuje hned. Starosti o děti je dobré nenést o samotě a tajné city si poctivě přiznat.
-Vládce | 12. dům | 6. dům | Práce probíhá v ústraní nebo v institucích a člověk pomáhá nenápadně. Signály těla bývají tiché, proto je dobré jim včas naslouchat.
-Vládce | 12. dům | 7. dům | Vztahy mají skrytou stránku a člověk v nich může obětovat víc, než si přiznává. Zaslouží si pravdivost a jasné dohody, přitom je potřeba rozlišit soucit od ztráty sebe.
-Vládce | 12. dům | 8. dům | Skryté obavy a citlivé otázky se odehrávají v hloubce a člověk je zpracovává sám. Nejasnosti kolem dědictví je dobré vyjasňovat a vlastní strachy poctivě pojmenovat.
-Vládce | 12. dům | 9. dům | Víra a poznání jsou niterné a člověka to může vést k odlehlým cestám a k tichému zkoumání. Prospívá mu všímat si pochybností a potřeby stát si za svým přesvědčením i bez souhlasu okolí.
-Vládce | 12. dům | 10. dům | Povolání může procházet vzestupy a poklesy a člověk může pracovat stranou nebo na věcech, které nejsou vidět. Je dobré hlídat pověst a to, s kým sdílí plány.
-Vládce | 12. dům | 11. dům | Přátelství vznikají v tichu a člověk mívá jen několik lidí, kterým opravdu důvěřuje. Důležitý je výběr přátel a střízlivý pohled na jejich rady i na vlastní přání.
-Vládce | 12. dům | 12. dům | Člověk je doma ve vlastním vnitřním světě a dobře zvládá samotu, ústraní a tiché zkoumání. Těžkosti se mu dají proměnit ve zdroj síly, když je přijme a nese vědomě.
+Vládce | 12. dům | 5. dům | Láska a tvorba mají soukromou podobu a {1} se s radostí neukazuje hned. Starosti o děti je dobré nenést o samotě a tajné city si poctivě přiznat.
+Vládce | 12. dům | 6. dům | Práce probíhá v ústraní nebo v institucích a {1} pomáhá nenápadně. Signály těla bývají tiché, proto je dobré jim včas naslouchat.
+Vládce | 12. dům | 7. dům | Vztahy mají skrytou stránku a {1} v nich může obětovat víc, než si přiznává. Zaslouží si pravdivost a jasné dohody, přitom je potřeba rozlišit soucit od ztráty sebe.
+Vládce | 12. dům | 8. dům | Skryté obavy a citlivé otázky se odehrávají v hloubce a {1} je zpracovává {1:sám|sama}. Nejasnosti kolem dědictví je dobré vyjasňovat a vlastní strachy poctivě pojmenovat.
+Vládce | 12. dům | 9. dům | Víra a poznání jsou niterné a {1a} to může vést k odlehlým cestám a k tichému zkoumání. Prospívá {1:mu|jí} všímat si pochybností a potřeby stát si za svým přesvědčením i bez souhlasu okolí.
+Vládce | 12. dům | 10. dům | Povolání může procházet vzestupy a poklesy a {1} může pracovat stranou nebo na věcech, které nejsou vidět. Je dobré hlídat pověst a to, s kým sdílí plány.
+Vládce | 12. dům | 11. dům | Přátelství vznikají v tichu a {1} mívá jen několik lidí, kterým opravdu důvěřuje. Důležitý je výběr přátel a střízlivý pohled na jejich rady i na vlastní přání.
+Vládce | 12. dům | 12. dům | {1} je doma ve vlastním vnitřním světě a dobře zvládá samotu, ústraní a tiché zkoumání. Těžkosti se {1:mu|jí} dají proměnit ve zdroj síly, když je přijme a nese vědomě.

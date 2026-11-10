@@ -4,28 +4,28 @@
 # Opozice Ascendentu znamená stání na Descendentu, opozice Medium coeli stání na nejnižším bodě horoskopu.
 
 # Progresivní Ascendent: krátký dotek toho, jak člověk působí a jak jedná s lidmi.
-Progrese denní | Ascendent | Slunce | Konjunkce | Na několik dní je člověk víc vidět a vystupuje jistěji. Hodí se to pro setkání, kde má být znát, kdo je.
-Progrese denní | Ascendent | Slunce | Opozice | V těchto dnech se pozornost obrací k partnerovi a k tomu, jak si člověk stojí vedle druhých. Pomůže nedělat z rozhovoru soutěž.
-Progrese denní | Ascendent | Slunce | Kvadratura | Vlastní cíle se krátce třou s tím, jak člověk působí. Lepší je nepřepínat síly a nepřít se s lidmi ve vedoucí roli.
-Progrese denní | Ascendent | Slunce | Trigon | Pár dní, kdy člověk působí přirozeně a lidé ho berou vážně. Je to dobrý čas ukázat se.
-Progrese denní | Ascendent | Slunce | Sextil | Je tu krátká příležitost představit se někomu, na kom záleží. Stačí přijít s jasnou představou, co člověk chce.
-Progrese denní | Ascendent | Měsíc | Konjunkce | City jsou v těchto dnech víc na povrchu a je na člověku vidět, jak mu je. Prospěje klidnější program.
-Progrese denní | Ascendent | Měsíc | Opozice | Člověk teď víc hledá citovou oporu u druhých. Vyplatí se říct si, co potřebuje, a nenechat se vést jen náladou okolí.
-Progrese denní | Ascendent | Měsíc | Kvadratura | Člověk je pár dní citlivější na podněty zvenčí a rodinné záležitosti se pletou do ostatních plánů. Pomůže pravidelný rytmus.
+Progrese denní | Ascendent | Slunce | Konjunkce | Na několik dní je {1} víc vidět a vystupuje jistěji. Hodí se to pro setkání, kde má být znát, kdo je.
+Progrese denní | Ascendent | Slunce | Opozice | V těchto dnech se pozornost obrací k partnerovi a k tomu, jak si {1} stojí vedle druhých. Pomůže nedělat z rozhovoru soutěž.
+Progrese denní | Ascendent | Slunce | Kvadratura | Vlastní cíle se krátce třou s tím, jak {1} působí. Lepší je nepřepínat síly a nepřít se s lidmi ve vedoucí roli.
+Progrese denní | Ascendent | Slunce | Trigon | Pár dní, kdy {1} působí přirozeně a lidé {1:ho|ji} berou vážně. Je to dobrý čas ukázat se.
+Progrese denní | Ascendent | Slunce | Sextil | Je tu krátká příležitost představit se někomu, na kom záleží. Stačí přijít s jasnou představou, co {1} chce.
+Progrese denní | Ascendent | Měsíc | Konjunkce | City jsou v těchto dnech víc na povrchu a je na {1l} vidět, jak {1:mu|jí} je. Prospěje klidnější program.
+Progrese denní | Ascendent | Měsíc | Opozice | {1} teď víc hledá citovou oporu u druhých. Vyplatí se říct si, co potřebuje, a nenechat se vést jen náladou okolí.
+Progrese denní | Ascendent | Měsíc | Kvadratura | {1} je pár dní citlivější na podněty zvenčí a rodinné záležitosti se pletou do ostatních plánů. Pomůže pravidelný rytmus.
 Progrese denní | Ascendent | Měsíc | Trigon | Kontakt s lidmi jde v těchto dnech snadno. Pohoda doma je vidět i navenek.
 Progrese denní | Ascendent | Měsíc | Sextil | Laskavé slovo teď snadno zlepší atmosféru doma nebo v sousedství. Hodí se někoho pozvat.
-Progrese denní | Ascendent | Merkur | Konjunkce | Člověk teď víc mluví, píše a vyřizuje. Dny se hodí pro domluvy a krátké cesty, jen je dobré hlídat přetížení.
+Progrese denní | Ascendent | Merkur | Konjunkce | {1} teď víc mluví, píše a vyřizuje. Dny se hodí pro domluvy a krátké cesty, jen je dobré hlídat přetížení.
 Progrese denní | Ascendent | Merkur | Opozice | Důležité rozhovory se v těchto dnech odehrávají s druhými. Na místě je přesnost a naslouchání.
-Progrese denní | Ascendent | Merkur | Kvadratura | Krátce přibývá nedorozumění a neklidu. Prospívá si věci ověřit, než je člověk řekne nahlas.
+Progrese denní | Ascendent | Merkur | Kvadratura | Krátce přibývá nedorozumění a neklidu. Prospívá si věci ověřit, než je {1} řekne nahlas.
 Progrese denní | Ascendent | Merkur | Trigon | Slova přicházejí snadno a lidé je dobře přijímají. Hodí se to pro psaní, jednání a vyřizování.
-Progrese denní | Ascendent | Merkur | Sextil | Zvědavost může člověka přivést k užitečné informaci nebo ke kontaktu. Stačí se zeptat.
-Progrese denní | Ascendent | Venuše | Konjunkce | Člověk působí příjemně a vlídně a přibývá chuti na společnost. Hodí se to pro setkání i péči o vzhled, jen s ohledem na výdaje.
+Progrese denní | Ascendent | Merkur | Sextil | Zvědavost může {1a} přivést k užitečné informaci nebo ke kontaktu. Stačí se zeptat.
+Progrese denní | Ascendent | Venuše | Konjunkce | {1} působí příjemně a vlídně a přibývá chuti na společnost. Hodí se to pro setkání i péči o vzhled, jen s ohledem na výdaje.
 Progrese denní | Ascendent | Venuše | Opozice | Na několik dní jsou v popředí láska, partnerství a soulad s druhými. Vyplatí se nepřizpůsobovat se za každou cenu.
 Progrese denní | Ascendent | Venuše | Kvadratura | Chuť na pohodlí a utrácení si žádá krátké hlídání. V citech je lepší nečekat víc, než se dá dát.
-Progrese denní | Ascendent | Venuše | Trigon | Pár příjemných dní pro společnost a přátele. Člověk má radost z hezkých věcí a lidé ji s ním sdílejí.
+Progrese denní | Ascendent | Venuše | Trigon | Pár příjemných dní pro společnost a přátele. {1} má radost z hezkých věcí a lidé ji s {1:ním|ní} sdílejí.
 Progrese denní | Ascendent | Venuše | Sextil | Milé setkání nebo drobná radost se nabízejí téměř samy. Stačí je přijmout.
-Progrese denní | Ascendent | Mars | Konjunkce | Člověk je pár dní odvážnější a rázný a chce něco dělat. Je to dobrý čas pro pohyb, jen s pozorem na neopatrnost a horkou hlavu.
-Progrese denní | Ascendent | Mars | Opozice | Spory s druhými jsou v těchto dnech ostřejší a někdo může člověka provokovat. Vyplatí se držet se stranou zbytečných střetů.
+Progrese denní | Ascendent | Mars | Konjunkce | {1} je pár dní {1:odvážnější a rázný|odvážnější a rázná} a chce něco dělat. Je to dobrý čas pro pohyb, jen s pozorem na neopatrnost a horkou hlavu.
+Progrese denní | Ascendent | Mars | Opozice | Spory s druhými jsou v těchto dnech ostřejší a někdo může {1a} provokovat. Vyplatí se držet se stranou zbytečných střetů.
 Progrese denní | Ascendent | Mars | Kvadratura | Snadno přichází rozčilení a chuť to přehánět. Důležité je dbát na bezpečnost a vybít se pohybem místo sporem.
 Progrese denní | Ascendent | Mars | Trigon | Přibývá síly a jistoty v jednání. Dny se hodí pro sport a rozhodné kroky.
 Progrese denní | Ascendent | Mars | Sextil | Hodí se teď vzít věc do vlastních rukou. Na místě je nečekat na svolení.
@@ -34,114 +34,114 @@ Progrese denní | Ascendent | Jupiter | Opozice | Užitek nebo poučení přich�
 Progrese denní | Ascendent | Jupiter | Kvadratura | Přehnaný optimismus si v těchto dnech žádá pozornost. Pomáhá nepůjčovat a nezavazovat se nad možnosti.
 Progrese denní | Ascendent | Jupiter | Trigon | Přibývá dobré nálady a důvěry. Hodí se to pro cesty, studium a velkorysé plány.
 Progrese denní | Ascendent | Jupiter | Sextil | Je tu krátká příležitost poznat někoho nového nebo si rozšířit obzor. Stačí přijmout pozvání.
-Progrese denní | Ascendent | Saturn | Konjunkce | Člověk je pár dní vážnější a cítí víc odpovědnosti i únavy. Prospívá teplo, pravidelný režim a nenakládat si příliš.
+Progrese denní | Ascendent | Saturn | Konjunkce | {1} je pár dní vážnější a cítí víc odpovědnosti i únavy. Prospívá teplo, pravidelný režim a nenakládat si příliš.
 Progrese denní | Ascendent | Saturn | Opozice | Vztahy se krátce zkoušejí a druzí mohou působit přísně. Smysl má nečekat vřelost hned a brát závazek vážně.
 Progrese denní | Ascendent | Saturn | Kvadratura | Překážky v těchto dnech dopadají na náladu i na tělo. Vyplatí se chránit se před přetížením a nebrat na sebe cizí břemena.
 Progrese denní | Ascendent | Saturn | Trigon | Klidné a spolehlivé vystupování si získává důvěru. Dny se hodí pro věcné dohody a spolupráci se staršími.
-Progrese denní | Ascendent | Saturn | Sextil | Rozumný krok teď upevní pověst spolehlivého člověka. Pomůže přijít včas a splnit, co slíbil.
-Progrese denní | Ascendent | Uran | Konjunkce | Krátce přichází chuť něco změnit ve vzhledu nebo v zaběhnutém programu. Člověk překvapí i sám sebe, ale nemusí hned pálit mosty.
-Progrese denní | Ascendent | Uran | Opozice | Partner nebo blízký člověk může v těchto dnech překvapit. Rozumné je dát vztahu víc prostoru a nerozhodovat v afektu.
+Progrese denní | Ascendent | Saturn | Sextil | Rozumný krok teď upevní pověst, že {1} je {1:spolehlivý|spolehlivá}. Pomůže přijít včas a splnit, co {1:slíbil|slíbila}.
+Progrese denní | Ascendent | Uran | Konjunkce | Krátce přichází chuť něco změnit ve vzhledu nebo v zaběhnutém programu. {1} překvapí i {1:sám|sama} sebe, ale nemusí hned pálit mosty.
+Progrese denní | Ascendent | Uran | Opozice | Partner nebo někdo blízký může v těchto dnech překvapit. Rozumné je dát vztahu víc prostoru a nerozhodovat v afektu.
 Progrese denní | Ascendent | Uran | Kvadratura | Neklid a náhlé nápady narušují rovnováhu. Prospěje dopřát si klid a nedělat prudké změny, které nejsou potřeba.
-Progrese denní | Ascendent | Uran | Trigon | Neobvyklý nápad nebo nové setkání člověka osvěží. Dny přejí zkoušení nového.
+Progrese denní | Ascendent | Uran | Trigon | Neobvyklý nápad nebo nové setkání {1a} osvěží. Dny přejí zkoušení nového.
 Progrese denní | Ascendent | Uran | Sextil | Jiná společnost nebo nezvyklý zájem teď přijdou vhod. Pomůže zkusit to bez dlouhého rozmýšlení.
-Progrese denní | Ascendent | Neptun | Konjunkce | Člověk je pár dní citlivější a zasněnější a hůř rozlišuje, co je skutečné. Dobré je starat se o klid a držet se faktů.
+Progrese denní | Ascendent | Neptun | Konjunkce | {1} je pár dní citlivější a zasněnější a hůř rozlišuje, co je skutečné. Dobré je starat se o klid a držet se faktů.
 Progrese denní | Ascendent | Neptun | Opozice | Druhé lidi je teď snadné idealizovat nebo jim špatně rozumět. Lepší je dívat se na ně reálně a nenechat se zneužít svou dobrou vůlí.
 Progrese denní | Ascendent | Neptun | Kvadratura | Únava a nejasnost si žádají pozornost a tělo je citlivější. Prospívá klid, opatrnost s léky a ověřování slibů.
 Progrese denní | Ascendent | Neptun | Trigon | Vnímavost a fantazie jsou v těchto dnech silnější. Hodí se to pro hudbu, umění a pobyt v přírodě.
 Progrese denní | Ascendent | Neptun | Sextil | Umění nebo klid v přírodě teď pomáhají srovnat se se sebou. Stačí si na to najít chvíli.
-Progrese denní | Ascendent | Pluto | Konjunkce | Člověk krátce působí silněji a naléhavěji a ostatní to vnímají. Vyplatí se být poctivý v tom, jak na druhé působí.
-Progrese denní | Ascendent | Pluto | Opozice | Setkání s druhým člověkem může být v těchto dnech velmi intenzivní. Lepší je hlídat si hranice a sám nikoho neovládat.
-Progrese denní | Ascendent | Pluto | Kvadratura | Tlak na vlastní osobu sílí a člověk řeší, jak ho vidí ostatní. Pomáhá nepřehánět kontrolu.
+Progrese denní | Ascendent | Pluto | Konjunkce | {1} krátce působí silněji a naléhavěji a ostatní to vnímají. Vyplatí se být poctivý v tom, jak na druhé působí.
+Progrese denní | Ascendent | Pluto | Opozice | Setkání s někým dalším může být pro {1a} v těchto dnech velmi intenzivní. Lepší je hlídat si hranice a {1:sám|sama} nikoho neovládat.
+Progrese denní | Ascendent | Pluto | Kvadratura | Tlak na vlastní osobu sílí a {1} řeší, jak {1:ho|ji} vidí ostatní. Pomáhá nepřehánět kontrolu.
 Progrese denní | Ascendent | Pluto | Trigon | Přibývá vnitřní síly a přesvědčivosti. Dny se hodí pro hlubší pohled na sebe a pro obnovu sil.
 Progrese denní | Ascendent | Pluto | Sextil | Podstatná změna v jedné věci je teď na dosah. Pomůže rozhodnost a ochota přiznat si, co už neslouží.
-Progrese denní | Ascendent | Chiron | Konjunkce | Staré citlivé místo je na pár dní víc vidět. Prospěje být k sobě laskavý a nepředstírat, že tam není.
+Progrese denní | Ascendent | Chiron | Konjunkce | Staré citlivé místo {1g} je na pár dní víc vidět. Prospěje být k sobě {1:laskavý|laskavá} a nepředstírat, že tam není.
 Progrese denní | Ascendent | Chiron | Opozice | Blízcí lidé teď snadno zrcadlí bolavá místa. Nejlepší je mluvit o tom otevřeně a nechat si pomoci.
-Progrese denní | Ascendent | Chiron | Kvadratura | Nejistota v tom, jak člověk působí, se krátce znovu ozývá. Prospěje nebrat si nepozornost okolí osobně.
-Progrese denní | Ascendent | Chiron | Trigon | Člověk teď snáz pochopí někoho, kdo prochází podobnou bolestí. Hodí se to pro pomoc druhým i pro péči o sebe.
-Progrese denní | Ascendent | Chiron | Sextil | Je tu příležitost ukázat se i se svými slabinami. Pomůže začít u člověka, kterému člověk důvěřuje.
-Progrese denní | Ascendent | Severní uzel | Konjunkce | Na pár dní se člověk dostává ke svému směru růstu. Nové setkání nebo prostředí může ukázat, kudy dál.
-Progrese denní | Ascendent | Severní uzel | Opozice | Ascendent stojí na Jižním uzlu a člověka to krátce táhne k tomu, co už zná. Prospívá přiznat si, co už nevede dál.
-Progrese denní | Ascendent | Severní uzel | Kvadratura | Způsob vystupování se tře se směrem růstu a člověk se cítí na rozcestí. Na místě je nerozhodovat podle mínění okolí.
-Progrese denní | Ascendent | Severní uzel | Trigon | Věci do sebe v těchto dnech snáz zapadají. Lidé pomáhají a člověk se pohybuje směrem, který mu prospívá.
-Progrese denní | Ascendent | Severní uzel | Sextil | Prostředí, které člověka posune dál, je na dosah. Nejlepší je být mezi lidmi odvážnější než obvykle.
-Progrese denní | Ascendent | Ascendent | Konjunkce | Ascendent se jednou za rok vrací na své místo z narození. Na pár dní se vrací i pocit, kdo člověk je a jak působí.
+Progrese denní | Ascendent | Chiron | Kvadratura | Nejistota v tom, jak {1} působí, se krátce znovu ozývá. Prospěje nebrat si nepozornost okolí osobně.
+Progrese denní | Ascendent | Chiron | Trigon | {1} teď snáz pochopí někoho, kdo prochází podobnou bolestí. Hodí se to pro pomoc druhým i pro péči o sebe.
+Progrese denní | Ascendent | Chiron | Sextil | Je tu příležitost ukázat se i se svými slabinami. Pomůže začít u někoho, komu {1} důvěřuje.
+Progrese denní | Ascendent | Severní uzel | Konjunkce | Na pár dní se {1} dostává ke svému směru růstu. Nové setkání nebo prostředí může ukázat, kudy dál.
+Progrese denní | Ascendent | Severní uzel | Opozice | Ascendent stojí na Jižním uzlu a {1a} to krátce táhne k tomu, co už zná. Prospívá přiznat si, co už nevede dál.
+Progrese denní | Ascendent | Severní uzel | Kvadratura | Způsob vystupování se tře se směrem růstu a {1} se cítí na rozcestí. Na místě je nerozhodovat podle mínění okolí.
+Progrese denní | Ascendent | Severní uzel | Trigon | Věci do sebe v těchto dnech snáz zapadají. Lidé pomáhají a {1} se pohybuje směrem, který {1:mu|jí} prospívá.
+Progrese denní | Ascendent | Severní uzel | Sextil | Prostředí, které {1a} posune dál, je na dosah. Nejlepší je být mezi lidmi odvážnější než obvykle.
+Progrese denní | Ascendent | Ascendent | Konjunkce | Ascendent se jednou za rok vrací na své místo z narození. Na pár dní se vrací i pocit, kdo {1} je a jak působí.
 Progrese denní | Ascendent | Ascendent | Opozice | Ascendent stojí na Descendentu a pozornost se krátce obrací od vlastní osoby k druhým. Hodí se podívat se na vztahy jejich očima.
 Progrese denní | Ascendent | Ascendent | Kvadratura | Vystupování se krátce tře s domácími nebo pracovními nároky. Prospěje přizpůsobit program a nepřepínat.
-Progrese denní | Ascendent | Ascendent | Trigon | Člověk se v těchto dnech cítí ve své kůži. Přirozený projev mu jde snadno.
+Progrese denní | Ascendent | Ascendent | Trigon | {1} se v těchto dnech cítí ve své kůži. Přirozený projev {1:mu|jí} jde snadno.
 Progrese denní | Ascendent | Ascendent | Sextil | Je tu krátká příležitost k novému kontaktu nebo k úpravě programu. Stačí se otevřít.
 Progrese denní | Ascendent | Medium coeli | Konjunkce | Ascendent stojí na Medium coeli a vlastní osoba se krátce spojuje s prací a veřejností. Hodí se ukázat se tam, kde na tom záleží.
-Progrese denní | Ascendent | Medium coeli | Opozice | Ascendent stojí na nejnižším bodě horoskopu a člověka to na pár dní táhne domů a ke klidu. Příhodné je věnovat se rodinným věcem.
+Progrese denní | Ascendent | Medium coeli | Opozice | Ascendent stojí na nejnižším bodě horoskopu a {1a} to na pár dní táhne domů a ke klidu. Příhodné je věnovat se rodinným věcem.
 Progrese denní | Ascendent | Medium coeli | Kvadratura | Vlastní potřeby se krátce střetávají s pracovními nároky. Pomáhá ujasnit si, co má přednost.
-Progrese denní | Ascendent | Medium coeli | Trigon | Přirozené vystupování v těchto dnech prospívá práci. Člověk je veřejně dobře přijímán.
-Progrese denní | Ascendent | Medium coeli | Sextil | Vlastní styl se teď dá dobře uplatnit v práci. Stačí ukázat, co člověk umí.
+Progrese denní | Ascendent | Medium coeli | Trigon | Přirozené vystupování v těchto dnech prospívá práci. {1} je veřejně {1:dobře přijímán|dobře přijímána}.
+Progrese denní | Ascendent | Medium coeli | Sextil | Vlastní styl se teď dá dobře uplatnit v práci. Stačí ukázat, co {1} umí.
 
 # Progresivní Medium coeli: krátký dotek práce, veřejného života a domova.
-Progrese denní | Medium coeli | Slunce | Konjunkce | Práce a veřejný život jsou na několik dní ve středu pozornosti a člověk je víc vidět. Hodí se ukázat výsledky, ctižádost je dobré držet v mezích.
+Progrese denní | Medium coeli | Slunce | Konjunkce | Práce a veřejný život jsou na několik dní ve středu pozornosti a {1} je víc vidět. Hodí se ukázat výsledky, ctižádost je dobré držet v mezích.
 Progrese denní | Medium coeli | Slunce | Opozice | Nejnižší bod horoskopu stojí na Slunci a pozornost se obrací domů a ke kořenům. Může jít i o vztah k otci nebo o rodinnou roli.
 Progrese denní | Medium coeli | Slunce | Kvadratura | Vlastní vůle se v práci krátce střetává s tlakem nadřízených. Lepší je nedělat ukvapené kroky.
 Progrese denní | Medium coeli | Slunce | Trigon | Práce a osobnost jdou spolu a výsledek si může získat uznání. Jsou to dobré dny pro jednání s vedením.
 Progrese denní | Medium coeli | Slunce | Sextil | Je tu krátká příležitost posunout se v práci nebo získat doporučení. Pomůže o sobě dát vědět.
-Progrese denní | Medium coeli | Měsíc | Konjunkce | Veřejnost si člověka víc všímá a pracovní věci se spojují s péčí o lidi. Větší váhu má i vztah k matce nebo k blízké ženě.
+Progrese denní | Medium coeli | Měsíc | Konjunkce | Veřejnost si {1g} víc všímá a pracovní věci se spojují s péčí o lidi. Větší váhu má i vztah k matce nebo k blízké ženě.
 Progrese denní | Medium coeli | Měsíc | Opozice | Nejnižší bod horoskopu stojí na Měsíci a pozornost patří rodině a domovu. Rozumné je nepřetěžovat se mezi domovem a prací.
-Progrese denní | Medium coeli | Měsíc | Kvadratura | Práce a rodina si v těchto dnech konkurují a člověk může být citlivý na kritiku. Prospívá nezanedbat domov.
+Progrese denní | Medium coeli | Měsíc | Kvadratura | Práce a rodina si v těchto dnech konkurují a {1} může být {1:citlivý|citlivá} na kritiku. Prospívá nezanedbat domov.
 Progrese denní | Medium coeli | Měsíc | Trigon | V práci se daří a dobrá nálada se přenáší do rodiny. Přeje to jednání s veřejností.
-Progrese denní | Medium coeli | Měsíc | Sextil | Je tu příležitost lépe sladit práci s rodinou. Vyplatí se otevřeně říct, co člověk potřebuje.
+Progrese denní | Medium coeli | Měsíc | Sextil | Je tu příležitost lépe sladit práci s rodinou. Vyplatí se otevřeně říct, co {1} potřebuje.
 Progrese denní | Medium coeli | Merkur | Konjunkce | Práce se točí kolem slov, dat a jednání. Dny přejí smlouvám, psaní a vyřizování.
 Progrese denní | Medium coeli | Merkur | Opozice | Myšlenky se vracejí k rodině a přibývá domácích domluv. Vyplatí se mluvit jasně.
-Progrese denní | Medium coeli | Merkur | Kvadratura | V práci vznikají spory o písemnosti nebo o slova. Správné je číst, co člověk podepisuje, a vážit, co říká.
+Progrese denní | Medium coeli | Merkur | Kvadratura | V práci vznikají spory o písemnosti nebo o slova. Správné je číst, co {1} podepisuje, a vážit, co říká.
 Progrese denní | Medium coeli | Merkur | Trigon | Rozumné slovo nebo dobrý plán v těchto dnech přinášejí uznání v práci. Hodí se to pro jednání a smlouvy.
 Progrese denní | Medium coeli | Merkur | Sextil | Dobře napsaný návrh nebo krátké jednání mohou pomoci. Na místě je jít s nápadem za tím, kdo rozhoduje.
-Progrese denní | Medium coeli | Venuše | Konjunkce | Práce je na pár dní příjemnější a člověk si snáz získává oblibu. Hodí se to pro společenské a umělecké věci.
-Progrese denní | Medium coeli | Venuše | Opozice | Člověk hledá lásku a klid doma. Přitahuje ho zkrášlení bytu, jen je dobré hlídat výdaje.
+Progrese denní | Medium coeli | Venuše | Konjunkce | Práce je na pár dní příjemnější a {1} si snáz získává oblibu. Hodí se to pro společenské a umělecké věci.
+Progrese denní | Medium coeli | Venuše | Opozice | {1} hledá lásku a klid doma. Přitahuje {1:ho|ji} zkrášlení bytu, jen je dobré hlídat výdaje.
 Progrese denní | Medium coeli | Venuše | Kvadratura | Soukromé city nebo větší výdaje se mohou plést do práce. Chce to oddělit vztahy od pracovních věcí.
-Progrese denní | Medium coeli | Venuše | Trigon | Lidé člověka přijímají příznivě a v práci je klid. Hodí se to pro dobré vztahy s vedením.
-Progrese denní | Medium coeli | Venuše | Sextil | Díky milému přístupu lze teď v práci získat přízeň a pomoc. Rozumné je nabídnout spolupráci někomu, s kým si člověk rozumí.
-Progrese denní | Medium coeli | Mars | Konjunkce | Pracovní ctižádost krátce sílí a člověk chce jít rychle vpřed. Vyplatí se hlídat spory s nadřízenými a konkurencí.
+Progrese denní | Medium coeli | Venuše | Trigon | Lidé {1a} přijímají příznivě a v práci je klid. Hodí se to pro dobré vztahy s vedením.
+Progrese denní | Medium coeli | Venuše | Sextil | Díky milému přístupu lze teď v práci získat přízeň a pomoc. Rozumné je nabídnout spolupráci někomu, s kým si {1} rozumí.
+Progrese denní | Medium coeli | Mars | Konjunkce | Pracovní ctižádost krátce sílí a {1} chce jít rychle vpřed. Vyplatí se hlídat spory s nadřízenými a konkurencí.
 Progrese denní | Medium coeli | Mars | Opozice | Napětí se dostává domů nebo do vztahu s rodiči. Prospívá řešit spory v klidu a vybít se prací kolem domu.
-Progrese denní | Medium coeli | Mars | Kvadratura | Pracovní tlak se krátce stupňuje a člověk snadno jedná ukvapeně. Lepší je nedělat změny v rozčilení.
+Progrese denní | Medium coeli | Mars | Kvadratura | Pracovní tlak se krátce stupňuje a {1} snadno jedná ukvapeně. Lepší je nedělat změny v rozčilení.
 Progrese denní | Medium coeli | Mars | Trigon | V práci je dost sil na náročný úkol a výsledky jsou vidět. Dny se hodí pro rozhodné kroky.
-Progrese denní | Medium coeli | Mars | Sextil | Je tu příležitost ukázat v práci činem, co člověk umí. Rozhodný návrh teď bývá vítaný.
+Progrese denní | Medium coeli | Mars | Sextil | Je tu příležitost ukázat v práci činem, co {1} umí. Rozhodný návrh teď bývá vítaný.
 Progrese denní | Medium coeli | Jupiter | Konjunkce | Příznivé dny pro práci, uznání a pomoc vlivných lidí. Je dobré nepřeceňovat své schopnosti.
 Progrese denní | Medium coeli | Jupiter | Opozice | Dobrá nálada a štědrost se v těchto dnech odehrávají hlavně doma a v rodině. Jen je třeba zvážit výdaje.
 Progrese denní | Medium coeli | Jupiter | Kvadratura | Přehnané plány a vyšší výdaje v práci si žádají střízlivost. Důležité je nepřejímat závazky, které nejsou pod kontrolou.
-Progrese denní | Medium coeli | Jupiter | Trigon | Pracovní věci jdou dobře a člověk má přízeň vlivných lidí. Hodí se to pro nový krok nebo jednání.
+Progrese denní | Medium coeli | Jupiter | Trigon | Pracovní věci jdou dobře a {1} má přízeň vlivných lidí. Hodí se to pro nový krok nebo jednání.
 Progrese denní | Medium coeli | Jupiter | Sextil | Pracovní nabídka může rozšířit obzor. Pomůže po ní sáhnout.
 Progrese denní | Medium coeli | Saturn | Konjunkce | Práce v těchto dnech přináší zkoušku a odpovědnost. Nedostatky se ukážou, a proto je dobré pracovat poctivě a nespoléhat na štěstí.
 Progrese denní | Medium coeli | Saturn | Opozice | Doma přibývá povinností, často kvůli rodičům. Lepší je chránit si síly a hledat pomoc.
-Progrese denní | Medium coeli | Saturn | Kvadratura | Věci v práci se zpomalují a člověk cítí tlak. Prospěje trpělivě plnit závazky.
-Progrese denní | Medium coeli | Saturn | Trigon | Člověk působí důvěryhodně a poctivá práce se v těchto dnech ocení. Hodí se to pro věci s dlouhým výhledem.
+Progrese denní | Medium coeli | Saturn | Kvadratura | Věci v práci se zpomalují a {1} cítí tlak. Prospěje trpělivě plnit závazky.
+Progrese denní | Medium coeli | Saturn | Trigon | {1} působí důvěryhodně a poctivá práce se v těchto dnech ocení. Hodí se to pro věci s dlouhým výhledem.
 Progrese denní | Medium coeli | Saturn | Sextil | Trpělivost teď může přinést důvěru vedení. Nejlepší je být spolehlivý a splnit, co bylo domluveno.
 Progrese denní | Medium coeli | Uran | Konjunkce | V práci se krátce objeví překvapení nebo chuť jít jinou cestou. Je dobré dbát na pověst a nepálit za sebou mosty.
 Progrese denní | Medium coeli | Uran | Opozice | Doma může přijít nečekaná změna programu. Vyplatí se nesoudit ji předem.
 Progrese denní | Medium coeli | Uran | Kvadratura | Pracovní plány jsou pár dní nejisté a překvapení přicházejí nečekaně. Prospívá být připravený a nerozhodovat prudce.
 Progrese denní | Medium coeli | Uran | Trigon | Přicházejí nové, nečekané pracovní nápady a lidé jsou jim otevření. Hodí se to pro technické a společné projekty.
-Progrese denní | Medium coeli | Uran | Sextil | Nová pracovní cesta je na dosah. Pomůže být zvědavý a vyzkoušet ji po malých krocích.
-Progrese denní | Medium coeli | Neptun | Konjunkce | Pracovní cíle jsou krátce mlhavější a člověka víc láká smysl než výkon. Na místě je přesně si ověřovat, co je slíbeno.
-Progrese denní | Medium coeli | Neptun | Opozice | V rodině vyvstává citlivá, nejasná otázka. Chce to být trpělivý a nepodléhat obavám.
-Progrese denní | Medium coeli | Neptun | Kvadratura | V práci nemusí být jasno a člověk se může nechat zmást. Je třeba dbát na to, co podepisuje.
+Progrese denní | Medium coeli | Uran | Sextil | Nová pracovní cesta je pro {1a} na dosah. Pomůže být {1:zvědavý|zvědavá} a vyzkoušet ji po malých krocích.
+Progrese denní | Medium coeli | Neptun | Konjunkce | Pracovní cíle jsou krátce mlhavější a {1a} víc láká smysl než výkon. Na místě je přesně si ověřovat, co je slíbeno.
+Progrese denní | Medium coeli | Neptun | Opozice | V rodině {1g} vyvstává citlivá, nejasná otázka. Chce to být {1:trpělivý|trpělivá} a nepodléhat obavám.
+Progrese denní | Medium coeli | Neptun | Kvadratura | V práci nemusí být jasno a {1} se může nechat zmást. Je třeba dbát na to, co podepisuje.
 Progrese denní | Medium coeli | Neptun | Trigon | Práce se krátce spojuje s inspirací. Hodí se to pro umění a pomoc druhým.
 Progrese denní | Medium coeli | Neptun | Sextil | Do práce teď může vstoupit víc fantazie nebo soucitu. Rozumné je vyzkoušet to bez čekání na uznání.
-Progrese denní | Medium coeli | Pluto | Konjunkce | Práce na pár dní nabírá na vážnosti a člověk může cítit mocenský tlak nebo vlastní vliv. Úkolem je použít sílu poctivě.
+Progrese denní | Medium coeli | Pluto | Konjunkce | Práce na pár dní nabírá na vážnosti a {1} může cítit mocenský tlak nebo vlastní vliv. Úkolem je použít sílu poctivě.
 Progrese denní | Medium coeli | Pluto | Opozice | Vynořují se staré rodinné otázky. Prospívá dát jim čas a pojmenovat je.
-Progrese denní | Medium coeli | Pluto | Kvadratura | Člověk může krátce čelit tlaku v práci. Vyplatí se zůstat poctivý a neřešit spory nátlakem.
-Progrese denní | Medium coeli | Pluto | Trigon | Člověk umí v práci proměnit, co nefunguje, bez zbytečných otřesů. Hodí se to pro úkoly, které jdou k jádru věci.
+Progrese denní | Medium coeli | Pluto | Kvadratura | {1} může krátce čelit tlaku v práci. Vyplatí se zůstat {1:poctivý|poctivá} a neřešit spory nátlakem.
+Progrese denní | Medium coeli | Pluto | Trigon | {1} umí v práci proměnit, co nefunguje, bez zbytečných otřesů. Hodí se to pro úkoly, které jdou k jádru věci.
 Progrese denní | Medium coeli | Pluto | Sextil | Je vhodná chvíle jasně říct, co v práci nefunguje. Pomůže nabídnout rovnou i to, jak to opravit.
 Progrese denní | Medium coeli | Chiron | Konjunkce | V práci se krátce ukazuje, co bylo dlouho bolestné. Vlastní zkušenost se dá obrátit v užitek.
 Progrese denní | Medium coeli | Chiron | Opozice | Staré rodinné zranění se znovu ozývá, někdy v souvislosti s rodiči. Rozumné je mluvit o něm a dopřát si podporu.
 Progrese denní | Medium coeli | Chiron | Kvadratura | Kritika v práci se dotýká pocitů nedostatečnosti. Je dobré oddělit pracovní hodnocení od vlastní ceny.
-Progrese denní | Medium coeli | Chiron | Trigon | Vlastní těžkou zkušenost lze teď v práci uplatnit. Člověk je tím druhým užitečný.
-Progrese denní | Medium coeli | Chiron | Sextil | Práce se dá krátce propojit s pomocí druhým. Stačí nabídnout, co člověk sám zažil.
-Progrese denní | Medium coeli | Severní uzel | Konjunkce | Práce a životní směr se na pár dní spojují a člověk cítí, že jde správně. Hodí se to pro rozhovor o dalších krocích.
-Progrese denní | Medium coeli | Severní uzel | Opozice | Medium coeli stojí na Jižním uzlu a člověka to táhne ke starým pracovním jistotám. Vyplatí se podívat se, jestli ještě někam vedou.
+Progrese denní | Medium coeli | Chiron | Trigon | Vlastní těžkou zkušenost lze teď v práci uplatnit. {1} je tím druhým {1:užitečný|užitečná}.
+Progrese denní | Medium coeli | Chiron | Sextil | Práce se dá krátce propojit s pomocí druhým. Stačí nabídnout, co {1} {1:sám zažil|sama zažila}.
+Progrese denní | Medium coeli | Severní uzel | Konjunkce | Práce a životní směr se na pár dní spojují a {1} cítí, že jde správně. Hodí se to pro rozhovor o dalších krocích.
+Progrese denní | Medium coeli | Severní uzel | Opozice | Medium coeli stojí na Jižním uzlu a {1a} to táhne ke starým pracovním jistotám. Vyplatí se podívat se, jestli ještě někam vedou.
 Progrese denní | Medium coeli | Severní uzel | Kvadratura | Pracovní cíle se kříží se směrem růstu. Pomáhá nerozhodovat se jen podle prestiže.
-Progrese denní | Medium coeli | Severní uzel | Trigon | Práce přirozeně vede tam, kam se člověk potřebuje vyvíjet. Jsou to dobré dny pro spolupráci.
+Progrese denní | Medium coeli | Severní uzel | Trigon | Práce přirozeně vede tam, kam se {1} potřebuje vyvíjet. Jsou to dobré dny pro spolupráci.
 Progrese denní | Medium coeli | Severní uzel | Sextil | Pracovní krok správným směrem je na dosah. Pomůže oslovit někoho, kdo už tam je.
-Progrese denní | Medium coeli | Ascendent | Konjunkce | Medium coeli stojí na Ascendentu a člověk jde s vlastní osobou na veřejnost. Hodí se vystoupit za sebe.
+Progrese denní | Medium coeli | Ascendent | Konjunkce | Medium coeli stojí na Ascendentu a {1} jde s vlastní osobou na veřejnost. Hodí se vystoupit za sebe.
 Progrese denní | Medium coeli | Ascendent | Opozice | Medium coeli stojí na Descendentu a práce se krátce potkává se vztahy. Vyplatí se držet obojí v rovnováze.
-Progrese denní | Medium coeli | Ascendent | Kvadratura | Práce se tře s tím, jak člověk vystupuje před ostatními. Pomůže nepřepínat a nepředstírat víc, než je.
-Progrese denní | Medium coeli | Ascendent | Trigon | Práce je v těchto dnech v souladu s tím, kým člověk je. Výsledky přicházejí bez velkého tlaku.
-Progrese denní | Medium coeli | Ascendent | Sextil | Člověk může teď spojit to, co umí, s tím, jak se projevuje mezi lidmi. Hodí se to pro krátké vystoupení.
-Progrese denní | Medium coeli | Medium coeli | Konjunkce | Medium coeli se jednou za rok vrací na své místo z narození. Na pár dní se člověk může podívat, kam jeho práce směřuje.
+Progrese denní | Medium coeli | Ascendent | Kvadratura | Práce se tře s tím, jak {1} vystupuje před ostatními. Pomůže nepřepínat a nepředstírat víc, než je.
+Progrese denní | Medium coeli | Ascendent | Trigon | Práce je v těchto dnech v souladu s tím, kým {1} je. Výsledky přicházejí bez velkého tlaku.
+Progrese denní | Medium coeli | Ascendent | Sextil | {1} může teď spojit to, co umí, s tím, jak se projevuje mezi lidmi. Hodí se to pro krátké vystoupení.
+Progrese denní | Medium coeli | Medium coeli | Konjunkce | Medium coeli se jednou za rok vrací na své místo z narození. Na pár dní se {1} může podívat, kam {1:jeho|její} práce směřuje.
 Progrese denní | Medium coeli | Medium coeli | Opozice | Medium coeli stojí na nejnižším bodě horoskopu a pozornost se od práce krátce obrací domů. Prospěje dopřát si soukromí.
 Progrese denní | Medium coeli | Medium coeli | Kvadratura | Pracovní nároky se krátce třou s osobním životem. Lepší je upravit program než tlačit na výkon.
 Progrese denní | Medium coeli | Medium coeli | Trigon | Pracovní věci jdou pár dní hladce a bez tlaku. Hodí se to pro klidné dokončení.

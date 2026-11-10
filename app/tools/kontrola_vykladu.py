@@ -108,6 +108,11 @@ def template_error(text, a, b):
     return None
 
 
+# "člověk" as the subject of the reading; general phrases like "každý člověk" may stay.
+LEFT_PERSON = re.compile(r"(?<!každý )(?<!Každý )(?<!žádný )\b[Čč]lověk\w*")
+SHOW_FEMALE = False
+
+
 def check(path):
     bad, seen, count = [], {}, 0
     for n, line in enumerate(open(path, encoding="utf-8-sig"), 1):
@@ -134,8 +139,20 @@ def check(path):
                     bad.append((n, problem))
                     break
             text = fill(text, MALE, FEMALE)
-        elif "{" in text:
-            bad.append((n, "šablona jmen patří jen do vztahových textů"))
+        else:
+            # Personal texts name one person: {1} and its cases, {1:muž|žena}. Checked as a man and as a woman.
+            if re.search(r"\{(2|p)", text):
+                bad.append((n, "osobní text zná jen jednoho člověka, {1}"))
+            for who in (MALE, FEMALE):
+                problem = template_error(text, who, who)
+                if problem:
+                    bad.append((n, problem))
+                    break
+            if SHOW_FEMALE:
+                print(f"{n}: {fill(text, FEMALE, FEMALE)}")
+            if LEFT_PERSON.search(text):
+                bad.append((n, "zůstalo slovo člověk, má tu být jméno {1} nebo zájmeno"))
+            text = fill(text, MALE, MALE)
         if not text.endswith(".") or not text[0].isupper():
             bad.append((n, "text nezačíná velkým písmenem nebo nekončí tečkou"))
         padded = f" {text} "
@@ -154,4 +171,6 @@ def check(path):
 
 
 if __name__ == "__main__":
-    sys.exit(1 if sum(len(check(p)) for p in sys.argv[1:]) else 0)
+    # --zena vypíše osobní texty, jak je program napíše pro Janu, ke kontrole rodu a pádů.
+    SHOW_FEMALE = "--zena" in sys.argv
+    sys.exit(1 if sum(len(check(p)) for p in sys.argv[1:] if not p.startswith("--")) else 0)

@@ -26,12 +26,23 @@ Vztahy a další pohledy:
     Synastrie dům | Saturn | 7. dům | text
     Složený | Venuše | 5. dům | text
     Solární | Měsíc | 7. dům | text
+    Lunární | Měsíc | 7. dům | text
+    Lunární | Ascendent | Beran | text
+    Lunární | Slunce | Měsíc | Opozice | text
 
 Ve vztahových textech se místo „jeden“ a „druhý“ píšou jména. `{1}` je osoba první, `{2}` osoba druhá, program dosadí jméno ve správném tvaru i předložku (ve Věře, se Simonou):
 
     {1} {1g} {1d} {1a} {1l} {1i}   1., 2., 3., 4., 6. a 7. pád
     {1:něj|ni}                     výběr podle rodu osoby 1, stejně {2:sám|sama}
     {p:oba|obě}                    druhý tvar jen u dvou žen
+
+Osobní texty (radix, celkový obraz, domy, vládci, tranzity, progrese, solární a lunární návrat) mluví o jednom člověku, proto znají jen `{1}`. Jméno stojí při první zmínce o člověku, dál zájmena a tvary slovesa. Všechno, co se k člověku vztahuje rodem, se píše přes `{1:muž|žena}`:
+
+    {1} se poznává skrze činy. Často {1:ho|ji} láká nový plán a bývá {1:upřímný|upřímná}.
+    V životě {1g} hrají vztahy velkou roli.   (genitiv jména za podstatným jménem, ne „v {1g} životě“)
+    Přichází doba, kdy {1} poměřuje, co {1:dokázal|dokázala}.
+
+Bez jména (neuložený člověk) program dosadí „člověk“ v mužském rodě, na začátku věty s velkým písmenem. Předložku před jménem (v, s, z, k) program sám změní na ve, se, ze, ke.
 
 Celkový obraz horoskopu:
 
@@ -52,7 +63,7 @@ Slunce a Merkur tvoří jen Konjunkci a Polosextil. Slunce a Venuše jen Konjunk
 - Hlavní znamení a domy mají 3 až 4 věty, hlavní aspekty 2 až 3 věty, menší aspekty jednu větu.
 - Každý text mluví konkrétně o dané kombinaci. Nesmí jít vyměnit za text jiné planety.
 - Popisuj sílu i stinnou stránku nebo úkol, bez strašení a bez chvály bez obsahu.
-- Podmět je „člověk“ nebo samotné téma. Žádné „vy“, žádné oslovení, žádné ženské a mužské varianty.
+- Podmět je jméno `{1}` nebo samotné téma. Slovo „člověk“ pro toho, o kom výklad je, se nepíše, kontrola ho hlásí (obecné „každý člověk“ smí zůstat). Žádné „vy“ a žádné oslovení. Rod se řeší jen šablonou `{1:muž|žena}`, nikdy lomítkem.
 - Žádné pomlčky, žádné poznámky pro astrology jako „starší knihy říkají“ nebo „tradičně“.
 - Přípona o síle aspektu se přidává automaticky, proto text neříká, jestli je aspekt těsný nebo volný.
 

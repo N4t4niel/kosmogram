@@ -44,7 +44,7 @@ Obloha | Měsíc | Uran | Opozice | Citové výkyvy a neklid ztěžují soustře
 Obloha | Měsíc | Uran | Kvadratura | Netrpělivost a chuť vybočit z řady se teď hlásí nejvíc. Hádanka, procházka nebo nový postup u běžné práce dobře zabaví neklidnou mysl.
 Obloha | Měsíc | Uran | Trigon | Setkání s přáteli a společná činnost přinášejí příjemné překvapení. Nový známý může otevřít dveře, o kterých nikdo nevěděl.
 Obloha | Měsíc | Uran | Sextil | Hodiny vhodné pro nápady, nová seznámení a práci ve skupině. Stačí se přidat, podnět často přijde odjinud, než se čekalo.
-Obloha | Měsíc | Neptun | Konjunkce | Citlivost je vysoká a lidé vnímají atmosféru i nevyřčené. Tyto hodiny přejí tvoření, odpočinku a snění, méně už střízlivým počtům.
+Obloha | Měsíc | Neptun | Konjunkce | Citlivost je vysoká a lidé vnímají atmosféru i nevyřčené, jenže soustředění a jasný úsudek se ztrácejí. Tyto hodiny se hodí spíš k tvoření, odpočinku a snění než k počtům a důležitým rozhodnutím.
 Obloha | Měsíc | Neptun | Opozice | Pocity jsou blízko povrchu a krátká poznámka může zranit víc, než byla myšlena. Leccos se špatně pochopí, proto je moudré neunáhlit se se závěry.
 Obloha | Měsíc | Neptun | Kvadratura | Snadno vznikne mylný dojem o tom, co druhý řekl nebo myslel. Intuice pracuje, ale potřebuje ověření, než se podle ní jedná.
 Obloha | Měsíc | Neptun | Trigon | Lidé jsou vnímaví, laskaví a mají měkké srdce pro ty, kdo potřebují pomoc. Sny mohou nést užitečný postřeh a vlídné slovo dnes dokáže přesvědčit.
@@ -189,7 +189,7 @@ Obloha | Jupiter | Saturn | Kvadratura | Měsíce, kdy se rozvoj potýká s omez
 Obloha | Jupiter | Saturn | Trigon | Doba přeje rozvážnému růstu, kdy zkušenost a poctivá práce přinášejí plody. Postupné kroky a vzdělávání se teď vyplácejí víc než velký skok.
 Obloha | Jupiter | Saturn | Sextil | Na uvážené plány a spolupráci se zkušenými je teď příznivý čas. Pokrok přichází po krocích a stojí na tom, co už bylo vybudováno.
 Obloha | Jupiter | Uran | Konjunkce | Doba nečekaných příležitostí, objevů a šťastných zvratů, kdy se rychle šíří nové myšlenky. Chuť po vzruchu ale může svádět k lehkomyslným krokům.
-Obloha | Jupiter | Uran | Opozice | Touha po svobodě a novém se v těchto měsících přetahuje s ustálenými názory. Velká očekávání a spory o přesvědčení mohou rozkolísat klid.
+Obloha | Jupiter | Uran | Opozice | Doba odvahy, objevů a touhy po svobodě, kdy nové myšlenky a průlomy přicházejí rychle a v mnoha oborech najednou. Velká očekávání a přehánění ale mohou rozkolísat klid.
 Obloha | Jupiter | Uran | Kvadratura | Napětí se hromadí a pak se náhle uvolní, změny přicházejí skokem. Přehánění a umíněnost jsou teď větší úskalí než změna sama.
 Obloha | Jupiter | Uran | Trigon | Měsíce přejí vynálezům, cestám a společným projektům a štěstí stojí při odvážných nápadech. Nové věci se ujímají snadněji než jindy.
 Obloha | Jupiter | Uran | Sextil | Dobrý nápad se teď rád potká s příležitostí. Je čas zkoušet nové postupy, navazovat kontakty a učit se novým věcem.
@@ -203,7 +203,7 @@ Obloha | Jupiter | Pluto | Opozice | Velké ambice se střetávají a boj o vliv
 Obloha | Jupiter | Pluto | Kvadratura | Touha po moci a růstu za každou cenu zvyšuje napětí ve společnosti i v práci. Nechat věci dozrát vlastním tempem je teď moudřejší než tlačit.
 Obloha | Jupiter | Pluto | Trigon | Doba přeje velkým projektům, obnově a schopnému vedení. Soustředěné úsilí může přinést výrazný pokrok, pokud se nespoléhá jen na štěstí.
 Obloha | Jupiter | Pluto | Sextil | Větší věci se v těchto měsících dobře organizují a změna snadno získá podporu. Odhodlání a schopnost vést nacházejí ohlas.
-Obloha | Saturn | Uran | Konjunkce | Staré a nové se potkávají tváří v tvář a pravidla se přestavují. Začíná dlouhý cyklus, kdy je třeba zachovat, co funguje, a odvážně měnit, co už neslouží.
+Obloha | Saturn | Uran | Konjunkce | Staré a nové se potkávají tváří v tvář a pravidla se přestavují, často náhle a pod tlakem okolností. Zaběhnuté struktury se mohou nečekaně otřást a vedle touhy po svobodě sílí snaha udržet vše pod kontrolou. Začíná dlouhý cyklus, kdy je třeba zachovat, co funguje, a odvážně měnit, co už neslouží.
 Obloha | Saturn | Uran | Opozice | Napětí mezi touhou po svobodě a potřebou jistoty prostupuje společnost, hospodářství i práci. Rozumné je měnit věci uvnitř stávajícího rámce, ne všechno najednou bourat.
 Obloha | Saturn | Uran | Kvadratura | Tradice a pokrok se přetahují a nespokojenost s omezeními roste. Schůdná cesta vede přes postupné úpravy, ne přes vzdor.
 Obloha | Saturn | Uran | Trigon | Promyšlené změny s pevným základem mají teď dobré podmínky. Nové nápady se spojují se zkušeností a lze vybudovat něco trvalého a moderního.
@@ -221,17 +221,17 @@ Obloha | Saturn | Pluto | Sextil | Doba je vhodná k dlouhodobému a vytrvalému
 
 # Pomalé planety mezi sebou (roky, generace)
 Obloha | Uran | Neptun | Konjunkce | Mimořádně vzácné setkání, které otevírá novou éru ideálů, objevů a duchovního hledání a vtiskne pečeť celé generaci. Inspirace se mísí se zmatkem a staré představy o světě ztrácejí platnost.
-Obloha | Uran | Neptun | Opozice | Dlouhé období, kdy se v celé společnosti střetávají ideály s náhlými změnami. Nové objevy otevírají obzory, ale jasno v tom, co je skutečné, se hledá obtížně.
-Obloha | Uran | Neptun | Kvadratura | Léta, kdy se rozpadají staré iluze a společnost hledá nové hodnoty. Inspirace i zmatek sílí a zkouška spočívá v tom, rozlišit pravdu od přání.
+Obloha | Uran | Neptun | Opozice | Dlouhé období, kdy se mění pohled celé společnosti na svět, na víru i na to, co je skutečné. Nové objevy, duchovní hnutí a umění otevírají obzory a staré jistoty se zdají méně pevné, jasno v tom, co platí, se ale hledá obtížně.
+Obloha | Uran | Neptun | Kvadratura | Léta, kdy se pod tlakem změn přetváří pohled na víru, umění a ideály a společnost hledá nové hodnoty. Inspirace i zmatek sílí a zkouška spočívá v tom, rozlišit pravdu od přání.
 Obloha | Uran | Neptun | Trigon | Pokrok a soucit jdou v těchto letech ruku v ruce a nové myšlenky se šíří s idealistickým zápalem. Generace narozená v této době nese cit pro lidské a duchovní hodnoty.
 Obloha | Uran | Neptun | Sextil | Vynalézavost slouží po léta ideálům a dobrým věcem. Společnosti se otevírá zájem o hlubší smysl a o pomoc druhým.
-Obloha | Uran | Pluto | Konjunkce | Začíná dlouhá epocha převratů, kdy se staré pořádky hroutí a rodí se nové podmínky života. Generace narozená v tomto čase nese silný hlad po změně.
-Obloha | Uran | Pluto | Opozice | Vnější změny nutí celou společnost ke změně vnitřní. Napětí mezi tím, co se bourá, a tím, co vzniká, se léta projevuje v mnoha oblastech života.
+Obloha | Uran | Pluto | Konjunkce | Začíná dlouhá epocha převratů, kdy se staré pořádky hroutí a mění se celý pohled na svět. Noví průkopníci přicházejí s vlastní vizí a nespokojenost propuká v náhlých, samovolných vzpourách.
+Obloha | Uran | Pluto | Opozice | Dlouhé období převratů a velkých hnutí za svobodu, kdy se staré pořádky bourají a společnost se mění rychle a často bouřlivě. Napětí mezi tím, co se bourá, a tím, co vzniká, se léta projevuje v politice, technice, umění i v každodenním životě.
 Obloha | Uran | Pluto | Kvadratura | Léta neklidu, kdy se staví a bourá zároveň a společnost hledá nové základy. Velké změny jsou mimo moc jednotlivce, proto pomáhá pružnost a hledání nové cesty.
-Obloha | Uran | Pluto | Trigon | Změny se v tomto dlouhém období dají uskutečnit tvořivě a bez velkých otřesů. Nové myšlenky a noví lidé přinášejí obnovu, která sahá do hloubky.
+Obloha | Uran | Pluto | Trigon | Touha po svobodě a obnově je v tomto dlouhém období silná, ale změny se dají uskutečnit tvořivě a s menšími otřesy než při napjatých úhlech. Nové myšlenky a noví lidé přinášejí obnovu, která sahá do hloubky.
 Obloha | Uran | Pluto | Sextil | Hledání nových cest přináší po léta pokrok ve vědě, technice i v pohledu na svět. Reformy mají naději, když se opírají o úsilí mnoha lidí.
-Obloha | Neptun | Pluto | Konjunkce | Setkání, které se opakuje jen jednou za necelých pět set let a otevírá novou epochu v duchovním životě. Mění se hluboké představy o smyslu a víře a celé generace hledají nový základ.
-Obloha | Neptun | Pluto | Opozice | Velmi vzácný úhel, kdy se staré a nové představy o smyslu života dostávají do protikladu. Pro celé generace je to doba hledání, kde končí iluze a začíná skutečnost.
+Obloha | Neptun | Pluto | Konjunkce | Setkání, které se opakuje jen jednou za necelých pět set let a stojí na rozhraní velkých epoch. Jeden svět končí a v hloubce se rodí nový pohled na skutečnost, na smysl a víru i na vztah ducha a přírody. Mnohé z toho, co se tehdy zaseje, vyjde na povrch až v dalších desetiletích.
+Obloha | Neptun | Pluto | Opozice | Úhel, který přichází jen jednou za necelých pět set let, zhruba v polovině cesty mezi dvěma konjunkcemi. Bývá vrcholem dlouhé epochy, kdy proměna pohledu na svět, která začala v hloubce, dozrává a vychází naplno na povrch. Pro celé generace je to doba hledání, kde končí iluze a začíná skutečnost.
 Obloha | Neptun | Pluto | Kvadratura | Dlouhé napětí v hlubokých vrstvách společnosti, kdy víra a moc ztrácejí dosavadní podobu. Doba vyžaduje bdělost vůči svodům a hledání pevného duchovního základu.
-Obloha | Neptun | Pluto | Trigon | Hluboké změny v duchovním životě probíhají po desítky let plynule. Generace z tohoto času mají přirozený cit pro vnitřní proměnu.
-Obloha | Neptun | Pluto | Sextil | Úhel, který trvá desítky let a tiše podporuje duchovní hledání celých generací. Svět se mění v hloubce a otevírá se zájem o smysl, vnitřní život a obnovu hodnot.
+Obloha | Neptun | Pluto | Trigon | Úhel, který trvá desítky let, někdy téměř celé století, a v hloubce společnosti dodává stálou oporu. Vědomí se proměňuje pozvolna a souladně, i když na povrchu přicházejí otřesy a krize, a duch a příroda k sobě nacházejí bližší vztah. Generace z tohoto času mají přirozený cit pro vnitřní proměnu.
+Obloha | Neptun | Pluto | Sextil | Úhel, který trvá desítky let, někdy téměř celé století, a tiše podporuje duchovní hledání celých generací. Pod povrchem krizí a změn dodává společnosti stálou oporu, svět se mění v hloubce a otevírá se zájem o smysl, vnitřní život a obnovu hodnot.

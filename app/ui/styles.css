@@ -7,6 +7,7 @@
   --w-bg: #fff; --w-disc: #fbfafc; --w-ink: #2c2a35; --w-second: #7a3fa0; --w-line: #8d8a99;
   --w-leader: #b9b6c4; --w-cusp: #a9a6b5; --w-house: #6a6776;
   --w-fire: #fbe6dd; --w-earth: #eeeed8; --w-air: #e8eefa; --w-water: #ddeff2;
+  --w-hl: #d9ccf5;
   color-scheme: light;
 }
 :root[data-theme=dark] {
@@ -16,6 +17,7 @@
   --w-bg: #101015; --w-disc: #17161e; --w-ink: #eeedf3; --w-second: #d3b1ee; --w-line: #5f5c6d;
   --w-leader: #4a4757; --w-cusp: #5a5768; --w-house: #a9a6b8;
   --w-fire: #41261f; --w-earth: #34341f; --w-air: #232d42; --w-water: #1b353a;
+  --w-hl: #4a3d70;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -103,6 +105,30 @@ input[type=checkbox] { width: auto; }
 #view { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: clamp(12px, 2cqw, 20px); align-items: start; }
 #wheel { position: sticky; top: 0; min-width: 0; }
 #wheel { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 8px; }
+/* Pointing at the wheel: the clicked or hovered thing stays, the rest steps back. */
+#view { position: relative; }
+#wheel .wb, #wheel .hs, #wheel .wl { cursor: pointer; }
+#wheel .wb, #wheel .wl { transition: opacity .15s; }
+#wheel svg.focus .wb:not(.hl) { opacity: .3; }
+#wheel svg.focus .wl:not(.hl) { opacity: .12; }
+#wheel .wl.hl { stroke-width: 4; stroke-opacity: 1; }
+#wheel .hs.hl { fill: var(--w-hl); }
+#wheel .wb.hl .g { font-weight: bold; }
+#wheel-pop {
+  position: absolute; z-index: 5; width: max-content; max-width: 280px; padding: 10px 12px; display: grid; gap: 4px;
+  background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 6px 20px var(--shadow); font-size: 14px;
+}
+#wheel-pop ul { margin: 2px 0 0; padding: 0; list-style: none; }
+#wheel-pop .pop-close { position: absolute; top: 2px; right: 4px; border: 0; background: none; color: var(--muted); font-size: 18px; cursor: pointer; padding: 2px 6px; }
+#wheel-pop b { padding-right: 18px; }
+#wheel-pop .pop-go { justify-self: start; margin-top: 4px; }
+.sec h3 { margin: 16px 0 6px; }
+.fold { all: unset; cursor: pointer; display: flex; align-items: center; gap: 6px; width: 100%; color: var(--accent); font-size: 17px; font-weight: 600; }
+.fold::before { content: "▾"; font-size: 14px; transition: transform .15s; }
+.fold:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.sec.shut .fold::before { transform: rotate(-90deg); }
+.sec.shut .sec-body { display: none; }
+.item.flash { background: var(--accent-soft); transition: background .3s; }
 #wheel svg { display: block; width: 100%; height: auto; max-height: calc(100dvh - 40px); margin: 0 auto; }
 #detail { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; min-width: 0; }
 #subtabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }

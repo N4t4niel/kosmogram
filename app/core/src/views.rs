@@ -22,6 +22,7 @@ const TRANSIT_WEIGHT: [f64; 14] = [10.0, 4.0, 8.0, 9.0, 20.0, 30.0, 35.0, 40.0, 
 
 #[derive(Serialize)]
 pub struct Row {
+    pub index: usize,
     pub glyph: String,
     pub name: &'static str,
     pub position: String,
@@ -45,7 +46,24 @@ pub struct ChartPanel {
     pub aspects: Vec<Aspect>,
     pub sections: Vec<Section>,
     pub info: Vec<String>,
+    /// Which ring of the wheel the table rows and each side of an aspect sit in.
+    pub rings: Rings,
+    /// Positions of the inner ring when the table shows the outer one.
+    pub inner_rows: Vec<Row>,
 }
+
+#[derive(Serialize, Clone, Copy, Default)]
+pub struct Rings {
+    pub rows_outer: bool,
+    pub a_outer: bool,
+    pub b_outer: bool,
+}
+
+const SINGLE: Rings = Rings { rows_outer: false, a_outer: false, b_outer: false };
+/// Transits and progressions: the moving chart is outside and is the first side of each aspect.
+const MOVING: Rings = Rings { rows_outer: true, a_outer: true, b_outer: false };
+/// Synastry: the first person inside, the second outside; the table shows the second.
+const PAIR: Rings = Rings { rows_outer: true, a_outer: false, b_outer: true };
 
 #[derive(Serialize)]
 pub struct Event {
@@ -80,7 +98,7 @@ fn rows_in_houses_of(guest: &Chart, host: &Chart) -> Vec<Row> {
 fn rows(c: &Chart) -> Vec<Row> {
     c.bodies
         .iter()
-        .map(|b| Row { glyph: b.glyph.clone(), name: b.name, position: b.position.clone(), house: b.house, retro: b.retro, dignity: dignity_name(b.dignity) })
+        .map(|b| Row { index: b.index, glyph: b.glyph.clone(), name: b.name, position: b.position.clone(), house: b.house, retro: b.retro, dignity: dignity_name(b.dignity) })
         .collect()
 }
 
@@ -93,7 +111,7 @@ fn line_list(list: &[Aspect], a: &Chart, b: &Chart) -> Vec<Line> {
         .filter_map(|x| {
             let from = a.bodies.iter().find(|p| p.index == x.a)?.lon;
             let to = b.bodies.iter().find(|p| p.index == x.b)?.lon;
-            Some(Line { from, to, color: x.color, weight: (2.2 * (1.0 - x.orb / x.max_orb)).max(0.5) })
+            Some(Line { a: x.a, b: x.b, from, to, color: x.color, weight: (2.2 * (1.0 - x.orb / x.max_orb)).max(0.5) })
         })
         .collect()
 }
@@ -130,7 +148,7 @@ pub fn radix(p: &Person, s: &Settings) -> Result<ChartPanel, String> {
     let asp = within(&c, s);
     let svg = render(&c, None, &line_list(&asp, &c, &c));
     let sections = personal(p, vec![interpret::overview(&c), interpret::placements(&c), interpret::houses(&c), interpret::natal_aspects(&asp)]);
-    Ok(ChartPanel { title: format!("Horoskop: {}", p.name), svg, rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info: birth_info(p, &m) })
+    Ok(ChartPanel { title: format!("Horoskop: {}", p.name), svg, rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info: birth_info(p, &m), rings: SINGLE, inner_rows: vec![] })
 }
 
 /// The sky for a wall-clock moment at a place, with no person attached.
@@ -140,7 +158,8 @@ pub fn sky(place: &Place, date: &str, time: &str, s: &Settings) -> Result<ChartP
     let asp = within(&c, s);
     let mut info = vec![format!("{}, {}", place.name, place.country), format!("{}, {} ({})", cz_date(date), time, offset_label(m.offset_min))];
     info.extend(m.note);
-    Ok(ChartPanel { title: "Obloha".into(), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections: vec![], info })
+    let sections = interpret::sky(&c, &asp);
+    Ok(ChartPanel { title: "Obloha".into(), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info, rings: SINGLE, inner_rows: vec![] })
 }
 
 fn moment_at(date: &str, time: &str) -> Result<Moment, String> {
@@ -160,7 +179,7 @@ pub fn transits(p: &Person, date: &str, time: &str, s: &Settings) -> Result<Char
     let svg = render(&n, Some(&t), &line_list(&active, &t, &n));
     let sections = personal(p, vec![interpret::active_moving(&active, "Co teď působí", interpret::TRANSIT)]);
     let info = vec![format!("Tranzity k {}, {time}", cz_date(date)), "Uvnitř radix, vně planety pro zvolený den.".into()];
-    Ok(ChartPanel { title: format!("Tranzity: {}", p.name), svg, rows: rows(&t), cusps: vec![], aspects: active, sections, info })
+    Ok(ChartPanel { title: format!("Tranzity: {}", p.name), svg, rows: rows(&t), cusps: vec![], aspects: active, sections, info, rings: MOVING, inner_rows: rows(&n) })
 }
 
 /// Secondary progressions for the given date.
@@ -178,7 +197,7 @@ pub fn progressions(p: &Person, date: &str, s: &Settings) -> Result<ChartPanel, 
         "Osy a domy jako v Astrologu: za rok oběhnou celý kruh, zásah os trvá jen několik dní."
     };
     let info = vec![format!("Progrese k {}", cz_date(date)), "Sekundární progrese: jeden den po narození odpovídá jednomu roku života.".into(), axes.into()];
-    Ok(ChartPanel { title: format!("Progrese: {}", p.name), svg, rows: rows(&c), cusps: cusps(&c), aspects: active, sections, info })
+    Ok(ChartPanel { title: format!("Progrese: {}", p.name), svg, rows: rows(&c), cusps: cusps(&c), aspects: active, sections, info, rings: MOVING, inner_rows: rows(&n) })
 }
 
 /// The moment the Sun comes back to `sun` near `jd`, in UT.
@@ -213,7 +232,7 @@ pub fn solar_return(p: &Person, year: i32, place: Option<&Place>, s: &Settings) 
         info.push("Bez času narození nejde určit přesný okamžik návratu, proto chybí domy, Ascendent a MC.".into());
     }
     let sections = personal(p, vec![interpret::placements_of(&c, Kind::Solar), interpret::aspects_of(&asp, Kind::Solar)]);
-    Ok(ChartPanel { title: format!("Solární návrat {year}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info })
+    Ok(ChartPanel { title: format!("Solární návrat {year}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info, rings: SINGLE, inner_rows: vec![] })
 }
 
 /// The first moment from `jd` on when the Moon stands at `moon`, in UT.
@@ -250,7 +269,7 @@ pub fn lunar_return(p: &Person, from: &str, place: Option<&Place>, s: &Settings)
         info.push("Bez času narození nejde určit polohu Měsíce přesně, okamžik návratu se proto může lišit až o půl dne. Chybí domy, Ascendent a MC.".into());
     }
     let sections = personal(p, vec![interpret::placements_of(&c, Kind::Lunar), interpret::aspects_of(&asp, Kind::Lunar)]);
-    let panel = ChartPanel { title: format!("Lunární návrat {date}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info };
+    let panel = ChartPanel { title: format!("Lunární návrat {date}: {}", p.name), svg: render(&c, None, &line_list(&asp, &c, &c)), rows: rows(&c), cusps: cusps(&c), aspects: asp, sections, info, rings: SINGLE, inner_rows: vec![] };
     Ok((panel, local.format("%Y-%m-%d").to_string()))
 }
 
@@ -300,10 +319,10 @@ pub fn relation(a: &Person, b: &Person, s: &Settings) -> Result<Relation, String
     let (na, nb) = names::pair(a, b);
     let mut sections = vec![interpret::relation_aspects(&asp, &na, &nb)];
     if ca.cusps.is_some() {
-        sections.push(interpret::overlay(&cb, &ca, &nb, &na));
+        sections.push(interpret::overlay(&cb, &ca, &nb, &na, true));
     }
     if cb.cusps.is_some() {
-        sections.push(interpret::overlay(&ca, &cb, &na, &nb));
+        sections.push(interpret::overlay(&ca, &cb, &na, &nb, false));
     }
     let mut info = vec![format!("Tabulka ukazuje planety {} v domech {}.", nb.gen(), na.gen())];
     info.extend(birth_info(a, &ma));
@@ -316,6 +335,8 @@ pub fn relation(a: &Person, b: &Person, s: &Settings) -> Result<Relation, String
         aspects: asp,
         sections,
         info,
+        rings: PAIR,
+        inner_rows: rows(&ca),
     };
     let comp = composite(&ca, &cb);
     let comp_asp = within(&comp, s);
@@ -331,6 +352,8 @@ pub fn relation(a: &Person, b: &Person, s: &Settings) -> Result<Relation, String
         sections: comp_sections,
         aspects: comp_asp,
         info: vec!["Složený horoskop tvoří středy mezi polohami obou lidí a popisuje vztah samotný.".into()],
+        rings: SINGLE,
+        inner_rows: vec![],
     };
     Ok(Relation { synastry, composite: composite_panel })
 }

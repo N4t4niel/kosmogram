@@ -159,7 +159,7 @@ fn main() {
     println!("\nSynastrie, planeta jednoho v domě druhého:");
     let host = chart(vec![body(0, 0, 15.0, Some(1), false)]);
     let guest = chart(vec![body(3, 6, 15.0, Some(7), false), body(6, 3, 15.0, Some(4), false)]);
-    for item in overlay(&guest, &host, &petr, &jana).items {
+    for item in overlay(&guest, &host, &petr, &jana, true).items {
         println!("{}\n  {}", item.title, item.text);
     }
     println!("\nSložený horoskop a solární návrat používají věty z 2.1 a 2.2.");

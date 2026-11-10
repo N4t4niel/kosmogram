@@ -93,10 +93,33 @@ pub const ASPECT_NOTE: [&str; 5] = [
     "",
 ];
 
+/// What a reading item points at in the wheel, so the UI can highlight it.
+/// `outer` bodies are in the outer ring of a double wheel; `line` is an aspect (a, b) as drawn.
+#[derive(Clone, Debug, Default, Serialize)]
+pub struct Mark {
+    pub inner: Vec<usize>,
+    pub outer: Vec<usize>,
+    pub house: Option<usize>,
+    pub line: Option<(usize, usize)>,
+}
+
+impl Mark {
+    pub fn body(i: usize, house: Option<usize>) -> Self {
+        Mark { inner: vec![i], house, ..Default::default() }
+    }
+    pub fn aspect(a: usize, b: usize, a_outer: bool, b_outer: bool) -> Self {
+        let mut m = Mark { line: Some((a, b)), ..Default::default() };
+        if a_outer { m.outer.push(a) } else { m.inner.push(a) }
+        if b_outer { m.outer.push(b) } else { m.inner.push(b) }
+        m
+    }
+}
+
 #[derive(Clone, Debug, Serialize)]
 pub struct Item {
     pub title: String,
     pub text: String,
+    pub mark: Mark,
 }
 
 #[derive(Clone, Debug, Serialize)]
@@ -208,7 +231,7 @@ fn placement_section(c: &Chart, kind: Kind) -> Section {
             if let (true, Kind::Radix, Some(t)) = (b.retro, kind, texts::get(&format!("{} | Zpětný pohyb", b.name))) {
                 text += &format!(" {t}");
             }
-            Item { title: placement_title(b), text }
+            Item { title: placement_title(b), text, mark: Mark::body(b.index, b.house.filter(|_| has_house(b))) }
         })
         // A return without its own text for a body leaves it out rather than showing a bare title.
         .filter(|i| !(kind.own_texts_only() && i.text.trim().is_empty()))
@@ -260,6 +283,7 @@ fn aspect_section(list: &[Aspect], kind: Kind) -> Section {
         .filter(|a| !kind.own_texts_only() || own(a))
         .map(|a| Item {
             title: aspect_title(a),
+            mark: Mark::aspect(a.a, a.b, false, false),
             text: match texts::aspect(&format!("{}{}", kind.prefix(), a.a_name), a.b_name, a.aspect_name) {
                 Some(t) => format!("{t}{}", exactness(a)),
                 None => format!("{} {}.{}", PARTS[a.a].0, with(&verb(a.aspect_index, strength(a.orb)), PARTS[a.b].1), note_of(a.aspect_index)),
@@ -298,13 +322,14 @@ pub fn transit_text(h: &Hit, family: &str) -> String {
 pub fn active_moving(list: &[Aspect], title: &str, family: &str) -> Section {
     let items = list
         .iter()
-        .map(|a| Item { title: aspect_title(a), text: moving_text(family, a.a, a.aspect_index, a.b, "radixu") })
+        .map(|a| Item { title: aspect_title(a), text: moving_text(family, a.a, a.aspect_index, a.b, "radixu"), mark: Mark::aspect(a.a, a.b, true, false) })
         .collect();
     Section { title: title.into(), items }
 }
 
 /// How the planets of `who` fall into the houses of `host`.
-pub fn overlay(guest: &Chart, host: &Chart, owner: &Name, host_person: &Name) -> Section {
+/// `drawn` says the guest is the outer ring of the wheel and the host's houses are the ones drawn.
+pub fn overlay(guest: &Chart, host: &Chart, owner: &Name, host_person: &Name, drawn: bool) -> Section {
     let (who, host_name) = (owner.nom(), host_person.nom());
     let items = guest
         .bodies
@@ -312,8 +337,9 @@ pub fn overlay(guest: &Chart, host: &Chart, owner: &Name, host_person: &Name) ->
         .filter(|b| has_house(b))
         .filter_map(|b| {
             let h = crate::chart::house_of(b.lon, host.cusps.as_ref()?);
+            let mark = if drawn { Mark { outer: vec![b.index], house: Some(h), ..Default::default() } } else { Mark::body(b.index, None) };
             if let Some(t) = texts::house(&format!("Synastrie dům | {}", b.name), h) {
-                return Some(Item { title: format!("{} ({who}) {}, {h}. dům ({host_name})", b.name, SIGNS_LOC[b.sign]), text: names::fill(t, owner, host_person) });
+                return Some(Item { title: format!("{} ({who}) {}, {h}. dům ({host_name})", b.name, SIGNS_LOC[b.sign]), text: names::fill(t, owner, host_person), mark });
             }
             let mut text = format!("{who}: {}", lower_first(&sign_sentence(b)));
             text += &format!(" {host_name} to pocítí v oblasti {}.", HOUSE_AREA[h - 1]);
@@ -322,7 +348,7 @@ pub fn overlay(guest: &Chart, host: &Chart, owner: &Name, host_person: &Name) ->
                 Some('f') => text += " Působí to spíše nesouladně.",
                 _ => {}
             }
-            Some(Item { title: format!("{} ({who}) {}, {h}. dům ({host_name})", b.name, SIGNS_LOC[b.sign]), text })
+            Some(Item { title: format!("{} ({who}) {}, {h}. dům ({host_name})", b.name, SIGNS_LOC[b.sign]), text, mark })
         })
         .collect();
     Section { title: format!("Planety {} v domech {}", owner.gen(), host_person.gen()), items }
@@ -351,6 +377,7 @@ pub fn relation_aspects(list: &[Aspect], a: &Name, b: &Name) -> Section {
         .map(|x| Item {
             title: format!("{} ({}) – {} – {} ({}), orb {:.1}°", x.a_name, a.nom(), x.aspect_name.to_lowercase(), x.b_name, b.nom(), x.orb),
             text: relation_text(x, a, b),
+            mark: Mark::aspect(x.a, x.b, false, true),
         })
         .collect();
     Section { title: "Aspekty mezi horoskopy".into(), items }
@@ -369,7 +396,11 @@ const PATTERN_ORB: f64 = 6.0;
 const FINE_ORB: f64 = 3.0;
 
 fn item(title: String, key: &str) -> Option<Item> {
-    texts::get(key).map(|t| Item { title, text: t.to_string() })
+    marked(title, key, Mark::default())
+}
+
+fn marked(title: String, key: &str, mark: Mark) -> Option<Item> {
+    texts::get(key).map(|t| Item { title, text: t.to_string(), mark })
 }
 
 fn planets(c: &Chart) -> Vec<&Body> {
@@ -429,7 +460,10 @@ fn triples<'a>(l: &[&'a Body], mut found: impl FnMut(&'a Body, &'a Body, &'a Bod
 
 fn patterns(c: &Chart, out: &mut Vec<Item>) {
     let l = planets(c);
-    let mut add = |name: &str, members: &[&Body]| out.extend(item(format!("{name}: {}", names(members)), &format!("Obrazec | {name}")));
+    let mut add = |name: &str, members: &[&Body]| {
+        let mark = Mark { inner: members.iter().map(|b| b.index).collect(), ..Default::default() };
+        out.extend(marked(format!("{name}: {}", names(members)), &format!("Obrazec | {name}"), mark))
+    };
     let mut trines = Vec::new();
     triples(&l, |a, b, d| {
         if at(a, b, 120.0, PATTERN_ORB) && at(b, d, 120.0, PATTERN_ORB) && at(a, d, 120.0, PATTERN_ORB) {
@@ -554,7 +588,8 @@ fn moon_phase(c: &Chart) -> Option<Item> {
     let n = (angle / 45.0) as usize % 8;
     let speed = moon.speed - sun.speed;
     let speed = if speed > 9.0 { speed } else { MEAN_ELONGATION_SPEED };
-    item(format!("Fáze Měsíce: {} ({})", PHASE_TITLES[n], moon_state(angle, speed)), &format!("Fáze Měsíce | {}", PHASES[n]))
+    let mark = Mark { inner: vec![sun.index, moon.index], ..Default::default() };
+    marked(format!("Fáze Měsíce: {} ({})", PHASE_TITLES[n], moon_state(angle, speed)), &format!("Fáze Měsíce | {}", PHASES[n]), mark)
 }
 
 /// The chart as a whole: moon phase, balance of elements, hemispheres and aspect patterns.
@@ -573,14 +608,53 @@ pub fn houses(c: &Chart) -> Section {
         for h in 1..=12 {
             let sign = (cusps[h - 1] / 30.0) as usize % 12;
             if h != 1 && h != 10 {
-                items.extend(item(format!("{h}. dům ve znamení {}", SIGNS[sign]), &format!("Hrot | {h}. dům | {}", SIGNS[sign])));
+                items.extend(marked(format!("{h}. dům ve znamení {}", SIGNS[sign]), &format!("Hrot | {h}. dům | {}", SIGNS[sign]), Mark { house: Some(h), ..Default::default() }));
             }
             if let Some(ruler) = c.bodies.iter().find(|b| b.index == SIGN_RULER[sign]) {
                 if let Some(in_house) = ruler.house {
-                    items.extend(item(format!("Vládce {h}. domu ({}) v {in_house}. domě", ruler.name), &format!("Vládce | {h}. dům | {in_house}. dům")));
+                    items.extend(marked(format!("Vládce {h}. domu ({}) v {in_house}. domě", ruler.name), &format!("Vládce | {h}. dům | {in_house}. dům"), Mark::body(ruler.index, Some(h))));
                 }
             }
         }
     }
     Section { title: "Domy a jejich vládci".into(), items }
+}
+
+/// Aspects in the sky reading: only close ones, they are what the days actually feel like.
+pub const SKY_ORB: f64 = 3.0;
+
+/// The sky of a moment for everyone: the Moon, the planets in their signs, retrograde planets
+/// and the close aspects between them. Texts are the `Obloha` keys; a missing one is left out.
+pub fn sky(c: &Chart, asp: &[Aspect]) -> Vec<Section> {
+    let body = |i: usize| c.bodies.iter().find(|b| b.index == i);
+    let mut moon = Vec::new();
+    if let (Some(m), Some(s)) = (body(MOON), body(0)) {
+        let angle = crate::chart::norm360(m.lon - s.lon);
+        let n = (angle / 45.0) as usize % 8;
+        let speed = m.speed - s.speed;
+        let speed = if speed > 9.0 { speed } else { MEAN_ELONGATION_SPEED };
+        let mark = Mark { inner: vec![s.index, m.index], ..Default::default() };
+        moon.extend(marked(format!("Fáze Měsíce: {} ({})", PHASE_TITLES[n], moon_state(angle, speed)), &format!("Obloha | Fáze | {}", PHASES[n]), mark));
+        moon.extend(marked(format!("Měsíc {}", SIGNS_LOC[m.sign]), &format!("Obloha | Měsíc | {}", m.sign_name), Mark::body(m.index, None)));
+    }
+    let planets: Vec<&Body> = c.bodies.iter().filter(|b| PLANETS.contains(&b.index) && b.index != MOON).collect();
+    let signs = planets.iter().filter_map(|b| marked(format!("{} {}", b.name, SIGNS_LOC[b.sign]), &format!("Obloha | {} | {}", b.name, b.sign_name), Mark::body(b.index, None))).collect();
+    let retro = planets
+        .iter()
+        .filter(|b| b.retro)
+        .filter_map(|b| marked(format!("{} se pohybuje zpětně", b.name), &format!("Obloha | {} | Zpětný pohyb", b.name), Mark::body(b.index, None)))
+        .collect();
+    let aspects = asp
+        .iter()
+        .filter(|a| PLANETS.contains(&a.a) && PLANETS.contains(&a.b) && a.aspect_index < MAJOR_ASPECTS && a.orb <= SKY_ORB)
+        .filter_map(|a| {
+            let (first, second) = if a.a < a.b { (a.a_name, a.b_name) } else { (a.b_name, a.a_name) };
+            marked(aspect_title(a), &format!("Obloha | {first} | {second} | {}", a.aspect_name), Mark::aspect(a.a, a.b, false, false))
+        })
+        .collect();
+    [("Měsíc", moon), ("Planety ve znameních", signs), ("Zpětné planety", retro), ("Aspekty na obloze", aspects)]
+        .into_iter()
+        .filter(|(_, items): &(&str, Vec<Item>)| !items.is_empty())
+        .map(|(title, items)| Section { title: title.into(), items })
+        .collect()
 }

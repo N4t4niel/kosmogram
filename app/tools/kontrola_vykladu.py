@@ -30,7 +30,29 @@ OVERVIEW = {
 }
 
 
+SKY_BODIES = BODIES[:10]
+
+
+def sky_key_error(p):
+    """Obloha: the sky of a day, no person. Obloha | Fáze | phase, Obloha | body | sign or Zpětný pohyb, Obloha | A | B | aspect."""
+    if len(p) == 3 and p[1] == "Fáze":
+        return None if p[2] in PHASES else "špatný klíč"
+    if len(p) == 3 and p[1] in SKY_BODIES:
+        if p[2] in SIGNS:
+            return None
+        if p[2] == "Zpětný pohyb":
+            return "zpětný pohyb tu neexistuje" if p[1] in NO_RETRO else None
+        return "špatný klíč"
+    if len(p) == 4 and p[1] in SKY_BODIES and p[2] in SKY_BODIES and p[3] in ASPECTS:
+        if BODIES.index(p[1]) >= BODIES.index(p[2]):
+            return "špatné pořadí dvojice"
+        return "aspekt nemůže nastat" if (p[1], p[2]) in ONLY and p[3] not in ONLY[(p[1], p[2])] else None
+    return "špatný klíč"
+
+
 def key_error(p):
+    if p[0] == "Obloha":
+        return sky_key_error(p)
     if p[0] in OVERVIEW:
         return None if OVERVIEW[p[0]](p) else "špatný klíč"
     if p[0] in ("Tranzit", "Progrese"):
@@ -139,6 +161,10 @@ def check(path):
                     bad.append((n, problem))
                     break
             text = fill(text, MALE, FEMALE)
+        elif key[0] == "Obloha":
+            # The sky belongs to no one: no name templates, and "člověk" in general is fine.
+            if "{" in text or "}" in text:
+                bad.append((n, "obloha nezná jméno, šablony {…} sem nepatří"))
         else:
             # Personal texts name one person: {1} and its cases, {1:muž|žena}. Checked as a man and as a woman.
             if re.search(r"\{(2|p)", text):

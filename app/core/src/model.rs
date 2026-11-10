@@ -52,6 +52,13 @@ pub struct Settings {
     /// Size of the text on the printed sheet and in PDF, in percent of 11 pt.
     #[serde(default = "hundred")]
     pub print_scale: u16,
+    /// Show the lunar return tab.
+    #[serde(default = "yes")]
+    pub lunar_return: bool,
+}
+
+fn yes() -> bool {
+    true
 }
 
 fn hundred() -> u16 {
@@ -60,6 +67,6 @@ fn hundred() -> u16 {
 
 impl Default for Settings {
     fn default() -> Self {
-        Settings { house_system: 'P', chiron: false, minor_aspects: false, solar_arc_angles: false, dark: false, font_scale: 100, print_scale: 100 }
+        Settings { house_system: 'P', chiron: false, minor_aspects: false, solar_arc_angles: false, dark: false, font_scale: 100, print_scale: 100, lunar_return: true }
     }
 }

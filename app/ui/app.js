@@ -226,7 +226,6 @@ $("controls").addEventListener("click", (e) => {
 
 // ---------- result panel ----------
 function subTabs() {
-  if (state.tab === "sky") return ["Planety", "Aspekty"];
   const list = ["Planety", "Aspekty", "Výklad"];
   if (state.tab === "prog") list.push("Kalendář");
   return list;
@@ -237,6 +236,7 @@ function showPanel(panel) {
   $("view").hidden = !panel;
   if (!panel) return;
   $("wheel").innerHTML = panel.svg;
+  hidePopup();
   const subs = subTabs();
   if (state.sub >= subs.length) state.sub = 0;
   $("subtabs").innerHTML = subs.map((s, i) => `<button data-i="${i}" class="${i === state.sub ? "on" : ""}">${s}</button>`).join("");
@@ -257,25 +257,31 @@ function renderSub() {
   const panel = $("panel");
   if (name === "Planety") panel.innerHTML = planetsTable(p);
   if (name === "Aspekty") panel.innerHTML = aspectsTable(p);
-  if (name === "Výklad") panel.innerHTML = sectionsHtml(p);
+  if (name === "Výklad") panel.innerHTML = sectionsHtml(p, true);
   if (state.tab !== "calendar") document.querySelectorAll("#c-month, #c-year").forEach((x) => { if (name !== "Kalendář") x.closest("label").remove(); });
   if (name === "Kalendář") loadEvents();
 }
 
 function planetsTable(p) {
   const hasHouse = p.rows.some((r) => r.house);
-  const body = p.rows.map((r) => `<tr><td><span class="gl">${esc(r.glyph)}</span> ${esc(r.name)}${r.retro ? ' <span class="muted" title="Zpětný pohyb">R</span>' : ""}</td><td>${esc(r.position)}</td>${hasHouse ? `<td>${r.house ?? ""}</td>` : ""}<td class="muted">${esc(r.dignity)}</td></tr>`).join("");
+  const body = p.rows.map((r, i) => `<tr data-row="${i}"><td><span class="gl">${esc(r.glyph)}</span> ${esc(r.name)}${r.retro ? ' <span class="muted" title="Zpětný pohyb">R</span>' : ""}</td><td>${esc(r.position)}</td>${hasHouse ? `<td>${r.house ?? ""}</td>` : ""}<td class="muted">${esc(r.dignity)}</td></tr>`).join("");
   const cusps = p.cusps.length ? `<h3>Domy</h3><table><tr><th>Dům</th><th>Hrot</th><th>Dům</th><th>Hrot</th></tr>${p.cusps.slice(0, 6).map((c, i) => `<tr><td>${c.house}.</td><td>${esc(c.position)}</td><td>${p.cusps[i + 6].house}.</td><td>${esc(p.cusps[i + 6].position)}</td></tr>`).join("")}</table>` : "";
   return `<table><tr><th>Planeta</th><th>Poloha</th>${hasHouse ? "<th>Dům</th>" : ""}<th></th></tr>${body}</table>${cusps}${p.info.map((t) => `<p class="note">${esc(t)}</p>`).join("")}`;
 }
 
 function aspectsTable(p) {
   if (!p.aspects.length) return `<p class="muted">Žádné aspekty v rozsahu.</p>`;
-  return `<table><tr><th>Aspekt</th><th>Orb</th><th></th></tr>${p.aspects.map((a) => `<tr><td><span class="gl">${esc(a.a_glyph)}</span> ${esc(a.a_name)} <span class="gl" style="color:${a.color}" title="${esc(a.aspect_name)}">${esc(a.glyph)}</span> <span class="gl">${esc(a.b_glyph)}</span> ${esc(a.b_name)}<br><small class="muted">${esc(a.aspect_name)}</small></td><td>${a.orb.toFixed(1)}°</td><td class="muted">${a.applying ? "sbíhá se" : "rozbíhá se"}</td></tr>`).join("")}</table>`;
+  return `<table><tr><th>Aspekt</th><th>Orb</th><th></th></tr>${p.aspects.map((a, i) => `<tr data-asp="${i}"><td><span class="gl">${esc(a.a_glyph)}</span> ${esc(a.a_name)} <span class="gl" style="color:${a.color}" title="${esc(a.aspect_name)}">${esc(a.glyph)}</span> <span class="gl">${esc(a.b_glyph)}</span> ${esc(a.b_name)}<br><small class="muted">${esc(a.aspect_name)}</small></td><td>${a.orb.toFixed(1)}°</td><td class="muted">${a.applying ? "sbíhá se" : "rozbíhá se"}</td></tr>`).join("")}</table>`;
 }
 
-function sectionsHtml(p) {
-  return p.sections.map((s) => `<h3>${esc(s.title)}</h3>${s.items.length ? s.items.map((i) => `<div class="item"><b>${esc(i.title)}</b>${esc(i.text)}</div>`).join("") : '<p class="muted">Nic v tomto období.</p>'}`).join("");
+// Each section folds under its heading; a new panel starts with all of them open.
+function sectionsHtml(p, screen = false) {
+  if (!p.sections.length) return `<p class="muted">Pro tento pohled zatím není výklad.</p>`;
+  return p.sections.map((s, si) => {
+    const items = s.items.length ? s.items.map((i, k) => `<div class="item" data-s="${si}" data-k="${k}"><b>${esc(i.title)}</b>${esc(i.text)}</div>`).join("") : '<p class="muted">Nic v tomto období.</p>';
+    if (!screen) return `<h3>${esc(s.title)}</h3>${items}`;
+    return `<section class="sec"><h3><button type="button" class="fold" aria-expanded="true">${esc(s.title)}</button></h3><div class="sec-body">${items}</div></section>`;
+  }).join("");
 }
 
 let eventsId = 0;
@@ -703,6 +709,7 @@ $("open-settings").onclick = () => {
   $("s-chiron").checked = state.settings.chiron;
   $("s-minor").checked = state.settings.minor_aspects;
   $("s-arc").checked = state.settings.solar_arc_angles;
+  $("s-lunar").checked = state.settings.lunar_return;
   $("s-font").value = String(state.settings.font_scale);
   $("s-print").value = String(state.settings.print_scale);
   $("backup-result").textContent = "";
@@ -745,11 +752,12 @@ $("settings-dialog").addEventListener("close", () => applySizes());
 $("settings-save").onclick = async () => {
   const settings = {
     ...state.settings, house_system: $("s-house").value, chiron: $("s-chiron").checked, minor_aspects: $("s-minor").checked,
-    solar_arc_angles: $("s-arc").checked, font_scale: Number($("s-font").value), print_scale: Number($("s-print").value),
+    solar_arc_angles: $("s-arc").checked, lunar_return: $("s-lunar").checked, font_scale: Number($("s-font").value), print_scale: Number($("s-print").value),
   };
   const data = await invoke("save_settings", { settings });
   state.settings = data.settings;
   $("settings-dialog").close();
+  applyLunarTab();
   if (state.current) refresh();
 };
 
@@ -773,6 +781,177 @@ $("update-now").onclick = async () => {
   }
 };
 
+// ---------- wheel and reading together ----------
+// What a table row, aspect or reading item points at, in the shape of the readings' `mark`.
+function markOf(el) {
+  const p = state.panel;
+  if (!p || !el) return null;
+  const r = p.rings ?? {};
+  if (el.dataset.row != null) {
+    const row = p.rows[Number(el.dataset.row)];
+    // In transits and progressions the houses drawn are not the ones of the moving chart.
+    const house = r.rows_outer && r.a_outer ? null : row.house;
+    return r.rows_outer ? { inner: [], outer: [row.index], house, line: null } : { inner: [row.index], outer: [], house, line: null };
+  }
+  if (el.dataset.asp != null) return aspectMark(p.aspects[Number(el.dataset.asp)]);
+  if (el.dataset.s != null) return p.sections[Number(el.dataset.s)]?.items[Number(el.dataset.k)]?.mark ?? null;
+  return null;
+}
+
+function aspectMark(a) {
+  const r = state.panel.rings ?? {};
+  const m = { inner: [], outer: [], house: null, line: [a.a, a.b] };
+  (r.a_outer ? m.outer : m.inner).push(a.a);
+  (r.b_outer ? m.outer : m.inner).push(a.b);
+  return m;
+}
+
+function clearMarks() {
+  const svg = $("wheel").querySelector("svg");
+  if (!svg) return;
+  svg.classList.remove("focus");
+  svg.querySelectorAll(".hl").forEach((x) => x.classList.remove("hl"));
+}
+
+function showMark(m) {
+  clearMarks();
+  const svg = $("wheel").querySelector("svg");
+  if (!svg || !m) return;
+  const found = [
+    ...m.inner.flatMap((i) => [...svg.querySelectorAll(`.wb[data-b="${i}"][data-r="in"]`)]),
+    ...m.outer.flatMap((i) => [...svg.querySelectorAll(`.wb[data-b="${i}"][data-r="out"]`)]),
+    ...(m.house ? [...svg.querySelectorAll(`.hs[data-h="${m.house}"]`)] : []),
+    ...[m.line, ...(m.lines ?? [])].filter(Boolean).flatMap(([a, b]) => [...svg.querySelectorAll(`.wl[data-a="${a}"][data-b="${b}"]`)]),
+  ];
+  if (!found.length) return;
+  found.forEach((x) => x.classList.add("hl"));
+  svg.classList.add("focus");
+}
+
+// While a card from a click is open, the wheel keeps showing what was clicked.
+$("panel").addEventListener("mouseover", (e) => {
+  if (!$("wheel-pop").hidden) return;
+  showMark(markOf(e.target.closest("[data-row], [data-asp], [data-s]")));
+});
+$("panel").addEventListener("mouseleave", () => { if ($("wheel-pop").hidden) clearMarks(); });
+
+$("panel").addEventListener("click", (e) => {
+  const b = e.target.closest(".fold");
+  if (!b) return;
+  const open = b.getAttribute("aria-expanded") !== "true";
+  b.setAttribute("aria-expanded", String(open));
+  b.closest(".sec").classList.toggle("shut", !open);
+});
+
+// A small card for what was clicked in the wheel, with a way to its place in the reading.
+function hidePopup() {
+  $("wheel-pop").hidden = true;
+  clearMarks();
+}
+
+function sameMark(m, want) {
+  if (want.line) return !!m.line && m.line[0] === want.line[0] && m.line[1] === want.line[1];
+  if (want.body != null) return (want.outer ? m.outer : m.inner).includes(want.body) && !m.line;
+  return m.house === want.house && !m.inner.length && !m.outer.length;
+}
+
+// A planet's own text first (its sign and house), only then anything else it takes part in.
+function findItem(want) {
+  const all = state.panel.sections.flatMap((s, si) => s.items.map((i, k) => [i.mark, [si, k]]));
+  const alone = (m) => m.inner.length + m.outer.length === 1;
+  const hit = all.find(([m]) => sameMark(m, want) && (want.body == null || alone(m))) ?? all.find(([m]) => sameMark(m, want));
+  return hit ? hit[1] : null;
+}
+
+function goToItem([si, k]) {
+  hidePopup();
+  const i = subTabs().indexOf("Výklad");
+  if (i < 0) return;
+  state.sub = i;
+  document.querySelectorAll("#subtabs button").forEach((x, n) => x.classList.toggle("on", n === i));
+  renderSub();
+  const el = $("panel").querySelector(`.item[data-s="${si}"][data-k="${k}"]`);
+  if (!el) return;
+  el.scrollIntoView({ block: "center", behavior: "smooth" });
+  el.classList.add("flash");
+  setTimeout(() => el.classList.remove("flash"), 1600);
+}
+
+function aspectLine(a, otherGlyph, otherName) {
+  return `<li><span class="gl" style="color:${a.color}">${esc(a.glyph)}</span> ${esc(a.aspect_name.toLowerCase())} <span class="gl">${esc(otherGlyph)}</span> ${esc(otherName)} <small class="muted">${a.orb.toFixed(1)}°</small></li>`;
+}
+
+function popupBody(target) {
+  const p = state.panel, r = p.rings ?? {};
+  if (target.classList.contains("wb")) {
+    const index = Number(target.dataset.b), outer = target.dataset.r === "out";
+    const list = outer === !!r.rows_outer ? p.rows : p.inner_rows;
+    const row = list?.find((x) => x.index === index);
+    const mine = (a, side) => a[side] === index && !!(side === "a" ? r.a_outer : r.b_outer) === outer;
+    const own = p.aspects.filter((a) => mine(a, "a") || mine(a, "b"));
+    const lines = own
+      .map((a) => (mine(a, "a") ? aspectLine(a, a.b_glyph, a.b_name) : aspectLine(a, a.a_glyph, a.a_name)))
+      .join("");
+    const place = row ? `<span>${esc(row.position)}${row.house ? `, ${row.house}. dům` : ""}${row.retro ? ", zpětný pohyb" : ""}</span>` : "";
+    const name = row ? `<b><span class="gl">${esc(row.glyph)}</span> ${esc(row.name)}</b>` : "";
+    return {
+      html: `${name}${place}${lines ? `<ul>${lines}</ul>` : '<p class="muted">Bez aspektů v rozsahu.</p>'}`,
+      // The planet together with the lines of its aspects.
+      mark: { inner: outer ? [] : [index], outer: outer ? [index] : [], house: null, line: null, lines: own.map((a) => [a.a, a.b]) },
+      want: { body: index, outer },
+    };
+  }
+  if (target.classList.contains("hs")) {
+    const h = Number(target.dataset.h);
+    const cusp = p.cusps.find((c) => c.house === h);
+    const inside = p.rows.filter((x) => x.house === h && !(r.rows_outer && r.a_outer)).map((x) => `${esc(x.glyph)}`).join(" ");
+    return {
+      html: `<b>${h}. dům</b><span>Hrot ${esc(cusp?.position ?? "")}</span>${inside ? `<span class="gl">${inside}</span>` : ""}`,
+      mark: { inner: [], outer: [], house: h, line: null },
+      want: { house: h },
+    };
+  }
+  const [a, b] = [Number(target.dataset.a), Number(target.dataset.b)];
+  const asp = p.aspects.find((x) => x.a === a && x.b === b);
+  if (!asp) return null;
+  return {
+    html: `<b><span class="gl">${esc(asp.a_glyph)}</span> ${esc(asp.a_name)} <span class="gl" style="color:${asp.color}">${esc(asp.glyph)}</span> <span class="gl">${esc(asp.b_glyph)}</span> ${esc(asp.b_name)}</b><span>${esc(asp.aspect_name)}, orb ${asp.orb.toFixed(1)}°, ${asp.applying ? "sbíhá se" : "rozbíhá se"}</span>`,
+    mark: aspectMark(asp),
+    want: { line: [a, b] },
+  };
+}
+
+$("wheel").addEventListener("click", (e) => {
+  const target = e.target.closest(".wb, .wl, .hs");
+  if (!target || !state.panel) return hidePopup();
+  const body = popupBody(target);
+  if (!body) return hidePopup();
+  const where = findItem(body.want);
+  const pop = $("wheel-pop");
+  pop.innerHTML = `<button type="button" class="pop-close" aria-label="Zavřít">×</button>${body.html}${where ? '<button type="button" class="pop-go">Ukázat ve výkladu</button>' : ""}`;
+  pop.hidden = false;
+  showMark(body.mark);
+  const box = $("view").getBoundingClientRect();
+  const x = Math.min(e.clientX - box.left + 12, box.width - pop.offsetWidth - 8);
+  const y = Math.min(e.clientY - box.top + 12, innerHeight - box.top - pop.offsetHeight - 8);
+  Object.assign(pop.style, { left: `${Math.max(8, x)}px`, top: `${Math.max(8, y)}px` });
+  pop.querySelector(".pop-go")?.addEventListener("click", () => goToItem(where));
+  pop.querySelector(".pop-close").addEventListener("click", hidePopup);
+});
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("wheel-pop").hidden) hidePopup(); });
+document.addEventListener("click", (e) => { if (!$("wheel-pop").hidden && !e.target.closest("#wheel, #wheel-pop")) hidePopup(); });
+
+// The lunar return tab can be switched off; leaving it then goes back to the horoscope.
+function applyLunarTab() {
+  const on = state.settings.lunar_return !== false;
+  document.querySelector('#tabs button[data-tab="lunar"]').hidden = !on;
+  if (!on && state.tab === "lunar") {
+    state.tab = "radix";
+    state.sub = 0;
+    document.querySelectorAll("#tabs button").forEach((x) => x.classList.toggle("on", x.dataset.tab === "radix"));
+  }
+}
+
 // ---------- start ----------
 (async () => {
   const [data, systems, version] = await Promise.all([invoke("load_data"), invoke("house_systems"), window.__TAURI__.app.getVersion()]);
@@ -781,6 +960,7 @@ $("update-now").onclick = async () => {
   state.settings = data.settings;
   applyTheme();
   applySizes();
+  applyLunarTab();
   $("s-house").innerHTML = systems.map(([k, n]) => `<option value="${k}">${esc(n)}</option>`).join("");
   sky.place = data.sky_place ?? (await invoke("search_places", { query: "Praha" }))[0];
   showSky();

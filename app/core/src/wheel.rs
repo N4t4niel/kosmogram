@@ -12,6 +12,9 @@ const SECOND: &str = "var(--w-second)";
 const MIN_GAP: f64 = 9.0;
 
 pub struct Line {
+    /// Body indices of both ends, so the UI can find the line of an aspect.
+    pub a: usize,
+    pub b: usize,
     pub from: f64,
     pub to: f64,
     pub color: &'static str,
@@ -68,10 +71,12 @@ fn spread(bodies: &[&Body]) -> Vec<(usize, f64)> {
     v
 }
 
-fn planets(o: &mut String, c: &Chart, r_glyph: f64, r_deg: f64, r_tick: f64, left: f64, color: &str) {
+/// Each body is one group the UI can point at: `data-b` its index, `data-r` its ring.
+fn planets(o: &mut String, c: &Chart, r_glyph: f64, r_deg: f64, r_tick: f64, left: f64, color: &str, ring: &str) {
     let bodies: Vec<&Body> = c.bodies.iter().filter(|b| !matches!(OBJECTS[b.index].kind, ObjKind::Asc | ObjKind::Mc)).collect();
     for (i, shown) in spread(&bodies) {
         let b = bodies[i];
+        let _ = write!(o, r#"<g class="wb" data-b="{}" data-r="{ring}">"#, b.index);
         radial(o, b.lon, r_tick, r_tick - 8.0, left, color, 1.5);
         let (a, z) = (at(b.lon, r_tick - 8.0, left), at(shown, r_glyph + 15.0, left));
         let _ = write!(o, r##"<line x1="{:.1}" y1="{:.1}" x2="{:.1}" y2="{:.1}" stroke="var(--w-leader)" stroke-width="0.7"/>"##, a.0, a.1, z.0, z.1);
@@ -79,6 +84,7 @@ fn planets(o: &mut String, c: &Chart, r_glyph: f64, r_deg: f64, r_tick: f64, lef
         let deg = (b.lon % 30.0).floor() as i32;
         let text = if b.retro { format!("{deg}°R") } else { format!("{deg}°") };
         label(o, at(shown, r_deg, left), &text, 14.0, color);
+        o.push_str("</g>");
     }
 }
 
@@ -105,10 +111,18 @@ pub fn render(inner: &Chart, outer: Option<&Chart>, lines: &[Line]) -> String {
         }
     }
     if let Some(c) = outer {
-        planets(&mut o, c, 322.0, 297.0, SIGN_IN, left, SECOND);
+        planets(&mut o, c, 322.0, 297.0, SIGN_IN, left, SECOND, "out");
         let _ = write!(o, r##"<circle cx="400" cy="400" r="{r_inner_tick}" fill="none" stroke="var(--w-line)" stroke-width="1"/>"##);
     }
     if let Some(cusps) = &inner.cusps {
+        // Invisible house sectors under everything else, to point at and to light up.
+        for (i, &c) in cusps.iter().enumerate() {
+            let end = c + min_diff(cusps[(i + 1) % 12], c).rem_euclid(360.0);
+            let (a, b) = (at(c, r_inner_tick, left), at(end, r_inner_tick, left));
+            let (c1, d) = (at(end, r_disc, left), at(c, r_disc, left));
+            let large = if end - c > 180.0 { 1 } else { 0 };
+            let _ = write!(o, r#"<path class="hs" data-h="{}" d="M{:.1} {:.1}A{r_inner_tick} {r_inner_tick} 0 {large} 0 {:.1} {:.1}L{:.1} {:.1}A{r_disc} {r_disc} 0 {large} 1 {:.1} {:.1}Z" fill="transparent"/>"#, i + 1, a.0, a.1, b.0, b.1, c1.0, c1.1, d.0, d.1);
+        }
         for (i, &c) in cusps.iter().enumerate() {
             radial(&mut o, c, r_disc, r_inner_tick, left, "var(--w-cusp)", 0.8);
             let mid = c + min_diff(cusps[(i + 1) % 12], c).rem_euclid(360.0) / 2.0;
@@ -117,18 +131,21 @@ pub fn render(inner: &Chart, outer: Option<&Chart>, lines: &[Line]) -> String {
         // The axes stand on the real angles: in equal and whole sign houses they miss the cusps.
         for (text, kind) in [("ASC", ObjKind::Asc), ("MC", ObjKind::Mc)] {
             let Some(lon) = angle(kind) else { continue };
+            let index = inner.bodies.iter().find(|b| OBJECTS[b.index].kind == kind).map_or(0, |b| b.index);
+            let _ = write!(o, r#"<g class="wb" data-b="{index}" data-r="in">"#);
             for end in [lon, lon + 180.0] {
                 radial(&mut o, end, r_disc, r_inner_tick, left, INK, 1.8);
             }
             // Between the sign ring and the planet glyphs, where nothing else is drawn.
             label(&mut o, at(lon + 3.0, r_inner_tick - 12.0, left), text, 14.0, INK);
+            o.push_str("</g>");
         }
     }
-    planets(&mut o, inner, r_inner_glyph, r_inner_deg, r_inner_tick, left, INK);
+    planets(&mut o, inner, r_inner_glyph, r_inner_deg, r_inner_tick, left, INK, "in");
     circle(&mut o, r_disc, "var(--w-disc)");
     for l in lines {
         let (a, b) = (at(l.from, r_disc, left), at(l.to, r_disc, left));
-        let _ = write!(o, r#"<line x1="{:.1}" y1="{:.1}" x2="{:.1}" y2="{:.1}" stroke="{}" stroke-width="{:.2}" stroke-opacity="0.8"/>"#, a.0, a.1, b.0, b.1, l.color, l.weight);
+        let _ = write!(o, r#"<line class="wl" data-a="{}" data-b="{}" x1="{:.1}" y1="{:.1}" x2="{:.1}" y2="{:.1}" stroke="{}" stroke-width="{:.2}" stroke-opacity="0.8"/>"#, l.a, l.b, a.0, a.1, b.0, b.1, l.color, l.weight);
     }
     o.push_str("</svg>");
     o

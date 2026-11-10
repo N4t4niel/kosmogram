@@ -103,11 +103,16 @@ const HELP_TOPICS = [
   {
     id: "novinky", area: "start", title: "Co je nového",
     summary: "Co přinesla která verze.",
-    keys: "novinky změny verze 1.0 1.0.1 1.0.2 co je nového lunární návrat jméno",
+    keys: "novinky změny verze 1.0 1.0.1 1.1 co je nového lunární návrat jméno obloha výklad kliknutí kolo sbalit",
     html: `
-<h3>Verze 1.0.2</h3>
+<h3>Verze 1.1</h3>
 <ul>
-  <li><b>Lunární návrat.</b> Nová záložka ukáže horoskop na měsíc, od jednoho návratu Měsíce k dalšímu. <a data-topic="lunar">Více</a>.</li>
+  <li><b>Lunární návrat.</b> Nová záložka ukáže horoskop na měsíc, od jednoho návratu Měsíce k dalšímu. V Nastavení ji můžete skrýt. <a data-topic="lunar">Více</a>.</li>
+  <li><b>Výklad oblohy.</b> Obloha má nově i výklad: fázi Měsíce, znamení, kterými planety procházejí, zpětné planety a těsné aspekty dne. <a data-topic="obloha">Více</a>.</li>
+  <li><b>Kolo reaguje.</b> Kliknutím na planetu, dům nebo čáru aspektu se ukáže popisek s odkazem do výkladu. Když najedete myší na řádek tabulky nebo na výklad, kolo zvýrazní, čeho se týká. <a data-topic="kolo">Více</a>.</li>
+  <li><b>Sbalování výkladu.</b> Kliknutím na fialový nadpis se oddíl výkladu sbalí nebo rozbalí.</li>
+  <li><b>Jména ve výkladech.</b> Osobní výklady píšou jméno člověka a správně ho skloňují.</li>
+  <li><b>Ověřené texty.</b> Všechny výklady prošly jazykovou úpravou a kontrolou významu podle astrologické literatury.</li>
   <li><b>Skupiny lidí.</b> Ve formuláři dáte člověku skupinu, třeba Rodina, Klienti nebo Známí. Nad seznamem pak vyberete, kterou skupinu chcete vidět. <a data-topic="lide">Více</a>.</li>
 </ul>
 <h3>Verze 1.0.1</h3>
@@ -170,6 +175,12 @@ const HELP_TOPICS = [
 <h3>Dvě kola přes sebe</h3>
 {{double}}
 <p>U tranzitů, progresí a synastrie jsou vnitřní kolo a vnější prstenec dvě různé sady poloh. Čáry pak spojují tělesa z vnějšího prstence s tělesy uvnitř.</p>
+<h3>Kliknutí a najetí myší</h3>
+<ul>
+  <li><b>Kliknutí na planetu</b> ukáže popisek s polohou, domem a aspekty. Tlačítko <b>Ukázat ve výkladu</b> přejde na její text.</li>
+  <li><b>Kliknutí na dům</b> (výseč mezi čarami domů) ukáže hrot domu, <b>kliknutí na čáru</b> aspekt. Popisek zavře křížek, klávesa Esc nebo kliknutí jinam.</li>
+  <li><b>Najetí myší</b> na řádek v tabulkách Planety a Aspekty nebo na text výkladu zvýrazní v kole planetu, dům nebo aspekt, kterého se týká. Ostatní ztlumí.</li>
+</ul>
 <p>Bez času narození nejsou známé domy ani osy, proto je vlevo začátek Berana.</p>`,
   },
   {
@@ -195,7 +206,7 @@ const HELP_TOPICS = [
 </dl>
 <p>Tabulka je seřazená podle síly, nejvýraznější aspekty jsou nahoře. Podrobnosti jsou v tématu <a data-topic="aspekty">Aspekty a orby</a>.</p>
 <h3>Výklad</h3>
-<p>Texty popisují sklony a témata, ne jisté události. Podrobnosti jsou v tématu <a data-topic="vyklady">Odkud jsou výklady</a>.</p>`,
+<p>Texty popisují sklony a témata, ne jisté události. Kliknutím na fialový nadpis se oddíl sbalí nebo rozbalí, při dalším otevření je zase vše rozbalené. Podrobnosti jsou v tématu <a data-topic="vyklady">Odkud jsou výklady</a>.</p>`,
   },
   {
     id: "tisk", area: "work", title: "Tisk a uložení do PDF",
@@ -211,7 +222,7 @@ const HELP_TOPICS = [
   {
     id: "obloha", area: "views", title: "Obloha", tour: "sky",
     summary: "Polohy pro libovolný den a místo, bez člověka.",
-    keys: "dnes teď aktuální nebe den zpět dopředu",
+    keys: "dnes teď aktuální nebe den zpět dopředu výklad oblohy fáze měsíce zpětný merkur aspekty dne",
     html: `
 <p>Obloha ukazuje polohy těles pro zvolený okamžik a místo. Hodí se pro pohled na to, co se děje dnes, nebo pro rychlou kontrolu data.</p>
 <ul>
@@ -219,7 +230,9 @@ const HELP_TOPICS = [
   <li><b>Den zpět, Den dopředu</b> posouvají o den, totéž umí šipky na klávesnici.</li>
   <li><b>Teď</b> nastaví aktuální den a čas.</li>
 </ul>
-<p>Čas se zadává podle pásma zvoleného místa. Obloha nemá výklad, jen tabulky Planety a Aspekty.</p>`,
+<p>Čas se zadává podle pásma zvoleného místa.</p>
+<h3>Výklad oblohy</h3>
+<p>Výklad oblohy nepatří žádnému člověku. Popisuje obecnou atmosféru zvolených dní: fázi Měsíce a znamení, kterým Měsíc prochází, znamení ostatních planet, planety ve zpětném pohybu a aspekty mezi planetami. Ukazuje jen těsné aspekty do 3°. Měsíc se posouvá rychle, jeho nálada platí jen pár dní, pomalé planety naopak popisují dlouhá období.</p>`,
   },
   {
     id: "radix", area: "views", title: "Horoskop (radix)", tour: "radix",
@@ -450,13 +463,14 @@ const HELP_TOPICS = [
   {
     id: "nastaveni", area: "data", title: "Všechna nastavení",
     summary: "Přehled voleb a co která změní.",
-    keys: "nastavení volby možnosti vedlejší chiron noční režim světlý tmavý vzhled velikost písma větší písmo zvětšit lupa čitelnost",
+    keys: "nastavení volby možnosti lunární návrat skrýt vedlejší chiron noční režim světlý tmavý vzhled velikost písma větší písmo zvětšit lupa čitelnost",
     html: `
 <p>Nastavení otevřete v levém sloupci dole. Platí pro všechny lidi a zůstanou uložená.</p>
 <dl>
   <dt>Systém domů</dt><dd>Jak se horoskop dělí na domy. Výchozí je Placidus. <a data-topic="domy">Rozdíly a porovnání</a>.</dd>
   <dt>Zobrazovat Chirona</dt><dd>Přidá Chirona do kol, tabulek, výkladů i kalendáře. <a data-topic="telesa">Více</a>.</dd>
   <dt>Zobrazovat vedlejší aspekty</dt><dd>Přidá kvinkunx, polosextil, polokvadrát a seskvikvadrát. V kole přibude čar a ve výkladu textů. <a data-topic="aspekty">Více</a>.</dd>
+  <dt>Zobrazovat lunární návrat</dt><dd>Když volbu vypnete, záložka Lunární návrat zmizí. <a data-topic="lunar">Více</a>.</dd>
   <dt>Progresivní osy a domy solárním obloukem</dt><dd>Mění pohyb Ascendentu, MC a domů v progresi. <a data-topic="osy">Rozdíl obou způsobů</a>.</dd>
   <dt>Velikost písma na obrazovce</dt><dd>Běžné, Větší, Velké nebo Největší. Zvětší se celé okno, text, kolo i tlačítka, a rozložení se přizpůsobí. Změna se ukáže hned, uloží se tlačítkem Hotovo. Když okno zavřete bez Hotovo, velikost se vrátí.</dd>
   <dt>Velikost písma při tisku a v PDF</dt><dd>Menší, Běžné, Větší nebo Velké. Mění text na vytištěném listu, kolo zůstává stejně velké. Větší písmo zabere víc stránek. <a data-topic="tisk">Tisk a PDF</a>.</dd>

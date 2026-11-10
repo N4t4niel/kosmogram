@@ -6,28 +6,28 @@
 
 # Progresivní Jupiter: nejrychlejší z pomalých těles, aspekt se může během života i dokončit a trvá řadu let. Růst, víra, rozhled.
 Progrese | Jupiter | Slunce | Konjunkce | Důvěra v sebe a chuť růst se po řadu let pozvolna zesilují. Nejde o jednorázové štěstí, ale o dlouhý úsek, kdy se {1d} rozšiřuje pole působnosti a kdy je dobré držet si míru.
-Progrese | Jupiter | Slunce | Opozice | Velké plány a nabídky okolí provázejí {1a} celé roky a sebejistota se snadno rozejde s tím, co je reálné. Užitečné je brát rady druhých vážně a ověřovat sliby dřív, než na ně vsadí.
+Progrese | Jupiter | Slunce | Opozice | Velké plány a nabídky okolí provázejí {1a} celé roky a sebejistota se snadno vzdálí od skutečnosti. Užitečné je brát rady druhých vážně a sliby si ověřit dřív, než na ně vsadí.
 Progrese | Jupiter | Slunce | Kvadratura | Touha po větším sílí tak pomalu, že přehánění ve výdajích a slibech se stává zvykem dřív, než si toho {1} všimne. Rozumné je průběžně si ověřovat, co opravdu unese.
-Progrese | Jupiter | Slunce | Trigon | Spokojenost se životem a dobré jméno tiše rostou celá léta. Příznivý proud tu neznamená jednu velkou událost, spíš stálou podporu, kterou je škoda nechat ležet ladem.
+Progrese | Jupiter | Slunce | Trigon | Spokojenost se životem a dobré jméno tiše rostou celá léta. Příznivý proud tu neznamená jednu velkou událost, spíš stálou podporu, kterou je škoda nevyužít.
 Progrese | Jupiter | Slunce | Sextil | Příležitosti k postupu se během těchto let opakují a přicházejí hlavně přes lidi. Přízeň okolí se projeví tam, kde {1} {1:sám|sama} vykročí.
-Progrese | Jupiter | Měsíc | Konjunkce | City se léta otevírají a domov i rodina dostávají víc místa a vlídnosti. Srdečnost sílí pomalu, jen je dobré hlídat míru v jídle a v penězích.
-Progrese | Jupiter | Měsíc | Opozice | Štědrost k blízkým i očekávání od nich rostou současně a doma se hůř hledá hranice. Na delší čas prospívá slibovat jen to, co {1} opravdu splní.
-Progrese | Jupiter | Měsíc | Kvadratura | Chutě a nálady se řadu let rozbíhají do šířky, ať už v jídle, nebo v utrácení za domov. Pomáhá klidný řád dne, protože toto napětí se neřeší jedním rozhodnutím.
+Progrese | Jupiter | Měsíc | Konjunkce | City se léta otevírají a domovu i rodině se dostává víc místa a vlídnosti. Srdečnost sílí pomalu, jen je dobré hlídat míru v jídle a v penězích.
+Progrese | Jupiter | Měsíc | Opozice | Štědrost k blízkým i očekávání od nich rostou současně a doma je těžší najít hranici. Dlouhodobě prospívá slibovat jen to, co {1} opravdu splní.
+Progrese | Jupiter | Měsíc | Kvadratura | Chutě a nálady se řadu let snadno vymykají míře, ať už v jídle, nebo v utrácení za domov. Pomáhá klidný řád dne, protože toto napětí se neřeší jedním rozhodnutím.
 Progrese | Jupiter | Měsíc | Trigon | Pohoda v rodině a důvěra v lidi se pomalu prohlubují a dlouho vydrží. Roky přejí domovu, péči o druhé a pocitu, že {1} není na nic {1:sám|sama}.
 Progrese | Jupiter | Měsíc | Sextil | Drobné laskavosti a rodinné kontakty v těchto letech otvírají dveře. Podpora je nablízku, {1} si o ni jen musí umět říct.
-Progrese | Jupiter | Merkur | Konjunkce | Zájem o vzdělání, knihy a širší souvislosti stále sílí. Mysl získává rozhled, jen je třeba hlídat, aby velké myšlenky neodsunuly přesnost.
-Progrese | Jupiter | Merkur | Opozice | Vlastní názory se celé roky měří s přesvědčením druhých a spory o pravdu se vracejí. Prospívá víc poslouchat a nepřikrášlovat fakta, když chce {1} někoho přesvědčit.
-Progrese | Jupiter | Merkur | Kvadratura | Nápadů přibývá rychleji, než je {1} stíhá dotáhnout, a tento stav trvá dlouho. Vhodné je dokončovat rozdělané a ověřovat údaje před každým velkým slibem.
+Progrese | Jupiter | Merkur | Konjunkce | Zájem o vzdělání, knihy a širší souvislosti stále sílí. Mysl získává rozhled, jen je třeba hlídat, aby kvůli velkým myšlenkám neutrpěla přesnost.
+Progrese | Jupiter | Merkur | Opozice | Vlastní názory se celé roky měří s přesvědčením druhých a spory o to, kdo má pravdu, se vracejí. Prospívá víc poslouchat a nepřikrášlovat fakta, když chce {1} někoho přesvědčit.
+Progrese | Jupiter | Merkur | Kvadratura | Nápadů přibývá rychleji, než je {1} stačí dotahovat, a tak to zůstává dlouho. Vhodné je dokončovat rozdělané a ověřovat údaje před každým velkým slibem.
 Progrese | Jupiter | Merkur | Trigon | Učení, psaní a výuka jdou řadu let lehce a přinášejí užitek. Slovo získává váhu, když za ním stojí poctivá znalost.
 Progrese | Jupiter | Merkur | Sextil | Studium, kurz nebo výměna názorů se v těchto letech snadno promění v užitečný kontakt. Postačí pravidelně se něčemu učit a o svých zájmech mluvit.
-Progrese | Jupiter | Venuše | Konjunkce | Radost ze vztahů, krásy a přátelství se prohlubuje celé roky. Štěstí je tu klidné a dlouhé, slabinou bývá pohodlí a volná ruka v penězích.
-Progrese | Jupiter | Venuše | Opozice | {1} touží užívat si a být {1:obdivován|obdivována}, dlouho se přitom opírá o druhé a od partnera snadno čeká víc, než je rozumné. Míra v citech i výdajích tu pomáhá víc než velká gesta.
+Progrese | Jupiter | Venuše | Konjunkce | Radost ze vztahů, krásy a přátelství se prohlubuje celé roky. Štěstí je tu klidné a dlouhé, slabinou bývá pohodlnost a příliš štědrá ruka v penězích.
+Progrese | Jupiter | Venuše | Opozice | {1} touží užívat si a být {1:obdivován|obdivována}. Dlouho se přitom opírá o druhé a od partnera snadno čeká víc, než je rozumné. Míra v citech i výdajích tu pomáhá víc než velká gesta.
 Progrese | Jupiter | Venuše | Kvadratura | Sklon dopřávat si a rozhazovat sílí nenápadně a trvá léta. Rozumné je sledovat výdaje a rozlišit, co přináší radost a co jen pocit důležitosti.
 Progrese | Jupiter | Venuše | Trigon | Laskavá léta, kdy se pozvolna daří lásce, přátelství a příjemnému prostředí. {1} působí přívětivě a okolí {1:mu|jí} to vrací.
 Progrese | Jupiter | Venuše | Sextil | Společenský život a záliby přinášejí po delší čas nové přátele a někdy i výdělek. Stačí přijímat pozvání a nabízet to, co {1a} baví.
 Progrese | Jupiter | Mars | Konjunkce | Nadšení a chuť do práce se spojují a rok od roku rostou. {1} zvládne velké nasazení, potřebuje se ale naučit včas přestat.
-Progrese | Jupiter | Mars | Opozice | Odvaha se v tomto dlouhém období snadno mění v soupeření a {1} přeceňuje své síly vůči druhým. Hodí se vracet spory k věci a nenechat se vyprovokovat k riziku.
-Progrese | Jupiter | Mars | Kvadratura | Nasazení trvale předbíhá možnosti a těžko se odpočívá. Dobré je hlídat síly, nepouštět se do zbytečných rizik a rozložit práci na delší čas.
+Progrese | Jupiter | Mars | Opozice | Odvaha se v tomto dlouhém období snadno mění v soupeření a {1} má sklon přeceňovat své síly. Hodí se vracet spory k věci a nenechat se vyprovokovat k riziku.
+Progrese | Jupiter | Mars | Kvadratura | Nasazení trvale předbíhá možnosti a odpočívat jde ztěžka. Dobré je hlídat síly, nepouštět se do zbytečných rizik a rozložit práci na delší čas.
 Progrese | Jupiter | Mars | Trigon | Síla a odvaha jdou řadu let správným směrem, takže se daří větším úkolům, sportu i podnikání. Příznivý proud je ale potřeba využít prací.
 Progrese | Jupiter | Mars | Sextil | Energie se dobře hodí k projektům, které se dají budovat postupně. Každý krok, který {1} udělá {1:sám|sama}, tu přináší víc, než se zdá.
 Progrese | Jupiter | Jupiter | Konjunkce | Jupiter v prvních letech života stojí skoro na svém místě z narození, zvláštní událost to není.
@@ -35,28 +35,28 @@ Progrese | Jupiter | Jupiter | Opozice | Naproti svému místu by se Jupiter dos
 Progrese | Jupiter | Jupiter | Kvadratura | Čtvrtinu zvěrokruhu Jupiter v progresi za lidský život neurazí, takže tato poloha nenastává.
 Progrese | Jupiter | Jupiter | Trigon | Třetina zvěrokruhu je pro progresivní Jupiter příliš daleko, za život k tomuto aspektu nedojde.
 Progrese | Jupiter | Jupiter | Sextil | Ani šedesát stupňů Jupiter v progresi za život neujde, proto tento aspekt nevzniká.
-Progrese | Jupiter | Saturn | Konjunkce | Dlouhá zátěž se pomalu uvolňuje a trpělivost začíná nést výsledky. Naděje tu přichází spolu s realismem, takže se dobře staví věci, které mají vydržet.
-Progrese | Jupiter | Saturn | Opozice | Chuť růst a strach z nezdaru se celé roky přetahují přes vnější okolnosti. Rozumné je rozložit velké plány do menších kroků a přijmout, že cesta bude delší.
+Progrese | Jupiter | Saturn | Konjunkce | Dlouhodobá zátěž pomalu povoluje a trpělivost začíná nést výsledky. Naděje tu přichází spolu s realismem, takže se dobře staví věci, které mají vydržet.
+Progrese | Jupiter | Saturn | Opozice | Chuť růst a strach z nezdaru se celé roky přetahují a vnější okolnosti to napětí zrcadlí. Rozumné je rozložit velké plány do menších kroků a přijmout, že cesta bude delší.
 Progrese | Jupiter | Saturn | Kvadratura | Víra v lepší budoucnost dlouhodobě naráží na povinnosti a omezení. {1} střídá přeceňování s pochybami, proto potřebuje cíle přiměřené své síle.
 Progrese | Jupiter | Saturn | Trigon | Důvěra a vytrvalost se dobře doplňují a dlouhodobé plány pozvolna dozrávají. Je to příznivý čas pro všechno, co má mít pevný základ.
-Progrese | Jupiter | Saturn | Sextil | Rozumné kroky v práci a majetku přinášejí během těchto let klidný pokrok. Pomáhá rada někoho zkušenějšího a ochota začít skromně.
-Progrese | Jupiter | Uran | Konjunkce | Potřeba svobody a nových obzorů celá léta sílí a {1a} přitahují neobvyklé myšlenky. Velké nápady se vyplatí držet i dlouho po počátečním nadšení.
-Progrese | Jupiter | Uran | Opozice | Druzí přinášejí lákavé zvraty a {1} se znovu ptá, kolik volnosti unese. Před každým velkým skokem prospívá zjistit, co z něj zůstane.
+Progrese | Jupiter | Saturn | Sextil | Rozumné kroky v práci a s majetkem přinášejí během těchto let klidný pokrok. Pomáhá rada někoho zkušenějšího a ochota začít skromně.
+Progrese | Jupiter | Uran | Konjunkce | Potřeba svobody a nových obzorů celá léta sílí a {1a} přitahují neobvyklé myšlenky. U velkých nápadů se vyplatí vydržet i dlouho po prvním nadšení.
+Progrese | Jupiter | Uran | Opozice | Druzí přinášejí lákavé zvraty a {1} se znovu ptá, kolik volnosti unese. Před každým velkým skokem je dobré zvážit, co po něm zůstane.
 Progrese | Jupiter | Uran | Kvadratura | Neklid a chuť vsadit na nejistou kartu se řadu let vracejí. Skvělý plán potřebuje střízlivý výpočet a někoho, kdo ho dotáhne.
 Progrese | Jupiter | Uran | Trigon | Nové zájmy, přátelé a nečekané možnosti přicházejí v delším úseku života a obvykle vedou k lepšímu. {1} snáz přijímá změnu jako šanci.
 Progrese | Jupiter | Uran | Sextil | Reforma, nový obor nebo spolek dávají {1d} v těchto letech užitečnou volnost. Přínos přijde, když neznámé opravdu vyzkouší.
 Progrese | Jupiter | Neptun | Konjunkce | Víra a soucit pomalu rostou a {1a} táhnou k hudbě, duchovnu nebo pomoci druhým. Spolu s tím roste i důvěřivost, kterou je dobré hlídat v penězích a slibech.
 Progrese | Jupiter | Neptun | Opozice | Lidé s velkými ideály {1a} dlouho přitahují a ne každý z nich je spolehlivý. Stojí za to ověřovat, komu a na co dává důvěru.
-Progrese | Jupiter | Neptun | Kvadratura | Snadno se tu věří tomu, co není, a po nadšení přichází rozčarování. Co se takto vrací celé roky, nejlépe vyjasní fakta a trocha odstupu.
+Progrese | Jupiter | Neptun | Kvadratura | Snadno se tu věří něčemu, co neexistuje, a po nadšení přichází rozčarování. Tento sklon se vrací celé roky a nejlépe proti němu pomáhají fakta a trocha odstupu.
 Progrese | Jupiter | Neptun | Trigon | Inspirace a vnitřní klid se tiše prohlubují. Dlouhé období přeje umění, víře a nezištné pomoci.
 Progrese | Jupiter | Neptun | Sextil | Dobrovolná práce, umění nebo duchovní zájem nabízejí během těchto let příjemný přesah. Stačí jim dát pravidelné místo v kalendáři.
 Progrese | Jupiter | Pluto | Konjunkce | Přesvědčení a ambice pomalu sílí a {1} si troufá na velké cíle. Zkouškou je nezaměňovat vliv s vlastní hodnotou.
-Progrese | Jupiter | Pluto | Opozice | Střety s vlivnými lidmi se v tomto dlouhém úseku opakují a {1} zjišťuje, kolik moci opravdu chce. Má smysl netlačit své názory přes hranice druhých.
+Progrese | Jupiter | Pluto | Opozice | Střety s vlivnými lidmi se v tomto dlouhém úseku opakují a {1} zjišťuje, kolik moci opravdu chce. Má smysl nevnucovat druhým své názory.
 Progrese | Jupiter | Pluto | Kvadratura | Velké ambice roky ženou {1a} až k hraně možností. Je dobré rozlišit, kdy jde o věc a kdy o to mít pravdu za každou cenu.
 Progrese | Jupiter | Pluto | Trigon | Schopnost obnovit to, co se zdálo ztracené, roste klidně a bez otřesů. {1} vidí příležitosti i tam, kde jiní vidí konec.
 Progrese | Jupiter | Pluto | Sextil | Hlubší studium, výzkum nebo spolupráce s vlivnými lidmi se v těchto letech vyplácí. Vhodné je jít k jádru věci a nespokojit se s povrchem.
 Progrese | Jupiter | Chiron | Konjunkce | Starý otřes důvěry v život se během let pomalu hojí. Z vlastní zkušenosti vzniká porozumění, které {1} umí nabídnout druhým.
-Progrese | Jupiter | Chiron | Opozice | Učitelé a přesvědčení druhých se dotýkají místa, kde {1} pochybuje o smyslu. Na delší čas pomáhá hledat vlastní víru a nepřebírat cizí.
+Progrese | Jupiter | Chiron | Opozice | Učitelé a přesvědčení druhých se dotýkají místa, kde {1} pochybuje o smyslu. Dlouhodobě pomáhá hledat vlastní víru a nepřebírat cizí.
 Progrese | Jupiter | Chiron | Kvadratura | Nadšení a zklamání se střídají a dotýkají se toho, čemu {1} věří. Pevnější bod vzniká, když přijme, že nemusí znát všechny odpovědi.
 Progrese | Jupiter | Chiron | Trigon | Vlastní zranitelnost se pozvolna stává zdrojem moudrosti a smyslu. Roky přejí učení a rozhovorům, které pomáhají i druhým.
 Progrese | Jupiter | Chiron | Sextil | Kurz, cesta nebo dobrý rádce pomohou pojmenovat, co {1a} dlouho trápí. Často stačí pustit se do toho a nečekat na dokonalou chvíli.
@@ -65,9 +65,9 @@ Progrese | Jupiter | Severní uzel | Opozice | Jupiter stojí na Jižním uzlu a
 Progrese | Jupiter | Severní uzel | Kvadratura | Názory a hodnoty se dlouho rozcházejí s cestou, kterou {1} cítí jako svou. Na životních křižovatkách je dobré nedělat ukvapené závěry.
 Progrese | Jupiter | Severní uzel | Trigon | Rozhled, studium a důvěra v delším čase nenápadně podporují životní směr. Růst tu jde snáz, když se {1} nespokojí jen s pohodlím.
 Progrese | Jupiter | Severní uzel | Sextil | Vzdělání a cesty dávají v těchto letech příležitost posunout se vpřed. Přijde jako nabídka, kterou je třeba přijmout.
-Progrese | Jupiter | Ascendent | Konjunkce | Jupiter u Ascendentu řadu let dodává vystupování otevřenost a vřelost. Lidé důvěřují snáz, jen je dobré neslibovat víc, než je možné.
+Progrese | Jupiter | Ascendent | Konjunkce | Jupiter u Ascendentu řadu let dodává vystupování otevřenost a vřelost. Lidé {1d} snáz důvěřují, jen je dobré neslibovat víc, než je možné.
 Progrese | Jupiter | Ascendent | Opozice | Jupiter stojí na Descendentu a řadu let přivádí do života štědré partnery a spolupracovníky. Osvědčuje se nespoléhat na ně úplně a nenafukovat očekávání od vztahu.
-Progrese | Jupiter | Ascendent | Kvadratura | Mezi touhou růst a tím, jak {1} působí, se dlouho střídá přehánění s ostychem. Víra prověřená překážkami tu bývá pevnější než rychlé sebevědomí.
+Progrese | Jupiter | Ascendent | Kvadratura | Touha růst se dlouho tře s tím, jak {1} působí na okolí, a přehánění se střídá s ostychem. Víra prověřená překážkami tu bývá pevnější než rychlé sebevědomí.
 Progrese | Jupiter | Ascendent | Trigon | Sebedůvěra a přívětivý dojem sílí postupně a {1} se mezi lidmi cítí svobodněji. Roky přinášejí snadné kontakty a chuť cestovat.
 Progrese | Jupiter | Ascendent | Sextil | Přátelská povaha a chuť poznávat přinášejí během těchto let nová seznámení. Užitek přijde, když {1} tyto kontakty nenechá vyhasnout.
 Progrese | Jupiter | Medium coeli | Konjunkce | Jupiter blízko vrcholu horoskopu postupně posiluje dobré jméno a chuť přijímat velké úkoly. Postavení roste pomalu a je dobré nestavět ho na slibech.
@@ -77,35 +77,35 @@ Progrese | Jupiter | Medium coeli | Trigon | Povolání se rozvíjí spíš plyn
 Progrese | Jupiter | Medium coeli | Sextil | V práci se opakovaně otevírají užitečné možnosti, někdy přes vzdělání nebo kontakty. Zbývá je využít a ukázat, co {1} umí.
 
 # Progresivní Saturn: za život urazí jen několik stupňů, aspekt trvá mnoho let. Kázeň, odpovědnost, zrání.
-Progrese | Saturn | Slunce | Konjunkce | Vážnost a pocit odpovědnosti pomalu houstnou a {1} nese víc, než je na první pohled vidět. Roste tím charakter, a proto je třeba dopřávat si i odpočinek a radost.
+Progrese | Saturn | Slunce | Konjunkce | Vážnost a pocit odpovědnosti pomalu sílí a {1} nese víc, než je na první pohled vidět. Charakter tím zraje, jen je třeba dopřát si i odpočinek a radost.
 Progrese | Saturn | Slunce | Opozice | Tlak autorit, povinností nebo náročného partnera provází {1a} mnoho let. Lepší než vzdor je jasně určit, co ještě unese, a nebrat vše na sebe.
 Progrese | Saturn | Slunce | Kvadratura | Vlastní cesta jde dlouhodobě ztěžka a vyžaduje vytrvalost. Sebedůvěra se tu rodí až z překonaných překážek, proto má smysl dbát na síly a nespěchat.
-Progrese | Saturn | Slunce | Trigon | Trpělivá práce se v průběhu mnoha let skládá v pevné postavení a {1} získává vážnost. Období je klidné a nese trvalé plody, pokud se nepromění ve stereotyp.
+Progrese | Saturn | Slunce | Trigon | Trpělivá práce se v průběhu mnoha let skládá do pevného postavení a {1} získává vážnost. Období je klidné a nese trvalé plody, pokud nesklouzne do stereotypu.
 Progrese | Saturn | Slunce | Sextil | Spolehlivost a skromné, ale stálé kroky se v delším čase vyplácejí. Pomůže přijmout menší odpovědnost a držet se jí.
 Progrese | Saturn | Měsíc | Konjunkce | Cit se na mnoho let ztišuje a {1} nese své starosti spíš {1:sám|sama}. Prospívá neuzavírat se, dbát na klid a dovolit si říct, co {1:ho|ji} tíží.
 Progrese | Saturn | Měsíc | Opozice | Nároky blízkých a povinnosti k rodině po dlouhá léta omezují citovou volnost. Má smysl dělit se o péči a neodkládat vlastní potřeby donekonečna.
 Progrese | Saturn | Měsíc | Kvadratura | Skleslost a pocit, že {1} nesmí ukázat slabost, se v tomto úseku vracejí. Dobře působí pravidelný řád, spánek a někdo, komu lze důvěřovat.
 Progrese | Saturn | Měsíc | Trigon | City získávají klidnou stálost a domov se na mnoho let stává pevným základem. Daří se péče o starší členy rodiny i budování zázemí.
 Progrese | Saturn | Měsíc | Sextil | Ve všední péči o domov a rodinu se v těchto letech dá hodně upevnit. Stačí vytrvat u drobných povinností a nečekat rychlou odměnu.
-Progrese | Saturn | Merkur | Konjunkce | Myšlení se stává vážnějším a důkladnějším a {1} léta zvažuje každé slovo. Zdržení se vyplatí, jen je dobré nenechat vnitřního kritika přerůst.
+Progrese | Saturn | Merkur | Konjunkce | Myšlení se stává vážnějším a důkladnějším a {1} léta zvažuje každé slovo. Pomalejší tempo se vyplatí, jen je dobré nenechat vnitřního kritika přerůst.
 Progrese | Saturn | Merkur | Opozice | Kritika a pochybnosti ostatních dlouho zkoušejí, jak pevně si {1} stojí za svým názorem. Pomáhá věcně ověřovat a neodpovídat tvrdostí.
 Progrese | Saturn | Merkur | Kvadratura | Strach, že {1} řekne něco špatně, {1:ho|ji} mnoho let brzdí v rozhovoru i v učení. Lepší je pracovat po malých krocích a dopřát si přestávky od starostí.
 Progrese | Saturn | Merkur | Trigon | Soustředění a paměť se v dlouhém čase prohlubují. Přeje to práci s fakty, sepisování a oborům, které vyžadují přesnost.
 Progrese | Saturn | Merkur | Sextil | Ucelené vzdělání nebo systematická práce s texty se v těchto letech zúročí. Přínos se projeví později, když {1} vydrží.
 Progrese | Saturn | Venuše | Konjunkce | Vztahy se stávají vážnějšími a méně bezstarostnými, a to na dlouho. Věrnost a závazek tu sílí, jen je dobré neškrtit radost a něhu.
 Progrese | Saturn | Venuše | Opozice | Partnerství celá léta nese víc povinností než lehkosti a {1} může cítit chlad nebo odstup. Užitečné je mluvit o tom, co v blízkosti chybí, a neuzavírat se.
-Progrese | Saturn | Venuše | Kvadratura | Pochybnost o tom, zda si {1g} někdo váží, se v tomto dlouhém úseku vrací. Rozumné je zkoumat, co opravdu dává, a nešetřit na citech ani na sobě.
+Progrese | Saturn | Venuše | Kvadratura | Pochybnost o tom, zda si {1g} někdo váží, se v tomto dlouhém úseku vrací. Rozumné je podívat se, co ve vztazích opravdu dává, a nešetřit city ani péčí o sebe.
 Progrese | Saturn | Venuše | Trigon | Láska dozrává ve věrnost a vztahy postupně získávají pevnost. Mnoho let přeje závazkům, spoření a věcem s trvalou hodnotou.
 Progrese | Saturn | Venuše | Sextil | Starší přátelé a dlouhodobé vztahy se v těchto letech stávají oporou. Pomáhá jim věnovat čas a přijmout klidnější podobu radosti.
 Progrese | Saturn | Mars | Konjunkce | Síla se učí kázni a {1} zvládne těžkou práci s velkou výdrží. Energie se ale hůř uvolňuje, proto dlouhodobě prospívá pravidelný pohyb a odpočinek.
-Progrese | Saturn | Mars | Opozice | Odpor okolí dlouho brzdí to, co {1} chce prosadit, a napětí se snadno mění v zatvrzelost. Vhodné je volit vytrvalost před střetem.
+Progrese | Saturn | Mars | Opozice | Odpor okolí dlouho brzdí to, co {1} chce prosadit, a napětí se snadno mění v zatvrzelost. Vhodné je dát přednost vytrvalosti před střetem.
 Progrese | Saturn | Mars | Kvadratura | Plyn a brzda tu pracují současně a celé roky se střídá horlivost s útlumem. Dobré je nepřepínat se a dbát na bezpečnost při námaze.
 Progrese | Saturn | Mars | Trigon | Vytrvalost a výkon se pojí v klidné, dlouhé síle. Daří se náročné práci, řemeslu a úkolům, které ostatní dávno vzdali.
 Progrese | Saturn | Mars | Sextil | Soustředěné úsilí v těchto letech přináší měřitelné výsledky. Postačí stanovit si postup a držet se ho bez spěchu.
 Progrese | Saturn | Jupiter | Konjunkce | Velké plány pomalu dostávají střízlivý tvar. {1} přestává slibovat a začíná stavět, což je pomalejší, ale pevnější.
 Progrese | Saturn | Jupiter | Opozice | Víra v růst se léta měří s tím, co okolnosti opravdu dovolí. Lepší je upravit cíle a nevzdávat je, když se věci zdržují.
 Progrese | Saturn | Jupiter | Kvadratura | Pocit, že na rozmach nezbývá prostor, trvá dlouho a střídá se s přeceňováním. Pomůže jasný rozpočet a skromnější měřítko úspěchu.
-Progrese | Saturn | Jupiter | Trigon | Rozvaha a důvěra spolu v mnoha letech tiše pracují pro dlouhodobé cíle. Daří se majetku, studiu a věcem, které rostou pomalu.
+Progrese | Saturn | Jupiter | Trigon | Rozvaha a důvěra spolu po mnoho let tiše pracují pro dlouhodobé cíle. Daří se majetku, studiu a věcem, které rostou pomalu.
 Progrese | Saturn | Jupiter | Sextil | Praktická opatrnost dává novým možnostem pevný tvar. V těchto letech pomáhá plán na delší dobu a vytrvalé dokončování.
 Progrese | Saturn | Saturn | Konjunkce | Saturn se za život pohne jen o několik stupňů, takže stojí blízko své polohy z narození a nejde o zvláštní událost.
 Progrese | Saturn | Saturn | Opozice | Protilehlé místo zůstává pro progresivní Saturn nedosažitelné, tato poloha za život nenastane.
@@ -118,16 +118,16 @@ Progrese | Saturn | Uran | Kvadratura | Poctivé budování se střídá s chut�
 Progrese | Saturn | Uran | Trigon | Zkušenost a vynalézavost si navzájem pomáhají celé dlouhé období. Daří se změnám, které jsou dobře připravené a mají pevný základ.
 Progrese | Saturn | Uran | Sextil | Trpělivost se dá v těchto letech využít k obnově osvědčených věcí novým způsobem. Stačí zkusit jednu úpravu a dotáhnout ji.
 Progrese | Saturn | Neptun | Konjunkce | Sen a skutečnost se léta potkávají a {1} zjišťuje, co z ideálů obstojí. Rozčarování tu není konec, ale cesta k tomu, aby sny dostaly pevný tvar.
-Progrese | Saturn | Neptun | Opozice | Povinnosti se léta vzpírají touze po přesahu a okolí nerozumí tomu, co {1a} přitahuje. Osvědčuje se nezapomínat na praktické věci a nevyčerpat se pro cizí cíle.
-Progrese | Saturn | Neptun | Kvadratura | Mezi tím, jaký život je a jaký by měl být, trvá napětí, které ubírá chuť. Pozornost si zaslouží nejasné obavy a únava, kterou je dobré nepřehlížet.
+Progrese | Saturn | Neptun | Opozice | Povinnosti léta stojí v cestě touze po přesahu a okolí nerozumí tomu, co {1a} přitahuje. Osvědčuje se nezapomínat na praktické věci a nevyčerpat se pro cizí cíle.
+Progrese | Saturn | Neptun | Kvadratura | Mezi tím, jaký život je a jaký by měl být, trvá napětí, které ubírá chuť. Pozornost si zaslouží nejasné obavy a únava, která se snadno přehlédne.
 Progrese | Saturn | Neptun | Trigon | Soustředění a představivost spolu postupně tvoří něco skutečného. Čas přeje trpělivé tvůrčí práci i službě věci, která {1a} přesahuje.
 Progrese | Saturn | Neptun | Sextil | Tiché zájmy, umění nebo duchovní cvičení se v těchto letech dají uchopit pravidelně. Vytrvalost jim dodá hloubku a užitek.
 Progrese | Saturn | Pluto | Konjunkce | Kázeň a hluboká proměna se spojují v tlak, který trvá mnoho let. {1} získává obrovskou výdrž, {1:měl|měla} by si ale hlídat přílišnou přísnost a potřebu mít vše pod kontrolou.
-Progrese | Saturn | Pluto | Opozice | Dlouhodobý tlak okolností nebo mocných lidí zkouší, co {1} vydrží. Lepší než stát za každou cenu je poznat, co už je třeba opustit.
-Progrese | Saturn | Pluto | Kvadratura | Těžké zkušenosti se nesnadno odpouštějí a {1} pod tlakem ještě přitvrdí. Rozumné je dát odolnosti i prostor k uvolnění a neustrnout v tvrdosti.
+Progrese | Saturn | Pluto | Opozice | Dlouhodobý tlak okolností nebo mocných lidí zkouší, co {1} vydrží. Lepší než vydržet za každou cenu je poznat, co už je třeba opustit.
+Progrese | Saturn | Pluto | Kvadratura | Těžké zkušenosti se nesnadno odpouštějí a {1} pod tlakem ještě přitvrdí. Rozumné je dopřát si vedle odolnosti i uvolnění a neustrnout v tvrdosti.
 Progrese | Saturn | Pluto | Trigon | Klidná, hluboká vytrvalost roste a {1} zvládne přestavět to, co je potřeba. Dlouhý úsek přeje poctivé práci, která sahá až k základům.
 Progrese | Saturn | Pluto | Sextil | Soustředěný výzkum, důkladná oprava nebo správa odkazu se v těchto letech vyplácí. Přínos roste, když {1} nespěchá a jde do hloubky.
-Progrese | Saturn | Chiron | Konjunkce | Staré pocity nedostatečnosti dlouhodobě vystupují spolu s odpovědností. {1} se učí oddělit rozumné nároky od tvrdé sebekritiky.
+Progrese | Saturn | Chiron | Konjunkce | Staré pocity nedostatečnosti se dlouhodobě ozývají spolu s odpovědností. {1} se učí oddělit rozumné nároky od tvrdé sebekritiky.
 Progrese | Saturn | Chiron | Opozice | Autority a nároky druhých celé roky dráždí citlivé místo. Stojí za to nepřebírat jejich měřítka za svá a dovolit si pomoc.
 Progrese | Saturn | Chiron | Kvadratura | Pocit, že základ pod nohama není pevný, se vrací a žene {1a} k přepínání. Stojí za to přijmout, že nemusí být {1:dokonalý|dokonalá} a že práci lze svěřit druhým.
 Progrese | Saturn | Chiron | Trigon | Prověřená zkušenost se v dlouhém čase mění v klidnou odbornost. Hodí se to pro práci, ve které {1} rozumí slabostem druhých.
@@ -138,9 +138,9 @@ Progrese | Saturn | Severní uzel | Kvadratura | Saturn stojí napříč osou uz
 Progrese | Saturn | Severní uzel | Trigon | Vytrvalost a smysl pro řád v dlouhém čase podporují životní směr. Pokrok je tichý, ale drží.
 Progrese | Saturn | Severní uzel | Sextil | Závazek nebo pevný režim tu dávají růstu oporu. V těchto letech se vyplácí zvolit jednu cestu a nerozptylovat se.
 Progrese | Saturn | Ascendent | Konjunkce | Saturn u Ascendentu dodává vystupování na mnoho let vážnost a zdrženlivost. {1} působí spolehlivě, jen by {1:neměl|neměla} být k sobě zbytečně {1:přísný|přísná}.
-Progrese | Saturn | Ascendent | Opozice | Saturn stojí na Descendentu a vztahy i spolupráce se postupně stávají vážnými závazky. Partner bývá starší nebo náročný a pomáhá otevřeně mluvit o tom, co kdo nese.
+Progrese | Saturn | Ascendent | Opozice | Saturn stojí na Descendentu a vztahy i spolupráce se postupně stávají vážnými závazky. Partner bývá starší nebo náročný. Pomáhá otevřeně mluvit o tom, co kdo nese.
 Progrese | Saturn | Ascendent | Kvadratura | {1} má dlouho pocit, že se pořád musí osvědčovat, a to se odráží i v tom, jak působí. Časem z toho vzniká opravdová důvěryhodnost, je-li k sobě mírnější.
-Progrese | Saturn | Ascendent | Trigon | Klidné a důstojné vystupování se zpevňuje a lidé {1d} pozvolna víc věří. Čas přeje vážné roli, která se nemusí nikomu dokazovat.
+Progrese | Saturn | Ascendent | Trigon | Klidné a důstojné vystupování se zpevňuje a lidé {1d} pozvolna víc věří. Čas přeje vážné roli, ve které nemusí nikomu nic dokazovat.
 Progrese | Saturn | Ascendent | Sextil | Spolehlivost se v těchto letech stává vizitkou. Pomůže držet slovo a nepřehlížet drobné závazky.
 Progrese | Saturn | Medium coeli | Konjunkce | Saturn blízko vrcholu horoskopu trvale staví povolání do popředí a autorita roste s časem. Odpovědnost je značná, proto je dobré nezapomenout na život mimo práci.
 Progrese | Saturn | Medium coeli | Opozice | Saturn stojí u nejnižšího bodu horoskopu a mnoho let drží pozornost u domova, rodičů a starých závazků. Základy se tu pomalu opravují, i když navenek není nic vidět.
@@ -149,10 +149,10 @@ Progrese | Saturn | Medium coeli | Trigon | Postavení v práci se upevňuje pom
 Progrese | Saturn | Medium coeli | Sextil | Rozumný postup v zaměstnání se tu dá připravit bez spěchu. Pomáhá rada staršího kolegy a ochota převzít menší odpovědnost.
 
 # Progresivní Uran: za život jen několik málo stupňů, aspekt člověk obvykle přináší z narození a nese desítky let. Svoboda, změna, jinakost.
-Progrese | Uran | Slunce | Konjunkce | Potřeba jít vlastní cestou je dána už narozením a v desítkách let dál zesiluje. Není to jednorázový zvrat, spíš stálý tlak nenechat se svázat, který je dobré vést do tvůrčí práce.
+Progrese | Uran | Slunce | Konjunkce | Potřeba jít vlastní cestou je dána už od narození a během desítek let dál sílí. Není to jednorázový zvrat, spíš stálý tlak nenechat se svázat, který je dobré vést do tvůrčí práce.
 Progrese | Uran | Slunce | Opozice | Blízcí a okolnosti {1d} dlouhodobě připomínají, jak moc {1:mu|jí} záleží na nezávislosti. Vztahy potřebují volnost a předem domluvená pravidla.
-Progrese | Uran | Slunce | Kvadratura | Neklid se z tohoto vrozeného napětí neztrácí, jen pomalu mění sílu. Chuť vzbouřit se je dobré předem rozmyslet, aby změny neškodily víc, než pomohou.
-Progrese | Uran | Slunce | Trigon | Originalita, kterou má {1} od narození, se celá léta stává {1:jeho|její} přirozenou výhodou. Nové cesty {1:mu|jí} jdou snadno, jen je nesmí nechat bez dotažení.
+Progrese | Uran | Slunce | Kvadratura | Neklid se z tohoto vrozeného napětí neztrácí, jen pomalu mění sílu. Každou vzpouru je dobré předem rozmyslet, aby změny neškodily víc, než pomohou.
+Progrese | Uran | Slunce | Trigon | Originalita, kterou má {1} od narození, se celá léta stává {1:jeho|její} přirozenou výhodou. Nové cesty {1:mu|jí} jdou snadno, jen je musí dotahovat.
 Progrese | Uran | Slunce | Sextil | Svěží nápady a neobvyklé zájmy {1a} provázejí většinu života a sílí nenápadně. Užitek přinesou, když jim dá konkrétní podobu.
 Progrese | Uran | Měsíc | Konjunkce | Citový neklid a potřeba prostoru patří k {1d} odmala a v této fázi dál rostou. Stálost domova tu nestojí na zvyku, ale na svobodné dohodě.
 Progrese | Uran | Měsíc | Opozice | Touha po bezpečí a volnost blízkých se roky přetahují. Zázemí pomáhá, když v něm každý má svůj prostor a změny se ohlašují předem.
@@ -164,7 +164,7 @@ Progrese | Uran | Merkur | Opozice | Názory okolí {1a} dlouhodobě provokují 
 Progrese | Uran | Merkur | Kvadratura | Myšlenky přeskakují a nervy jsou napjaté, a tento sklon je dlouhodobý. Pomáhá věnovat se jedné věci a dopřát hlavě ticho.
 Progrese | Uran | Merkur | Trigon | Rychlé chápání a smysl pro techniku zůstávají celý dlouhý úsek života přirozenou silou. Přeje to neotřelým oborům a vynalézavému psaní.
 Progrese | Uran | Merkur | Sextil | Nové nástroje, jazyky nebo myšlenky se {1d} léta dobře učí. Nejvíc přinesou, když je předá dál.
-Progrese | Uran | Venuše | Konjunkce | Touha po svobodě v lásce pochází z narození a léty neslábne. Vztahy potřebují volnost a něco živého, jinak se v {1l} probudí neklid.
+Progrese | Uran | Venuše | Konjunkce | Touha po svobodě v lásce je vrozená a léty neslábne. Vztahy potřebují volnost a něco živého, jinak se v {1l} probudí neklid.
 Progrese | Uran | Venuše | Opozice | Partneři a přátelé dlouho přinášejí vzrušení i nejistotu. Stojí za to vyjasnit si, kolik blízkosti a kolik volnosti {1} opravdu chce.
 Progrese | Uran | Venuše | Kvadratura | Sklon utíkat, když se blízkost zdá příliš těsná, zůstává dlouho živý. Má smysl dávat najevo potřeby dřív, než je řekne náhlý odchod.
 Progrese | Uran | Venuše | Trigon | Osobité kouzlo a smysl pro neobvyklou krásu {1a} provázejí většinu života. Těží z toho přátelství, umění i vztahy, které nesvazují.
@@ -174,9 +174,9 @@ Progrese | Uran | Mars | Opozice | Střety s lidmi, kteří jednají rázně, se
 Progrese | Uran | Mars | Kvadratura | Napětí se hromadí a uvolňuje náhle, a to je rys, který z života nezmizí. Dobře pomáhá pohyb a rozvaha před každým prudkým rozhodnutím.
 Progrese | Uran | Mars | Trigon | Odvaha a vynalézavost se desítky let doplňují. V krizi {1} jedná rychle a přesně, což je dar, který stojí za rozvíjení.
 Progrese | Uran | Mars | Sextil | Technické dovednosti a rychlé řešení problémů se {1d} po dlouhý čas hodí. Využije je, když si najde oblast, kde může zkoušet nové postupy.
-Progrese | Uran | Jupiter | Konjunkce | Víra v novou možnost a chuť riskovat se léta podporují. Velké vize stojí za to, když přijde i trpělivost je dokončit.
+Progrese | Uran | Jupiter | Konjunkce | Víra v novou možnost a chuť riskovat se léta podporují. Velké vize mají cenu, když k nim přibude i trpělivost je dokončit.
 Progrese | Uran | Jupiter | Opozice | Odvážné plány druhých {1a} dlouho lákají a zároveň znejišťují. Rozumné je ověřit, co je skutečná příležitost a co jen vzrušení.
-Progrese | Uran | Jupiter | Kvadratura | Neposedná touha po víc se v dlouhém čase nezklidňuje sama. Velkolepé nápady potřebují rozpočet a někoho, kdo je přivede na zem.
+Progrese | Uran | Jupiter | Kvadratura | Neposedná touha po něčem větším se v dlouhém čase nezklidňuje sama. Velkolepé nápady potřebují rozpočet a někoho, kdo je přivede na zem.
 Progrese | Uran | Jupiter | Trigon | Štěstí v neobvyklých věcech {1a} provází dlouhou část života. Daří se v cizině, v nových oborech a s odvážnými myšlenkami.
 Progrese | Uran | Jupiter | Sextil | Nové kontakty a neotřelé nápady {1d} celá léta rozšiřují možnosti. Pomáhá je zkoušet v malém.
 Progrese | Uran | Saturn | Konjunkce | Staré jistoty a nové myšlenky spolu desetiletí zápasí uvnitř {1g}. Nejvíc získá, když dokáže měnit věci bez bourání základů.
@@ -196,7 +196,7 @@ Progrese | Uran | Neptun | Trigon | Jde o generační souzvuk, který {1d} přin
 Progrese | Uran | Neptun | Sextil | Celá generace má tento aspekt od narození a čerpá z něj otevřenost k novým duchovním a technickým zájmům. Osobně se ukáže, jen pokud se ho {1} chopí.
 Progrese | Uran | Pluto | Konjunkce | Generační spojení {1a} přivádí k touze měnit věci od kořene. V osobním životě je dobré tento tah nevybíjet na všem najednou.
 Progrese | Uran | Pluto | Opozice | Velké proměny společnosti se dlouho dotýkají i {1g}, i když je nemůže {1:sám|sama} řídit. Osvědčuje se zaměřit sílu tam, kde změna opravdu záleží na {1:něm|ní}.
-Progrese | Uran | Pluto | Kvadratura | Tuto polohu sdílí celá generace vyrůstající v době bourání starých systémů. {1d} dává odolnost a potřebu být u toho, kdy se něco zásadně mění.
+Progrese | Uran | Pluto | Kvadratura | Tuto polohu sdílí celá generace vyrůstající v době bourání starých systémů. {1d} dává odolnost a potřebu být u toho, když se něco zásadně mění.
 Progrese | Uran | Pluto | Trigon | Generační aspekt nese tichou schopnost přijímat velké změny. {1} ho nese od narození a ozve se hlavně tehdy, když je třeba začít znovu.
 Progrese | Uran | Pluto | Sextil | Jde o aspekt celé generace, který usnadňuje hloubkovou obnovu a přijímání nových přístupů. Záleží na {1l}, zda ho využije ve vlastní oblasti.
 Progrese | Uran | Chiron | Konjunkce | Být jiný je tu dlouhá léta dar i citlivé místo. Odlišnost se nesmaže, ale může se pomalu proměnit v pohled, který pomáhá druhým.
@@ -209,11 +209,11 @@ Progrese | Uran | Severní uzel | Opozice | Uran stojí na Jižním uzlu a sklon
 Progrese | Uran | Severní uzel | Kvadratura | Uran stojí napříč osou uzlů a na životních křižovatkách se ozývá náhlý neklid. {1} se může cítit {1:nepochopený|nepochopená} a pomáhá {1:mu|jí} jít vlastním tempem.
 Progrese | Uran | Severní uzel | Trigon | Nezávislost a nové myšlenky přirozeně podporují životní cestu. Růst se tu otevírá přes vlastní, neotřelý přístup.
 Progrese | Uran | Severní uzel | Sextil | Nečekaná setkání nebo moderní nástroje {1d} v delším čase pomáhají postoupit. Stačí jim dát šanci.
-Progrese | Uran | Ascendent | Konjunkce | Uran u Ascendentu dává {1d} dlouhodobě nezaměnitelný, neobvyklý projev. Přináší to originalitu i neklid, který je třeba nosit s nadhledem.
+Progrese | Uran | Ascendent | Konjunkce | Uran u Ascendentu dává {1d} dlouhodobě nezaměnitelné, neobvyklé vystupování. Přináší to originalitu i neklid, který je třeba nosit s nadhledem.
 Progrese | Uran | Ascendent | Opozice | Uran stojí na Descendentu a vztahy jsou desítky let plné překvapení a potřeby volnosti. Partnerství vydrží, když {1} nečeká jen stálost a domluví si prostor.
-Progrese | Uran | Ascendent | Kvadratura | Tlak působit přijatelně se celá léta přetlačuje s potřebou být jiný. Časem tato napjatost dozrává v klidnější vlastní styl.
+Progrese | Uran | Ascendent | Kvadratura | Snaha zapadnout se celá léta přetlačuje s potřebou odlišit se. Časem tato napjatost dozrává v klidnější vlastní styl.
 Progrese | Uran | Ascendent | Trigon | Svěží a nezávislý dojem {1d} celé roky pomáhá mezi lidmi. Snáz se pohybuje v nových prostředích a neobvyklých skupinách.
-Progrese | Uran | Ascendent | Sextil | Odlišnost v projevu léta otevírá zajímavé kontakty. Má smysl nebát se říct, co si {1} myslí.
+Progrese | Uran | Ascendent | Sextil | Odlišnost ve vystupování léta otevírá zajímavé kontakty. Má smysl nebát se říct, co si {1} myslí.
 Progrese | Uran | Medium coeli | Konjunkce | Uran blízko vrcholu horoskopu dává dráze desítky let nezávislý ráz. Povolání se nehodí do škatulky a {1} potřebuje prostor pro vlastní přístup.
 Progrese | Uran | Medium coeli | Opozice | Uran stojí u nejnižšího bodu horoskopu a domov i rodinné kořeny zůstávají dlouhodobě neklidné. Stabilitu tu buduje vnitřní pocit, ne stejné místo.
 Progrese | Uran | Medium coeli | Kvadratura | Potřeba volnosti se dlouho střetává s pravidly a nadřízenými. Dráhu je dobré nepřerušovat vzdorem, když lze vyjednat vlastní prostor.
@@ -260,7 +260,7 @@ Progrese | Neptun | Uran | Konjunkce | Spojení patří celé generaci a nese se
 Progrese | Neptun | Uran | Opozice | Generační střet ideálů a pokroku {1a} provází spíš jako atmosféra doby. Rozumné je nenechat se strhnout každou novou vírou.
 Progrese | Neptun | Uran | Kvadratura | Tento aspekt patří generaci a léta se téměř nemění. {1} v sobě nese neklid doby, který zpochybňuje staré ideály.
 Progrese | Neptun | Uran | Trigon | Generační aspekt přináší {1d} snadný vztah k novým duchovním zájmům a myšlenkám. Přeje to tvořivé fantazii.
-Progrese | Neptun | Uran | Sextil | Celá generace si tento aspekt nese od narození a dává jí otevřenost novému pohledu na svět. Osobní užitek záleží na tom, co s ním {1} udělá.
+Progrese | Neptun | Uran | Sextil | Celá generace si tento aspekt nese od narození a čerpá z něj otevřenost novému pohledu na svět. Osobní užitek záleží na tom, co s ním {1} udělá.
 Progrese | Neptun | Neptun | Konjunkce | Neptun v progresi prakticky stojí a celý život zůstává blízko své polohy z narození, nic zvláštního to neznamená.
 Progrese | Neptun | Neptun | Opozice | Neptun za lidský život urazí v progresi nejvýš pár stupňů, opozice k sobě samému tedy nenastane.
 Progrese | Neptun | Neptun | Kvadratura | Pohyb Neptunu je příliš malý na to, aby se za život vzdálil o čtvrt zvěrokruhu od svého místa.
@@ -281,11 +281,11 @@ Progrese | Neptun | Severní uzel | Opozice | Neptun stojí na Jižním uzlu a �
 Progrese | Neptun | Severní uzel | Kvadratura | Neptun stojí napříč osou uzlů a {1} občas neví, zda jde správně, nebo se jen nechává unášet. Vnitřní kázeň se tu buduje celá léta.
 Progrese | Neptun | Severní uzel | Trigon | Intuice a citlivost v dlouhém čase podporují životní směr. {1} snáz najde cestu, když naslouchá tichu.
 Progrese | Neptun | Severní uzel | Sextil | Umění nebo služba druhým dávají {1d} dlouho podnět k růstu. Postačí věnovat se jim s otevřenou myslí.
-Progrese | Neptun | Ascendent | Konjunkce | Neptun u Ascendentu dává {1d} po velkou část života jemný, těžko uchopitelný projev. Lidé do {1:něj|ní} snadno promítají své představy, proto je dobré jasně říkat, co chce.
+Progrese | Neptun | Ascendent | Konjunkce | Neptun u Ascendentu dává {1d} po velkou část života jemné, těžko uchopitelné vystupování. Lidé do {1:něj|ní} snadno promítají své představy, proto je dobré jasně říkat, co chce.
 Progrese | Neptun | Ascendent | Opozice | Neptun stojí na Descendentu a partneři bývají dlouhodobě idealizovaní nebo nejasní. Vhodné je vidět partnera střízlivě a ověřovat dohody.
 Progrese | Neptun | Ascendent | Kvadratura | Vnitřní svět a to, jak {1} působí, spolu dlouho nesouhlasí. Jistotu dodává tvůrčí práce a jasné hranice.
 Progrese | Neptun | Ascendent | Trigon | Jemné kouzlo a vcítění se nenápadně stávají přirozenou výhodou. Lidé se s {1i} cítí klidně.
-Progrese | Neptun | Ascendent | Sextil | Citlivý projev postupně pomáhá navazovat tiché a hluboké kontakty. Stačí mu dát důvěru.
+Progrese | Neptun | Ascendent | Sextil | Citlivé vystupování postupně pomáhá navazovat tiché a hluboké kontakty. Stačí mu důvěřovat.
 Progrese | Neptun | Medium coeli | Konjunkce | Neptun blízko vrcholu horoskopu činí veřejnou roli po velkou část života nejasnou i inspirovanou. Přeje to umění a pomoci, v práci je ale nutné hlídat pověst a jasná zadání.
 Progrese | Neptun | Medium coeli | Opozice | Neptun stojí u nejnižšího bodu horoskopu a domov i rodinné kořeny mají léta tichý, nejasný ráz. Stojí za to hledat, kde {1} opravdu patří, a rodinné sliby ověřovat.
 Progrese | Neptun | Medium coeli | Kvadratura | {1} dlouho hledá, co vlastně chce dělat, a představy se s nároky práce rozcházejí. Má smysl dávat cílům konkrétní podobu.
@@ -297,12 +297,12 @@ Progrese | Pluto | Slunce | Konjunkce | Intenzita a soustředěná vůle jsou d�
 Progrese | Pluto | Slunce | Opozice | Do života {1g} se po většinu času vrací lidé se silným vlivem. Má smysl všímat si mocenských her a poznat, co z nich patří {1:jemu|jí}.
 Progrese | Pluto | Slunce | Kvadratura | Tlak na vlastní já se během života příliš nemění, jen sílí nebo slábne. Odolnost z něj plynoucí je cenná, jestliže nepřeroste v zatvrzelost nebo nátlak.
 Progrese | Pluto | Slunce | Trigon | Vnitřní síla a schopnost obnovy leží hluboko a jsou k dispozici po celá desetiletí. {1} zvládne těžké věci klidněji, než by {1:čekal|čekala}.
-Progrese | Pluto | Slunce | Sextil | Schopnost jít pod povrch se dá po celá desetiletí využívat v práci i v poznávání sebe. Pomáhá vzít si k tomu jednu oblast a jít v ní do důsledků.
+Progrese | Pluto | Slunce | Sextil | Schopnost jít pod povrch se dá po celá desetiletí využívat v práci i v poznávání sebe. Pomáhá vybrat si jednu oblast a jít v ní do důsledků.
 Progrese | Pluto | Měsíc | Konjunkce | Hluboké citové proudy patří k {1d} od začátku a pomalu sílí. Blízkost i vztah k matce nebo pečující osobě si žádají poctivý pohled.
 Progrese | Pluto | Měsíc | Opozice | Vztahy doma mají po většinu života velkou citovou sílu a boj o vliv se v nich snadno vrací. Hodí se nenechat nevyřčené věci doutnat.
 Progrese | Pluto | Měsíc | Kvadratura | Staré křivdy se mohou dlouho skrývat pod povrchem a ovlivňovat nálady. Rozumné je o nich mluvit a nenechat se jimi řídit.
 Progrese | Pluto | Měsíc | Trigon | Hloubka citů se léta stává oporou a {1} snese hodně. Těží z toho věrné vztahy a poctivá péče o rodinu.
-Progrese | Pluto | Měsíc | Sextil | Citové změny se dají provádět nenásilně a bez velkých dramat. Někdy postačí podívat se, co v rodině opravdu funguje.
+Progrese | Pluto | Měsíc | Sextil | Citové změny se tu dají zvládat nenásilně a bez velkých dramat. Někdy postačí podívat se, co v rodině opravdu funguje.
 Progrese | Pluto | Merkur | Konjunkce | Pronikavost mysli je vrozená a s léty roste. {1} se nespokojí s povrchem, jen je dobré netlačit názory na druhé.
 Progrese | Pluto | Merkur | Opozice | Silné názory okolí celá léta vyzývají ke střetům v rozhovoru. Osvědčuje se nenechat se vtáhnout do přesvědčování za každou cenu.
 Progrese | Pluto | Merkur | Kvadratura | Myšlenky se zakusují do věcí a těžko je pustí, a to platí desítky let. Lepší je občas si ověřit, zda skryté úmysly nevidí {1} i tam, kde nejsou.
@@ -334,7 +334,7 @@ Progrese | Pluto | Uran | Kvadratura | Generace s tímto aspektem vyrůstá v do
 Progrese | Pluto | Uran | Trigon | Generační souzvuk usnadňuje přijímat velké společenské změny. {1} ho nese od narození a v progresi se téměř nemění.
 Progrese | Pluto | Uran | Sextil | Aspekt patří celé generaci a přináší schopnost využít dobu velkých změn. Záleží na tom, kde ji {1} uplatní.
 Progrese | Pluto | Neptun | Konjunkce | Toto spojení se vrací jednou za staletí a sdílí ho celá generace. Tvoří pozadí doby a osobně se projevuje bohatým vnitřním životem a silnými city, které {1} navenek příliš neukazuje.
-Progrese | Pluto | Neptun | Opozice | Tuto polohu nese celá generace a život {1g} ji téměř nezmění. Vnímá ji hlavně jako neklid kolem víry a představ o světě.
+Progrese | Pluto | Neptun | Opozice | Tuto polohu nese celá generace a během života se téměř nemění. {1} ji vnímá hlavně jako neklid kolem víry a představ o světě.
 Progrese | Pluto | Neptun | Kvadratura | Jde o generační napětí, kde se ideály doby střetávají s jejími proměnami. V osobním životě se přetahuje soucit s potřebou kontroly, proto se vyplatí nechtít od blízkých dokonalost.
 Progrese | Pluto | Neptun | Trigon | Generační aspekt přináší tiché pochopení proměn a hloubky. Osobně pomáhá spojovat ideály s blízkým vztahem a výrazněji se ozve, když ho jiná místa horoskopu oživí.
 Progrese | Pluto | Neptun | Sextil | Dlouhý sextil provází generace od poloviny dvacátého století a nemá v jednom životě jasný začátek ani konec. Tvoří pozadí života a osobně prohlubuje vztahy, které stojí na společných hodnotách.
@@ -353,11 +353,11 @@ Progrese | Pluto | Severní uzel | Opozice | Pluto stojí na Jižním uzlu a sta
 Progrese | Pluto | Severní uzel | Kvadratura | Pluto stojí napříč osou uzlů a {1} se učí rozlišovat, co {1:ho|ji} skutečně posouvá. Vědomé přemýšlení o moci a zranitelnosti tu trvá léta.
 Progrese | Pluto | Severní uzel | Trigon | Hloubka a poctivost dlouhodobě podporují životní cestu. Růst přichází, když se {1} nebojí pravdy o sobě.
 Progrese | Pluto | Severní uzel | Sextil | Odvaha podívat se pod povrch {1d} celá léta pomáhá pokročit. Stačí nevyhýbat se tomu, co je nutné změnit.
-Progrese | Pluto | Ascendent | Konjunkce | Pluto u Ascendentu dává {1d} po dlouhá léta silný, pronikavý projev. Vyvolává výrazné reakce, a proto stojí za to tuto sílu vést s mírou.
+Progrese | Pluto | Ascendent | Konjunkce | Pluto u Ascendentu dává {1d} po dlouhá léta silné, pronikavé vystupování. Vyvolává výrazné reakce, a proto stojí za to tuto sílu vést s mírou.
 Progrese | Pluto | Ascendent | Opozice | Pluto stojí na Descendentu a vztahy bývají hluboké a napjaté. Časem pomáhá vybírat si partnery, kde se moc dělí rovnoměrně.
 Progrese | Pluto | Ascendent | Kvadratura | Vnitřní síla a vystupování jsou dlouho v napětí a {1} se dostává do střetů o vliv. Pomáhá zodpovědně se vyrovnat s vlastním tlakem.
 Progrese | Pluto | Ascendent | Trigon | Pevná přítomnost a tichá autorita se pomalu stávají přirozeností. Hodí se to do situací, kde je třeba zachovat klid.
-Progrese | Pluto | Ascendent | Sextil | Soustředěný projev {1d} otevírá dveře tam, kde je třeba důvěry. Užitečné je nepřehánět a nechat ostatní přiblížit se.
+Progrese | Pluto | Ascendent | Sextil | Soustředěné vystupování {1d} otevírá dveře tam, kde je třeba důvěry. Užitečné je nepřehánět a nechat ostatní přiblížit se.
 Progrese | Pluto | Medium coeli | Konjunkce | Pluto blízko vrcholu horoskopu dává povolání na dlouhá léta hloubku a vážnost. {1} bývá vidět a {1:jeho|její} vliv roste, proto se vyplatí zacházet s ním poctivě.
 Progrese | Pluto | Medium coeli | Opozice | Pluto stojí u nejnižšího bodu horoskopu a staré rodinné příběhy dlouhodobě pracují v pozadí. Prospívá je poznat a nenechat je řídit současnost.
 Progrese | Pluto | Medium coeli | Kvadratura | {1} potřebuje být {1:sám|sama} sebou a tato potřeba se dlouho střetává s nároky povolání. Dráha bývá plná zlomů a pomáhá vědomě měnit to, co už nefunguje.
@@ -396,13 +396,13 @@ Progrese | Chiron | Jupiter | Kvadratura | Nadšení střídá zklamání a opak
 Progrese | Chiron | Jupiter | Trigon | Moudrost vyrůstá ze zkušenosti a léta pomáhá při výuce nebo radě. Přeje to cestám za poznáním.
 Progrese | Chiron | Jupiter | Sextil | Filozofie, víra nebo vzdělání {1d} v delším čase nabízejí útěchu. Pomáhá s někým si o tom popovídat.
 Progrese | Chiron | Saturn | Konjunkce | Citlivé místo a odpovědnost se léta setkávají a staré pocity nedostatečnosti se znovu prověřují. Prospívá nebýt na sebe přísnější, než je nutné.
-Progrese | Chiron | Saturn | Opozice | Autority a povinnosti dlouho připomínají, kde {1} cítí nejistotu. Lépe je pomoc přijmout, než všechno nést {1:sám|sama}.
+Progrese | Chiron | Saturn | Opozice | Autority a povinnosti dlouho připomínají, kde {1} cítí nejistotu. Lepší je pomoc přijmout, než všechno nést {1:sám|sama}.
 Progrese | Chiron | Saturn | Kvadratura | {1} snadno cítí, že základ pod {1:ním|ní} není pevný, a léta se tak přepíná. Má smysl uznat vlastní meze a svěřit práci i druhým.
 Progrese | Chiron | Saturn | Trigon | Klidná, prověřená zkušenost roste a {1} umí vést s pochopením. Hodí se to pro dlouhodobou práci s lidmi.
 Progrese | Chiron | Saturn | Sextil | Pevný řád {1d} pomáhá se starými nejistotami. Stačí pravidelně dělat věci, na které se dá spolehnout.
 Progrese | Chiron | Uran | Konjunkce | Odlišnost a stará zranitelnost se dlouhodobě setkávají. {1} se učí být {1:svobodný|svobodná}, aniž by si kvůli tomu {1:připadal sám|připadala sama}.
 Progrese | Chiron | Uran | Opozice | Odmítnutí nebo nepochopení okolí dlouho nutí {1a} hájit svůj způsob života. Užitečné je nevzdávat se sebe a přitom nebojovat se všemi.
-Progrese | Chiron | Uran | Kvadratura | Touha vymanit se a strach z odmítnutí se navzájem dráždí celé roky. Nejlépe funguje všímat si, kdy se který pohyb ozývá.
+Progrese | Chiron | Uran | Kvadratura | Touha vymanit se a strach z odmítnutí se navzájem dráždí celé roky. Nejvíc pomáhá všímat si, kdy se ozývá které z nich.
 Progrese | Chiron | Uran | Trigon | Originalita a zranitelnost se léta doplňují. {1} umí pomoci těm, kdo se od ostatních liší.
 Progrese | Chiron | Uran | Sextil | Skupina podobně smýšlejících lidí může být dlouhodobou oporou. Někdy postačí ji najít a zapojit se.
 Progrese | Chiron | Neptun | Konjunkce | Cizí bolest se {1g} dotýká stále hlouběji. Rozumné je pečovat o hranice, aby soucit neodnesl {1:jeho|její} síly.
@@ -427,7 +427,7 @@ Progrese | Chiron | Severní uzel | Trigon | Zkušenost se slabým místem tiše
 Progrese | Chiron | Severní uzel | Sextil | Pomoc druhým nebo vlastní léčení dávají v delším čase příležitost posunout se. Stačí se nabídnout.
 Progrese | Chiron | Ascendent | Konjunkce | Chiron u Ascendentu dává dlouhodobě najevo citlivost, kterou {1} nemůže skrývat. Otevřenost tu pomáhá víc než snaha vypadat bez chyby.
 Progrese | Chiron | Ascendent | Opozice | Chiron stojí na Descendentu a vztahy jsou místem, kde {1a} dlouho bolí pocit nepřijetí. Užitečné je hledat partnery, s nimiž lze mluvit o slabostech.
-Progrese | Chiron | Ascendent | Kvadratura | To, co {1} prožívá uvnitř, a dojem, který vyvolává, se léta míjejí. Ulevuje přijmout, že {1:ho|ji} lidé nikdy neuvidí úplně přesně.
+Progrese | Chiron | Ascendent | Kvadratura | To, co {1} prožívá uvnitř, a dojem, který vyvolává, se léta míjejí. Uleví {1:mu|jí}, když přijme, že {1:ho|ji} lidé nikdy neuvidí úplně přesně.
 Progrese | Chiron | Ascendent | Trigon | Lidé vnímají, že {1} rozumí těžkostem, a léta {1:mu|jí} důvěřují. Hodí se to pro práci, kde je potřeba vlídný přístup.
 Progrese | Chiron | Ascendent | Sextil | Skromné vystupování a pochopení pro druhé přivádějí {1d} užitečné kontakty. Postačí být {1:sám|sama} sebou.
 Progrese | Chiron | Medium coeli | Konjunkce | Chiron blízko vrcholu horoskopu činí z citlivého místa postupně součást veřejné role. {1} vede tam, kde {1:sám něco prožil|sama něco prožila}.
@@ -437,10 +437,10 @@ Progrese | Chiron | Medium coeli | Trigon | Pomáhající nebo učitelská role 
 Progrese | Chiron | Medium coeli | Sextil | V práci se dlouhodobě otevírá možnost využít to, co {1} {1:sám prožil|sama prožila}. Stačí to nabídnout.
 
 # Progresivní Severní uzel: posouvá se zpět a jen o několik stupňů za život. Směr růstu, Jižní uzel naproti ukazuje zvyklé. Směr růstu vychází z radixových významů uzlu.
-Progrese | Severní uzel | Slunce | Konjunkce | Vlastní osobnost se dlouho kryje se směrem růstu a {1} je vidět tam, kde má jít. Vyžaduje to odvahu vystoupit z davu.
+Progrese | Severní uzel | Slunce | Konjunkce | Vlastní osobnost se dlouho kryje se směrem růstu a {1} je vidět tam, kam má jít. Vyžaduje to odvahu vystoupit z davu.
 Progrese | Severní uzel | Slunce | Opozice | Jižní uzel leží na Slunci, takže to, v čem je {1} {1:silný|silná}, je zároveň to, na čem může ustrnout. Prospívá hledat nový směr, ne jen opakovat úspěch.
 Progrese | Severní uzel | Slunce | Kvadratura | Vůle a životní směr se pomalu prověřují a {1} musí měnit to, kým je, spolu s tím, kam míří. Rozhodování na křižovatkách tu trvá léta.
-Progrese | Severní uzel | Slunce | Trigon | Přirozená povaha léta pomáhá v růstu. {1d} jde {1:jeho|její} cesta lehčeji, když za ni přebírá vědomou odpovědnost.
+Progrese | Severní uzel | Slunce | Trigon | Přirozená povaha léta pomáhá v růstu. {1} jde svou cestou lehčeji, když za ni přebírá vědomou odpovědnost.
 Progrese | Severní uzel | Slunce | Sextil | Vlastní schopnosti se v těchto letech dobře hodí k dalšímu kroku. Někdy postačí je nabídnout tam, kam {1a} život vede.
 Progrese | Severní uzel | Měsíc | Konjunkce | City a instinkt se celá léta shodují se směrem růstu. Rodina a blízcí {1a} posouvají, jen je třeba rozlišit vnitřní hlas od nálady.
 Progrese | Severní uzel | Měsíc | Opozice | Jižní uzel leží na Měsíci a vracet se do známých citových vzorců je snadné. Stojí za to vykročit za hranice zvyklého bezpečí.
@@ -448,7 +448,7 @@ Progrese | Severní uzel | Měsíc | Kvadratura | Citové potřeby a životní s
 Progrese | Severní uzel | Měsíc | Trigon | Domov a citová jistota dlouhodobě nesou životní směr. Růst nenarušuje klid, spíš se o něj opírá.
 Progrese | Severní uzel | Měsíc | Sextil | Podpora blízkých dává v delším čase možnost posunout se dál. Často stačí říct jim, co {1} plánuje.
 Progrese | Severní uzel | Merkur | Konjunkce | Učení, psaní a komunikace jsou celá léta na cestě růstu. {1d} pomáhají rozhovory a sdílení poznání.
-Progrese | Severní uzel | Merkur | Opozice | Jižní uzel leží na Merkuru a zaběhlý způsob myšlení lze těžko opustit. Má smysl vyzkoušet, co se stane, když {1} neví předem.
+Progrese | Severní uzel | Merkur | Opozice | Jižní uzel leží na Merkuru a zaběhlý způsob myšlení lze těžko opustit. Má smysl vyzkoušet, co se stane, když {1} nezná odpověď předem.
 Progrese | Severní uzel | Merkur | Kvadratura | Známé názory jdou dlouho proti směru, kterým se {1} má ubírat. Každé větší rozhodnutí je zkouškou, zda je přehodnotí.
 Progrese | Severní uzel | Merkur | Trigon | Slovo a znalosti přirozeně podporují další krok. Prospívá je používat v tom, co {1a} opravdu posouvá.
 Progrese | Severní uzel | Merkur | Sextil | Kurz, kniha nebo setkání mohou v dlouhém čase dát jasnější směr. Dobrým začátkem je dát najevo, co {1a} zajímá.
@@ -467,7 +467,7 @@ Progrese | Severní uzel | Jupiter | Opozice | Jižní uzel leží na Jupiteru a
 Progrese | Severní uzel | Jupiter | Kvadratura | Vlastní názory a životní směr se dlouho rozcházejí. Stojí za to nedělat ukvapené závěry a jít proti proudu jen tam, kde to má smysl.
 Progrese | Severní uzel | Jupiter | Trigon | Přirozený optimismus nese životní cestu a podporuje každý další krok. Daří se studiu a cestám.
 Progrese | Severní uzel | Jupiter | Sextil | Vzdělání a kontakty {1d} dlouhodobě pomáhají v dalším kroku. Pomůže přijmout, co se nabízí.
-Progrese | Severní uzel | Saturn | Konjunkce | Odpovědnost a zrání leží po celý dlouhý čas na cestě růstu a tlak se dotýká pocitu bezpečí mezi blízkými. Vývoj je pomalý a pomáhá dělit se o závazky.
+Progrese | Severní uzel | Saturn | Konjunkce | Odpovědnost a zrání leží dlouhá léta na cestě růstu a tlak se dotýká pocitu bezpečí mezi blízkými. Vývoj je pomalý a pomáhá dělit se o závazky.
 Progrese | Severní uzel | Saturn | Opozice | Jižní uzel leží na Saturnu a zvyk nést všechno {1:sám|sama} je u {1g} hluboký. Pomáhá vědomě uvolnit přísnost a dovolit si riziko.
 Progrese | Severní uzel | Saturn | Kvadratura | Opatrnost a směr růstu se dlouho střetávají. Na rozcestích je třeba rozhodnout, zda dá {1} přednost jistotě.
 Progrese | Severní uzel | Saturn | Trigon | Kázeň a smysl pro řád tiše podporují životní cestu. Vytrvalost tu nese větší užitek než rychlost.
@@ -478,7 +478,7 @@ Progrese | Severní uzel | Uran | Kvadratura | Potřeba volnosti se dlouho stře
 Progrese | Severní uzel | Uran | Trigon | Nezávislost {1d} pomáhá v dalším růstu. Neobvyklé cesty se v dlouhém čase osvědčují.
 Progrese | Severní uzel | Uran | Sextil | Nové myšlenky a nezvyklí lidé dávají {1d} v delším čase podnět k pokroku. Někdy postačí je přijmout.
 Progrese | Severní uzel | Neptun | Konjunkce | Soucit a intuice dlouho vedou životní cestu. Růst přichází přes důvěru a službu něčemu většímu, s pevnou půdou pod nohama.
-Progrese | Severní uzel | Neptun | Opozice | Jižní uzel leží na Neptunu a únik do snění je známou cestou. Vyplácí se vracet ke konkrétním krokům.
+Progrese | Severní uzel | Neptun | Opozice | Jižní uzel leží na Neptunu a únik do snění je známou cestou. Pomáhá vracet se ke konkrétním krokům.
 Progrese | Severní uzel | Neptun | Kvadratura | Sny a životní směr se dlouho kříží a {1} neví, zda jde správně. Pomáhá vnitřní kázeň a klidné ověřování.
 Progrese | Severní uzel | Neptun | Trigon | Inspirace tiše podporuje životní cestu. {1} nachází směr spíš nasloucháním než plánem.
 Progrese | Severní uzel | Neptun | Sextil | Umění nebo pomoc druhým {1d} v delším čase nabízejí další krok. Někdy stačí důvěřovat tomu, co {1:ho|ji} tiše přitahuje.
@@ -499,7 +499,7 @@ Progrese | Severní uzel | Severní uzel | Trigon | Na vzdálenost trigonu by se
 Progrese | Severní uzel | Severní uzel | Sextil | Uzel v progresi ustoupí za život jen nepatrně, a tak sextil k vlastní poloze nenastane.
 Progrese | Severní uzel | Ascendent | Konjunkce | Severní uzel stojí na Ascendentu a cesta růstu se dlouhodobě kryje s tím, jak {1} vstupuje do života. Čím víc je {1:sám|sama} sebou, tím snáz {1:ho|ji} lidé přijímají.
 Progrese | Severní uzel | Ascendent | Opozice | Severní uzel stojí na Descendentu a Jižní uzel na Ascendentu, takže růst vede přes vztahy a spolupráci. Časem je dobré nespoléhat jen na sebe.
-Progrese | Severní uzel | Ascendent | Kvadratura | Osa uzlů kříží osu vztahů a {1} léta poznává, proč {1:jeho|její} projev neladí se směrem. Napětí {1:ho|ji} učí znát sebe {1:sama|samu}.
+Progrese | Severní uzel | Ascendent | Kvadratura | Osa uzlů kříží osu vztahů a {1} léta poznává, proč {1:jeho|její} vystupování neladí se směrem růstu. Napětí {1:ho|ji} učí znát sebe {1:sama|samu}.
 Progrese | Severní uzel | Ascendent | Trigon | Vystupování a kontakty přirozeně podporují životní cestu. {1} nemusí nic předstírat.
 Progrese | Severní uzel | Ascendent | Sextil | Otevřený vstup mezi lidi {1d} v delším čase přinese další krok. Postačí být vidět.
 Progrese | Severní uzel | Medium coeli | Konjunkce | Severní uzel stojí na vrcholu horoskopu a růst léta vede přes povolání a veřejnou roli. {1} dorůstá do odpovědnosti a vlastní autority.

@@ -30,7 +30,7 @@ Progrese | Jupiter | Mars | Opozice | Odvaha se v tomto dlouhém období snadno 
 Progrese | Jupiter | Mars | Kvadratura | Nasazení trvale předbíhá možnosti a odpočívat jde ztěžka. Dobré je hlídat síly, nepouštět se do zbytečných rizik a rozložit práci na delší čas.
 Progrese | Jupiter | Mars | Trigon | Síla a odvaha jdou řadu let správným směrem, takže se daří větším úkolům, sportu i podnikání. Příznivý proud je ale potřeba využít prací.
 Progrese | Jupiter | Mars | Sextil | Energie se dobře hodí k projektům, které se dají budovat postupně. Každý krok, který {1} udělá {1:sám|sama}, tu přináší víc, než se zdá.
-Progrese | Jupiter | Jupiter | Konjunkce | Jupiter v prvních letech života stojí skoro na svém místě z narození, zvláštní událost to není.
+Progrese | Jupiter | Jupiter | Konjunkce | Jupiter se v progresi posouvá tak pomalu, že první léta života, někdy i déle, stojí skoro na svém místě z narození. Zvláštní událost to není.
 Progrese | Jupiter | Jupiter | Opozice | Naproti svému místu by se Jupiter dostal až po cestě přes půl zvěrokruhu, a to se za život nestane.
 Progrese | Jupiter | Jupiter | Kvadratura | Čtvrtinu zvěrokruhu Jupiter v progresi za lidský život neurazí, takže tato poloha nenastává.
 Progrese | Jupiter | Jupiter | Trigon | Třetina zvěrokruhu je pro progresivní Jupiter příliš daleko, za život k tomuto aspektu nedojde.
@@ -47,7 +47,7 @@ Progrese | Jupiter | Uran | Trigon | Nové zájmy, přátelé a nečekané možn
 Progrese | Jupiter | Uran | Sextil | Reforma, nový obor nebo spolek dávají {1d} v těchto letech užitečnou volnost. Přínos přijde, když neznámé opravdu vyzkouší.
 Progrese | Jupiter | Neptun | Konjunkce | Víra a soucit pomalu rostou a {1a} táhnou k hudbě, duchovnu nebo pomoci druhým. Spolu s tím roste i důvěřivost, kterou je dobré hlídat v penězích a slibech.
 Progrese | Jupiter | Neptun | Opozice | Lidé s velkými ideály {1a} dlouho přitahují a ne každý z nich je spolehlivý. Stojí za to ověřovat, komu a na co dává důvěru.
-Progrese | Jupiter | Neptun | Kvadratura | Snadno se tu věří něčemu, co neexistuje, a po nadšení přichází rozčarování. Tento sklon se vrací celé roky a nejlépe proti němu pomáhají fakta a trocha odstupu.
+Progrese | Jupiter | Neptun | Kvadratura | Snadno se tu věří tomu, co není pravda, a po nadšení přichází rozčarování. Tento sklon se vrací celé roky a nejlépe proti němu pomáhají fakta a trocha odstupu.
 Progrese | Jupiter | Neptun | Trigon | Inspirace a vnitřní klid se tiše prohlubují. Dlouhé období přeje umění, víře a nezištné pomoci.
 Progrese | Jupiter | Neptun | Sextil | Dobrovolná práce, umění nebo duchovní zájem nabízejí během těchto let příjemný přesah. Stačí jim dát pravidelné místo v kalendáři.
 Progrese | Jupiter | Pluto | Konjunkce | Přesvědčení a ambice pomalu sílí a {1} si troufá na velké cíle. Zkouškou je nezaměňovat vliv s vlastní hodnotou.
@@ -285,7 +285,7 @@ Progrese | Neptun | Ascendent | Konjunkce | Neptun u Ascendentu dává {1d} po v
 Progrese | Neptun | Ascendent | Opozice | Neptun stojí na Descendentu a partneři bývají dlouhodobě idealizovaní nebo nejasní. Vhodné je vidět partnera střízlivě a ověřovat dohody.
 Progrese | Neptun | Ascendent | Kvadratura | Vnitřní svět a to, jak {1} působí, spolu dlouho nesouhlasí. Jistotu dodává tvůrčí práce a jasné hranice.
 Progrese | Neptun | Ascendent | Trigon | Jemné kouzlo a vcítění se nenápadně stávají přirozenou výhodou. Lidé se s {1i} cítí klidně.
-Progrese | Neptun | Ascendent | Sextil | Citlivé vystupování postupně pomáhá navazovat tiché a hluboké kontakty. Stačí mu důvěřovat.
+Progrese | Neptun | Ascendent | Sextil | Citlivé vystupování postupně pomáhá navazovat tiché a hluboké kontakty. Stačí té citlivosti důvěřovat.
 Progrese | Neptun | Medium coeli | Konjunkce | Neptun blízko vrcholu horoskopu činí veřejnou roli po velkou část života nejasnou i inspirovanou. Přeje to umění a pomoci, v práci je ale nutné hlídat pověst a jasná zadání.
 Progrese | Neptun | Medium coeli | Opozice | Neptun stojí u nejnižšího bodu horoskopu a domov i rodinné kořeny mají léta tichý, nejasný ráz. Stojí za to hledat, kde {1} opravdu patří, a rodinné sliby ověřovat.
 Progrese | Neptun | Medium coeli | Kvadratura | {1} dlouho hledá, co vlastně chce dělat, a představy se s nároky práce rozcházejí. Má smysl dávat cílům konkrétní podobu.

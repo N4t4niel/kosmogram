@@ -101,7 +101,7 @@ Merkur | Chiron | Trigon | {1} přirozeně chápe, jak mluvit s tím, kdo se tr�
 Merkur | Chiron | Sextil | Vlastní zkušenost s nejistotou v učení nebo v řeči může {1} využít k výuce a poradenství. Cesta se otevírá tehdy, když se odhodlá o ní mluvit.
 Merkur | Chiron | Kvinkunx | {1} vnímá v každé situaci několik rovin a stále hledá, jak být druhým {1:užitečný|užitečná}. Přitom se učí, že nemusí mít vždy dokonalou odpověď.
 Merkur | Chiron | Polosextil | Pocit, že světu plně nerozumí, žene {1a} k hledání hlubších příčin. Dochází tak k neobvyklým závěrům, které umí rychle shrnout a prakticky použít.
-Merkur | Chiron | Polokvadrát | {1} myslí a mluví smělě a umí strhnout ostatní, někdy ale nečekaně míjí podstatu věci, aniž si toho všimne.
+Merkur | Chiron | Polokvadrát | {1} myslí a mluví smělě a umí strhnout ostatní, někdy ale zvláštní oklikou míjí podstatu věci, aniž si toho všimne.
 Merkur | Chiron | Seskvikvadrát | Neklidná mysl se potřebuje stále něčím zaměstnávat a pocit nepochopení vede {1a} k tomu, aby si {1:našel|našla} vlastní způsob vyjádření.
 
 Merkur | Severní uzel | Konjunkce | Myšlení, učení a komunikace tu leží přímo na cestě růstu. {1d} pomáhá psát, vyučovat a sdílet poznání a životem {1:ho|ji} vedou setkání a rozhovory. Slovo je ale prostředek, ne cíl, a stejně důležité je i naslouchání.

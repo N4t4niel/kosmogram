@@ -8,13 +8,13 @@
 # Progresivní Slunce: asi dva roky, směr života a vědomí sebe sama.
 Progrese | Slunce | Slunce | Konjunkce | Úplný začátek života, Slunce ještě stojí na svém místě z narození. Povaha, se kterou {1} {1:přišel|přišla}, se teprve začíná rozvíjet a všechno důležité má před sebou.
 Progrese | Slunce | Slunce | Kvadratura | Přelom kolem devadesátého roku života, kdy je dobré šetřit síly a nepřeceňovat je. Rozumné je přijmout pomalejší tempo a nechat si v běžných věcech pomoci, aniž by {1} {1:ztrácel|ztrácela} pocit vlastní důstojnosti.
-Progrese | Slunce | Slunce | Sextil | Asi šedesátý rok života přináší nové síly a chuť vzít na sebe další úkol. Zkušenosti teď získávají váhu a {1} může získat uznání nebo roli, ve které ji předá dál, pokud po ní {1:sám|sama} sáhne.
+Progrese | Slunce | Slunce | Sextil | Asi šedesátý rok života přináší nové síly a chuť vzít na sebe další úkol. Zkušenosti teď začínají mít váhu a {1} může získat uznání nebo roli, ve které je předá dál, pokud po ní {1:sám|sama} sáhne.
 Progrese | Slunce | Měsíc | Konjunkce | Dva roky, kdy se vědomé cíle spojují s city a {1} lépe ví, co ke spokojenosti potřebuje. Často začíná nový úsek v rodině, v bydlení nebo ve vztahu k ženským postavám v životě a rozhodnutí z této doby mívají dlouhý dosah.
 Progrese | Slunce | Měsíc | Opozice | To, co {1} chce, se v těchto letech rozchází s tím, co cítí, a napětí se nejvíc ukazuje v blízkých vztazích a doma. Je to doba vyvrcholení, kdy dozrává něco, co se táhne léta. Vyplatí se dopřát si klid a neodkládat rozhovory, které už čekají.
 Progrese | Slunce | Měsíc | Kvadratura | Pracovní cíle a osobní plány narážejí na potřeby domova a na vlastní rozkolísané nálady. Rozumné je dbát na odpočinek a s velkými změnami bydlení nebo prostředí nespěchat, dokud se {1} nezklidní.
 Progrese | Slunce | Měsíc | Trigon | Vůle a city táhnou za jeden provaz a {1d} se v těchto letech žije v souladu se sebou. Dobře se daří v rodině i mezi lidmi a změny bydlení nebo prostředí obvykle dopadnou dobře.
 Progrese | Slunce | Měsíc | Sextil | Každodenní podmínky se dají zlepšit, doma i mezi lidmi. Období je mírně příznivé pro rodinné záležitosti a věci srdce, ale první krok musí udělat {1} {1:sám|sama}.
-Progrese | Slunce | Merkur | Konjunkce | Myšlení se v těchto letech rozjíždí a {1} potřebuje se učit, psát, jednat a říkat věci nahlas. Roky jsou příznivé pro studium, smlouvy a cesty, jen je lepší nepřetěžovat hlavu a dopřát nervům klid.
+Progrese | Slunce | Merkur | Konjunkce | Myšlení se v těchto letech rozjíždí a {1} se potřebuje učit, psát, jednat a říkat věci nahlas. Roky jsou příznivé pro studium, smlouvy a cesty, jen je lepší nepřetěžovat hlavu a dopřát nervům klid.
 Progrese | Slunce | Merkur | Opozice | Slunce se od Merkuru tak daleko nedostane, takže tato poloha za život prakticky nenastává. Obecně by znamenala spor mezi vlastním přesvědčením a slovy druhých.
 Progrese | Slunce | Merkur | Kvadratura | Pozdější roky života, kdy vlastní názory narážejí na odlišné pohledy okolí a v dohodách a písemnostech se snáze objeví zádrhel. Prospívá si věci ověřovat, nepodepisovat ve spěchu a nebrat kritiku jako útok.
 Progrese | Slunce | Merkur | Trigon | Tato poloha nastává jen zřídka, až ve vysokém věku. Pokud přijde, přináší jasnou mysl a radost z rozhovoru, čtení a předávání zkušeností.
@@ -312,7 +312,7 @@ Progrese | Mars | Venuše | Sextil | {1} může udělat první krok ve vztahu ne
 Progrese | Mars | Mars | Konjunkce | Mars je ještě na svém místě z narození nebo se na něj vrací po zpětném pohybu, a to trvá mnoho let. Činnost je soustředěná, někdy zpomalená, a {1} se učí jednat vědomě.
 Progrese | Mars | Mars | Sextil | Vzácná poloha, která nastává až ve vyšším věku a u rychlého Marsu. {1} získává novou chuť do činnosti a umí energii dobře rozložit.
 Progrese | Mars | Jupiter | Konjunkce | Energie a optimismus se spojují, {1} se pouští do velkých věcí a věří, že je zvládne. Je to dobrá doba pro expanzi a sport, jen je rozumné nepřecenit se a nespěchat.
-Progrese | Mars | Jupiter | Opozice | Touha mít pravdu a jít dál než ostatní může vést ke sporům, právním sporům nebo příliš velkým výdajům. Rozumné je nepřehánět a ověřit si, zda cesta stojí za to.
+Progrese | Mars | Jupiter | Opozice | Touha mít pravdu a jít dál než ostatní může vést ke sporům, právním potížím nebo příliš velkým výdajům. Rozumné je nepřehánět a ověřit si, zda cesta stojí za to.
 Progrese | Mars | Jupiter | Kvadratura | Přehnané sebevědomí a nepromyšlené kroky si žádají pozornost, stejně jako velké výdaje a riskování. Pomáhá dávat si pozor na úsudek a neslibovat, co nelze splnit.
 Progrese | Mars | Jupiter | Trigon | Činy nesou dobré výsledky a {1} má energii i dobrý úsudek. Přeje to rozvoji podnikání, sportu a větším plánům uskutečněným s odvahou.
 Progrese | Mars | Jupiter | Sextil | Chuť do práce se může spojit s novým cílem, ať už jde o rozšíření podnikání, nebo o cestu. Pomůže postavit se k tomu aktivně a nečekat na vhodnější chvíli.

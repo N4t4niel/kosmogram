@@ -84,7 +84,7 @@ Jupiter | Severní uzel | Opozice | Jupiter stojí u Jižního uzlu, a tak má {
 Jupiter | Severní uzel | Kvadratura | Názory a hodnoty {1g} se často rozcházejí s okolím i s tím, kam má {1:jeho|její} cesta vést. Bývá {1:přímý|přímá} a jde proti proudu, jen by {1:neměl|neměla} dělat ukvapené závěry. Napětí {1:ho|ji} učí úsudku.
 Jupiter | Severní uzel | Trigon | Příležitosti k růstu přicházejí přirozeně a souzní s tím, co {1} v životě hledá. Snadno nachází učitele a přátele. Stojí za to vybírat cíleně a nesbírat jen zážitky.
 Jupiter | Severní uzel | Sextil | Když {1} {1:sám|sama} vykročí, otevírají se {1:mu|jí} dveře ve směru, kterým chce růst. Pomáhá {1:mu|jí} studium a kontakty s vlivnými lidmi.
-Jupiter | Severní uzel | Kvinkunx | {1} si není vždy {1:jistý|jistá} svými možnostmi růstu a musí stále dolaďovat, aby {1:ho|ji} rozmach nevedl do přemíry a mimo cestu.
+Jupiter | Severní uzel | Kvinkunx | {1} si není vždy {1:jistý|jistá} svými možnostmi růstu. Svůj rozmach musí stále dolaďovat, aby nevedl do přemíry a mimo cestu.
 Jupiter | Severní uzel | Polosextil | Příležitosti k růstu tu jsou, ale když na {1a} někdo tlačí, má sklon se stáhnout a {1:jeho|její} družnost i nálady kolísají.
 Jupiter | Severní uzel | Polokvadrát | Lákavá nabídka {1a} občas odvádí od toho, co je pro {1:jeho|její} růst opravdu důležité.
 Jupiter | Severní uzel | Seskvikvadrát | Přehnané rozpínání {1a} rozptyluje, a proto se učí vybírat jen to, co {1:ho|ji} skutečně posouvá.
@@ -93,7 +93,7 @@ Jupiter | Ascendent | Konjunkce | Jupiter stojí u obzoru. {1} působí otevřen
 Jupiter | Ascendent | Opozice | Jupiter stojí u Descendentu, a tak růst a štěstí přicházejí přes partnerství a blízké lidi. Partneři {1a} obohacují a rozšiřují {1:mu|jí} obzor. Učí se nepromítat vlastní moudrost jen do druhých a rozvíjet se také {1:sám|sama}.
 Jupiter | Ascendent | Kvadratura | Vnitřní touha po růstu se nepotkává vždy s tím, jak {1} působí, a tak přechází mezi přeháněním a ostýchavostí. Víra, kterou prověřily překážky, nakonec zesílí, když ji vyjádří učením, psaním nebo vedením druhých.
 Jupiter | Ascendent | Trigon | {1} působí vřele, povzbudivě a sebejistě a rychle si získává důvěru. Přirozeně radí a vede. Vyplatí se občas podrobit své jistoty zkoušce, aby {1:mohl|mohla} dál růst.
-Jupiter | Ascendent | Sextil | Optimismus a vystupování se dobře doplňují a {1} umí být {1:příjemný|příjemná} a zároveň věcně {1:zaměřený|zaměřená}. Prospívá {1:mu|jí} v jedné oblasti mířit výš, než by {1:ho|ji} napadlo.
+Jupiter | Ascendent | Sextil | Optimismus a vystupování se dobře doplňují a {1} umí být {1:příjemný|příjemná} a přitom jít za svým cílem. Prospívá {1:mu|jí} v jedné oblasti mířit výš, než by {1:ho|ji} napadlo.
 Jupiter | Ascendent | Kvinkunx | {1} může působit sebejistěji, než se cítí, a musí ladit velkorysé vystupování s tím, co skutečně zvládne.
 Jupiter | Ascendent | Polosextil | Do vystupování se nenápadně přidává laskavost a ochota vidět věci z lepší stránky.
 Jupiter | Ascendent | Polokvadrát | Snaha zapůsobit {1a} vede k přehnaným slibům.

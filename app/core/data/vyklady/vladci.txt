@@ -151,7 +151,7 @@ Vládce | 12. dům | 3. dům | Mysl naslouchá skrytému a {1} může mít dar p
 Vládce | 12. dům | 4. dům | Domov má tichou, skrytou stránku a v rodinné minulosti leží věci, o kterých se nemluví. Vztah k rodičům i majetkové nejasnosti si zaslouží klidné vyjasnění.
 Vládce | 12. dům | 5. dům | Láska a tvorba mají soukromou podobu a {1} se s radostí neukazuje hned. Starosti o děti je dobré nenést o samotě a tajné city si poctivě přiznat.
 Vládce | 12. dům | 6. dům | Práce probíhá v ústraní nebo v institucích a {1} pomáhá nenápadně. Signály těla bývají tiché, proto je dobré jim včas naslouchat.
-Vládce | 12. dům | 7. dům | Vztahy mají skrytou stránku a {1} v nich může obětovat víc, než si přiznává. Prospívá jim pravdivost a jasné dohody a je potřeba rozlišit soucit od toho, když se v druhém ztrácí.
+Vládce | 12. dům | 7. dům | Vztahy mají skrytou stránku a {1} v nich může obětovat víc, než si přiznává. Prospívá jim pravdivost a jasné dohody. Je potřeba rozlišit, kdy jde o soucit a kdy se v druhém ztrácí.
 Vládce | 12. dům | 8. dům | Skryté obavy a citlivé otázky se odehrávají v hloubce a {1} je zpracovává {1:sám|sama}. Nejasnosti kolem dědictví je dobré vyjasňovat a vlastní strachy poctivě pojmenovat.
 Vládce | 12. dům | 9. dům | Víra a poznání jsou niterné a {1a} to může vést k odlehlým cestám a k tichému zkoumání. Prospívá {1:mu|jí} brát vážně vlastní pochybnosti a stát si za svým přesvědčením i bez souhlasu okolí.
 Vládce | 12. dům | 10. dům | Povolání může procházet vzestupy a poklesy a {1} někdy pracuje stranou nebo na věcech, které nejsou vidět. Je dobré hlídat pověst a to, s kým sdílí plány.

@@ -41,7 +41,7 @@ Hrot | 4. dům | Ryby | Domov je útočištěm, kam se {1} stahuje před světem
 
 Hrot | 5. dům | Beran | Radost tu přichází z akce, ze sportu, soutěže a nových začátků. V lásce je {1} {1:přímý|přímá} a jde za svým hned. Zkouškou je vydržet i tehdy, když první vzplanutí pomine.
 Hrot | 5. dům | Býk | {1} si umí užívat smyslů, jídla, přírody a krásných věcí a tvoří rukama. V lásce je {1:pomalý, ale stálý a citově silný|pomalá, ale stálá a citově silná}, jen nesmí chtít vlastnit toho, koho miluje.
-Hrot | 5. dům | Blíženci | Radost dávají hry, psaní a dobrá společnost, zájmů je najednou několik. V lásce je pro {1a} důležitá hravost a rozhovor a srdce se může dělit na dvě strany. Pozor si dát, aby cit neutíkal do pouhého povídání.
+Hrot | 5. dům | Blíženci | Radost dávají hry, psaní a dobrá společnost, zájmů je najednou několik. V lásce je pro {1a} důležitá hravost a rozhovor a srdce se může dělit na dvě strany. Pozor si dát, aby před citem {1:neutíkal|neutíkala} do pouhého povídání.
 Hrot | 5. dům | Rak | {1} tvoří z citu a {1:rád|ráda} pečuje, děti a domácí radosti {1:mu|jí} přinášejí štěstí. V lásce je {1:vnímavý|vnímavá} a bojí se odmítnutí. Potřebuje dát najevo, co cítí, a nestáhnout se při první nejistotě.
 Hrot | 5. dům | Lev | Lev je tu doma, {1} miluje divadlo, tvorbu a lásku ve velkém stylu. Má vřelé srdce a touží po obdivu. Dozrává tím, že tvoří i bez potlesku.
 Hrot | 5. dům | Panna | {1} má radost z dovednosti, ručních prací a věcí udělaných pořádně. V lásce vybírá opatrně a snadno přemýšlí místo prožívání, úkolem je dovolit si zábavu, která k ničemu neslouží.

@@ -210,7 +210,7 @@ Tranzit | Venuše | Severní uzel | Sextil | Laskavá osoba nebo malá nabídka 
 Tranzit | Venuše | Ascendent | Konjunkce | {1} působí přitažlivě a milý první dojem otevírá dveře. Dny jsou dobré pro setkání, novou úpravu vzhledu a rande.
 Tranzit | Venuše | Ascendent | Opozice | Venuše stojí naproti Ascendentu a pozornost patří partnerovi a nejbližším lidem. Je to dobrý čas pro smír, společné chvíle a dohody, jen se {1} nemá přizpůsobit až příliš.
 Tranzit | Venuše | Ascendent | Kvadratura | {1} je vnímavější než obvykle a víc stojí o uznání od druhých. Pozor na přehnanou citlivost na hodnocení, soulad za každou cenu a impulzivní výdaje.
-Tranzit | Venuše | Ascendent | Trigon | Okolí {1a} vlídně přijímá a nové známosti začínají snadno. Hodí se pro první schůzku, kulturu a společenská setkání.
+Tranzit | Venuše | Ascendent | Trigon | Okolí {1a} vlídně přijímá a nové známosti začínají snadno. Dny se hodí pro první schůzku, kulturu a společenská setkání.
 Tranzit | Venuše | Ascendent | Sextil | Příjemné setkání nebo vlídné slovo zpříjemní všední den. Je to dobrý čas pro malou pozornost a nové známosti.
 Tranzit | Venuše | Medium coeli | Konjunkce | {1} je {1:oblíbený|oblíbená} na veřejnosti a v práci a nadřízení {1:mu|jí} přejí. Dny jsou vhodné pro pracovní setkání, prezentaci a vytváření dobrých vztahů v zaměstnání.
 Tranzit | Venuše | Medium coeli | Opozice | Venuše stojí na dně horoskopu a {1d} je nejlépe doma. Hodí se pro zkrášlení bytu, hostinu a čas s rodinou, kariéra může chvíli počkat.
@@ -358,6 +358,6 @@ Tranzit | Severní uzel | Ascendent | Trigon | {1} snadno nachází lidi a prost
 Tranzit | Severní uzel | Ascendent | Sextil | Sousedé, přátelé nebo skupina přinesou užitečné spojení. Chce to být vidět a ozvat se.
 Tranzit | Severní uzel | Medium coeli | Konjunkce | Období, kdy se může ukázat nový pracovní směr nebo veřejná role. Na místě je vykročit k cíli a přijmout viditelnost, která s tím jde.
 Tranzit | Severní uzel | Medium coeli | Opozice | Severní uzel stojí na dně horoskopu a Jižní na vrcholu a růst se přesouvá k domovu a kořenům. Chce to ubrat z pracovních nároků a nelpět na starém postavení.
-Tranzit | Severní uzel | Medium coeli | Kvadratura | Uzel stojí poblíž Ascendentu nebo Descendentu a osobní život či vztahy se přetahují s povoláním. Vyplatí se nedělat kariérní rozhodnutí v napětí a dobře vážit, co má přednost.
+Tranzit | Severní uzel | Medium coeli | Kvadratura | Osa uzlů stojí napříč osou povolání a domova a práce se přetahuje s rodinou a osobním životem. Vyplatí se nedělat kariérní rozhodnutí v napětí a dobře vážit, co má přednost.
 Tranzit | Severní uzel | Medium coeli | Trigon | Povolání a životní směr se dobře doplňují a dobré pověsti přibývá. Vhodné je ucházet se o to, k čemu {1} postupně {1:směřoval|směřovala}.
 Tranzit | Severní uzel | Medium coeli | Sextil | Kontakt nebo přítel může v těchto týdnech pomoci k pracovnímu posunu. Stačí jej oslovit.

@@ -3,7 +3,7 @@
 # Řádek začínající křížkem program přeskočí. Texty mluví o období, ne o povaze člověka.
 
 Tranzit | Uran | Slunce | Konjunkce | Začíná období, kdy se {1} probouzí k tomu, kým doopravdy je, a to, co {1:ho|ji} dlouho svazovalo, přestává být únosné. Tranzit trvá asi rok a Uran přes toto místo obvykle přejde třikrát. Změny je proto rozumné promýšlet postupně a dát novému směru konkrétní podobu v činech.
-Tranzit | Uran | Slunce | Opozice | Potřeba žít po svém teď naráží na partnera, nadřízeným nebo s lidmi, kteří čekají, že všechno zůstane při starém. Vztahy se mohou rychle měnit. Víc než prosazovat vlastní vůli pomáhá vnímat, co druhý opravdu chce, a přitom šetřit nervy.
+Tranzit | Uran | Slunce | Opozice | Potřeba žít po svém teď naráží na partnera, nadřízeného nebo lidi, kteří čekají, že všechno zůstane při starém. Vztahy se mohou rychle měnit. Víc než prosazovat vlastní vůli pomáhá vnímat, co druhý opravdu chce, a přitom šetřit nervy.
 Tranzit | Uran | Slunce | Kvadratura | Období přináší neklid a nečekané zvraty v práci, postavení nebo doma, které {1a} nutí změnit to, co už neodpovídá {1:jeho|jejím} skutečným cílům. Velká rozhodnutí je lepší odložit, až se první vlna napětí usadí, a ze změn vybírat ty, které vedou někam, ne jen pryč.
 Tranzit | Uran | Slunce | Trigon | Změna teď přichází bez velkých otřesů a {1} má odvahu ukázat se {1:takový, jaký|taková, jaká} je, s novými nápady i s nečekanou podporou okolí. Všechno jde snadno, a tak je to příležitost pustit se do něčeho, co dlouho {1:odkládal|odkládala}. Jinak období odezní bez výsledku.
 Tranzit | Uran | Slunce | Sextil | Všední dny se dají oživit něčím novým, třeba novým zájmem, známostí nebo jiným pohledem na vlastní práci. Samo se to nestane, záleží na tom, jestli {1} udělá první krok.

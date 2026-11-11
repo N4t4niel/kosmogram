@@ -72,7 +72,7 @@ Jupiter | Pluto | Seskvikvadrát | Touha mít vliv vede k přehnaným plánům, 
 Jupiter | Chiron | Konjunkce | Citlivé místo se týká víry, smyslu a důvěry v život. {1} {1:mohl|mohla} zažít chvíle, kdy se {1:mu|jí} rozpadlo přesvědčení, a právě to {1:mu|jí} dává porozumění, které může předat jiným. Učí se bolest nejdřív prožít a teprve potom vysvětlovat.
 Jupiter | Chiron | Opozice | {1} hledá smysl přes učitele, vztahy a cizí kultury, zatímco druzí hledají radu u {1:něj|ní}. Učí se věřit vlastnímu pohledu a nepřenechávat autoritu jen systémům a rádcům.
 Jupiter | Chiron | Kvadratura | {1} vidí souvislosti a významy, které ostatní přehlédnou, a přitom {1:jeho|její} přesvědčení procházejí opakovanými otřesy. Nadšení se u {1:něj|ní} střídá se zklamáním, dokud nepřijme změnu jako součást víry. Pak se stává {1:výborným učitelem a vykladačem|výbornou učitelkou a vykladačkou}.
-Jupiter | Chiron | Trigon | {1} umí vyprávět, učit a dodávat odvahu a zastává se těch, kdo stojí na okraji. Moudrost získaná zkušeností se u {1:něj|ní} mění v přirozenou pomoc. Prospěje {1:mu|jí} občas vyhledat i názory, se kterými nesouhlasí.
+Jupiter | Chiron | Trigon | {1} snadno vidí smysl věcí a umí ho podat tak, že ho druzí rychle pochopí. Učení, vyprávění a povzbuzování {1:mu|jí} jdou samy a často {1:mu|jí} přinášejí brzký úspěch i oblibu. Pod tímto snadným nadáním leží hlubší porozumění životu, které se ukáže teprve tehdy, když ho vědomě rozvíjí. Úkolem je nespokojit se s tím, co jde samo, a předávat i to, co {1:sám|sama} {1:prožil|prožila}.
 Jupiter | Chiron | Sextil | {1} umí dát druhým věcnou radu a pohled, který pomáhá. Vyplatí se ověřit si, zda {1:jeho|její} přesvědčení obstojí i v těžkostech, které prožívá {1:sám|sama}.
 Jupiter | Chiron | Kvinkunx | {1} časem hluboce chápe, jak druzí uvažují, a snadno jim radí, vlastní pochybnosti ale musí stále znovu zpracovávat.
 Jupiter | Chiron | Polosextil | {1d} nestačí zavedené způsoby pomoci a vzdělávání, a tak hledá jemnější cesty, jak působit na druhé, a postupně se učí sloužit věci bez nároku na odměnu.
@@ -80,18 +80,18 @@ Jupiter | Chiron | Polokvadrát | {1} zaujme neobvyklými názory a důmyslnými
 Jupiter | Chiron | Seskvikvadrát | {1} cítí, že nic není nemožné, a tento přehnaný optimismus může krýt starou nejistotu, že {1:sám|sama} neví dost.
 
 Jupiter | Severní uzel | Konjunkce | Víra v růst a směr cesty se shodují. {1} roste přes učení, vzdělání a hledání smyslu a potkává lidi, kteří {1:mu|jí} otevírají dveře. Prospívá {1:mu|jí}, když má {1:jeho|její} rozmach jasný cíl.
-Jupiter | Severní uzel | Opozice | Jupiter stojí u Jižního uzlu, a tak má {1} optimismus dobře zažitý a příležitosti {1:mu|jí} přicházejí snadno. Růst vyžaduje umět rozlišit skutečnou šanci od pohodlného úniku a někdy si vědomě něco odepřít.
+Jupiter | Severní uzel | Opozice | Jupiter stojí u Jižního uzlu, a tak má {1} hotové přesvědčení a vlastní životní filozofii, kterou {1:rád|ráda} předává dál. Snadno však na svých názorech ulpí, nebo naopak ztrácí víru, jakmile se objeví překážka. Příležitosti {1:mu|jí} nepřicházejí samy. Růst přichází, když otevře své vědění novým pohledům a vytrvá i v nesnázích.
 Jupiter | Severní uzel | Kvadratura | Názory a hodnoty {1g} se často rozcházejí s okolím i s tím, kam má {1:jeho|její} cesta vést. Bývá {1:přímý|přímá} a jde proti proudu, jen by {1:neměl|neměla} dělat ukvapené závěry. Napětí {1:ho|ji} učí úsudku.
 Jupiter | Severní uzel | Trigon | Příležitosti k růstu přicházejí přirozeně a souzní s tím, co {1} v životě hledá. Snadno nachází učitele a přátele. Stojí za to vybírat cíleně a nesbírat jen zážitky.
 Jupiter | Severní uzel | Sextil | Když {1} {1:sám|sama} vykročí, otevírají se {1:mu|jí} dveře ve směru, kterým chce růst. Pomáhá {1:mu|jí} studium a kontakty s vlivnými lidmi.
 Jupiter | Severní uzel | Kvinkunx | {1} si není vždy {1:jistý|jistá} svými možnostmi růstu. Svůj rozmach musí stále dolaďovat, aby nevedl do přemíry a mimo cestu.
-Jupiter | Severní uzel | Polosextil | Příležitosti k růstu tu jsou, ale když na {1a} někdo tlačí, má sklon se stáhnout a {1:jeho|její} družnost i nálady kolísají.
+Jupiter | Severní uzel | Polosextil | Které možnosti růstu {1d} opravdu prospějí, se ukazuje postupně, a dokud nemá dost zkušeností, váhá, čemu dát důvěru.
 Jupiter | Severní uzel | Polokvadrát | Lákavá nabídka {1a} občas odvádí od toho, co je pro {1:jeho|její} růst opravdu důležité.
 Jupiter | Severní uzel | Seskvikvadrát | Přehnané rozpínání {1a} rozptyluje, a proto se učí vybírat jen to, co {1:ho|ji} skutečně posouvá.
 
 Jupiter | Ascendent | Konjunkce | Jupiter stojí u obzoru. {1} působí otevřeně, vřele a optimisticky, a to k {1:němu|ní} přitahuje důvěru a příležitosti. Jen si musí dát pozor, aby {1:neslíbil|neslíbila} víc, než zvládne.
 Jupiter | Ascendent | Opozice | Jupiter stojí u Descendentu, a tak růst a štěstí přicházejí přes partnerství a blízké lidi. Partneři {1a} obohacují a rozšiřují {1:mu|jí} obzor. Učí se nepromítat vlastní moudrost jen do druhých a rozvíjet se také {1:sám|sama}.
-Jupiter | Ascendent | Kvadratura | Vnitřní touha po růstu se nepotkává vždy s tím, jak {1} působí, a tak přechází mezi přeháněním a ostýchavostí. Víra, kterou prověřily překážky, nakonec zesílí, když ji vyjádří učením, psaním nebo vedením druhých.
+Jupiter | Ascendent | Kvadratura | Vnitřní přesvědčení se nepotkává vždy s tím, jak {1} působí navenek. Ke všemu přistupuje ve velkém a s mírou si neví rady, takže {1:mu|jí} leccos spolkne víc času a sil, než {1:čekal|čekala}. Velké nápady se vyplatí převádět do menších a dotažených kroků.
 Jupiter | Ascendent | Trigon | {1} působí vřele, povzbudivě a sebejistě a rychle si získává důvěru. Přirozeně radí a vede. Vyplatí se občas podrobit své jistoty zkoušce, aby {1:mohl|mohla} dál růst.
 Jupiter | Ascendent | Sextil | Optimismus a vystupování se dobře doplňují a {1} umí být {1:příjemný|příjemná} a přitom jít za svým cílem. Prospívá {1:mu|jí} v jedné oblasti mířit výš, než by {1:ho|ji} napadlo.
 Jupiter | Ascendent | Kvinkunx | {1} může působit sebejistěji, než se cítí, a musí ladit velkorysé vystupování s tím, co skutečně zvládne.

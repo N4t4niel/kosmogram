@@ -100,7 +100,7 @@ Venuše | Chiron | Polokvadrát | {1} má osobité názory a ke druhým příjem
 Venuše | Chiron | Seskvikvadrát | {1} {1:rád|ráda} řeší problémy a nevyhýbá se ani sporu. Může se za tím ale skrývat pocit, že není {1:dost milován|dost milována}, a ten {1:ho|ji} vede k péči o vlastní hodnotu.
 
 Venuše | Severní uzel | Konjunkce | Láska, krása a vlastní hodnoty tu leží na cestě růstu. {1d} pomáhají vztahy a umění a životem {1:ho|ji} vedou lidé, kteří {1:ho|ji} mají rádi. Potěšení ale samo nestačí, vztah je prostředek, ne cíl.
-Venuše | Severní uzel | Opozice | Venuše stojí u Jižního uzlu, a tak má {1} šarm a jistotu ve vztazích dobře zažité. Snadno se v nich uvelebí, růst však přichází, když zkusí nové způsoby blízkosti a nové hodnoty.
+Venuše | Severní uzel | Opozice | Venuše stojí u Jižního uzlu, a tak má {1} cit pro krásu a umění dobře zažitý a snadno se opírá o druhé. Láká {1:ho|ji} pohodlí a klid za každou cenu, i když tím leccos zůstává nevyřčené. V lásce proto bývá cesta k vzájemnému porozumění delší. Růst přichází, když do vztahů vloží vlastní úsilí a nečeká jen, že {1:ho|ji} druzí podpoří.
 Venuše | Severní uzel | Kvadratura | To, co {1} miluje, se tu nesnadno slučuje se směrem, kterým se má ubírat. V klíčových chvílích se musí rozhodnout mezi pohodlnou láskou a vlastním růstem, a toto napětí prohlubuje {1:jeho|její} vztahy.
 Venuše | Severní uzel | Trigon | Láska a krása přirozeně podporují směr růstu a {1} snadno nachází lidi, kteří {1:mu|jí} pomáhají dál. Pozor jen na to, aby příjemnost nevedla k pohodlnosti.
 Venuše | Severní uzel | Sextil | Když {1} využije svůj půvab a schopnost navazovat vztahy, otevírají se {1:mu|jí} příležitosti ve směru, kterým má růst. Pomáhají {1:mu|jí} k tomu přátelé a umění.
@@ -111,7 +111,7 @@ Venuše | Severní uzel | Seskvikvadrát | Když se {1} vzdálí své cestě, ne
 
 Venuše | Ascendent | Konjunkce | Venuše stojí u obzoru a {1} působí příjemně a přitažlivě. Má vkus, srdečnost a přirozenou snahu potěšit, a proto {1:ho|ji} lidé rádi přijímají. Úkolem je nezůstat jen u příjemného zevnějšku.
 Venuše | Ascendent | Opozice | Venuše stojí u Descendentu, a tak {1} hledá krásu a soulad především v partnerství. Přitahuje milé a laskavé lidi a v nich poznává, co {1:sám má rád|sama má ráda}.
-Venuše | Ascendent | Kvadratura | To, jak {1} působí, a to, co opravdu chce v lásce, se rozcházejí. Může se snažit líbit víc, než je {1:mu|jí} příjemné, proto {1:mu|jí} pomáhá ukázat i vlastní přání.
+Venuše | Ascendent | Kvadratura | To, jak {1} působí, a to, co opravdu chce, se ne vždy shodují, a vnější dojem někdy neladí s obrazem, který chce ukázat. Silně lpí na pohodlí a na citových poutech z domova, proto {1:mu|jí} osamostatnění trvá déle. Pomáhá {1:mu|jí} vlastní přání vyslovit a nežít jen podle očekávání blízkých.
 Venuše | Ascendent | Trigon | {1} přirozeně působí přívětivě a první dojem {1:mu|jí} otevírá dveře. Má dobrý vkus v oblékání a vystupování a dobře vychází s lidmi.
 Venuše | Ascendent | Sextil | Přívětivé vystupování pomáhá navazovat přátelství a získávat příležitosti. {1} umí vytvořit příjemnou atmosféru tam, kde je potřeba.
 Venuše | Ascendent | Kvinkunx | Přání líbit se a potřeba zůstat {1:sám|sama} sebou se nesnadno slaďují a {1} je musí stále vyvažovat.
@@ -125,6 +125,6 @@ Venuše | Medium coeli | Kvadratura | {1} touží po dobrých vztazích v práci
 Venuše | Medium coeli | Trigon | Vkus a schopnost vycházet s lidmi přirozeně podporují kariéru a dobré jméno. {1} nachází místo, kde {1:jeho|její} přívětivost nese ovoce.
 Venuše | Medium coeli | Sextil | Půvab a dobré vztahy se dají dobře využít pro povolání. Příležitosti přicházejí díky přátelům, umění a lidem, kteří {1a} mají rádi.
 Venuše | Medium coeli | Kvinkunx | Pracovní role vyžaduje stálé hledání toho, jak zůstat {1:laskavý|laskavá} a přitom splnit, co se čeká.
-Venuše | Medium coeli | Polosextil | Mezi vkusem a životní dráhou je nenápadná vazba, která {1d} pomáhá postupovat.
+Venuše | Medium coeli | Polosextil | Vkus a vlídnost {1d} tiše pomáhají v práci, zvlášť tam, kde jde o lidi nebo o krásu.
 Venuše | Medium coeli | Polokvadrát | Přání být {1:oblíbený|oblíbená} se občas dostane do sporu s tím, co vyžaduje práce.
 Venuše | Medium coeli | Seskvikvadrát | Touha po uznání a klidných vztazích vyvolává neklid, protože {1} ne vždy ví, jak jich v práci dosáhnout.

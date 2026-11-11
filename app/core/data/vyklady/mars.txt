@@ -95,15 +95,15 @@ Mars | Severní uzel | Kvadratura | Jednání a životní směr se navzájem zko
 Mars | Severní uzel | Trigon | Energie přirozeně podporuje směr růstu. {1} snadno najde, kam své síly vložit, jen si nesmí plést čilý shon se skutečným postupem.
 Mars | Severní uzel | Sextil | Když {1} {1:sám|sama} vyvine iniciativu, otevírají se {1:mu|jí} příležitosti ve směru, kterým má jít. Pomáhají {1:mu|jí} lidé, s nimiž může něco aktivně podniknout.
 Mars | Severní uzel | Kvinkunx | {1} může mít pocit, že {1:ho|ji} něco dusí nebo omezuje, a způsob, jakým jedná, musí stále ladit se směrem, kterým chce v životě jít.
-Mars | Severní uzel | Polosextil | Příležitosti k růstu přinášejí vztahy a blízká setkání, jen je {1} někdy mylně bere jako snahu {1:ho|ji} omezit.
+Mars | Severní uzel | Polosextil | Kam vložit svou energii, {1} zpočátku tápe a jistotu v jednání získává teprve se zkušeností.
 Mars | Severní uzel | Polokvadrát | Těžší chvíle nebo vlastní prudkost {1a} občas zbrzdí na cestě, po které chce jít.
 Mars | Severní uzel | Seskvikvadrát | Prudké činy a nepříznivé okolnosti {1a} střídavě vyvádějí z {1:jeho|jejího} směru, a tak se musí učit jednat cíleněji.
 
 Mars | Ascendent | Konjunkce | Mars stojí u obzoru a {1} působí hned na první pohled energicky a přímo. Má výraznou vitalitu, pohotově reaguje a nebojí se střetu, může ale působit prudčeji, než {1:sám|sama} tuší. Prospívá {1:mu|jí} pravidelný pohyb a práce s vlastním hněvem.
 Mars | Ascendent | Opozice | Mars stojí u Descendentu, takže energie se probouzí hlavně v blízkých vztazích a ve spolupráci. {1} přitahuje rázné partnery a ve vztazích bývá hodně živo. Učí se vlastní průbojnost nepřenechávat druhým.
 Mars | Ascendent | Kvadratura | Chuť se prosadit se střetává se způsobem, jak {1} vystupuje, a výsledkem může být náhlá prudkost nebo podrážděnost. Zvládne-li svou energii usměrnit, získá prověřenou, vědomou rozhodnost.
-Mars | Ascendent | Trigon | Energie a vystupování spolu ladí. {1} působí sebejistě a podnikavě, lidé {1:mu|jí} snadno věří a {1:on|ona} se nebojí přijít s iniciativou. Stojí za to hledat úkoly, které {1:ho|ji} donutí sáhnout si na větší odvahu.
-Mars | Ascendent | Sextil | {1} se umí prosadit přiměřeně a v pravou chvíli, ve společnosti působí čile a přátelsky. Má víc síly, než běžně používá, takže {1:mu|jí} prospívá občas jednat odvážněji.
+Mars | Ascendent | Trigon | Energie a vystupování spolu ladí. {1} se prosazuje sebejistě a s nadšením, které strhne i druhé, a {1:rád|ráda} jde do rizika i do soutěže. Pohyb a sport jsou {1:mu|jí} přirozeným ventilem a vyplatí se hlídat, aby nadšení nepřerostlo v rozhazovačnost.
+Mars | Ascendent | Sextil | {1} se umí prosadit vytrvale a bez obav říká, co si myslí, ve společnosti působí čile a plně energie. Jedná a mluví ale často dřív, než si věc rozmyslí, a tím zbytečně staví druhé do obrany. Vyplatí se {1:mu|jí} chvíli počkat, než promluví.
 Mars | Ascendent | Kvinkunx | {1} někdy působí prudčeji nebo naopak mírněji, než {1:zamýšlel|zamýšlela}, a musí své vystupování vědomě ladit.
 Mars | Ascendent | Polosextil | Do vystupování se nenápadně přidává rozhodnost a připravenost jednat.
 Mars | Ascendent | Polokvadrát | Podráždění je na {1l} vidět dřív, než si je {1:sám|sama} uvědomí.

@@ -302,12 +302,12 @@ Tranzit | Severní uzel | Měsíc | Kvadratura | Potřeba citového bezpečí se
 Tranzit | Severní uzel | Měsíc | Trigon | City a směr života jdou v souladu a domácí prostředí podporuje změnu. Je to dobrý čas vytvořit si zdravý návyk nebo upevnit vztah s rodinou.
 Tranzit | Severní uzel | Měsíc | Sextil | Ženská postava nebo blízká osoba nabídne oporu a {1} se cítí lépe {1:usazený|usazená}. Hodí se tuto pohodu využít k malému kroku pro sebe.
 Tranzit | Severní uzel | Merkur | Konjunkce | Týdny, kdy nový kontakt, kurz nebo myšlenka změní pohled na to, kam jít. Na místě je učit se, psát a mluvit s lidmi z jiného prostředí.
-Tranzit | Severní uzel | Merkur | Opozice | Jižní uzel stojí na Merkuru, a tak jsou zaběhnuté způsoby myšlení a řeči teď dobře vidět. Příhodné je zbavit se starých předsudků a nelpět na tom, že {1} už všechno ví.
+Tranzit | Severní uzel | Merkur | Opozice | Jižní uzel stojí na Merkuru a domluvy, papíry nebo cesty se mohou zadrhávat a snadno vzniká nedorozumění. Je to ale vhodná doba promyslet starou myšlenku do konce a zbavit se předsudků. Pomůže si vše ověřit a nelpět na tom, že {1} už všechno ví.
 Tranzit | Severní uzel | Merkur | Kvadratura | Nové informace se nekryjí s tím, co si {1} dosud {1:myslel|myslela}, a rozhodnutí je obtížné. Na místě je nepospíchat se závěrem a dovolit si změnit názor.
 Tranzit | Severní uzel | Merkur | Trigon | Myšlení a kontakty přirozeně podporují další růst. Vhodný čas pro studium a domluvy, které mají dlouhodobý význam.
 Tranzit | Severní uzel | Merkur | Sextil | Užitečná informace nebo krátký kurz pomůže posunout se dál. Stačí se aktivně ptát.
 Tranzit | Severní uzel | Venuše | Konjunkce | Týdny, kdy může přijít důležité setkání, nové přátelství nebo radost, která {1a} posouvá. Přejí vztahům i penězům, stačí se otevřít i tomu, co dosud nebylo podle vlastního vkusu.
-Tranzit | Severní uzel | Venuše | Opozice | Jižní uzel na Venuši přivádí zpět staré vztahy a známé způsoby, jak si získat lásku. Je dobré se zamyslet, co z toho patří do minulosti, a neopakovat vztahový vzorec jen ze zvyku.
+Tranzit | Severní uzel | Venuše | Opozice | Jižní uzel na Venuši tlumí city i společenský život a ve vztahu se {1} může cítit {1:nepochopený|nepochopená}. Některé vazby, které se držely spíš ze zvyku nebo z povinnosti, se uvolňují. Rozumné je v klidu projít výdaje, nerozhodovat o penězích ani o lásce ukvapeně a hledat, co opravdu těší.
 Tranzit | Severní uzel | Venuše | Kvadratura | Vztahy nebo peníze jsou v napětí s tím, kam {1} směřuje. Rozumné je neobětovat růst kvůli klidu ani vztah kvůli růstu a hledat, co se dá sladit.
 Tranzit | Severní uzel | Venuše | Trigon | Láska, přátelství a pocit vlastní hodnoty {1a} nesou správným směrem. Je to dobrý čas přijmout pomoc a podporu, dokud se nabízí.
 Tranzit | Severní uzel | Venuše | Sextil | Laskavé setkání nebo malé finanční zlepšení přichází ve správnou chvíli. Stačí být {1:vstřícný|vstřícná} k novým lidem.
@@ -321,7 +321,7 @@ Tranzit | Severní uzel | Jupiter | Opozice | Pokušením je spokojit se s tím,
 Tranzit | Severní uzel | Jupiter | Kvadratura | Nadšení pro velký plán se dostává do napětí s tím, co je opravdu potřeba. Nejlepší je nerozšiřovat se do všech stran a vybrat jednu cestu.
 Tranzit | Severní uzel | Jupiter | Trigon | Víra v sebe a příznivé okolnosti usnadňují krok vpřed. Hodí se pro studium, cestování a žádost u někoho, kdo může pomoci.
 Tranzit | Severní uzel | Jupiter | Sextil | Dobrá rada nebo příležitost od někoho vstřícného přichází včas. Stojí za to ji přijmout.
-Tranzit | Severní uzel | Saturn | Konjunkce | Období, kdy růst přichází jako povinnost a odpovědnost. {1} možná přijímá vážný závazek a je dobré vytrvat, ale také si hlídat únavu a nepřeceňovat své síly.
+Tranzit | Severní uzel | Saturn | Konjunkce | Období, kdy se vyplácí dlouhodobá poctivá práce a {1} sklízí, co {1:budoval|budovala}. Hodí se přijmout větší odpovědnost nebo vážný závazek, protože to, co teď vznikne, má naději vydržet. Oporou bývá někdo starší nebo zkušenější.
 Tranzit | Severní uzel | Saturn | Opozice | Jižní uzel stojí na Saturnu, a tak se o pozornost hlásí staré strachy, přehnaná kontrola a povinnosti, které už nemají smysl. Úsilí naráží na omezení. Dobré je nic neuspěchat, zhodnotit, co přestalo fungovat, a uvolnit se bez pocitu viny.
 Tranzit | Severní uzel | Saturn | Kvadratura | Nový směr naráží na omezení, autoritu nebo vlastní obavy. Chce to postupovat pomalu, důsledně a nebrat překážku jako konečné ne.
 Tranzit | Severní uzel | Saturn | Trigon | Disciplína a trpělivost dobře slouží dlouhodobému směru. Vhodné týdny na pevnou dohodu a poctivou přípravu.
@@ -332,7 +332,7 @@ Tranzit | Severní uzel | Uran | Kvadratura | Náhlá změna nutí vykročit tam
 Tranzit | Severní uzel | Uran | Trigon | Změna přichází snadno a nové nápady otevírají dveře. Je to dobrý čas zkusit jiný způsob života nebo práce.
 Tranzit | Severní uzel | Uran | Sextil | Malé neobvyklé rozhodnutí nebo setkání ve skupině může přinést svěží impuls. Stojí za to přijmout nezvyklou nabídku.
 Tranzit | Severní uzel | Neptun | Konjunkce | Období, kdy přitahují duchovní otázky, umění nebo pomoc druhým a kdy cíl může být nejasný. Je dobré sledovat tichý hlas intuice a přitom si ověřovat fakta.
-Tranzit | Severní uzel | Neptun | Opozice | Jižní uzel na Neptunu rozpouští staré iluze a únikové návyky. Příhodné je rozpoznat, kde {1} utíká, a nenechat se unést starými sny.
+Tranzit | Severní uzel | Neptun | Opozice | Jižní uzel na Neptunu zamlžuje úsudek a {1} snadno vidí věci, jak by si je {1:přál|přála}, ne jak jsou. Je to čas rozpoznat vlastní únikové návyky, nedůvěřovat hned novým lidem a v důležitých věcech se poradit s někým spolehlivým.
 Tranzit | Severní uzel | Neptun | Kvadratura | Dosavadní jasno se rozplývá a {1} chvíli neví, kudy dál. Na místě je nerozhodovat pod vlivem nejistoty a dopřát si odpočinek.
 Tranzit | Severní uzel | Neptun | Trigon | Intuice a soucit jemně vedou správným směrem. Týdny jsou příznivé pro tvorbu, duchovní praxi nebo službu druhým.
 Tranzit | Severní uzel | Neptun | Sextil | Inspirace nebo tiché setkání přidá důvěru v to, kam {1} jde. Stačí si dopřát prostor naslouchat.
@@ -347,8 +347,8 @@ Tranzit | Severní uzel | Chiron | Kvadratura | Starý pocit nedostatečnosti se
 Tranzit | Severní uzel | Chiron | Trigon | Zkušenost s těžkostmi se stává oporou a dá se využít ve prospěch druhých. Týdny jsou vhodné pro učení, poradenství nebo osobní práci.
 Tranzit | Severní uzel | Chiron | Sextil | Malá příležitost promluvit o tom, co bolí, a posunout to o kousek dál. Vyžaduje to vlastní odvahu.
 Tranzit | Severní uzel | Severní uzel | Konjunkce | Uzlový návrat, který přichází asi v 18 až 19, 37 a 56 letech a vrací {1a} k tomu, kam směřuje. Je to dobrý čas zastavit se, přehodnotit cestu a odvážit se dalšího kroku.
-Tranzit | Severní uzel | Severní uzel | Opozice | Polovina uzlového cyklu asi v 9, 28 a 47 letech, uzly leží opačně než při narození. Staré jistoty silně přitahují, proto je lepší zkontrolovat kurz a nepovažovat návrat zpět za řešení.
-Tranzit | Severní uzel | Severní uzel | Kvadratura | Zhruba každých 4,6 roku přichází rozcestí v uzlovém cyklu. Tření brání ustrnutí a vybízí opustit zaběhnutý zvyk. Toto tření je dobré nepřehlušovat prací ani změnami bez rozmyslu.
+Tranzit | Severní uzel | Severní uzel | Opozice | Polovina uzlového cyklu asi v 9, 28 a 47 letech, uzly leží opačně než při narození. Je to rozcestí, kdy {1} hodně poznává skrze druhé lidi, jejich pohledy a nová setkání, a dořešuje, co zůstalo nedokončené. Staré jistoty přitom láká obnovit, smysl ale má spojit to, co se o sobě {1:naučil|naučila}, s porozuměním pro druhé.
+Tranzit | Severní uzel | Severní uzel | Kvadratura | Asi 4,6 roku po uzlovém návratu nebo před ním přichází rozcestí v uzlovém cyklu. Tření brání ustrnutí a vybízí opustit zaběhnutý zvyk. Toto tření je dobré nepřehlušovat prací ani změnami bez rozmyslu.
 Tranzit | Severní uzel | Severní uzel | Trigon | Přibližně šest let od uzlového návratu nebo před ním plyne cesta snadněji. Úskalím je jen pohodlnost, růst se sám neudělá a je třeba do něj vložit úsilí.
 Tranzit | Severní uzel | Severní uzel | Sextil | Asi tři roky od uzlového návratu nebo před ním se schopnosti dají spojit s novými cíli. Období podporuje rozvoj, ale první krok musí udělat {1} {1:sám|sama}.
 Tranzit | Severní uzel | Ascendent | Konjunkce | Týdny nových lidí a nového způsobu, jak se {1} ukazuje světu. Nejlepší je přijmout pozvání a začít jinak, i když je to neobvyklé.

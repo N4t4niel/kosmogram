@@ -185,8 +185,8 @@ Obloha | Mars | Pluto | Sextil | Cílevědomost a vnitřní síla pomáhají k z
 # Jupiter a Saturn s pomalými planetami (měsíce)
 Obloha | Jupiter | Saturn | Konjunkce | Začíná nová, zhruba dvacetiletá kapitola ve vztahu růstu a řádu, v hospodářství i ve společnosti se mění pravidla. Doba přeje trpělivě budovaným plánům, které počítají s dlouhou cestou.
 Obloha | Jupiter | Saturn | Opozice | Chuť růst se v těchto měsících střetává s nutností šetřit a dodržovat pravidla. Ve společnosti i v práci se hledá rovnováha mezi odvahou a opatrností.
-Obloha | Jupiter | Saturn | Kvadratura | Měsíce, kdy se rozvoj potýká s omezeními, průtahy a nespokojeností. Pomáhá myslet ve velkém, ale reálně, a počítat s tím, že věci poběží pomalu.
-Obloha | Jupiter | Saturn | Trigon | Doba přeje rozvážnému růstu, kdy zkušenost a poctivá práce přinášejí plody. Postupné kroky a vzdělávání se teď vyplácejí víc než velký skok.
+Obloha | Jupiter | Saturn | Kvadratura | Měsíce, kdy se rozvoj potýká s omezeními, průtahy a nespokojeností. Velké plány mají šanci, když stojí na střízlivém odhadu sil a na zkušenosti. Výsledky přicházejí později, než by si lidé přáli, a trpělivost se vyplácí.
+Obloha | Jupiter | Saturn | Trigon | Doba přeje rozvážnému růstu, kdy zkušenost a poctivá práce přinášejí plody. Vyplácí se vytrvalé tempo a vzdělávání, prudké zvraty teď potřeba nejsou.
 Obloha | Jupiter | Saturn | Sextil | Na uvážené plány a spolupráci se zkušenými je teď příznivý čas. Pokrok přichází po krocích a stojí na tom, co už bylo vybudováno.
 Obloha | Jupiter | Uran | Konjunkce | Doba nečekaných příležitostí, objevů a šťastných zvratů, kdy se rychle šíří nové myšlenky. Chuť po vzruchu ale může svádět k lehkomyslným krokům.
 Obloha | Jupiter | Uran | Opozice | Doba odvahy, objevů a touhy po svobodě, kdy nové myšlenky a průlomy přicházejí rychle a v mnoha oborech najednou. Velká očekávání a přehánění ale mohou rozkolísat klid.
@@ -195,12 +195,12 @@ Obloha | Jupiter | Uran | Trigon | Měsíce přejí vynálezům, cestám a spole
 Obloha | Jupiter | Uran | Sextil | Dobrý nápad se teď rád potká s příležitostí. Je čas zkoušet nové postupy, navazovat kontakty a učit se novým věcem.
 Obloha | Jupiter | Neptun | Konjunkce | Doba idealismu, soucitu a velkých snů, kdy roste zájem o duchovní věci a dobročinnost. Zároveň se snadno věří slibům a lákavým spekulacím, proto je dobré zůstat nohama na zemi.
 Obloha | Jupiter | Neptun | Opozice | Velká očekávání a sny se rozcházejí se skutečností. U peněz i u slibů je moudrá opatrnost a střízlivý pohled chrání před zklamáním.
-Obloha | Jupiter | Neptun | Kvadratura | Iluze se snadno vydávají za pravdu a spekulace láká víc než poctivá práce. Občasné střízlivé ohlédnutí a rada blízkých pomáhají udržet směr.
+Obloha | Jupiter | Neptun | Kvadratura | Iluze se snadno vydávají za pravdu a spekulace láká víc než poctivá práce. Pomáhá čas od času porovnat plány s fakty a vyslechnout někoho, kdo vidí věci s odstupem.
 Obloha | Jupiter | Neptun | Trigon | Soucit, umění a duchovní hledání mají v těchto měsících dobrou půdu. Dobročinné snahy a péče o slabší nacházejí širokou podporu.
 Obloha | Jupiter | Neptun | Sextil | Ideály lze teď proměnit v konkrétní pomoc a tvorbu. Dobrá doba podpořit užitečnou věc nebo dát prostor hudbě a umění.
 Obloha | Jupiter | Pluto | Konjunkce | Začíná nová kapitola ve vztahu k moci, bohatství a vlivu a v hospodářství se přeskupují síly. Ctižádost je silná a úspěch přeje tomu, kdo své postavení nezneužívá.
 Obloha | Jupiter | Pluto | Opozice | Velké ambice se střetávají a boj o vliv vystupuje na povrch. Je dobré sledovat, co se kolem děje, a nenechat se strhnout cizím tlakem.
-Obloha | Jupiter | Pluto | Kvadratura | Touha po moci a růstu za každou cenu zvyšuje napětí ve společnosti i v práci. Nechat věci dozrát vlastním tempem je teď moudřejší než tlačit.
+Obloha | Jupiter | Pluto | Kvadratura | Touha po moci a růstu za každou cenu zvyšuje napětí ve společnosti i v práci. Tlak na rychlý výsledek teď spíš škodí, lepší je trpělivě počkat, až věci dozrají.
 Obloha | Jupiter | Pluto | Trigon | Doba přeje velkým projektům, obnově a schopnému vedení. Soustředěné úsilí může přinést výrazný pokrok, pokud se nespoléhá jen na štěstí.
 Obloha | Jupiter | Pluto | Sextil | Větší věci se v těchto měsících dobře organizují a změna snadno získá podporu. Odhodlání a schopnost vést nacházejí ohlas.
 Obloha | Saturn | Uran | Konjunkce | Staré a nové se potkávají tváří v tvář a pravidla se přestavují, často náhle a pod tlakem okolností. Zaběhnuté struktury se mohou nečekaně otřást a vedle touhy po svobodě sílí snaha udržet vše pod kontrolou. Začíná dlouhý cyklus, kdy je třeba zachovat, co funguje, a odvážně měnit, co už neslouží.

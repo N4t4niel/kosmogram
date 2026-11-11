@@ -84,7 +84,7 @@ Měsíc | Uran | Kvadratura | {1} je {1:vznětlivý, nezávislý|vznětlivá, ne
 Měsíc | Uran | Trigon | {1} je {1:otevřený a tolerantní|otevřená a tolerantní} a nic {1:ho|ji} jen tak nezaskočí. Umí vidět věc i očima druhého a svůj způsob života snadno osvěží něčím novým. Pomáhají {1:mu|jí} přátelé a záleží {1:mu|jí} na svobodě ostatních.
 Měsíc | Uran | Sextil | {1} {1:rád|ráda} vnáší do běžných dnů něco nového a má smysl pro humor. S lidmi jedná jako s rovnými a dobře přijímá změny, když o nich může rozhodnout {1:sám|sama}.
 Měsíc | Uran | Kvinkunx | Běžný denní režim {1a} nudí, a přitom {1:ho|ji} náhlé změny vyvádějí z rovnováhy.
-Měsíc | Uran | Polosextil | {1} má tichou chuť dělat věci doma i ve vztazích trochu jinak.
+Měsíc | Uran | Polosextil | {1} má tichou chuť žít doma i ve vztazích po svém.
 Měsíc | Uran | Polokvadrát | Vnitřní neklid {1a} žene od jednoho k druhému, takže doma i v citech těžko nachází klid.
 Měsíc | Uran | Seskvikvadrát | Citový neklid se občas vybije náhlým rozhodnutím všechno změnit.
 
@@ -112,10 +112,10 @@ Měsíc | Chiron | Konjunkce | Citlivé místo se týká samotné potřeby být 
 Měsíc | Chiron | Opozice | {1} ve vztazích naráží na to, že {1:jeho|její} citové potřeby zůstávají nepochopené. Navenek říká, že je vše v pořádku, a uvnitř čeká, že si toho někdo všimne. Učí se říkat si o blízkost přímo.
 Měsíc | Chiron | Kvadratura | {1} těžko vyjadřuje, co potřebuje, a někdy má pocit, že se nikdy pořádně neuklidní ani nenasytí blízkosti. Snadno se otevře, pak se zastydí a stáhne. Když přijme vlastní zranitelnost, může pečovat o druhé, aniž by tím {1:zaplňoval|zaplňovala} vlastní prázdno.
 Měsíc | Chiron | Trigon | {1} přirozeně vycítí, co druzí potřebují, a umí je uklidnit bez velkých slov. Vlastní citové zkušenosti {1:mu|jí} pomáhají a často si neuvědomuje, jak vzácná to schopnost je.
-Měsíc | Chiron | Sextil | {1} dobře vnímá přání a slabosti druhých a obvykle toho využije, aby jim {1:pomohl|pomohla}. Má silný pud sebezachování a nesnáší nespravedlnost.
+Měsíc | Chiron | Sextil | {1} dobře vnímá přání, slabosti i silné stránky druhých a obvykle toho využije, aby jim {1:pomohl|pomohla}. Pomáhá ze soucitu, ne z lítosti, a proto {1:ho|ji} cizí starosti tolik nezatěžují.
 Měsíc | Chiron | Kvinkunx | {1} vycítí nálady a potřeby druhých a umí jim pomáhat, svých vlastních si ale všímá až ve chvíli, kdy {1:ho|ji} únava zastaví.
 Měsíc | Chiron | Polosextil | {1} umí druhým pomoci nečekaným způsobem a vlastní citovou zkušenost proměňuje v porozumění. Časem se učí opouštět staré citové návyky.
-Měsíc | Chiron | Polokvadrát | {1} umí zaujmout lidi neobvyklými nápady, jemné projevy citů u druhých {1:mu|jí} ale unikají, i když si je {1:jistý|jistá}, že nic {1:nepřehlédl|nepřehlédla}.
+Měsíc | Chiron | Polokvadrát | {1} rychle vycítí, co druzí potřebují, a ochotně se o ně stará, vlastní potřebu péče ale odsouvá, až se z ní stane nevyslovená výčitka.
 Měsíc | Chiron | Seskvikvadrát | {1} prožívá skoro stálý citový neklid. Když nemá čím se zaměstnat, vrací se dávný pocit nedostatku péče. Učí se s ním vědomě pracovat.
 
 Měsíc | Severní uzel | Konjunkce | Cit a životní směr jdou spolu. {1} se cítí {1:veden|vedena} instinkty a lidé kolem {1:něj|ní}, často rodina, {1:ho|ji} posouvají dál. Musí jen rozlišit skutečný vnitřní hlas od touhy po pohodlí.
@@ -132,13 +132,13 @@ Měsíc | Ascendent | Konjunkce | Měsíc stojí u obzoru a city jsou hned vidě
 Měsíc | Ascendent | Opozice | Měsíc stojí u Descendentu a {1} se cítí doma až ve vztahu. Partnera vnímá jako svůj domov a snadno přebírá jeho nálady. Potřebuje najít citovou oporu i v sobě.
 Měsíc | Ascendent | Kvadratura | Vnější vystupování a citové potřeby se rozcházejí. Okolí často nepozná, jak se {1} ve skutečnosti cítí, a {1:jeho|její} nálady si nedovede vysvětlit. Úkolem je nestahovat se do sebe, protože citovou blízkost lidí potřebuje.
 Měsíc | Ascendent | Trigon | {1} umí dát najevo, co cítí, aniž by se tím {1:vystavoval|vystavovala}. Působí přirozeně a přívětivě a lidé se u {1:něj|ní} rychle cítí dobře.
-Měsíc | Ascendent | Sextil | {1} snadno navazuje kontakty a umí vycítit, jak s kým mluvit. {1:Rád|Ráda} pomáhá lidem v okolí a přitom jim nechává volnost.
-Měsíc | Ascendent | Kvinkunx | To, jak {1} působí, neodpovídá vždy tomu, jak {1:mu|jí} je, a okolí proto {1:jeho|její} pocity často nepozná.
+Měsíc | Ascendent | Sextil | {1} je {1:citlivý|citlivá} na to, co lidé říkají, a snaží se porozumět vlastním reakcím. S věkem se z této vnímavosti stává porozumění pro druhé, díky kterému snadno navazuje kontakty. Své schopnosti si ale často cení méně, než si jich cení okolí.
+Měsíc | Ascendent | Kvinkunx | {1} chce dát najevo, že {1:mu|jí} na lidech záleží, a pomáhá všem bez rozdílu, i těm, kdo toho zneužijí, proto se vyplatí rozlišovat, komu dává svůj čas a síly.
 Měsíc | Ascendent | Polosextil | Nálady se tiše odrážejí ve vystupování, aniž by to {1a} rušilo.
 Měsíc | Ascendent | Polokvadrát | {1a} občas prozradí tvář nebo tón hlasu, i když by své rozladění {1:chtěl|chtěla} skrýt.
 Měsíc | Ascendent | Seskvikvadrát | Snaha skrýt rozrušení vede k tomu, že {1} působí strojeně nebo příliš bouřlivě.
 
-Měsíc | Medium coeli | Konjunkce | Měsíc stojí blízko vrcholu horoskopu a {1a} to vede před veřejnost. Daří se {1:mu|jí} v povoláních, kde jde o lidi a péči, a dobře vycítí, co se od {1:něj|ní} čeká. Pověst a postavení ale mohou kolísat. Soukromé pocity se snadno stávají veřejnými.
+Měsíc | Medium coeli | Konjunkce | Měsíc stojí blízko vrcholu horoskopu a {1a} to vede před veřejnost. Daří se {1:mu|jí} v povoláních, kde jde o lidi a péči, a dobře vycítí, co se od {1:něj|ní} čeká. Stojí o uznání a zároveň citlivě vnímá, co prožívají druzí. Soukromé pocity se snadno stávají veřejnými.
 Měsíc | Medium coeli | Opozice | Měsíc stojí blízko dna horoskopu a těžiště života je v rodině, v domově a v citových kořenech. Bez pevného zázemí se {1d} venku nedaří. Výzvou je dát svým kořenům i veřejnou podobu.
 Měsíc | Medium coeli | Kvadratura | Domov a povolání se tu přou o čas a {1} se často cítí {1:rozpolcený|rozpolcená} mezi rodinou a prací. Nálady se mohou přenášet do pracovního života. Pomáhá jasně rozdělit obě oblasti a nestydět se za svou potřebu zázemí.
 Měsíc | Medium coeli | Trigon | Cit a životní dráha se dobře doplňují. {1} vycítí, co se od {1:něj|ní} čeká, a rodina {1:jeho|její} cestu obvykle podporuje.

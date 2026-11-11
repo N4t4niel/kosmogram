@@ -43,7 +43,7 @@ Slunce | Merkur | Polosextil | Merkur je od Slunce nejdál, jak může být, a t
 
 Slunce | Venuše | Konjunkce | Láska, vlídnost a smysl pro krásu jsou pevnou součástí osobnosti. {1} bývá {1:srdečný, přátelský, spokojený a citlivý|srdečná, přátelská, spokojená a citlivá} na krásu, umění a harmonii. Stinnou stránkou je touha se zalíbit, sklon vyhýbat se střetům a spokojit se s příjemným, místo aby své nadání {1:rozvíjel|rozvíjela} prací.
 Slunce | Venuše | Polosextil | Do povahy tiše vstupuje dobrá nálada, přívětivost a záliba v lidech a {1} je může cíleně rozvíjet.
-Slunce | Venuše | Polokvadrát | Do povahy vstupuje osobní kouzlo a nadání pro hudbu, tanec nebo jiné umění. Patří k tomu i sklon dopřávat si víc, než {1d} prospívá, a citová vznětlivost, které je dobré věnovat ve vztazích pozornost.
+Slunce | Venuše | Polokvadrát | Mezi vůlí a touhou líbit se vzniká tření, a tak si {1} někdy dopřává víc, než {1d} prospívá, nebo čeká přízeň bez vlastního přičinění.
 
 Slunce | Mars | Konjunkce | Vůle a akce splývají. {1} má hodně energie, odvahy a podnikavosti, pracuje neúnavně, jde za svým a nebojí se boje. Je potřeba mít pro tuto sílu dost pohybu a smysluplné práce, jinak přechází v popudlivost a ukvapenost. Přepínat se nevyplácí a opatrnost je na místě při riskantních činnostech.
 Slunce | Mars | Opozice | Energie se často střetává s druhými lidmi a {1} může přitahovat soupeře nebo spory. Má velkou výdrž a chuť se poměřovat, {1:měl|měla} by si však hlídat síly a neodkládat odpočinek. Zraje tím, že bojuje za věci, ne proti lidem.
@@ -61,7 +61,7 @@ Slunce | Jupiter | Kvadratura | Touha po něčem větším nutí {1a} překonáv
 Slunce | Jupiter | Trigon | {1} má přirozenou důvěru v život, dobrý úsudek a široký, snášenlivý pohled na svět. Žene {1:ho|ji} spíš poznání než ctižádost, nepotřebuje mnoho a to, co potřebuje, se obvykle najde. Snadno získává přátele a nejvíc {1:mu|jí} dává vzdělání a myšlenková práce. Stinnou stránkou je pohodlnost: nadání má velké, ale když {1:ho|ji} nic nepopohání, snadno zůstane nevyužité.
 Slunce | Jupiter | Sextil | {1} umí rozpoznat a využít příležitosti k růstu. Pomáhá {1:mu|jí} vzdělání, širší rozhled a dobré vztahy s lidmi, kteří mají vliv.
 Slunce | Jupiter | Kvinkunx | Touha po růstu se nepotkává snadno s tím, co je reálné, a {1} se učí najít správnou míru.
-Slunce | Jupiter | Polosextil | Do povahy vstupuje mírný optimismus a chuť učit se a {1} z nich má největší užitek, když je rozvíjí vědomě.
+Slunce | Jupiter | Polosextil | Do povahy vstupuje optimismus a chuť učit se a {1} z nich má největší užitek, když je rozvíjí vědomě.
 Slunce | Jupiter | Polokvadrát | Nespokojenost žene {1a} k větším plánům, než je v danou chvíli rozumné.
 Slunce | Jupiter | Seskvikvadrát | Přílišná sebedůvěra nebo neklid vedou k přehánění, ale také k odvážným krokům.
 
@@ -121,7 +121,7 @@ Slunce | Severní uzel | Kvadratura | Vlastní vůle se nesnadno shoduje se smě
 Slunce | Severní uzel | Trigon | Vlastní osobnost podporuje směr růstu. {1} snadno nachází lidi a situace, které {1:mu|jí} pomáhají jít dál, jen by to {1:neměl|neměla} brát jako samozřejmost.
 Slunce | Severní uzel | Sextil | Když {1} využije své silné stránky, otevírají se {1:mu|jí} příležitosti ve směru, kterým má růst. Vyplatí se je vědomě rozvíjet a sdílet s druhými.
 Slunce | Severní uzel | Kvinkunx | Zábrany nebo pocit vlastního nedostatku {1a} brzdí ve směru, kterým chce růst, a cestu je potřeba stále jemně dolaďovat.
-Slunce | Severní uzel | Polosextil | Růst přichází spíš tiše a dovnitř, přes studium, vnitřní práci, psaní nebo pomáhající obory.
+Slunce | Severní uzel | Polosextil | Kam svou vůli a schopnosti vložit, se {1d} vyjasňuje postupně, a jistotu o svém směru získá teprve, když o sobě i o světě zjistí dost.
 Slunce | Severní uzel | Polokvadrát | Stažení do ústraní nebo nervozita {1a} občas zdrží a připomenou {1:mu|jí}, kam má vlastně směřovat.
 Slunce | Severní uzel | Seskvikvadrát | Nervozita a sklon uzavřít se do sebe brzdí růst, dokud si {1} nevšimne, že se {1:vzdálil|vzdálila} své cestě.
 
@@ -130,7 +130,7 @@ Slunce | Ascendent | Opozice | Slunce stojí u Descendentu, {1} se {1:narodil|na
 Slunce | Ascendent | Kvadratura | Vnější projev se rozchází s tím, kým {1} skutečně je. Často působí důrazněji, než chce, a lidé {1:ho|ji} pak snadno vnímají jako {1:neupřímného|neupřímnou}, i když to tak nemyslí. Kde {1:chtěl|chtěla} získat přízeň, narazí, a s nadřízenými se snadno dostává do sporů. Prospívá {1:mu|jí} prosazovat se skromněji, nechat druhé, ať {1:mu|jí} vyjdou vstříc, a říkat otevřeně, co opravdu chce.
 Slunce | Ascendent | Trigon | {1} se umí snadno ukázat {1:takový, jaký|taková, jaká} je, a {1:jeho|její} autorita působí přirozeně a přátelsky. První dojem odpovídá {1:jeho|její} povaze. Dobře vychází s okolím a hodí se {1:mu|jí} vést skupinu a dohlížet na plán.
 Slunce | Ascendent | Sextil | Vnější projev dobře slouží vnitřním cílům a {1} působí přirozeně a příjemně. Umí navazovat kontakty a využívat je.
-Slunce | Ascendent | Kvinkunx | Vnější projev neodpovídá zcela tomu, co {1} cítí, a je třeba ho vědomě ladit.
+Slunce | Ascendent | Kvinkunx | {1} pracuje s plným nasazením a stojí o uznání, přitom své schopnosti snadno podceňuje a vyplatí se {1:mu|jí} hlídat, aby se {1:nepřepínal|nepřepínala}.
 Slunce | Ascendent | Polosextil | Mezi povahou a vystupováním je tichý soulad, který {1d} pomáhá ukázat se {1:takový, jaký|taková, jaká} je.
 Slunce | Ascendent | Polokvadrát | {1} se někdy cítí {1:nepochopen|nepochopena}, protože působí jinak, než {1:chtěl|chtěla}.
 Slunce | Ascendent | Seskvikvadrát | Snaha zapůsobit {1a} občas vede k přehnanému vystupování.
@@ -141,6 +141,6 @@ Slunce | Medium coeli | Kvadratura | Osobní vůle a veřejné postavení se nav
 Slunce | Medium coeli | Trigon | Osobní sebedůvěra přirozeně podporuje povolání a dobré jméno. {1} nachází místo, kde může být {1:sám|sama} sebou.
 Slunce | Medium coeli | Sextil | Osobní schopnosti se dají dobře využít ke kariéře, když se {1} chopí příležitostí, které přicházejí. Ve veřejné roli {1:mu|jí} bývá dobře a umí ji spojit s tím, kým je.
 Slunce | Medium coeli | Kvinkunx | Pracovní role vyžaduje stálé přizpůsobování se tomu, kým {1} je.
-Slunce | Medium coeli | Polosextil | Mezi osobností a životní dráhou je nenápadná vazba, která pomáhá postupovat.
+Slunce | Medium coeli | Polosextil | Sebevědomí {1g} tiše podporuje {1:jeho|její} dráhu, nejvíc tam, kde se odváží ukázat, co umí.
 Slunce | Medium coeli | Polokvadrát | Neshody s nadřízenými {1a} nutí znovu si ujasnit své cíle.
 Slunce | Medium coeli | Seskvikvadrát | Ctižádost vyvolává neklid, který {1a} žene k dalším změnám v práci.
